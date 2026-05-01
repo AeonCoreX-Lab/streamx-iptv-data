@@ -2122,9 +2122,8 @@
       "name": "CNBC",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/701px-CNBC_logo.svg.png",
       "streamUrls": [
-        "https://stream.livenewsplay.com:9443/hls/cnbc/cnbcsd.m3u8",
-        "https://tvpass.org/live/CNBC/hd",
-        "https://tvpass.org/live/CNBC/sd"
+        "https://tvpass.org/live/CNBC/sd",
+        "https://tvpass.org/live/CNBC/hd"
       ],
       "category": "USA"
     },
@@ -11983,7 +11982,7 @@
       "name": "WeatherNation",
       "logoUrl": "https://p.kindpng.com/picc/s/340-3406114_weathernation-channel-logo-hd-png-download.png",
       "streamUrls": [
-        "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d2cb7ac552e3773bc48982e/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=13fe648d-c3b9-4a06-9285-e4a291467c83"
+        "https://stream.weathernationtv.com/WNTVStirr_eokxldieulowixkdimn/ND1/playlistSCTE35.m3u8"
       ],
       "category": "USA"
     },
@@ -14286,7 +14285,8 @@
       "name": "DroneTV",
       "logoUrl": "https://pbs.twimg.com/profile_images/1045035703946620938/Z8zRiAbZ.jpg",
       "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/playlist.m3u8?ads.vf=CdxJHukE0Om"
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/playlist.m3u8?ads.vf=CdxJHukE0Om",
+        "https://airvuz-dronetv-1-us.ohlscdn.wurl.tv/playlist.m3u8"
       ],
       "category": "USA",
       "languages": []
@@ -17426,6 +17426,26 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://0888934ec1a5.us-east-1.playback.live-video.net/api/video/v1/us-east-1.289485033693.channel.Aeaac0ZpvcAZ.m3u8"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "DungeonTV.us",
+      "name": "Dungeon TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://stream-us-east-1.getpublica.com/cl/260429d7p1k35skjef7n2hpgog/1280x720_2750882_1_f.m3u8?i=513_2251"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "FloRacing.us",
+      "name": "FloRacing",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8"
       ],
       "category": "USA",
       "languages": []
