@@ -2557,8 +2557,7 @@
       "name": "News9Live",
       "logoUrl": "https://logosandtypes.com/wp-content/uploads/2022/04/News9.png",
       "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news9live/main.m3u8?ads.vf=brz9jHaNBRC",
-        "https://vg-tv9yupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-237347/main.m3u8"
+        "https://amg01106-amg01106c3-amgplt0844.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg01106-amg01106c3-amgplt0844/playlist.m3u8"
       ],
       "category": "India"
     },
@@ -2736,8 +2735,8 @@
       "name": "Pratham Khabar 24x7",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/0/03/Pratham-khabar-logo-big.png/revision/latest/scale-to-width-down/180?cb=20220416151532",
       "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pratham-khabar-24x7/index.m3u8?ads.vf=BVw-POiR-D8",
-        "https://livelegitpro.in/hls2/newstime/index.m3u8"
+        "https://livelegitpro.in/hls2/newstime/index.m3u8",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pratham-khabar-24x7/index.m3u8?ads.vf=BVw-POiR-D8"
       ],
       "category": "India"
     },
@@ -3767,6 +3766,7 @@
       "name": "Ultimate TV",
       "logoUrl": "https://w7.pngwing.com/pngs/336/298/png-transparent-ultimatetv-hd-logo-thumbnail.png",
       "streamUrls": [
+        "https://stream.ottlive.co.in/utvtamil/index.m3u8",
         "https://mumbai-edge.smartplaytv.in/utv/index.m3u8"
       ],
       "category": "India"
@@ -4788,9 +4788,8 @@
       "name": "Sony Sports Ten 3 Hindi",
       "logoUrl": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a09q/index.m3u8",
-        "https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%203%20HD.m3u8",
-        "https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%203.m3u8"
+        "https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%203.m3u8",
+        "https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%203%20HD.m3u8"
       ],
       "category": "India"
     },
@@ -5421,9 +5420,7 @@
       "name": "Sony SAB",
       "logoUrl": "https://pnggallery.com/wp-content/uploads/sony-sab-tv-logo-02.png",
       "streamUrls": [
-        "http://103.229.254.25:7001/play/a0db/index.m3u8",
-        "http://103.157.248.140:8000/play/a05i/index.m3u8",
-        "http://103.157.248.140:8000/play/a00c/index.m3u8"
+        "https://sl.vodep39240327.workers.dev/channel/SONY%20SAB%20HD.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -5549,7 +5546,7 @@
       "name": "Zee 24 Ghanta",
       "logoUrl": "https://w7.pngwing.com/pngs/656/469/png-transparent-24-ghanta-zee-news-television-channel-television-show-others-television-text-logo.png",
       "streamUrls": [
-        "http://45.148.145.57/IN_Zee24Ghanta/index.m3u8"
+        "https://d2dsoyvkr33m05.cloudfront.net/index_4.m3u8"
       ],
       "category": "India",
       "languages": []
@@ -7635,6 +7632,26 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://feeds.intoday.in/bttv/itgd.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "AaryaaTV.in",
+      "name": "Aaryaa TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://stream.ottlive.co.in/aryatvtamil/index.m3u8"
+      ],
+      "category": "India",
+      "languages": []
+    },
+    {
+      "id": "SuriyaTV.in",
+      "name": "Suriya TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://stream.ottlive.co.in/suryatvtamil/index.m3u8"
       ],
       "category": "India",
       "languages": []
