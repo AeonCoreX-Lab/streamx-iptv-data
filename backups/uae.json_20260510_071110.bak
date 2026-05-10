@@ -313,9 +313,7 @@
       "name": "Alarabiya",
       "logoUrl": "https://toppng.com/uploads/preview/al-arabia-al-arabiya-logo-11563353027jsd3uyf7t1.png",
       "streamUrls": [
-        "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8",
-        "https://mbc1-enc.edgenextcdn.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8",
-        "https://shls-live-enc.edgenextcdn.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8"
+        "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya/7f90de73d777d04f3dada92f90d35c44/index.m3u8"
       ],
       "category": "UAE"
     },
@@ -535,7 +533,6 @@
       "name": "Sharjah TV",
       "logoUrl": "https://www.tvchannellists.com/wiki/images/6/6f/Sharjah_TV.png",
       "streamUrls": [
-        "https://cdn-globecast.akamaized.net/live/eds/sharjah_tv/hls_roku/index.m3u8",
         "https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8",
         "https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8"
       ],
@@ -595,6 +592,26 @@
       "logoUrl": "https://static.wikia.nocookie.net/spacetoon/images/2/26/Logo_(1).png/revision/latest?cb=20200114222827",
       "streamUrls": [
         "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8"
+      ],
+      "category": "UAE",
+      "languages": []
+    },
+    {
+      "id": "OSNMoviesAction.ae",
+      "name": "OSN Movies Action",
+      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/5/52/OSN_Movies_Action.png/revision/latest?cb=20111116193011",
+      "streamUrls": [
+        "http://116.90.120.151:8000/play/a0ax/index.m3u8"
+      ],
+      "category": "UAE",
+      "languages": []
+    },
+    {
+      "id": "PMC.ae",
+      "name": "PMC",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://pmchls.wns.live/hls/stream.m3u8"
       ],
       "category": "UAE",
       "languages": []
