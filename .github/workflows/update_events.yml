@@ -1,0 +1,57 @@
+name: ⚽ Update Live Events
+
+# ─────────────────────────────────────────────────────────────────
+# Runs every 20 minutes — lightweight, only touches events.json
+# Separate from the main channel updater (no interference)
+# ─────────────────────────────────────────────────────────────────
+
+on:
+  schedule:
+    - cron: '*/20 * * * *'   # Every 20 minutes, 24/7
+  workflow_dispatch:          # Manual trigger from GitHub UI
+
+concurrency:
+  group: live-events-update
+  cancel-in-progress: true   # If new run starts, cancel pending one
+
+permissions:
+  contents: write
+
+jobs:
+  update-events:
+    name: Fetch & Validate Live Events
+    runs-on: ubuntu-latest
+    timeout-minutes: 12      # Max 12 min; normal run takes 2-4 min
+
+    steps:
+      # ── 1. Checkout ──────────────────────────────────────────────
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1     # Shallow clone — faster
+
+      # ── 2. Python Setup ──────────────────────────────────────────
+      - name: 🐍 Setup Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      # ── 3. Install Dependencies ──────────────────────────────────
+      - name: 📦 Install Dependencies
+        run: |
+          pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml
+
+      # ── 4. Run Event Updater ─────────────────────────────────────
+      - name: 🔄 Run Event Updater
+        run: python update_events.py
+
+      # ── 5. Commit & Push if events.json changed ──────────────────
+      - name: 📤 Commit & Push events.json
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add events.json
+          git diff --quiet && git diff --staged --quiet \
+            || (git commit -m "⚽ Live Events Auto-Update [skip ci]" && git push)
