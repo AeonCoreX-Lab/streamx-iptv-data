@@ -2,37 +2,45 @@ name: Update IPTV Channels
 
 on:
   schedule:
-    - cron: '0 * * * *'   # Every hour
-  workflow_dispatch:        # Manual trigger
+    - cron: '0 */6 * * *'   # প্রতি ৬ ঘণ্টায় — script ৫.৫h চলে, .৫h gap থাকে
+  workflow_dispatch:          # Manual trigger
+
+# একই সময়ে দুটো run চলবে না
+concurrency:
+  group: iptv-update
+  cancel-in-progress: false   # চলমান run শেষ হোক, তারপর নতুনটা শুরু
 
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
+    timeout-minutes: 355      # 5h 55m — script নিজেই 5h 30m এ থামে
     permissions:
       contents: write
 
     steps:
-    - name: Checkout content
-      uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
 
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.9'
+      - name: Setup Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
 
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        # No duckduckgo needed — logo search uses only free public APIs (no key)
-        python -m pip install requests typing_extensions lxml
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
 
-    - name: Run Update Script
-      run: python update_channels.py
+      - name: Run IPTV Updater
+        run: python update_channels.py
 
-    - name: Commit and Push changes
-      run: |
-        git config --global user.name "Auto-Updater"
-        git config --global user.email "actions@github.com"
-        git add .
-        git diff --quiet && git diff --staged --quiet || \
-          (git commit -m "🚀 Auto-updated channels, fixed logos & playlists" && git push)
+      - name: Commit & push changes
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add categories/ playlists/ reports/ updater_state.json
+          git diff --quiet && git diff --staged --quiet \
+            || git commit -m "🚀 Auto-update: channels, logos & playlists [skip ci]" \
+            && git push
