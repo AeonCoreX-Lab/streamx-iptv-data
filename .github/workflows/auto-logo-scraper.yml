@@ -2,12 +2,18 @@ name: Auto Scrape IPTV Logos
 
 on:
   schedule:
-    - cron: '0 */2 * * *' # Runs every 2 hours
+    - cron: '0 */6 * * *'   # every 6 hours (was 2h — overlapping caused chaos)
   workflow_dispatch:
+
+# Prevent two runs from colliding and corrupting state.json
+concurrency:
+  group: scrape-logos
+  cancel-in-progress: false   # let the current run finish; queue next
 
 jobs:
   scrape-and-update:
     runs-on: ubuntu-latest
+    timeout-minutes: 340      # 5h 40m — GitHub default is 360m; we exit at 5h15m
 
     steps:
       - name: Checkout Repository
@@ -16,22 +22,23 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
+          python-version: '3.11'
 
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: Run Scraper Script
+      - name: Run Scraper
         env:
-          PRIMARY_API_KEY: ${{ secrets.PRIMARY_API_KEY }} # Passes the secret to Python
+          PRIMARY_API_KEY: ${{ secrets.PRIMARY_API_KEY }}
         run: python logomaster.py
 
-      - name: Commit and Push Changes
+      - name: Commit logos + state
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add logos/
-          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-added new channel logos [skip ci]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name  "github-actions[bot]"
+          git add logos/ scraper_state.json
+          git diff --quiet && git diff --staged --quiet \
+            || git commit -m "chore: auto-add logos [skip ci]"
           git push
