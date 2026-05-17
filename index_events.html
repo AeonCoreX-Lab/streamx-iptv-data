@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta http-equiv="refresh" content="1200">
+  <title>StreamX Live Events</title>
+  <style>
+    *{box-sizing:border-box;margin:0;padding:0}
+    body{font-family:'Segoe UI',Arial,sans-serif;background:#0d1117;color:#e6edf3;padding:20px}
+    h1{font-size:1.6em;margin-bottom:4px}
+    h2{font-size:1em;color:#58a6ff;margin:18px 0 8px}
+    .sub{color:#8b949e;font-size:.82em;margin-bottom:18px}
+    .card{background:#161b22;border:1px solid #30363d;border-radius:10px;padding:18px;margin:12px 0}
+    .stats{display:flex;flex-wrap:wrap;gap:14px}
+    .stat{text-align:center;min-width:100px}
+    .stat .num{font-size:2em;font-weight:bold;color:#58a6ff}
+    .stat .label{color:#8b949e;font-size:.75em;margin-top:2px}
+    .live-dot{display:inline-block;width:8px;height:8px;background:#f85149;
+               border-radius:50%;animation:pulse 1.2s infinite;margin-right:5px}
+    @keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+    table{width:100%;border-collapse:collapse;font-size:.85em}
+    th,td{padding:7px 9px;border-bottom:1px solid #21262d;text-align:left}
+    th{color:#8b949e;font-weight:500}
+    tr:hover td{background:#1c2128}
+    .badge{display:inline-block;padding:2px 7px;border-radius:10px;font-size:.72em;font-weight:bold;color:#fff}
+    .green{color:#3fb950}.red{color:#f85149}
+    .row2{display:flex;gap:16px;flex-wrap:wrap}
+    .row2>div{flex:1;min-width:180px}
+    footer{color:#8b949e;font-size:.72em;text-align:right;margin-top:14px}
+  </style>
+</head>
+<body>
+  <h1>📺 StreamX Live Events</h1>
+  <p class="sub">Auto-updated every 20 min · 2026-05-17 11:58 UTC · 7 sources</p>
+
+  <div class="card">
+    <div class="stats">
+      <div class="stat"><div class="num">0</div><div class="label">Total Active</div></div>
+      <div class="stat"><div class="num red">0</div><div class="label">Live Now</div></div>
+      <div class="stat"><div class="num green">0</div><div class="label">Upcoming</div></div>
+      <div class="stat"><div class="num">0</div><div class="label">Added</div></div>
+      <div class="stat"><div class="num">0</div><div class="label">Streams Merged</div></div>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2><span class="live-dot"></span>Live Now (0)</h2>
+    <table>
+      <tr><th>Sport</th><th>Event</th><th>Start</th><th>Streams</th><th>Source</th></tr>
+      <tr><td colspan='5' style='color:#8b949e;text-align:center'>No live events right now</td></tr>
+    </table>
+  </div>
+
+  <div class="card">
+    <h2>🕐 Upcoming (0)</h2>
+    <table>
+      <tr><th>Sport</th><th>Event</th><th>Start</th><th>Streams</th><th>Source</th></tr>
+      <tr><td colspan='5' style='color:#8b949e;text-align:center'>No upcoming events</td></tr>
+    </table>
+  </div>
+
+  <div class="card row2">
+    <div>
+      <h2>📂 By Sport</h2>
+      <table><tr><th>Sport</th><th>Events</th></tr></table>
+    </div>
+    <div>
+      <h2>📡 Source Candidates</h2>
+      <table><tr><th>Source</th><th>Found</th></tr><tr><td>TheSportsDB</td><td>3</td></tr>
+<tr><td>StreamedSU</td><td>0</td></tr>
+<tr><td>DaddyLive</td><td>0</td></tr>
+<tr><td>SportFree</td><td>0</td></tr>
+<tr><td>VIPLeague</td><td>0</td></tr>
+<tr><td>Reddit</td><td>0</td></tr></table>
+    </div>
+  </div>
+
+  <footer>StreamX Events v3 · 7 StreamedSU endpoints · 8 TSDB leagues · 9 Reddit subs</footer>
+</body>
+</html>
