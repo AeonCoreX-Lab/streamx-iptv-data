@@ -30,6 +30,19 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install requests
+  
+      - name: Restore Scraper State and Logos Cache
+        id: logo-cache
+        uses: actions/cache@v4
+        with:
+          path: |
+            scraper_state.json
+            logos/
+          # প্রতি রানের জন্য ইউনিক কি (Key) জেনারেট করবে
+          key: logo-state-${{ github.run_id }}
+          # যদি ইউনিক কি না মেলে, তবে সর্বশেষ ব্যাকআপ থেকে রিস্টোর করবে
+          restore-keys: |
+            logo-state-
 
       - name: Run Scraper
         env:
