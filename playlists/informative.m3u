@@ -1,269 +1,235 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="nasa_tv_uhd" tvg-logo="https://i.ibb.co/V9hPhYQ/NASA-TV-logo-svg.png" group-title="Informative",NASA TV UHD
-https://endpnt.com/hls/nasa4k/playlist.m3u8
-#EXTINF:-1 tvg-id="dw_documentary" tvg-logo="https://i.ibb.co/5cQ32qV/DW-Deutsch-logo-svg.png" group-title="Informative",DW Documentary
-https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-#EXTINF:-1 tvg-id="un_web_tv" tvg-logo="https://i.ibb.co/rQfLgG7/UN-Web-TV-logo-svg.png" group-title="Informative",UN Web TV
-https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/bd.xml" url-tvg="https://iptv-org.github.io/epg/guides/in.xml" url-tvg="https://iptv-org.github.io/epg/guides/us.xml" url-tvg="https://iptv-org.github.io/epg/guides/gb.xml" url-tvg="https://iptv-org.github.io/epg/guides/ae.xml" refresh="3600"
 #EXTINF:-1 tvg-id="30ALoomeredTV.us" tvg-logo="https://www.i3radio.com/userfiles-aplin/avatars/logo-4130385386.png" group-title="Informative",30A Loomered TV
 https://30a-tv.com/loomer.m3u8
-#EXTINF:-1 tvg-id="ABCEntertains.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/120px-ABC_Entertains_logo.svg.png" group-title="Informative",ABC Entertains
+#EXTINF:-1 tvg-id="ABCEntertains.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/120px-ABC_Entertains_logo.svg.png" group-title="Informative [SD]",ABC Entertains [SD]
 https://c.mjh.nz/abc-me.m3u8
-#EXTINF:-1 tvg-id="ARDalpha.de" tvg-logo="https://w7.pngwing.com/pngs/5/274/png-transparent-alpha-tv-television-channel-logo-television-show-others-miscellaneous-television-angle.png" group-title="Informative",ARD-alpha
-https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
-#EXTINF:-1 tvg-id="AdventureEarth.de" tvg-logo="https://worldscreen.com/tvreal/wp-content/uploads/sites/12/2024/07/Autentic-AdventureEarth-0624-300x185.jpg" group-title="Informative",Adventure Earth
-https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
+#EXTINF:-1 tvg-id="ARDalpha.de" tvg-logo="https://w7.pngwing.com/pngs/5/274/png-transparent-alpha-tv-television-channel-logo-television-show-others-miscellaneous-television-angle.png" group-title="Informative [SD]",ARD-alpha [SD]
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="AdventureEarth.de" tvg-logo="https://worldscreen.com/tvreal/wp-content/uploads/sites/12/2024/07/Autentic-AdventureEarth-0624-300x185.jpg" group-title="Informative [SD]",Adventure Earth [SD]
+https://autentic-adventure-earth-1-gb.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AlAlamiya2.sd" tvg-logo="https://i.imgur.com/5FrE3Nv.png" group-title="Informative",Al Alamiya 2
 http://82.212.74.98:8000/live/7815.m3u8
-#EXTINF:-1 tvg-id="AlArabiyaPrograms.ae" tvg-logo="https://www.connecttv.se/app/uploads/2020/06/channel_logo_al_arabiya.png" group-title="Informative",Al Arabiya Programs
+#EXTINF:-1 tvg-id="AlArabiyaPrograms.ae" tvg-logo="https://www.connecttv.se/app/uploads/2020/06/channel_logo_al_arabiya.png" group-title="Informative [FHD]",Al Arabiya Programs [FHD]
 https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AlHiwarTV.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/Al-Hiwar_tv_Logo_2006.png/revision/latest/scale-to-width-down/1200?cb=20250510200246" group-title="Informative",Al Hiwar TV
+#EXTINF:-1 tvg-id="AlHiwarTV.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/Al-Hiwar_tv_Logo_2006.png/revision/latest/scale-to-width-down/1200?cb=20250510200246" group-title="Informative [SD]",Al Hiwar TV [SD]
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AngerManagementChannel.us" tvg-logo="https://i.imgur.com/VXZgrNy.png" group-title="Informative",Anger Management Channel
+#EXTINF:-1 tvg-id="AngerManagementChannel.us" tvg-logo="https://i.imgur.com/VXZgrNy.png" group-title="Informative [SD]",Anger Management Channel [SD]
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/655ca57e4261ca00080b3a04/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac0873-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ba8090e5-75c3-49e1-b27f-57399848d7ed
-#EXTINF:-1 tvg-id="Animaux.fr" tvg-logo="https://i0.wp.com/www.planetecsat.com/wp-content/uploads/2017/04/LOGO_ANIMAUX_COULEUR_RVB.png?resize=678,381&ssl=1" group-title="Informative",Animaux
-https://viamotionhsi.netplus.ch/live/eds/animaux/browser-dash/animaux.mpd
-#EXTINF:-1 tvg-id="AsharqDiscovery.sa" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Asharq_Discovery.svg/revision/latest?cb=20231114005439" group-title="Informative",Asharq Discovery
+#EXTINF:-1 tvg-id="AsharqDiscovery.sa" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Asharq_Discovery.svg/revision/latest?cb=20231114005439" group-title="Informative [FHD]",Asharq Discovery [FHD]
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="AsharqDocumentary.sa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Asharq_News_Logo.svg/1200px-Asharq_News_Logo.svg.png" group-title="Informative",Asharq Documentary
+#EXTINF:-1 tvg-id="AsharqDocumentary.sa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Asharq_News_Logo.svg/1200px-Asharq_News_Logo.svg.png" group-title="Informative [FHD]",Asharq Documentary [FHD]
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="AutenticHistory.de" tvg-logo="https://img1.pnghut.com/16/15/16/jP3XS55kc1/wiki-history-hd-join-or-die-with-craig-ferguson-symbol-text.jpg" group-title="Informative",Autentic History
+#EXTINF:-1 tvg-id="AutenticHistory.de" tvg-logo="https://img1.pnghut.com/16/15/16/jP3XS55kc1/wiki-history-hd-join-or-die-with-craig-ferguson-symbol-text.jpg" group-title="Informative [SD]",Autentic History [SD]
 https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCEarth.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/BBC_Earth_(Alternative).svg/revision/latest?cb=20171204084854" group-title="Informative",BBC Earth
-https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
-#EXTINF:-1 tvg-id="BUTV10.us" tvg-logo="https://alchetron.com/cdn/butv10-6e60f1b2-35b1-4c19-8316-320c47f0f17-resize-750.jpeg" group-title="Informative",BUTV10
+#EXTINF:-1 tvg-id="BBCEarth.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/BBC_Earth_(Alternative).svg/revision/latest?cb=20171204084854" group-title="Informative [SD]",BBC Earth [SD]
+https://pb-zjy36qhp8e8cz.akamaized.net/BBC_Earth_US.m3u8
+#EXTINF:-1 tvg-id="BUTV10.us" tvg-logo="https://alchetron.com/cdn/butv10-6e60f1b2-35b1-4c19-8316-320c47f0f17-resize-750.jpeg" group-title="Informative [SD]",BUTV10 [SD]
 https://cdnapisec.kaltura.com/p/2184561/sp/218456100/playManifest/entryId/1_68qxw4eu/format/applehttp/a.m3u8
-#EXTINF:-1 tvg-id="Backstage.us" tvg-logo="https://images.seeklogo.com/logo-png/38/2/backstage-logo-png_seeklogo-387152.png" group-title="Informative",Backstage
+#EXTINF:-1 tvg-id="Backstage.us" tvg-logo="https://images.seeklogo.com/logo-png/38/2/backstage-logo-png_seeklogo-387152.png" group-title="Informative [FHD]",Backstage [FHD]
 https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8
-#EXTINF:-1 tvg-id="BritBoxMysteries.us" tvg-logo="https://i.imgur.com/PJdzoLN.png" group-title="Informative",BritBox Mysteries
+#EXTINF:-1 tvg-id="BritBoxMysteries.us" tvg-logo="https://i.imgur.com/PJdzoLN.png" group-title="Informative [FHD]",BritBox Mysteries [FHD]
 https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist.m3u8
 #EXTINF:-1 tvg-id="CFTUDT.ca" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Canal_Savoir_1997.png/revision/latest?cb=20110612122930" group-title="Informative",CFTU-DT
 https://hls.savoir.media/live/stream.m3u8
-#EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Informative",CGTN Documentary
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Informative [SD]",CGTN Documentary [SD]
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-id="CGTNDocumentary.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Informative",CGTN Documentary
+#EXTINF:-1 tvg-id="CGTNDocumentary.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Informative [FHD]",CGTN Documentary [FHD]
 https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
-#EXTINF:-1 tvg-id="CMAC2.us" tvg-logo="https://play-lh.googleusercontent.com/A947K2XHCRujVT-3CoE0qzI9OZbjuAmv1p0I3ixiM2CFc4N1pOVfj2DGJZR0luMfeZpx" group-title="Informative",CMAC 2
+#EXTINF:-1 tvg-id="CMAC2.us" tvg-logo="https://play-lh.googleusercontent.com/A947K2XHCRujVT-3CoE0qzI9OZbjuAmv1p0I3ixiM2CFc4N1pOVfj2DGJZR0luMfeZpx" group-title="Informative [FHD]",CMAC 2 [FHD]
 https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-2/live.m3u8
 #EXTINF:-1 tvg-id="CVCEducation.us" tvg-logo="https://logowik.com/content/uploads/images/cvc-logo-vector-1723119264.webp" group-title="Informative",CVC Education
 https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch2/video.m3u8
-#EXTINF:-1 tvg-id="CampusTV.hn" tvg-logo="https://www.pngkit.com/png/detail/6-66318_campus-tv.png" group-title="Informative",Campus TV
+#EXTINF:-1 tvg-id="CampusTV.hn" tvg-logo="https://www.pngkit.com/png/detail/6-66318_campus-tv.png" group-title="Informative [SD]",Campus TV [SD]
 https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalEducacao.br" tvg-logo="https://i.imgur.com/OOB7nrS.png" group-title="Informative",Canal Educacao
+#EXTINF:-1 tvg-id="CanalEducacao.br" tvg-logo="https://i.imgur.com/OOB7nrS.png" group-title="Informative [SD]",Canal Educacao [SD]
 https://canaleducacao-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-id="CityEdenKinoDok.ru" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/7/75/Eden_circle_logo_2012.png/revision/latest?cb=20120506143640" group-title="Informative",City Eden KinoDok
 https://cityeden.catcast.tv/content/38354/index.m3u8
-#EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/Classic_Arts_Showcase.png.300x300_q85.jpg" group-title="Informative",Classic Arts Showcase
+#EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/Classic_Arts_Showcase.png.300x300_q85.jpg" group-title="Informative [HD]",Classic Arts Showcase [HD]
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-#EXTINF:-1 tvg-id="ClickTVChile.cl" tvg-logo="https://media.licdn.com/dms/image/v2/C4E0BAQHLQLKd5rLBOA/company-logo_200_200/company-logo_200_200/0/1661319662656?e=2147483647&v=beta&t=6Ef4QAYaM2TQSZKQciiqA2-DOHsWAlsybPGiEdwYyMY" group-title="Informative",ClickTV Chile
+#EXTINF:-1 tvg-id="ClickTVChile.cl" tvg-logo="https://media.licdn.com/dms/image/v2/C4E0BAQHLQLKd5rLBOA/company-logo_200_200/company-logo_200_200/0/1661319662656?e=2147483647&v=beta&t=6Ef4QAYaM2TQSZKQciiqA2-DOHsWAlsybPGiEdwYyMY" group-title="Informative [HD]",ClickTV Chile [HD]
 https://v2.tustreaming.cl/clicktv/playlist.m3u8
-#EXTINF:-1 tvg-id="CloudflareTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cloudflare_Logo.svg/2560px-Cloudflare_Logo.svg.png" group-title="Informative",Cloudflare TV
+#EXTINF:-1 tvg-id="CloudflareTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cloudflare_Logo.svg/2560px-Cloudflare_Logo.svg.png" group-title="Informative [FHD]",Cloudflare TV [FHD]
 https://cloudflare.tv/hls/live.m3u8
-#EXTINF:-1 tvg-id="CosmosTV.py" tvg-logo="https://image.roku.com/developer_channels/prod/db1e1b0d7e5786c7f4b05b9a2501af88d26f6f4804c7c1009df290208b78a8f5.png" group-title="Informative",Cosmos TV
+#EXTINF:-1 tvg-id="CosmosTV.py" tvg-logo="https://image.roku.com/developer_channels/prod/db1e1b0d7e5786c7f4b05b9a2501af88d26f6f4804c7c1009df290208b78a8f5.png" group-title="Informative [SD]",Cosmos TV [SD]
 https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
-#EXTINF:-1 tvg-id="CourtTV.us" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/court-tv-logo.png" group-title="Informative",Court TV
+#EXTINF:-1 tvg-id="CourtTV.us" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/court-tv-logo.png" group-title="Informative [SD]",Court TV [SD]
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
-#EXTINF:-1 tvg-id="CreaTVChannel28.us" tvg-logo="https://www.creatvsj.org/sites/default/files/LogoWebsite-03+(2)_0.png" group-title="Informative",CreaTV Channel 28
+#EXTINF:-1 tvg-id="CreaTVChannel28.us" tvg-logo="https://www.creatvsj.org/sites/default/files/LogoWebsite-03+(2)_0.png" group-title="Informative [SD]",CreaTV Channel 28 [SD]
 https://reflect-creatv.cablecast.tv/live-14/live/live.m3u8
-#EXTINF:-1 tvg-id="Create.us" tvg-logo="https://www.vhv.rs/dpng/d/438-4380326_create-tv-channel-logo-hd-png-download.png" group-title="Informative",Create
+#EXTINF:-1 tvg-id="Create.us" tvg-logo="https://www.vhv.rs/dpng/d/438-4380326_create-tv-channel-logo-hd-png-download.png" group-title="Informative [FHD]",Create [FHD]
 https://create.lls.pbs.org/index.m3u8
-#EXTINF:-1 tvg-id="Crime360.us" tvg-logo="https://i.imgur.com/IjtaG1m.png" group-title="Informative",Crime 360
+#EXTINF:-1 tvg-id="Crime360.us" tvg-logo="https://i.imgur.com/IjtaG1m.png" group-title="Informative [SD]",Crime 360 [SD]
 https://94a3e237.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0NyaW1lMzYwX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="DDKisan.in" tvg-logo="https://w7.pngwing.com/pngs/36/497/png-transparent-dd-kisan-india-television-channel-farmer-narendra-modi-television-text-label.png" group-title="Informative",DD Kisan
+#EXTINF:-1 tvg-id="DDKisan.in" tvg-logo="https://w7.pngwing.com/pngs/36/497/png-transparent-dd-kisan-india-television-channel-farmer-narendra-modi-television-text-label.png" group-title="Informative [SD]",DD Kisan [SD]
 https://cdn-6.pishow.tv/live/9/master.m3u8
-#EXTINF:-1 tvg-id="DLTV1.th" tvg-logo="https://dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-01.png" group-title="Informative",DLTV 1
+#EXTINF:-1 tvg-id="DLTV1.th" tvg-logo="https://dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-01.png" group-title="Informative [SD]",DLTV 1 [SD]
 https://cdn-live.dltv.ac.th/dltv01.m3u8
-#EXTINF:-1 tvg-id="DLTV10.th" tvg-logo="https://www.makersempire.com/wp-content/uploads/2020/08/DLTV.jpg" group-title="Informative",DLTV 10
+#EXTINF:-1 tvg-id="DLTV10.th" tvg-logo="https://www.makersempire.com/wp-content/uploads/2020/08/DLTV.jpg" group-title="Informative [SD]",DLTV 10 [SD]
 https://cdn-live.dltv.ac.th/dltv10.m3u8
-#EXTINF:-1 tvg-id="DLTV11.th" tvg-logo="https://dltv.ac.th/upload/data/tv/89/logo.png" group-title="Informative",DLTV 11
+#EXTINF:-1 tvg-id="DLTV11.th" tvg-logo="https://dltv.ac.th/upload/data/tv/89/logo.png" group-title="Informative [SD]",DLTV 11 [SD]
 https://cdn-live.dltv.ac.th/dltv11.m3u8
-#EXTINF:-1 tvg-id="DLTV12.th" tvg-logo="https://dltv.ac.th/upload/data/channels/12/line.png" group-title="Informative",DLTV 12
+#EXTINF:-1 tvg-id="DLTV12.th" tvg-logo="https://dltv.ac.th/upload/data/channels/12/line.png" group-title="Informative [SD]",DLTV 12 [SD]
 https://cdn-live.dltv.ac.th/dltv12.m3u8
-#EXTINF:-1 tvg-id="DLTV13.th" tvg-logo="https://www.makersempire.com/wp-content/uploads/2020/08/DLTV.jpg" group-title="Informative",DLTV 13
+#EXTINF:-1 tvg-id="DLTV13.th" tvg-logo="https://www.makersempire.com/wp-content/uploads/2020/08/DLTV.jpg" group-title="Informative [SD]",DLTV 13 [SD]
 https://cdn-live.dltv.ac.th/dltv13.m3u8
-#EXTINF:-1 tvg-id="DLTV14.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Dltv_15_2548-61_logo.jpg/revision/latest/scale-to-width-down/1200?cb=20250803083124" group-title="Informative",DLTV 14
+#EXTINF:-1 tvg-id="DLTV14.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Dltv_15_2548-61_logo.jpg/revision/latest/scale-to-width-down/1200?cb=20250803083124" group-title="Informative [SD]",DLTV 14 [SD]
 https://cdn-live.dltv.ac.th/dltv14.m3u8
-#EXTINF:-1 tvg-id="DLTV15.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Dltv_15_2548-61_logo.jpg/revision/latest/scale-to-width-down/1200?cb=20250803083124" group-title="Informative",DLTV 15
+#EXTINF:-1 tvg-id="DLTV15.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Dltv_15_2548-61_logo.jpg/revision/latest/scale-to-width-down/1200?cb=20250803083124" group-title="Informative [SD]",DLTV 15 [SD]
 https://cdn-live.dltv.ac.th/dltv15.m3u8
-#EXTINF:-1 tvg-id="DLTV2.th" tvg-logo="https://tvtolive.com/wp-content/uploads/DLTV2-tvtolive.com_.jpg" group-title="Informative",DLTV 2
+#EXTINF:-1 tvg-id="DLTV2.th" tvg-logo="https://tvtolive.com/wp-content/uploads/DLTV2-tvtolive.com_.jpg" group-title="Informative [SD]",DLTV 2 [SD]
 https://cdn-live.dltv.ac.th/dltv02.m3u8
-#EXTINF:-1 tvg-id="DLTV3.th" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dltv-3-th.png" group-title="Informative",DLTV 3
+#EXTINF:-1 tvg-id="DLTV3.th" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dltv-3-th.png" group-title="Informative [SD]",DLTV 3 [SD]
 https://cdn-live.dltv.ac.th/dltv03.m3u8
-#EXTINF:-1 tvg-id="DLTV4.th" tvg-logo="https://cms.dmpcdn.com/livetv/2020/05/18/66317270-98c4-11ea-b284-2bff0287c295_320.png" group-title="Informative",DLTV 4
+#EXTINF:-1 tvg-id="DLTV4.th" tvg-logo="https://cms.dmpcdn.com/livetv/2020/05/18/66317270-98c4-11ea-b284-2bff0287c295_320.png" group-title="Informative [SD]",DLTV 4 [SD]
 https://cdn-live.dltv.ac.th/dltv04.m3u8
-#EXTINF:-1 tvg-id="DLTV5.th" tvg-logo="https://1.bp.blogspot.com/-B-jnEtfd_4g/YhtKus00yZI/AAAAAAAANXs/hT669bG7YLwtm1y-cn-ORw9WUILB0greACNcBGAsYHQ/s960/th-dltv-5-4390.jpg" group-title="Informative",DLTV 5
+#EXTINF:-1 tvg-id="DLTV5.th" tvg-logo="https://1.bp.blogspot.com/-B-jnEtfd_4g/YhtKus00yZI/AAAAAAAANXs/hT669bG7YLwtm1y-cn-ORw9WUILB0greACNcBGAsYHQ/s960/th-dltv-5-4390.jpg" group-title="Informative [SD]",DLTV 5 [SD]
 https://cdn-live.dltv.ac.th/dltv05.m3u8
-#EXTINF:-1 tvg-id="DLTV6.th" tvg-logo="https://dltv.ac.th/upload/data/channels/06_channel_logo.png" group-title="Informative",DLTV 6
+#EXTINF:-1 tvg-id="DLTV6.th" tvg-logo="https://dltv.ac.th/upload/data/channels/06_channel_logo.png" group-title="Informative [SD]",DLTV 6 [SD]
 https://cdn-live.dltv.ac.th/dltv06.m3u8
-#EXTINF:-1 tvg-id="DLTV7.th" tvg-logo="https://cms.dmpcdn.com/livetv/2020/05/18/67145860-98c4-11ea-b284-2bff0287c295_320.png" group-title="Informative",DLTV 7
+#EXTINF:-1 tvg-id="DLTV7.th" tvg-logo="https://cms.dmpcdn.com/livetv/2020/05/18/67145860-98c4-11ea-b284-2bff0287c295_320.png" group-title="Informative [SD]",DLTV 7 [SD]
 https://cdn-live.dltv.ac.th/dltv07.m3u8
-#EXTINF:-1 tvg-id="DLTV8.th" tvg-logo="https://dltv.ac.th/upload/data/channels/08_channel_logo.png" group-title="Informative",DLTV 8
+#EXTINF:-1 tvg-id="DLTV8.th" tvg-logo="https://dltv.ac.th/upload/data/channels/08_channel_logo.png" group-title="Informative [SD]",DLTV 8 [SD]
 https://cdn-live.dltv.ac.th/dltv08.m3u8
-#EXTINF:-1 tvg-id="DLTV9.th" tvg-logo="https://www.makersempire.com/wp-content/uploads/2020/08/DLTV.jpg" group-title="Informative",DLTV 9
+#EXTINF:-1 tvg-id="DLTV9.th" tvg-logo="https://www.makersempire.com/wp-content/uploads/2020/08/DLTV.jpg" group-title="Informative [SD]",DLTV 9 [SD]
 https://cdn-live.dltv.ac.th/dltv09.m3u8
 #EXTINF:-1 tvg-id="DaVinciAsia.de" tvg-logo="https://latestlogo.com/wp-content/uploads/2023/12/da-vinci-channel-logo.png" group-title="Informative",Da Vinci Asia
 https://liveh12.vtvprime.vn/hls/DAVINVY/04.m3u8
 #EXTINF:-1 tvg-id="DabangaTV.sd" tvg-logo="https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063627138421" group-title="Informative",Dabanga TV
 https://hls.dabangasudan.org/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Dateline247.us" tvg-logo="https://i.iheart.com/v3/re/assets.streams/667db4a13d62cb4c15cebae1?ops=fit(960,960),resize(0,390)" group-title="Informative",Dateline 24/7
+#EXTINF:-1 tvg-id="Dateline247.us" tvg-logo="https://i.iheart.com/v3/re/assets.streams/667db4a13d62cb4c15cebae1?ops=fit(960,960),resize(0,390)" group-title="Informative [SD]",Dateline 24/7 [SD]
 https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
-#EXTINF:-1 tvg-id="DerryTV23.us" tvg-logo="https://www.themoviedb.org/t/p/original/341AbzHMbq5NHSsY7P5v2LyG75S.png" group-title="Informative",DerryTV 23
+#EXTINF:-1 tvg-id="DerryTV23.us" tvg-logo="https://www.themoviedb.org/t/p/original/341AbzHMbq5NHSsY7P5v2LyG75S.png" group-title="Informative [HD]",DerryTV 23 [HD]
 https://livestream.telvue.com/derrynh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Dokusat.de" tvg-logo="https://images.seeklogo.com/logo-png/51/1/dokusat-logo-png_seeklogo-516154.png" group-title="Informative",Dokusat
+#EXTINF:-1 tvg-id="Dokusat.de" tvg-logo="https://images.seeklogo.com/logo-png/51/1/dokusat-logo-png_seeklogo-516154.png" group-title="Informative [FHD]",Dokusat [FHD]
 https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
-#EXTINF:-1 tvg-id="EBS1TV.kr" tvg-logo="https://e7.pngegg.com/pngimages/71/236/png-clipart-south-korea-educational-broadcasting-system-ebs-1tv-television-others-miscellaneous-television.png" group-title="Informative",EBS 1TV
+#EXTINF:-1 tvg-id="EBS1TV.kr" tvg-logo="https://e7.pngegg.com/pngimages/71/236/png-clipart-south-korea-educational-broadcasting-system-ebs-1tv-television-others-miscellaneous-television.png" group-title="Informative [SD]",EBS 1TV [SD]
 https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="EBS2TV.kr" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/EBS_2TV_Logo.png/revision/latest/scale-to-width-down/250?cb=20180626152629" group-title="Informative",EBS 2TV
+#EXTINF:-1 tvg-id="EBS2TV.kr" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/EBS_2TV_Logo.png/revision/latest/scale-to-width-down/250?cb=20180626152629" group-title="Informative [SD]",EBS 2TV [SD]
 https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="EBSEnglish.kr" tvg-logo="https://images.seeklogo.com/logo-png/39/1/ebs-english-logo-png_seeklogo-398504.png" group-title="Informative",EBS English
+#EXTINF:-1 tvg-id="EBSEnglish.kr" tvg-logo="https://images.seeklogo.com/logo-png/39/1/ebs-english-logo-png_seeklogo-398504.png" group-title="Informative [SD]",EBS English [SD]
 https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="EBSPlus1.kr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Channels_IPTV_01.png/revision/latest?cb=20180627174859" group-title="Informative",EBS Plus 1
+#EXTINF:-1 tvg-id="EBSPlus1.kr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Channels_IPTV_01.png/revision/latest?cb=20180627174859" group-title="Informative [SD]",EBS Plus 1 [SD]
 https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="EBSPlus2.kr" tvg-logo="https://i.imgur.com/pllIMGi.png" group-title="Informative",EBS Plus 2
+#EXTINF:-1 tvg-id="EBSPlus2.kr" tvg-logo="https://i.imgur.com/pllIMGi.png" group-title="Informative [SD]",EBS Plus 2 [SD]
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="EGETV.ru" tvg-logo="https://www.ecanlitvizle.live/logo/ege-tv-izle.png" group-title="Informative",EGE TV
-http://194.143.148.28:8080/RT_DOC/index.m3u8
-#EXTINF:-1 tvg-id="EPlanetTV.ir" tvg-logo="https://eplanet.tv/wp-content/uploads/2025/08/unnamed-2048x604.png" group-title="Informative",EPlanet TV
-https://eplhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="ETV.th" tvg-logo="https://logodix.com/logo/2167608.jpg" group-title="Informative",ETV
-http://150.95.66.20:1935/live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="Ecovision.do" tvg-logo="https://www.bgf.co.uk/wp-content/uploads/2024/02/Ecovision-Logo-for-Website-Headeer.png" group-title="Informative",Ecovision
+#EXTINF:-1 tvg-id="Ecovision.do" tvg-logo="https://www.bgf.co.uk/wp-content/uploads/2024/02/Ecovision-Logo-for-Website-Headeer.png" group-title="Informative [SD]",Ecovision [SD]
 https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
-#EXTINF:-1 tvg-id="EducaTV.ec" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/Educatv.jpg/revision/latest?cb=20230815122508" group-title="Informative",Educa TV
+#EXTINF:-1 tvg-id="EducaTV.ec" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/Educatv.jpg/revision/latest?cb=20230815122508" group-title="Informative [HD]",Educa TV [HD]
 https://avm.ecuamedia.net/educatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EdutainmentTV.mn" tvg-logo="https://yt3.ggpht.com/a/AGF-l7_QWmEptE7QKh0pr4lLszIHtX2-tN5ETbzR1Q=s900-c-k-c0xffffffff-no-rj-mo" group-title="Informative",Edutainment TV
-https://cdn4.skygo.mn/live/disk1/Education/DASH-FTA/Education.mpd
-#EXTINF:-1 tvg-id="Eduvision.co" tvg-logo="https://eduvisionnetwork.com/wp-content/uploads/2022/06/cropped-Green-transparent.png" group-title="Informative",Eduvision
+https://cdn4.skygo.mn/live/disk1/Education/HLSv3-FTA/Education.m3u8
+#EXTINF:-1 tvg-id="Eduvision.co" tvg-logo="https://eduvisionnetwork.com/wp-content/uploads/2022/06/cropped-Green-transparent.png" group-title="Informative [HD]",Eduvision [HD]
 https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8
-#EXTINF:-1 tvg-id="EnglishClubTV.uk" tvg-logo="https://english-club.tv/wp-content/uploads/2015/09/logo-round.png" group-title="Informative",English Club TV
+#EXTINF:-1 tvg-id="EnglishClubTV.uk" tvg-logo="https://english-club.tv/wp-content/uploads/2015/09/logo-round.png" group-title="Informative [HD]",English Club TV [HD]
 https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="FBIFiles.us" tvg-logo="https://artworks.thetvdb.com/banners/posters/104781-2.jpg" group-title="Informative",FBI Files
 https://jmp2.uk/plu-5cb6f6f9a461406ffe4022cf.m3u8
 #EXTINF:-1 tvg-id="ForensicFiles.us" tvg-logo="https://images.squarespace-cdn.com/content/v1/54e483f5e4b0b2f20e6bceb2/1507553842971-V1552JH0TBZ9FV7JO1S5/ForensicFiles_logo.png" group-title="Informative",Forensic Files
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5bb1af6a268cae539bcedb0a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28ca68-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=859d292d-044e-4dc8-b889-003fa718d02e
-#EXTINF:-1 tvg-id="Francophonie24.fr" tvg-logo="https://www.logotypes101.com/logos/332/2A99E518A32C53CC4DA14E11179693C9/organisation_internationale_de_la_francophonie.png" group-title="Informative",Francophonie24
-https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="GEMNature.tr" tvg-logo="https://www.gemgroup.tv/assets/images/channels/icon_25.png" group-title="Informative",GEM Nature
 https://ca-rt.onetv.app/gemnature/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="GZT.tr" tvg-logo="https://latestlogo.com/wp-content/uploads/2024/03/gzt-logo.png" group-title="Informative",GZT
-https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
-#EXTINF:-1 tvg-id="Gyandarshan.in" tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/channellogo-new/gyan-darshan+logo.png" group-title="Informative",Gyandarshan
+#EXTINF:-1 tvg-id="Gyandarshan.in" tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/channellogo-new/gyan-darshan+logo.png" group-title="Informative [SD]",Gyandarshan [SD]
 https://cdn-6.pishow.tv/live/14/master.m3u8
-#EXTINF:-1 tvg-id="HDL.ru" tvg-logo="http://toplogos.ru/images/logo-hdl.png" group-title="Informative",HDL
-http://31.148.48.15/HD_Life/index.m3u8
 #EXTINF:-1 tvg-id="HKTV.us" tvg-logo="https://companieslogo.com/img/orig/1137.HK-632fb181.png?t=1691229539" group-title="Informative",HKTV
 https://reflect-hktv.cablecast.tv/live-3/live/live.m3u8
-#EXTINF:-1 tvg-id="HistoryTV18.in" tvg-logo="https://images.seeklogo.com/logo-png/50/1/history-tv18-logo-png_seeklogo-508443.png" group-title="Informative",History TV18
+#EXTINF:-1 tvg-id="HistoryTV18.in" tvg-logo="https://images.seeklogo.com/logo-png/50/1/history-tv18-logo-png_seeklogo-508443.png" group-title="Informative [SD]",History TV18 [SD]
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="ILCECanal15SummaSaberes.mx" tvg-logo="https://i.imgur.com/r7czgOc.png" group-title="Informative",ILCE Canal 15 Summa Saberes
+#EXTINF:-1 tvg-id="ILCECanal15SummaSaberes.mx" tvg-logo="https://i.imgur.com/r7czgOc.png" group-title="Informative [HD]",ILCE Canal 15 Summa Saberes [HD]
 https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ISTV.br" tvg-logo="https://tvplus.com.br/images/logos/TIS.png" group-title="Informative",ISTV
 https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
 #EXTINF:-1 tvg-id="IlmvaTabiat.tj" tvg-logo="https://www.parsatv.com/index_files/channels/ilmvatabiat.png" group-title="Informative",Ilm va Tabiat
 https://live.teleradiocom.tj/15/3m.m3u8
-#EXTINF:-1 tvg-id="InWonder.nl" tvg-logo="https://cdn.uc.assets.prezly.com/f9b78cec-aab1-4058-95b6-4f2f9b93960e/InWonder_portrait-purple.jpg" group-title="Informative",InWonder
-https://amg00861-terncloud-amg00861c4-cineverse-us-962.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-inwonderushd-cineverseus/playlist.m3u8
-#EXTINF:-1 tvg-id="IndiaTVAapKiAdalat.in" tvg-logo="https://play-lh.googleusercontent.com/2IlBX3IQHna8g4g-56vwGWb14K38spcviIh3i7uJCJ32ydfhcKZdOsacgijPkPeerEA" group-title="Informative",India TV Aap Ki Adalat
+#EXTINF:-1 tvg-id="InWonder.nl" tvg-logo="https://cdn.uc.assets.prezly.com/f9b78cec-aab1-4058-95b6-4f2f9b93960e/InWonder_portrait-purple.jpg" group-title="Informative [SD]",InWonder [SD]
+https://amg00861-terninternation-inwonderushd-samsungus-gqtpa.amagi.tv/playlist/amg00861-terninternation-inwonderushd-samsungus/playlist.m3u8
+#EXTINF:-1 tvg-id="IndiaTVAapKiAdalat.in" tvg-logo="https://play-lh.googleusercontent.com/2IlBX3IQHna8g4g-56vwGWb14K38spcviIh3i7uJCJ32ydfhcKZdOsacgijPkPeerEA" group-title="Informative [FHD]",India TV Aap Ki Adalat [FHD]
 https://amg01550-amg01550c6-samsung-in-4679.playouts.now.amagi.tv/playlist/amg01550-indiatvfast-indiatvakasamsung-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="InkMaster.us" tvg-logo="https://w7.pngwing.com/pngs/799/379/png-transparent-ink-master-television-show-paramount-network-reality-television-others-television-ink-text.png" group-title="Informative",Ink Master
-https://jmp2.uk/plu-60807fd5db701400078219c2.m3u8
-#EXTINF:-1 tvg-id="IntoCrime.fr" tvg-logo="https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100089822845359" group-title="Informative",Into Crime
+#EXTINF:-1 tvg-id="IntoCrime.fr" tvg-logo="https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100089822845359" group-title="Informative [FHD]",Into Crime [FHD]
 https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Istoriya.ru" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Istoria_(2015,_logo).svg/revision/latest/scale-to-width-down/150?cb=20210121152641" group-title="Informative",Istoriya
+#EXTINF:-1 tvg-id="Istoriya.ru" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Istoria_(2015,_logo).svg/revision/latest/scale-to-width-down/150?cb=20210121152641" group-title="Informative [SD]",Istoriya [SD]
 http://31.148.48.15/Istoriya/index.m3u8
 #EXTINF:-1 tvg-id="JOABDTV.jp" tvg-logo="https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064186055567" group-title="Informative",JOAB-DTV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
-#EXTINF:-1 tvg-id="JaliscoTV.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Jalisco-TV_logotype.png/640px-Jalisco-TV_logotype.png" group-title="Informative",Jalisco TV
+#EXTINF:-1 tvg-id="JaliscoTV.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Jalisco-TV_logotype.png/640px-Jalisco-TV_logotype.png" group-title="Informative [SD]",Jalisco TV [SD]
 https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
-#EXTINF:-1 tvg-id="KCAT.us" tvg-logo="https://static.wixstatic.com/media/9fff55_0fc78dcda2c34ac2b81bf4d5bda33838~mv2.png/v1/fill/w_374,h_67,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/9fff55_0fc78dcda2c34ac2b81bf4d5bda33838~mv2.png" group-title="Informative",KCAT
+#EXTINF:-1 tvg-id="KCAT.us" tvg-logo="https://static.wixstatic.com/media/9fff55_0fc78dcda2c34ac2b81bf4d5bda33838~mv2.png/v1/fill/w_374,h_67,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/9fff55_0fc78dcda2c34ac2b81bf4d5bda33838~mv2.png" group-title="Informative [SD]",KCAT [SD]
 https://reflect-kcat-live.cablecast.tv/live-2/live/live.m3u8
 #EXTINF:-1 tvg-id="KOCTChannel19.us" tvg-logo="https://images.squarespace-cdn.com/content/v1/59f8eec88fd4d222e9cc0cb6/a7c8aae6-5e91-4ead-9041-c2fb87ebe53a/KOCT80+Voice+of+NC+SOC.png" group-title="Informative",KOCT Channel 19
 https://securestream10.champds.com/LIVE/KOCTCALIVE2/KOCTCALIVE2.m3u8
-#EXTINF:-1 tvg-id="KTOODT3.us" tvg-logo="https://i.imgur.com/ppn5oJy.png" group-title="Informative",KTOO-DT3
-https://api.v3.invintus.com/StreamURI/persis/2147483647/KTOO360TV.stream/media.m3u8
-#EXTINF:-1 tvg-id="KanEducational.il" tvg-logo="https://i.vimeocdn.com/video/793726461-a42b70e5fd7f9168c223c0f7fcc50c591bea774aea23d62cfb4627c3197e78fa-d?mw=1920&mh=1080&q=70" group-title="Informative",Kan Educational
-https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
-#EXTINF:-1 tvg-id="KiteVicters.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Victers_TV_Logo.jpg?Kite_Victers1165786600" group-title="Informative",Kite Victers
+#EXTINF:-1 tvg-id="KiteVicters.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Victers_TV_Logo.jpg?Kite_Victers1165786600" group-title="Informative [FHD]",Kite Victers [FHD]
 https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="KnowledgeNetwork.ca" tvg-logo="https://i.pinimg.com/originals/0d/58/a7/0d58a735ecc07aa3cfe6a226a8dd7aa7.png" group-title="Informative",Knowledge Network
+#EXTINF:-1 tvg-id="KnowledgeNetwork.ca" tvg-logo="https://i.pinimg.com/originals/0d/58/a7/0d58a735ecc07aa3cfe6a226a8dd7aa7.png" group-title="Informative [HD]",Knowledge Network [HD]
 https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
-#EXTINF:-1 tvg-id="LA36.us" tvg-logo="http://la36.org/assets/front/images/la36-logo-.png" group-title="Informative",LA36
+#EXTINF:-1 tvg-id="LA36.us" tvg-logo="http://la36.org/assets/front/images/la36-logo-.png" group-title="Informative [HD]",LA36 [HD]
 https://reflect-channel36-la.cablecast.tv/live-3/live/stream-1/live.m3u8
-#EXTINF:-1 tvg-id="LawCrime.us" tvg-logo="http://am21.mediaite.com/lc/cnt/uploads/2023/12/Asset-9.png" group-title="Informative",Law & Crime
+#EXTINF:-1 tvg-id="LawCrime.us" tvg-logo="http://am21.mediaite.com/lc/cnt/uploads/2023/12/Asset-9.png" group-title="Informative [SD]",Law & Crime [SD]
 https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="LeominsterTVEducational.us" tvg-logo="https://i.imgur.com/Cy94oLl.png" group-title="Informative",Leominster TV Educational
+#EXTINF:-1 tvg-id="LeominsterTVEducational.us" tvg-logo="https://i.imgur.com/Cy94oLl.png" group-title="Informative [HD]",Leominster TV Educational [HD]
 https://livestream.telvue.com/leominster2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="LiceumTV.hu" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kNSLtSc_-anCW0p0mnG_L_9-tXZY65yXduMuLoxmSHUag=s900-c-k-c0x00ffffff-no-rj" group-title="Informative",Liceum TV
 http://193.225.32.62:8890/live.m3u8
-#EXTINF:-1 tvg-id="LoveThePlanet.es" tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw176_sh99_sx1_sy52_sr16x9_nu2/picture/original/2024/07/love-the-planet-sender-logo-409308.png" group-title="Informative",Love The Planet
-https://amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk-apopw.amagi.tv/playlist/amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk/playlist.m3u8
-#EXTINF:-1 tvg-id="M5.hu" tvg-logo="https://i.imgur.com/DIQCr0b.jpg" group-title="Informative",M5
-http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8
-#EXTINF:-1 tvg-id="MCN6ArtsChannel.us" tvg-logo="https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100056627090543" group-title="Informative",MCN6 Arts Channel
+#EXTINF:-1 tvg-id="LoveThePlanet.es" tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw176_sh99_sx1_sy52_sr16x9_nu2/picture/original/2024/07/love-the-planet-sender-logo-409308.png" group-title="Informative [SD]",Love The Planet [SD]
+https://amg01821-lovetv-amg01821c8-xumo-us-3443.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MCN6ArtsChannel.us" tvg-logo="https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100056627090543" group-title="Informative [FHD]",MCN6 Arts Channel [FHD]
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8
-#EXTINF:-1 tvg-id="MCPSSTV.us" tvg-logo="https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100067494490203" group-title="Informative",MCPSS TV
+#EXTINF:-1 tvg-id="MCPSSTV.us" tvg-logo="https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100067494490203" group-title="Informative [HD]",MCPSS TV [HD]
 https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MSTV.us" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/67/MSTV199x.png/revision/latest?cb=20190225222013" group-title="Informative",MSTV
 https://reflect-mcsb-vod.cablecast.tv/live-16/live/live.m3u8
-#EXTINF:-1 tvg-id="MagellanTVNow.us" tvg-logo="https://images.samsung.com/is/image/samsung/assets/au/tvs/smart-tv/samsung-tv-plus/all-channels/magellanTV-circle-1000x1000.png?$296_164_PNG$" group-title="Informative",MagellanTV Now
+#EXTINF:-1 tvg-id="MagellanTVNow.us" tvg-logo="https://images.samsung.com/is/image/samsung/assets/au/tvs/smart-tv/samsung-tv-plus/all-channels/magellanTV-circle-1000x1000.png?$296_164_PNG$" group-title="Informative [SD]",MagellanTV Now [SD]
 https://amg00376-magellan-amg00376c5-samsung-au-1708.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="ManasTV.kg" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/81dea2183054751.Y3JvcCw1MjczLDQxMjUsNDU2LDA.jpg" group-title="Informative",Manas TV
 http://212.42.111.152:8080/hls/manas.m3u8
-#EXTINF:-1 tvg-id="MidpenMediaCenterChannel28.us" tvg-logo="https://572df51543239bca729e-5910d0f29d27f5996ff9d97f39a29019.ssl.cf5.rackcdn.com/image_attachments/images/000/023/408/large/logo2.jpg?1550530597" group-title="Informative",Midpen Media Center Channel 28
+#EXTINF:-1 tvg-id="MidpenMediaCenterChannel28.us" tvg-logo="https://572df51543239bca729e-5910d0f29d27f5996ff9d97f39a29019.ssl.cf5.rackcdn.com/image_attachments/images/000/023/408/large/logo2.jpg?1550530597" group-title="Informative [HD]",Midpen Media Center Channel 28 [HD]
 https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8
-#EXTINF:-1 tvg-id="N24Doku.de" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/N24Doku_logo.png" group-title="Informative",N24 Doku
-https://jmp2.uk/plu-60080e8a4bf36000076a81b1.m3u8
-#EXTINF:-1 tvg-id="N24DokuAustria.at" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/N24Doku_logo.png" group-title="Informative",N24 Doku Austria
-https://jmp2.uk/plu-60080e8a4bf36000076a81b1.m3u8
-#EXTINF:-1 tvg-id="NBS.kr" tvg-logo="https://i.imgur.com/DmM8jH6.png" group-title="Informative",NBS
+#EXTINF:-1 tvg-id="NBS.kr" tvg-logo="https://i.imgur.com/DmM8jH6.png" group-title="Informative [HD]",NBS [HD]
 https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
 #EXTINF:-1 tvg-id="NCMEducationalKidsChannel.us" tvg-logo="https://i.imgur.com/3YPvfPn.png" group-title="Informative",NCM Educational & Kids Channel
 https://reflect-npa.cablecast.tv/live-9/live/live.m3u8
-#EXTINF:-1 tvg-id="NRWision.de" tvg-logo="https://i.pinimg.com/originals/b6/e5/44/b6e544de245b7cb6db1b1a6134e4c85d.jpg" group-title="Informative",NRWision
+#EXTINF:-1 tvg-id="NRWision.de" tvg-logo="https://i.pinimg.com/originals/b6/e5/44/b6e544de245b7cb6db1b1a6134e4c85d.jpg" group-title="Informative [SD]",NRWision [SD]
 https://fms.nrwision.de/live/ngrp:livestreamHD.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Nano.ru" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/048716fc-9b86-4a71-b364-4f3d77afecc2/dhh5h00-cb201aef-5758-42ef-a266-414e4fae5a56.jpg/v1/fill/w_894,h_894,q_70,strp/nano_television_channels_by_hishamodeh_dhh5h00-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcLzA0ODcxNmZjLTliODYtNGE3MS1iMzY0LTRmM2Q3N2FmZWNjMlwvZGhoNWgwMC1jYjIwMWFlZi01NzU4LTQyZWYtYTI2Ni00MTRlNGZhZTVhNTYuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.z2RL8yDA4bmSQWTWdR8QBJY3U5IbXO-1OYMWRUOt7XE" group-title="Informative",Nano
+#EXTINF:-1 tvg-id="Nano.ru" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/048716fc-9b86-4a71-b364-4f3d77afecc2/dhh5h00-cb201aef-5758-42ef-a266-414e4fae5a56.jpg/v1/fill/w_894,h_894,q_70,strp/nano_television_channels_by_hishamodeh_dhh5h00-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcLzA0ODcxNmZjLTliODYtNGE3MS1iMzY0LTRmM2Q3N2FmZWNjMlwvZGhoNWgwMC1jYjIwMWFlZi01NzU4LTQyZWYtYTI2Ni00MTRlNGZhZTVhNTYuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.z2RL8yDA4bmSQWTWdR8QBJY3U5IbXO-1OYMWRUOt7XE" group-title="Informative [SD]",Nano [SD]
 http://s1.tv-nano.com/Nano_rec/index.m3u8
-#EXTINF:-1 tvg-id="NashuaETV.us" tvg-logo="https://www.nashuanh.gov/ImageRepository/Document?documentID=15147" group-title="Informative",Nashua ETV
+#EXTINF:-1 tvg-id="NashuaETV.us" tvg-logo="https://www.nashuanh.gov/ImageRepository/Document?documentID=15147" group-title="Informative [HD]",Nashua ETV [HD]
 https://livestream.telvue.com/nashuanh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/national-geographic-channel-logo-png-transparent.png" group-title="Informative",National Geographic
+#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/national-geographic-channel-logo-png-transparent.png" group-title="Informative [SD]",National Geographic [SD]
 https://tvpass.org/live/NationalGeographicEast/sd
-#EXTINF:-1 tvg-id="NationalGeographicWild.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="Informative",National Geographic Wild
+#EXTINF:-1 tvg-id="NationalGeographicWild.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="Informative [SD]",National Geographic Wild [SD]
 https://tvpass.org/live/NationalGeographicWildEast/sd
-#EXTINF:-1 tvg-id="NatureTime.es" tvg-logo="https://i.imgur.com/72JmyjM.png" group-title="Informative",NatureTime
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61fc0df14159c40007250432/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0689f1-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c6eb9bb4-6b13-4301-ab2b-7475ad0a7145
-#EXTINF:-1 tvg-id="Nauka.ru" tvg-logo="https://e7.pngegg.com/pngimages/901/934/png-clipart-nauka-2-Наука-2-discovery-world-science-product-design-discovery-id-tv-channel-text-trademark.png" group-title="Informative",Nauka
+#EXTINF:-1 tvg-id="Nauka.ru" tvg-logo="https://e7.pngegg.com/pngimages/901/934/png-clipart-nauka-2-Наука-2-discovery-world-science-product-design-discovery-id-tv-channel-text-trademark.png" group-title="Informative [FHD]",Nauka [FHD]
 http://31.148.48.15/Nauka_2.0/index.m3u8
 #EXTINF:-1 tvg-id="OzbekistonTarixi.uz" tvg-logo="https://static.wikitide.net/avidwiki/thumb/c/cb/O'zbekiston_Television_(1989).jpg/800px-O'zbekiston_Television_(1989).jpg" group-title="Informative",O'zbekiston Tarixi
 https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="OUN.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/1200px-OWN_2011_logo.svg.png" group-title="Informative",OUN
 https://live.knou.ac.kr/knou1/live1/playlist.m3u8
-#EXTINF:-1 tvg-id="PBS.us" tvg-logo="https://logos-world.net/wp-content/uploads/2022/02/PBS-Logo-2002.png" group-title="Informative",PBS
+#EXTINF:-1 tvg-id="PBS.us" tvg-logo="https://logos-world.net/wp-content/uploads/2022/02/PBS-Logo-2002.png" group-title="Informative [FHD]",PBS [FHD]
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
-#EXTINF:-1 tvg-id="PBSKids.us" tvg-logo="https://www.vhv.rs/dpng/d/437-4378058_pbs-logo-black-and-white-pbs-kids-channel.png" group-title="Informative",PBS Kids
+#EXTINF:-1 tvg-id="PBSKids.us" tvg-logo="https://www.vhv.rs/dpng/d/437-4378058_pbs-logo-black-and-white-pbs-kids-channel.png" group-title="Informative [HD]",PBS Kids [HD]
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
-#EXTINF:-1 tvg-id="PBSKidsAlaska.us" tvg-logo="https://logos-world.net/wp-content/uploads/2021/10/PBS-Kids-Logo.png" group-title="Informative",PBS Kids Alaska
+#EXTINF:-1 tvg-id="PBSKidsAlaska.us" tvg-logo="https://logos-world.net/wp-content/uploads/2021/10/PBS-Kids-Logo.png" group-title="Informative [HD]",PBS Kids Alaska [HD]
 https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8
-#EXTINF:-1 tvg-id="PBSKidsEasternCentral.us" tvg-logo="https://logos-world.net/wp-content/uploads/2021/10/PBS-Kids-Logo.png" group-title="Informative",PBS Kids Eastern/Central
+#EXTINF:-1 tvg-id="PBSKidsEasternCentral.us" tvg-logo="https://logos-world.net/wp-content/uploads/2021/10/PBS-Kids-Logo.png" group-title="Informative [HD]",PBS Kids Eastern/Central [HD]
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1 tvg-id="PBSKidsHawaii.us" tvg-logo="https://logos-world.net/wp-content/uploads/2021/10/PBS-Kids-Logo.png" group-title="Informative",PBS Kids Hawaii
+#EXTINF:-1 tvg-id="PBSKidsHawaii.us" tvg-logo="https://logos-world.net/wp-content/uploads/2021/10/PBS-Kids-Logo.png" group-title="Informative [HD]",PBS Kids Hawaii [HD]
 https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8
-#EXTINF:-1 tvg-id="PBSKidsMountain.us" tvg-logo="https://logos-world.net/wp-content/uploads/2021/10/PBS-Kids-Logo.png" group-title="Informative",PBS Kids Mountain
+#EXTINF:-1 tvg-id="PBSKidsMountain.us" tvg-logo="https://logos-world.net/wp-content/uploads/2021/10/PBS-Kids-Logo.png" group-title="Informative [HD]",PBS Kids Mountain [HD]
 https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8
-#EXTINF:-1 tvg-id="PBSKidsPacific.us" tvg-logo="https://logos-world.net/wp-content/uploads/2021/10/PBS-Kids-Logo.png" group-title="Informative",PBS Kids Pacific
+#EXTINF:-1 tvg-id="PBSKidsPacific.us" tvg-logo="https://logos-world.net/wp-content/uploads/2021/10/PBS-Kids-Logo.png" group-title="Informative [HD]",PBS Kids Pacific [HD]
 https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
-#EXTINF:-1 tvg-id="PSDTV.us" tvg-logo="https://www.pngitem.com/pimgs/m/274-2740975_transparent-tv-channel-logos-hd-png-download.png" group-title="Informative",PSD TV
+#EXTINF:-1 tvg-id="PSDTV.us" tvg-logo="https://www.pngitem.com/pimgs/m/274-2740975_transparent-tv-channel-logos-hd-png-download.png" group-title="Informative [SD]",PSD TV [SD]
 https://reflect-broadcast-psdschools.cablecast.tv/live-6/live/live.m3u8
-#EXTINF:-1 tvg-id="PalestineEdu.ps" tvg-logo="https://www.shams-pal.org/eng/wp-content/uploads/2021/06/1_1532424687_5903.jpg" group-title="Informative",Palestine Edu
+#EXTINF:-1 tvg-id="PalestineEdu.ps" tvg-logo="https://www.shams-pal.org/eng/wp-content/uploads/2021/06/1_1532424687_5903.jpg" group-title="Informative [SD]",Palestine Edu [SD]
 https://pbc.furrera.ps/PalestineEDU/index.m3u8
-#EXTINF:-1 tvg-id="PayamJavanTV.us" tvg-logo="https://i.imgur.com/GYfsHh9.png" group-title="Informative",Payam Javan TV
+#EXTINF:-1 tvg-id="PayamJavanTV.us" tvg-logo="https://i.imgur.com/GYfsHh9.png" group-title="Informative [HD]",Payam Javan TV [HD]
 https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PersianaDocs.fr" tvg-logo="https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3622397688120645766" group-title="Informative",Persiana Docs
 https://scihls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PersianaMedical.fr" tvg-logo="https://www.parsatv.com/index_files/channels/persianamedical.png" group-title="Informative",Persiana Medical
+#EXTINF:-1 tvg-id="PersianaMedical.fr" tvg-logo="https://www.parsatv.com/index_files/channels/persianamedical.png" group-title="Informative [HD]",Persiana Medical [HD]
 https://phd2hls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaTravel.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Travel_Channel_logo.png" group-title="Informative",Persiana Travel
 https://ptravelhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PlatziTV.es" tvg-logo="https://images.seeklogo.com/logo-png/52/1/platzi-logo-png_seeklogo-520081.png" group-title="Informative",Platzi TV
+#EXTINF:-1 tvg-id="PlatziTV.es" tvg-logo="https://images.seeklogo.com/logo-png/52/1/platzi-logo-png_seeklogo-520081.png" group-title="Informative [HD]",Platzi TV [HD]
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAnimals.us" tvg-logo="https://www.pngitem.com/pimgs/m/475-4753223_pluto-tv-logo-png-transparent-png.png" group-title="Informative",Pluto TV Animals
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767ae7b456c8cf265ce922/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f5f81-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3c749ba3-753d-4787-aa99-051f1037b6b3
@@ -287,259 +253,225 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61409f8d6feb30000766b675/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b2022d6-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=23eefcec-8774-42a3-8e77-66e6e59575a3
 #EXTINF:-1 tvg-id="PlutoTVVidaReal.us" tvg-logo="https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/solidLogoSVG.svg?auto=&trim=auto&ixlib=react-9.1.5&h=50" group-title="Informative",Pluto TV Vida Real
 https://jmp2.uk/plu-5f32d4d9ec194100070c7449.m3u8
-#EXTINF:-1 tvg-id="PolsatViasatExplore.pl" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/0/0f/Polsat_Viasat_Explore_(2014-.n.v.).png/revision/latest?cb=20171227143232" group-title="Informative",Polsat Viasat Explore
-https://liveovh009.cda.pl/HXPcTCG-lz53Xv9hbHIO3w/1753762848/3480440/enc107/polsatviasatexplorehdraw/polsatviasatexplorehdraw.m3u8
-#EXTINF:-1 tvg-id="PolsatViasatHistory.pl" tvg-logo="https://images.seeklogo.com/logo-png/14/3/viasat-history-logo-png_seeklogo-148706.png" group-title="Informative",Polsat Viasat History
-https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc105/polsatviasathistoryhdraw/polsatviasathistoryhdraw.m3u8
-#EXTINF:-1 tvg-id="PolsatViasatNature.pl" tvg-logo="https://www.liblogo.com/img-logo/vi4010p307-viasat-nature-logo-polsat-viasat-nature-mihsign-vision-.png" group-title="Informative",Polsat Viasat Nature
-https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc104/polsatviasatnaturehdraw/polsatviasatnaturehdraw.m3u8
-#EXTINF:-1 tvg-id="RLPROTV.cd" tvg-logo="https://i.imgur.com/PIBtCEN.jpeg" group-title="Informative",RL PRO TV
+#EXTINF:-1 tvg-id="RLPROTV.cd" tvg-logo="https://i.imgur.com/PIBtCEN.jpeg" group-title="Informative [SD]",RL PRO TV [SD]
 https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8
-#EXTINF:-1 tvg-id="RTDocumentary.ru" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/RT_Documentary_(Alt).png/revision/latest/scale-to-width-down/150?cb=20221126021457" group-title="Informative",RT Documentary
+#EXTINF:-1 tvg-id="RTDocumentary.ru" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/RT_Documentary_(Alt).png/revision/latest/scale-to-width-down/150?cb=20221126021457" group-title="Informative [FHD]",RT Documentary [FHD]
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
-#EXTINF:-1 tvg-id="RaiScuola.it" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/Rai_Scuola_HD.svg/revision/latest?cb=20200125172542" group-title="Informative",Rai Scuola
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
-#EXTINF:-1 tvg-id="RedApple21.us" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Apple-TV-Logo-2007-2014.png" group-title="Informative",Red Apple 21
+#EXTINF:-1 tvg-id="RedApple21.us" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Apple-TV-Logo-2007-2014.png" group-title="Informative [SD]",Red Apple 21 [SD]
 https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8
-#EXTINF:-1 tvg-id="RinjaniTV.id" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rinjani-tv-id.png" group-title="Informative",Rinjani TV
-https://rinjanitv.cloud/hls/tvkabel.m3u8
-#EXTINF:-1 tvg-id="SMCTVChannel24.us" tvg-logo="https://seeklogo.com/images/C/channel-24-logo-B70391F779-seeklogo.com.png" group-title="Informative",SMCTV Channel 24
+#EXTINF:-1 tvg-id="SMCTVChannel24.us" tvg-logo="https://seeklogo.com/images/C/channel-24-logo-B70391F779-seeklogo.com.png" group-title="Informative [FHD]",SMCTV Channel 24 [FHD]
 https://livestream.telvue.com/santamariactv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="SafariTV.in" tvg-logo="https://image.pngaaa.com/720/3804720-middle.png" group-title="Informative",Safari TV
+#EXTINF:-1 tvg-id="SafariTV.in" tvg-logo="https://image.pngaaa.com/720/3804720-middle.png" group-title="Informative [SD]",Safari TV [SD]
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ShamsTV.af" tvg-logo="https://shamstv.com/wp-content/uploads/2014/08/logo.png" group-title="Informative",Shams TV
+#EXTINF:-1 tvg-id="ShamsTV.af" tvg-logo="https://shamstv.com/wp-content/uploads/2014/08/logo.png" group-title="Informative [FHD]",Shams TV [FHD]
 https://fflive-darya-educationtv.b-cdn.net/master.m3u8
 #EXTINF:-1 tvg-id="SmithsonianChannelSelects.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Smithsonian_Channel.png" group-title="Informative",Smithsonian Channel Selects
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f21ea08007a49000762d349/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=e2e71176-29a9-4e8d-a3aa-db73663bd89f
 #EXTINF:-1 tvg-id="SpikePlutoTV.us" tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/pages/images/2023/01/10/Spike_PlutoTV_Channel_1080x1080_Square-dcgunof5.png" group-title="Informative",Spike Pluto TV
 https://jmp2.uk/plu-5812bcc8237a6ff45d16c407.m3u8
-#EXTINF:-1 tvg-id="TERRA.ru" tvg-logo="https://media.licdn.com/dms/image/v2/C4D0BAQFGMvPOZtk3xg/company-logo_200_200/company-logo_200_200/0/1630555655333/terratvltd_logo?e=2147483647&v=beta&t=p3-neUX_37PjBI9TduwFtjS1dxfEF2Y4osqNVua19Kg" group-title="Informative",TERRA
-http://31.148.48.15/Terra_HD/index.m3u8
-#EXTINF:-1 tvg-id="TRTEBAIlkokul.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/TRT_EBA_TV_İlkokul_logo.svg/300px-TRT_EBA_TV_İlkokul_logo.svg.png?20220225175941" group-title="Informative",TRT EBA Ilkokul
+#EXTINF:-1 tvg-id="TERRA.ru" tvg-logo="https://media.licdn.com/dms/image/v2/C4D0BAQFGMvPOZtk3xg/company-logo_200_200/company-logo_200_200/0/1630555655333/terratvltd_logo?e=2147483647&v=beta&t=p3-neUX_37PjBI9TduwFtjS1dxfEF2Y4osqNVua19Kg" group-title="Informative [SD]",TERRA [SD]
+http://31.148.48.15/Terra/index.m3u8
+#EXTINF:-1 tvg-id="TRTEBAIlkokul.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/TRT_EBA_TV_İlkokul_logo.svg/300px-TRT_EBA_TV_İlkokul_logo.svg.png?20220225175941" group-title="Informative [HD]",TRT EBA Ilkokul [HD]
 https://tv-e-okul00.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTEBALise.tr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TRT_EBA_TV_Lise_logo.svg/revision/latest/scale-to-width-down/300?cb=20211117032254" group-title="Informative",TRT EBA Lise
+#EXTINF:-1 tvg-id="TRTEBALise.tr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TRT_EBA_TV_Lise_logo.svg/revision/latest/scale-to-width-down/300?cb=20211117032254" group-title="Informative [HD]",TRT EBA Lise [HD]
 https://tv-e-okul02.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TUTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/TUTV_11_2014.png" group-title="Informative",TUTV
+#EXTINF:-1 tvg-id="TUTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/TUTV_11_2014.png" group-title="Informative [FHD]",TUTV [FHD]
 https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMaya.gt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Maya_TV_logo.png/512px-Maya_TV_logo.png" group-title="Informative",TV Maya
-https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8
-#EXTINF:-1 tvg-id="TVUFG.br" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/32007853237753.592eaa636b86c.png" group-title="Informative",TV UFG
+#EXTINF:-1 tvg-id="TVUFG.br" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/32007853237753.592eaa636b86c.png" group-title="Informative [FHD]",TV UFG [FHD]
 http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
-#EXTINF:-1 tvg-id="TVUG.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1200px-Universal_Channel_Logo_2013.svg.png" group-title="Informative",TV UG
+#EXTINF:-1 tvg-id="TVUG.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1200px-Universal_Channel_Logo_2013.svg.png" group-title="Informative [FHD]",TV UG [FHD]
 https://5ca3e84a76d30.streamlock.net/universidadgto/videouniversidadgto/playlist.m3u8
-#EXTINF:-1 tvg-id="TVUJAT.mx" tvg-logo="https://i.imgur.com/4demWOi.png" group-title="Informative",TV UJAT
+#EXTINF:-1 tvg-id="TVUJAT.mx" tvg-logo="https://i.imgur.com/4demWOi.png" group-title="Informative [HD]",TV UJAT [HD]
 https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
-#EXTINF:-1 tvg-id="TVUniversidad.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1200px-Universal_Channel_Logo_2013.svg.png" group-title="Informative",TV Universidad
-https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
-#EXTINF:-1 tvg-id="TVERS.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/1280px-TVE.svg.png" group-title="Informative",TVE RS
+#EXTINF:-1 tvg-id="TVERS.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/1280px-TVE.svg.png" group-title="Informative [FHD]",TVE RS [FHD]
 https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
-#EXTINF:-1 tvg-id="TVK2.kh" tvg-logo="https://tvkhd.tv/wp-content/uploads/2024/07/23TVK2logo.png" group-title="Informative",TVK 2
+#EXTINF:-1 tvg-id="TVK2.kh" tvg-logo="https://tvkhd.tv/wp-content/uploads/2024/07/23TVK2logo.png" group-title="Informative [HD]",TVK 2 [HD]
 https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TeenMom.us" tvg-logo="https://cdn.justjared.com/wp-content/uploads/headlines/2022/08/mom-chap.jpg" group-title="Informative",Teen Mom
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6127e12ed140e900077e7b6f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=773b4ab9-534b-435a-904e-6819ef8dfb5e
-#EXTINF:-1 tvg-id="Telepace3.it" tvg-logo="https://www.tvdream.net/img/telepace-cover.jpg" group-title="Informative",Telepace 3
+#EXTINF:-1 tvg-id="Telepace3.it" tvg-logo="https://www.tvdream.net/img/telepace-cover.jpg" group-title="Informative [FHD]",Telepace 3 [FHD]
 https://932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="TerraMaterWILD.de" tvg-logo="https://images.pluto.tv/channels/65b923f90cb1a100088a03ab/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5&w=380" group-title="Informative",Terra Mater WILD
+#EXTINF:-1 tvg-id="TerraMaterWILD.de" tvg-logo="https://images.pluto.tv/channels/65b923f90cb1a100088a03ab/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5&w=380" group-title="Informative [SD]",Terra Mater WILD [SD]
 https://amg01775-amg01775c1-amgplt0002.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0002/playlist.m3u8
-#EXTINF:-1 tvg-id="TheNest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/The_Nest_2023.svg/640px-The_Nest_2023.svg.png" group-title="Informative",The Nest
+#EXTINF:-1 tvg-id="TheNest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/The_Nest_2023.svg/640px-The_Nest_2023.svg.png" group-title="Informative [FHD]",The Nest [FHD]
 https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
-#EXTINF:-1 tvg-id="UCTV.us" tvg-logo="http://www.uctv.tv/images/logos/UCTV-Horizontal-Clear-White-Background.jpg" group-title="Informative",UCTV
+#EXTINF:-1 tvg-id="UCTV.us" tvg-logo="http://www.uctv.tv/images/logos/UCTV-Horizontal-Clear-White-Background.jpg" group-title="Informative [HD]",UCTV [HD]
 https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="UMSATVUInternacional.bo" tvg-logo="https://play-lh.googleusercontent.com/4-fdtWsK4RgktEGJ2Y2WpqleP2sAjphQRCwEwYxMzKvTXUzcgGzvnSPJpL46vH-hpYA" group-title="Informative",UMSA TVU Internacional
+#EXTINF:-1 tvg-id="UMSATVUInternacional.bo" tvg-logo="https://play-lh.googleusercontent.com/4-fdtWsK4RgktEGJ2Y2WpqleP2sAjphQRCwEwYxMzKvTXUzcgGzvnSPJpL46vH-hpYA" group-title="Informative [HD]",UMSA TVU Internacional [HD]
 https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="UMSATVULP.bo" tvg-logo="https://play-lh.googleusercontent.com/4-fdtWsK4RgktEGJ2Y2WpqleP2sAjphQRCwEwYxMzKvTXUzcgGzvnSPJpL46vH-hpYA" group-title="Informative",UMSA TVU LP
+#EXTINF:-1 tvg-id="UMSATVULP.bo" tvg-logo="https://play-lh.googleusercontent.com/4-fdtWsK4RgktEGJ2Y2WpqleP2sAjphQRCwEwYxMzKvTXUzcgGzvnSPJpL46vH-hpYA" group-title="Informative [HD]",UMSA TVU LP [HD]
 https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="UNIANDESTV.ec" tvg-logo="https://uniandestv.com/images/logo.png" group-title="Informative",UNIANDES TV
 https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
-#EXTINF:-1 tvg-id="Unifranz.bo" tvg-logo="https://latimpacto.org/wp-content/uploads/2023/10/Unifranz.png" group-title="Informative",Unifranz
+#EXTINF:-1 tvg-id="Unifranz.bo" tvg-logo="https://latimpacto.org/wp-content/uploads/2023/10/Unifranz.png" group-title="Informative [HD]",Unifranz [HD]
 https://live.enhdtv.com:8081/8192/index.m3u8
-#EXTINF:-1 tvg-id="VyasChannel.in" tvg-logo="https://pbs.twimg.com/profile_images/1305910625390919680/xFY4vZK4_400x400.jpg" group-title="Informative",Vyas Channel
+#EXTINF:-1 tvg-id="VyasChannel.in" tvg-logo="https://pbs.twimg.com/profile_images/1305910625390919680/xFY4vZK4_400x400.jpg" group-title="Informative [FHD]",Vyas Channel [FHD]
 https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8
-#EXTINF:-1 tvg-id="WKMJDT1.us" tvg-logo="https://static.wikia.nocookie.net/dreamlogosandstations/images/6/65/WKMJ-8.png/revision/latest?cb=20210204121450" group-title="Informative",WKMJ-DT1
-https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
-#EXTINF:-1 tvg-id="WPSTV.us" tvg-logo="https://i.imgur.com/zwzmwse.jpg" group-title="Informative",WPS-TV
+#EXTINF:-1 tvg-id="WPSTV.us" tvg-logo="https://i.imgur.com/zwzmwse.jpg" group-title="Informative [FHD]",WPS-TV [FHD]
 https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8
-#EXTINF:-1 tvg-id="WikiTV.kh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/1200px-ITV_logo_2019.svg.png" group-title="Informative",Wiki TV
+#EXTINF:-1 tvg-id="WikiTV.kh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/1200px-ITV_logo_2019.svg.png" group-title="Informative [SD]",Wiki TV [SD]
 https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="WorldChannel.us" tvg-logo="https://pics.filmaffinity.com/world_channel-114957262101248-nm_large.jpg" group-title="Informative",World Channel
+#EXTINF:-1 tvg-id="WorldChannel.us" tvg-logo="https://pics.filmaffinity.com/world_channel-114957262101248-nm_large.jpg" group-title="Informative [FHD]",World Channel [FHD]
 https://world.lls.pbs.org/index.m3u8
-#EXTINF:-1 tvg-id="XEIPNTDT.mx" tvg-logo="https://slidetodoc.com/presentation_image_h/c1bdac62819ad5e92c830de4f951ef24/image-1.jpg" group-title="Informative",XEIPN-TDT
+#EXTINF:-1 tvg-id="XEIPNTDT.mx" tvg-logo="https://slidetodoc.com/presentation_image_h/c1bdac62819ad5e92c830de4f951ef24/image-1.jpg" group-title="Informative [FHD]",XEIPN-TDT [FHD]
 https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
-#EXTINF:-1 tvg-id="XHMNLTDT.mx" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/TVNL_(1998).png/revision/latest/scale-to-width-down/198?cb=20230319143207&path-prefix=es" group-title="Informative",XHMNL-TDT
+#EXTINF:-1 tvg-id="XHMNLTDT.mx" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/TVNL_(1998).png/revision/latest/scale-to-width-down/198?cb=20230319143207&path-prefix=es" group-title="Informative [HD]",XHMNL-TDT [HD]
 https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
-#EXTINF:-1 tvg-id="XHPBZCTDT2.mx" tvg-logo="https://i.imgur.com/dbJKErB.png" group-title="Informative",XHPBZC-TDT2
+#EXTINF:-1 tvg-id="XHPBZCTDT2.mx" tvg-logo="https://i.imgur.com/dbJKErB.png" group-title="Informative [HD]",XHPBZC-TDT2 [HD]
 https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8
-#EXTINF:-1 tvg-id="XHSPRTDT1.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_Canal_14_México.svg/2000px-Logo_Canal_14_México.svg.png" group-title="Informative",XHSPR-TDT1
-https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
-#EXTINF:-1 tvg-id="XHUNESTDT.mx" tvg-logo="https://img1.pnghut.com/12/18/24/ZRew8tCs13/streaming-television-symbol-text-yellow-xhgctdt.jpg" group-title="Informative",XHUNES-TDT
+#EXTINF:-1 tvg-id="XHUNESTDT.mx" tvg-logo="https://img1.pnghut.com/12/18/24/ZRew8tCs13/streaming-television-symbol-text-yellow-xhgctdt.jpg" group-title="Informative [SD]",XHUNES-TDT [SD]
 https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
 #EXTINF:-1 tvg-id="Yaslyk.tm" tvg-logo="https://www.lyngsat.com/logo/tv/yy/yaslyk-tm.png" group-title="Informative",Yaslyk
 https://alpha.tv.online.tm/hls/ch002.m3u8
-#EXTINF:-1 tvg-id="Zoom.co" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ab/Zoom_TV.png/revision/latest?cb=20111013233308" group-title="Informative",Zoom
-https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
-#EXTINF:-1 tvg-id="iSTUFF.de" tvg-logo="https://www.nipponamerica.com/cdn/shop/files/Istuff_logo.jpg?v=1739172999&width=768" group-title="Informative",iSTUFF
+#EXTINF:-1 tvg-id="iSTUFF.de" tvg-logo="https://www.nipponamerica.com/cdn/shop/files/Istuff_logo.jpg?v=1739172999&width=768" group-title="Informative [HD]",iSTUFF [HD]
 https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8
-#EXTINF:-1 tvg-id="7STORIA.it" tvg-logo="https://i.imgur.com/rF3tpbR.jpeg" group-title="Informative",7 STORIA
-https://stream10.xdevel.com/video2s976543-2104/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCFour.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BBC_Four.svg/1280px-BBC_Four.svg.png" group-title="Informative",BBC Four
-https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8
 #EXTINF:-1 tvg-id="CT2.cz" tvg-logo="https://logowik.com/content/uploads/images/ct2-tv7929.logowik.com.webp" group-title="Informative",CT2
 http://88.212.15.19/live/test_ct2_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="CiftciTV.tr" tvg-logo="https://i.imgur.com/CLzP4vL.png" group-title="Informative",Ciftci TV
+#EXTINF:-1 tvg-id="CiftciTV.tr" tvg-logo="https://i.imgur.com/CLzP4vL.png" group-title="Informative [HD]",Ciftci TV [HD]
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
-#EXTINF:-1 tvg-id="HRT3.hr" tvg-logo="https://i.imgur.com/4OrOJRx.png" group-title="Informative",HRT 3
-https://webtvstream.bhtelecom.ba/hrt3.m3u8
-#EXTINF:-1 tvg-id="KMOSDT1.us" tvg-logo="https://static.wikia.nocookie.net/tvstations/images/f/fb/KMOS_PBS_logo.png/revision/latest?cb=20220122020343" group-title="Informative",KMOS-DT1
-https://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8
 #EXTINF:-1 tvg-id="UnisulTV.br" tvg-logo="https://2.bp.blogspot.com/-NLrsj5tuCPI/W1d4FKNYOwI/AAAAAAAAAsk/FTCgpljEkYIEShyjKHP1eutiFqE28kolACLcBGAs/s320/UnisulTV+Logo.png" group-title="Informative",Unisul TV
 https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
-#EXTINF:-1 tvg-id="JiangsuEducationalChannel.cn" tvg-logo="https://www.pngkey.com/png/detail/616-6167035_jiangsu-tv-logo.png" group-title="Informative",Jiangsu Educational Channel
-http://183.207.248.71/gitv/live1/G_JSJY/G_JSJY
-#EXTINF:-1 tvg-id="History.pl" tvg-logo="https://w7.pngwing.com/pngs/1/536/png-transparent-history-television-channel-logo-television-show-tv-channel-television-angle-furniture.png" group-title="Informative",History
-https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc004/historyhdraw/historyhdraw.m3u8
-#EXTINF:-1 tvg-id="History2.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="Informative",History 2
-https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc008/history2hdraw/history2hdraw.m3u8
-#EXTINF:-1 tvg-id="TeleUV.mx" tvg-logo="https://i.imgur.com/8MdUH69.jpeg" group-title="Informative",Tele UV
-https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.in" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/national-geographic-channel-logo-png-transparent.png" group-title="Informative",National Geographic
 http://103.157.248.140:8000/play/a012/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/2560px-National_Geographic_Wild_logo.svg.png" group-title="Informative",National Geographic Wild
 http://103.157.248.140:8000/play/a010/index.m3u8
-#EXTINF:-1 tvg-id="CanThoTV2.vn" tvg-logo="https://www.lyngsat.com/logo/tv/cc/can-tho-tv-vn.png" group-title="Informative",Can Tho TV 2
-https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/haugiangtv.m3u8
-#EXTINF:-1 tvg-id="DocumentaryPlus.us" tvg-logo="https://thestreamable.com/media/pages/video-streaming/documentary-plus/037830bfe1-1706732794/images_docu-black.svg" group-title="Informative",Documentary+
+#EXTINF:-1 tvg-id="DocumentaryPlus.us" tvg-logo="https://thestreamable.com/media/pages/video-streaming/documentary-plus/037830bfe1-1706732794/images_docu-black.svg" group-title="Informative [FHD]",Documentary+ [FHD]
 https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="HTVKey.vn" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3b/HTV_Key_logo_2018.png/revision/latest/scale-to-width-down/220?cb=20230413121503&path-prefix=vi" group-title="Informative",HTV Key
+#EXTINF:-1 tvg-id="HTVKey.vn" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3b/HTV_Key_logo_2018.png/revision/latest/scale-to-width-down/220?cb=20230413121503&path-prefix=vi" group-title="Informative [SD]",HTV Key [SD]
 https://liveh12.vtvprime.vn/hls/HTVKey/index.m3u8
-#EXTINF:-1 tvg-id="CNAOriginals.sg" tvg-logo="https://seeklogo.com/images/C/cna-channel-news-asia-logo-4FFB05C856-seeklogo.com.png" group-title="Informative",CNA Originals
-https://amg01082-cna-amg01082c1-vidaa-gb-7580.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WildEarth.za" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2023-06/WildEarth_logo.png?itok=yvO4M3Vn" group-title="Informative",WildEarth
+#EXTINF:-1 tvg-id="CNAOriginals.sg" tvg-logo="https://seeklogo.com/images/C/cna-channel-news-asia-logo-4FFB05C856-seeklogo.com.png" group-title="Informative [SD]",CNA Originals [SD]
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cna-originals/playlist.m3u8?ads.vf=P3eUYyWBR74
+#EXTINF:-1 tvg-id="WildEarth.za" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2023-06/WildEarth_logo.png?itok=yvO4M3Vn" group-title="Informative [SD]",WildEarth [SD]
 https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
-#EXTINF:-1 tvg-id="FacultyTV.gh" tvg-logo="https://play-lh.googleusercontent.com/iRggAsYEu88LNPr-8y3pM1oQwzdoA3NPFoSe0auCQt_VK0RgEjuiYNfxwuFcAvYOf3g" group-title="Informative",Faculty TV
-https://stream-server9-jupiter.muxlive.com/hls/facultytv/index.m3u8
-#EXTINF:-1 tvg-id="DeadlyWomen.us" tvg-logo="https://static.wikia.nocookie.net/deadlywomen/images/9/90/Deadly_Women_logo.png/revision/latest/scale-to-width-down/268?cb=20201210172552" group-title="Informative",Deadly Women
+#EXTINF:-1 tvg-id="DeadlyWomen.us" tvg-logo="https://static.wikia.nocookie.net/deadlywomen/images/9/90/Deadly_Women_logo.png/revision/latest/scale-to-width-down/268?cb=20201210172552" group-title="Informative [SD]",Deadly Women [SD]
 https://jmp2.uk/plu-5ca1df0d50be2571e393ad31.m3u8
-#EXTINF:-1 tvg-id="OEncantadordeCaes.us" tvg-logo="https://images.justwatch.com/poster/207545667/s718/temporada-1.jpg" group-title="Informative",O Encantador de Caes
-https://jmp2.uk/plu-61099df8cee03b00074b2ecf.m3u8
 #EXTINF:-1 tvg-id="OnTheCase.us" tvg-logo="https://www.avid.wiki/w/thumb.php?f=Case_Television_(1994)_(From_-_VHS_release_of_Fourways_Farm_Ups_and_Downs_and_Other_Stories).png&width=1200" group-title="Informative",On The Case
 https://jmp2.uk/plu-615af74dfe3d8e0007524511.m3u8
 #EXTINF:-1 tvg-id="PlutoTVMinhaObsessaoFavorita.us" tvg-logo="https://images.pluto.tv/channels/6109ab25b84d6a0007504886/featuredImage.jpg" group-title="Informative",Pluto TV Minha Obsessao Favorita
 https://jmp2.uk/plu-61843f5e491af10007f7eefa.m3u8
-#EXTINF:-1 tvg-id="PlutoTVPaisagensporStingray.us" tvg-logo="https://images.pluto.tv/channels/604a8dedbca75b0007b1c753/solidLogoSVG.svg?auto=&trim=auto&ixlib=react-9.1.5&h=50&dpr=3&q=35" group-title="Informative",Pluto TV Paisagens por Stingray
-https://jmp2.uk/plu-604a8dedbca75b0007b1c753.m3u8
 #EXTINF:-1 tvg-id="SensingMurder.us" tvg-logo="https://image.tmdb.org/t/p/original/qz76CzITYS5Fd4XVahdasweuta8.jpg" group-title="Informative",Sensing Murder
 https://jmp2.uk/plu-5e9ed47c26ebb000074af566.m3u8
 #EXTINF:-1 tvg-id="CuriosityChannel.de" tvg-logo="https://images.seeklogo.com/logo-png/48/1/curiosity-channel-logo-png_seeklogo-484234.png" group-title="Informative",Curiosity Channel
 https://jmp2.uk/plu-6576c20fb3801200084786c9.m3u8
-#EXTINF:-1 tvg-id="EBCGeneralEducation.kh" tvg-logo="https://images.khmer24.co/23-03-02/s-802814-hr-manager-1677727809-43995794-b.jpg" group-title="Informative",EBC General Education
+#EXTINF:-1 tvg-id="EBCGeneralEducation.kh" tvg-logo="https://images.khmer24.co/23-03-02/s-802814-hr-manager-1677727809-43995794-b.jpg" group-title="Informative [HD]",EBC General Education [HD]
 https://iptv.ebc.edu.kh/iptv/channel/1.m3u8
-#EXTINF:-1 tvg-id="NatickEducationChannel.us" tvg-logo="https://www.natickpegasus.org/uploads/5/0/2/1/50218995/1430105267.png" group-title="Informative",Natick Education Channel
+#EXTINF:-1 tvg-id="NatickEducationChannel.us" tvg-logo="https://www.natickpegasus.org/uploads/5/0/2/1/50218995/1430105267.png" group-title="Informative [HD]",Natick Education Channel [HD]
 https://livestream.telvue.com/natickpegasus1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="History.jp" tvg-logo="https://www.nicepng.com/png/detail/877-8779091_history-channel-us-history-channel-logo-transparent.png" group-title="Informative",History
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09
 #EXTINF:-1 tvg-id="NationalGeographic.jp" tvg-logo="https://www.seekpng.com/png/full/83-830426_national-geographic-logo-png.png" group-title="Informative",National Geographic
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10
-#EXTINF:-1 tvg-id="AlternaTV.ar" tvg-logo="https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063713564085" group-title="Informative",AlternaTV
-https://tv.alterna.ar/stream/hls/live.m3u8
 #EXTINF:-1 tvg-id="OneTVESchoolCambodia.kh" tvg-logo="https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=61555707818307" group-title="Informative",One TV E-School Cambodia
 http://49.156.33.114:5080/live/streams/elearning.playlist.m3u8
-#EXTINF:-1 tvg-id="TRTEBA.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/TRT_EBA_TV_İlkokul_logo.svg/300px-TRT_EBA_TV_İlkokul_logo.svg.png?20220225175941" group-title="Informative",TRT EBA
+#EXTINF:-1 tvg-id="TRTEBA.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/TRT_EBA_TV_İlkokul_logo.svg/300px-TRT_EBA_TV_İlkokul_logo.svg.png?20220225175941" group-title="Informative [HD]",TRT EBA [HD]
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="scifi.ru" tvg-logo="https://www.nicepng.com/png/detail/290-2900763_sci-fi-channel-sci-fi-tv-logo.png" group-title="Informative",.sci-fi
+#EXTINF:-1 tvg-id="scifi.ru" tvg-logo="https://www.nicepng.com/png/detail/290-2900763_sci-fi-channel-sci-fi-tv-logo.png" group-title="Informative [SD]",.sci-fi [SD]
 http://31.148.48.15/SONY_SCI_FI/index.m3u8
-#EXTINF:-1 tvg-id="365daysTV.ru" tvg-logo="https://e7.pngegg.com/pngimages/302/314/png-clipart-365-days-tv-television-channel-digital-television-television-show-logo-office-365-television-text.png" group-title="Informative",365 days TV
+#EXTINF:-1 tvg-id="365daysTV.ru" tvg-logo="https://e7.pngegg.com/pngimages/302/314/png-clipart-365-days-tv-television-channel-digital-television-television-show-logo-office-365-television-text.png" group-title="Informative [SD]",365 days TV [SD]
 http://31.148.48.15/365_dney/index.m3u8
-#EXTINF:-1 tvg-id="Doctor.ru" tvg-logo="https://drtvchannel.com/wp-content/uploads/2024/08/DrTV-logo.png" group-title="Informative",Doctor
+#EXTINF:-1 tvg-id="Doctor.ru" tvg-logo="https://drtvchannel.com/wp-content/uploads/2024/08/DrTV-logo.png" group-title="Informative [FHD]",Doctor [FHD]
 http://31.148.48.15/Doktor/index.m3u8
-#EXTINF:-1 tvg-id="EnglishClass.ru" tvg-logo="https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100066957054978" group-title="Informative",English Class
+#EXTINF:-1 tvg-id="EnglishClass.ru" tvg-logo="https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100066957054978" group-title="Informative [FHD]",English Class [FHD]
 http://31.148.48.15/English_club_TV_HD/index.m3u8
-#EXTINF:-1 tvg-id="Ktoestkto.ru" tvg-logo="https://kto-production.eu-west-3.ancdn.tv/configuration/trajbyigDurjqGradpyichibKendyimq/data/images/815faedfb30d220e28dc930c0607e628a4ec698ea9e302f01f88e99ec210e585.png" group-title="Informative",Kto est kto
+#EXTINF:-1 tvg-id="Ktoestkto.ru" tvg-logo="https://kto-production.eu-west-3.ancdn.tv/configuration/trajbyigDurjqGradpyichibKendyimq/data/images/815faedfb30d220e28dc930c0607e628a4ec698ea9e302f01f88e99ec210e585.png" group-title="Informative [SD]",Kto est kto [SD]
 http://31.148.48.15/Kto_est_kto/index.m3u8
-#EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-logo="https://www.vhv.rs/dpng/d/103-1031276_bloomberg-tv-logo-png-transparent-png.png" group-title="Informative",Bloomberg Originals
+#EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-logo="https://www.vhv.rs/dpng/d/103-1031276_bloomberg-tv-logo-png-transparent-png.png" group-title="Informative [HD]",Bloomberg Originals [HD]
 https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="ViasatExplore.tr" tvg-logo="https://images.seeklogo.com/logo-png/33/1/viasat-explore-logo-png_seeklogo-330558.png" group-title="Informative",Viasat Explore
-https://tv.arectv29.sbs/live/viasathistory.m3u8
-#EXTINF:-1 tvg-id="DangerTV.us" tvg-logo="https://aimmgrowthfronts.com/wp-content/uploads/2023/02/DangerTV-default_v3.png" group-title="Informative",Danger TV
+#EXTINF:-1 tvg-id="DangerTV.us" tvg-logo="https://aimmgrowthfronts.com/wp-content/uploads/2023/02/DangerTV-default_v3.png" group-title="Informative [SD]",Danger TV [SD]
 https://dk0n7jh428tzj.cloudfront.net/v1/dangertv/samsungheadend_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="LuckyDog.us" tvg-logo="https://images.fanart.tv/fanart/lucky-dog-626d4c3f5c447.png" group-title="Informative",Lucky Dog
+#EXTINF:-1 tvg-id="LuckyDog.us" tvg-logo="https://images.fanart.tv/fanart/lucky-dog-626d4c3f5c447.png" group-title="Informative [SD]",Lucky Dog [SD]
 https://d3j95sejv6mybj.cloudfront.net/Lucky_Dog.m3u8
-#EXTINF:-1 tvg-id="Unidentified.us" tvg-logo="https://yt3.ggpht.com/a/AATXAJwhojPQBLGVxizDJkj7Kb1tClyQ2Z7rj74uzwLh=s900-c-k-c0xffffffff-no-rj-mo" group-title="Informative",Unidentified
+#EXTINF:-1 tvg-id="Unidentified.us" tvg-logo="https://yt3.ggpht.com/a/AATXAJwhojPQBLGVxizDJkj7Kb1tClyQ2Z7rj74uzwLh=s900-c-k-c0xffffffff-no-rj-mo" group-title="Informative [HD]",Unidentified [HD]
 https://d3ify425qsio2d.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="ChinaTravel.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Travel_Channel_logo.png" group-title="Informative",China Travel
+#EXTINF:-1 tvg-id="ChinaTravel.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Travel_Channel_logo.png" group-title="Informative [FHD]",China Travel [FHD]
 https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
-#EXTINF:-1 tvg-id="DiscoveringChina.cn" tvg-logo="https://stuarte.co/wp-content/uploads/2014/08/Chinese-Channels-in-NYC.jpg" group-title="Informative",Discovering China
+#EXTINF:-1 tvg-id="DiscoveringChina.cn" tvg-logo="https://stuarte.co/wp-content/uploads/2014/08/Chinese-Channels-in-NYC.jpg" group-title="Informative [FHD]",Discovering China [FHD]
 https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
-#EXTINF:-1 tvg-id="TV7.dz" tvg-logo="http://www.tv7.fi/wp-content/uploads/2018/06/tv7-logo-color-rgb.png" group-title="Informative",TV7
-http://5.253.46.190:8000/play/a0eq/index.m3u8
-#EXTINF:-1 tvg-id="TV8.dz" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/68/Tv8_Yeni_Logo.png/revision/latest?cb=20160310161553" group-title="Informative",TV8
-http://5.253.46.190:8000/play/a0er/index.m3u8
 #EXTINF:-1 tvg-id="CanalEducativo.cu" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/CECuba2002.png/revision/latest/scale-to-width-down/1200?cb=20210602021150&path-prefix=es" group-title="Informative",Canal Educativo
 https://tv.picta.cu/educativo/educativo_0.m3u8
 #EXTINF:-1 tvg-id="CanalEducativo2.cu" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/CE2Cuba2004.png/revision/latest?cb=20210602021451&path-prefix=es" group-title="Informative",Canal Educativo 2
 https://tv.picta.cu/educativo2/educativo2_0.m3u8
-#EXTINF:-1 tvg-id="DaVinci.pl" tvg-logo="https://latestlogo.com/wp-content/uploads/2023/12/da-vinci-channel-logo.png" group-title="Informative",Da Vinci
-https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc109/davincihdraw/davincihdraw.m3u8
-#EXTINF:-1 tvg-id="INWILD.nl" tvg-logo="https://axiommedia.co/wp-content/uploads/2020/12/inwild-use.png" group-title="Informative",INWILD
+#EXTINF:-1 tvg-id="INWILD.nl" tvg-logo="https://axiommedia.co/wp-content/uploads/2020/12/inwild-use.png" group-title="Informative [SD]",INWILD [SD]
 https://amg00861-terninternation-inwild-samsungau-3qrga.amagi.tv/playlist/amg00861-terninternation-inwild-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="DocuBox.nl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/DocuBox_HD_logo.png" group-title="Informative",DocuBox
-https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc110/docuboxhdraw/docuboxhdraw.m3u8
-#EXTINF:-1 tvg-id="PaighanTV.pk" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/ad3e3e139111793.Y3JvcCw4ODcsNjk0LDUwMiwyMDI.jpg" group-title="Informative",Paighan TV
-http://116.90.120.151:8000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="TVUFOP.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/CPI_do_Assassinato_de_Jovens_-_CPIADJ_%2827474378481%29.jpg/250px-CPI_do_Assassinato_de_Jovens_-_CPIADJ_%2827474378481%29.jpg" group-title="Informative",TV UFOP
 https://app.tvufop.com.br/hls/tvufop.m3u8
-#EXTINF:-1 tvg-id="Smotrim100Fakty.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/250px-REN_TV_logo_2017.svg.png" group-title="Informative",Smotrim 100% Fakty
-https://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d34f
-#EXTINF:-1 tvg-id="CCTV10.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/China_Central_Television_HQ%2C_from_China_World_Trade_Centre_%28Cropped%29.jpg/250px-China_Central_Television_HQ%2C_from_China_World_Trade_Centre_%28Cropped%29.jpg" group-title="Informative",CCTV-10
+#EXTINF:-1 tvg-id="CCTV10.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/China_Central_Television_HQ%2C_from_China_World_Trade_Centre_%28Cropped%29.jpg/250px-China_Central_Television_HQ%2C_from_China_World_Trade_Centre_%28Cropped%29.jpg" group-title="Informative [HD]",CCTV-10 [HD]
 http://74.91.26.218:82/live/cctv10hd.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.pl" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=natgeotv.com" group-title="Informative",National Geographic
-https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc103/nationalgeographichdraw/nationalgeographichdraw.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWild.pl" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=natgeotv.com" group-title="Informative",National Geographic Wild
-https://liveovh010.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc104/nationalgeographicwildhdraw/nationalgeographicwildhdraw.mpd
-#EXTINF:-1 tvg-id="Declassified.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Christian_Serratos_by_Gage_Skidmore.jpg/250px-Christian_Serratos_by_Gage_Skidmore.jpg" group-title="Informative",Declassified
+#EXTINF:-1 tvg-id="Declassified.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Christian_Serratos_by_Gage_Skidmore.jpg/250px-Christian_Serratos_by_Gage_Skidmore.jpg" group-title="Informative [HD]",Declassified [HD]
 https://jmp2.uk/plu-62bdaf9cf1bdc500073a8bcb.m3u8
-#EXTINF:-1 tvg-id="NatureTime.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/DTX_Logo.png/250px-DTX_Logo.png" group-title="Informative",NatureTime
+#EXTINF:-1 tvg-id="NatureTime.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/DTX_Logo.png/250px-DTX_Logo.png" group-title="Informative [SD]",NatureTime [SD]
 https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="TotalCrime.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/250px-Oxygen_TV_%282017_Logo%29.svg.png" group-title="Informative",Total Crime
+#EXTINF:-1 tvg-id="TotalCrime.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/250px-Oxygen_TV_%282017_Logo%29.svg.png" group-title="Informative [SD]",Total Crime [SD]
 https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8
-#EXTINF:-1 tvg-id="Wonder.uk" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=littledotstudios.com" group-title="Informative",Wonder
-https://lds-wonder-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="HistoryAsia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/250px-Logo_tvN.svg.png" group-title="Informative",History Asia
+#EXTINF:-1 tvg-id="Wonder.uk" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=littledotstudios.com" group-title="Informative [SD]",Wonder [SD]
+https://lds-wonder-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HistoryAsia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/250px-Logo_tvN.svg.png" group-title="Informative [SD]",History Asia [SD]
 https://liveh34.vtvprime.vn/hls/HISTORY/index.m3u8
 #EXTINF:-1 tvg-id="CrimenHistoria.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/250px-History_%282021%29.svg.png" group-title="Informative",Crimen & Historia
 https://jmp2.uk/plu-64ddcbb14c5ed80008fad416.m3u8
-#EXTINF:-1 tvg-id="EnLenguadeSenasTV.py" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/250px-Flag_of_Colombia.svg.png" group-title="Informative",En Lengua de Senas TV
+#EXTINF:-1 tvg-id="EnLenguadeSenasTV.py" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/250px-Flag_of_Colombia.svg.png" group-title="Informative [SD]",En Lengua de Senas TV [SD]
 https://cloudtv.streaming.com.py/lenguasdesenas/lenguasdesenas/chunklist.m3u8
-#EXTINF:-1 tvg-id="HistoryHit.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/250px-MTV_Hits_2021.svg.png" group-title="Informative",History Hit
-https://lds-timeline-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="KMOSTV61.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/KMOS-TV_studio_-_Sedalia%2C_Missouri.jpg/250px-KMOS-TV_studio_-_Sedalia%2C_Missouri.jpg" group-title="Informative",KMOS-TV 6.1
+#EXTINF:-1 tvg-id="HistoryHit.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/250px-MTV_Hits_2021.svg.png" group-title="Informative [SD]",History Hit [SD]
+https://amg00426-lds-amg00426c2-samsung-ph-4623.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KMOSTV61.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/KMOS-TV_studio_-_Sedalia%2C_Missouri.jpg/250px-KMOS-TV_studio_-_Sedalia%2C_Missouri.jpg" group-title="Informative [SD]",KMOS-TV 6.1 [SD]
 https://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8
-#EXTINF:-1 tvg-id="KTOOTV33.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Alaska_Public_Media_logo.svg/250px-Alaska_Public_Media_logo.svg.png" group-title="Informative",KTOO-TV 3.3
+#EXTINF:-1 tvg-id="KTOOTV33.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Alaska_Public_Media_logo.svg/250px-Alaska_Public_Media_logo.svg.png" group-title="Informative [FHD]",KTOO-TV 3.3 [FHD]
 https://api.v3.invintus.com/StreamURI/persis/2147483647/KTOO360TV.stream/media.m3u8
-#EXTINF:-1 tvg-id="LovePets.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Minimax_%282021%29.webp/250px-Minimax_%282021%29.webp.png" group-title="Informative",Love Pets
+#EXTINF:-1 tvg-id="LovePets.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Minimax_%282021%29.webp/250px-Minimax_%282021%29.webp.png" group-title="Informative [SD]",Love Pets [SD]
 https://d31r8y66tn175.cloudfront.net/Love_Pets.m3u8
 #EXTINF:-1 tvg-id="StorieCriminali.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Nicolai_Lilin.jpg/250px-Nicolai_Lilin.jpg" group-title="Informative",Storie Criminali
 https://jmp2.uk/plu-66177d18c8311c0008d077d0.m3u8
-#EXTINF:-1 tvg-id="WKMJTV681.us" tvg-logo="https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png" group-title="Informative",WKMJ-TV 68.1
+#EXTINF:-1 tvg-id="WKMJTV681.us" tvg-logo="https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png" group-title="Informative [HD]",WKMJ-TV 68.1 [HD]
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
 #EXTINF:-1 tvg-id="BTBInfo.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/PAL_and_D2-MAC_Transmission.png/250px-PAL_and_D2-MAC_Transmission.png" group-title="Informative",BTB Info
 https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8
-#EXTINF:-1 tvg-id="CCTV9.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/China_Central_Television_HQ%2C_from_China_World_Trade_Centre_%28Cropped%29.jpg/250px-China_Central_Television_HQ%2C_from_China_World_Trade_Centre_%28Cropped%29.jpg" group-title="Informative",CCTV-9
+#EXTINF:-1 tvg-id="CCTV9.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/China_Central_Television_HQ%2C_from_China_World_Trade_Centre_%28Cropped%29.jpg/250px-China_Central_Television_HQ%2C_from_China_World_Trade_Centre_%28Cropped%29.jpg" group-title="Informative [FHD]",CCTV-9 [FHD]
 https://xykt-fix.github.io/Y77.m3u8
-#EXTINF:-1 tvg-id="CuriosityNOW.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CuriosityStreamBlack.svg/250px-CuriosityStreamBlack.svg.png" group-title="Informative",Curiosity NOW
+#EXTINF:-1 tvg-id="CuriosityNOW.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CuriosityStreamBlack.svg/250px-CuriosityStreamBlack.svg.png" group-title="Informative [SD]",Curiosity NOW [SD]
 https://amg00170-amg00170c4-samsung-gb-4232.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Getfactual.us" tvg-logo="https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png" group-title="Informative",Get.factual
+#EXTINF:-1 tvg-id="Getfactual.us" tvg-logo="https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png" group-title="Informative [HD]",Get.factual [HD]
 https://d1nhni5l2n8hjt.cloudfront.net/gf.m3u8
-#EXTINF:-1 tvg-id="WaterBear.ch" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=waterbear.com" group-title="Informative",WaterBear
+#EXTINF:-1 tvg-id="WaterBear.ch" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=waterbear.com" group-title="Informative [SD]",WaterBear [SD]
 https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8
-#EXTINF:-1 tvg-id="vijuHistory.ru" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=viju.ru" group-title="Informative",viju History
-http://tmptv.sunduk.tv/CH133/index.m3u8
-#EXTINF:-1 tvg-id="EkoTV.ua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/TOKU_channel_logo.png/250px-TOKU_channel_logo.png" group-title="Informative",Eko TV
-https://ext.cdn.nashnet.tv/228.0.1.60/index.m3u8
-#EXTINF:-1 tvg-id="DaVinci.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Sal_Da_Vinci_Napoli_2025-06-23_%284%29_%28cropped%29.jpg/250px-Sal_Da_Vinci_Napoli_2025-06-23_%284%29_%28cropped%29.jpg" group-title="Informative",Da Vinci
-http://tmptv.sunduk.tv/CH205/index.m3u8
-#EXTINF:-1 tvg-id="vijuNature.ru" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=viju.ru" group-title="Informative",viju Nature
-http://tmptv.sunduk.tv/CH203/index.m3u8
-#EXTINF:-1 tvg-id="CCTV17.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/China_Central_Television_HQ%2C_from_China_World_Trade_Centre_%28Cropped%29.jpg/250px-China_Central_Television_HQ%2C_from_China_World_Trade_Centre_%28Cropped%29.jpg" group-title="Informative",CCTV-17
+#EXTINF:-1 tvg-id="CCTV17.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/China_Central_Television_HQ%2C_from_China_World_Trade_Centre_%28Cropped%29.jpg/250px-China_Central_Television_HQ%2C_from_China_World_Trade_Centre_%28Cropped%29.jpg" group-title="Informative [HD]",CCTV-17 [HD]
 http://74.91.26.218:82/live/cctv17hd.m3u8
-#EXTINF:-1 tvg-id="CCTV7.cn" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=tv.cctv.com" group-title="Informative",CCTV-7
+#EXTINF:-1 tvg-id="CCTV7.cn" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=tv.cctv.com" group-title="Informative [HD]",CCTV-7 [HD]
 http://74.91.26.218:82/live/cctv7hd.m3u8
+#EXTINF:-1 tvg-id="nasa_tv_uhd" tvg-logo="https://i.ibb.co/V9hPhYQ/NASA-TV-logo-svg.png" group-title="Informative",NASA TV UHD
+https://endpnt.com/hls/nasa4k/playlist.m3u8
+#EXTINF:-1 tvg-id="dw_documentary" tvg-logo="https://i.ibb.co/5cQ32qV/DW-Deutsch-logo-svg.png" group-title="Informative",DW Documentary
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+#EXTINF:-1 tvg-id="un_web_tv" tvg-logo="https://i.ibb.co/rQfLgG7/UN-Web-TV-logo-svg.png" group-title="Informative",UN Web TV
+https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-id="ETV.th" tvg-logo="https://logodix.com/logo/2167608.jpg" group-title="Informative",ETV
+http://150.95.66.20:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="KTOODT3.us" tvg-logo="https://i.imgur.com/ppn5oJy.png" group-title="Informative",KTOO-DT3
+https://api.v3.invintus.com/StreamURI/persis/2147483647/KTOO360TV.stream/media.m3u8
+#EXTINF:-1 tvg-id="NatureTime.es" tvg-logo="https://i.imgur.com/72JmyjM.png" group-title="Informative",NatureTime
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61fc0df14159c40007250432/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0689f1-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c6eb9bb4-6b13-4301-ab2b-7475ad0a7145
+#EXTINF:-1 tvg-id="RinjaniTV.id" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rinjani-tv-id.png" group-title="Informative",Rinjani TV
+https://rinjanitv.cloud/hls/tvkabel.m3u8
+#EXTINF:-1 tvg-id="WKMJDT1.us" tvg-logo="https://static.wikia.nocookie.net/dreamlogosandstations/images/6/65/WKMJ-8.png/revision/latest?cb=20210204121450" group-title="Informative",WKMJ-DT1
+https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCFour.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BBC_Four.svg/1280px-BBC_Four.svg.png" group-title="Informative",BBC Four
+https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8
+#EXTINF:-1 tvg-id="KMOSDT1.us" tvg-logo="https://static.wikia.nocookie.net/tvstations/images/f/fb/KMOS_PBS_logo.png/revision/latest?cb=20220122020343" group-title="Informative",KMOS-DT1
+https://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8
+#EXTINF:-1 tvg-id="OEncantadordeCaes.us" tvg-logo="https://images.justwatch.com/poster/207545667/s718/temporada-1.jpg" group-title="Informative",O Encantador de Caes
+https://jmp2.uk/plu-61099df8cee03b00074b2ecf.m3u8
+#EXTINF:-1 tvg-id="PlutoTVPaisagensporStingray.us" tvg-logo="https://images.pluto.tv/channels/604a8dedbca75b0007b1c753/solidLogoSVG.svg?auto=&trim=auto&ixlib=react-9.1.5&h=50&dpr=3&q=35" group-title="Informative [HD]",Pluto TV Paisagens por Stingray [HD]
+https://jmp2.uk/plu-604a8dedbca75b0007b1c753.m3u8
+#EXTINF:-1 tvg-id="AlternaTV.ar" tvg-logo="https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063713564085" group-title="Informative",AlternaTV
+https://tv.alterna.ar/stream/hls/live.m3u8
+#EXTINF:-1 tvg-id="InkMaster.us" tvg-logo="https://w7.pngwing.com/pngs/799/379/png-transparent-ink-master-television-show-paramount-network-reality-television-others-television-ink-text.png" group-title="Informative",Ink Master
+https://jmp2.uk/plu-60807fd5db701400078219c2.m3u8
+#EXTINF:-1 tvg-id="M5.hu" tvg-logo="https://i.imgur.com/DIQCr0b.jpg" group-title="Informative",M5
+http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-id="N24Doku.de" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/N24Doku_logo.png" group-title="Informative",N24 Doku
+https://jmp2.uk/plu-60080e8a4bf36000076a81b1.m3u8
+#EXTINF:-1 tvg-id="RaiScuola.it" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/Rai_Scuola_HD.svg/revision/latest?cb=20200125172542" group-title="Informative",Rai Scuola
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
+#EXTINF:-1 tvg-id="TVMaya.gt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Maya_TV_logo.png/512px-Maya_TV_logo.png" group-title="Informative",TV Maya
+https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8
+#EXTINF:-1 tvg-id="HRT3.hr" tvg-logo="https://i.imgur.com/4OrOJRx.png" group-title="Informative",HRT 3
+https://webtvstream.bhtelecom.ba/hrt3.m3u8
