@@ -21,7 +21,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 1
+          fetch-depth: 0      # 👈 Full history fetch, pull --rebase এর জন্য জরুরি
 
       - name: Setup Python 3.11
         uses: actions/setup-python@v5
@@ -52,6 +52,15 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add categories/ playlists/ reports/ updater_state.json
-          git diff --quiet && git diff --staged --quiet \
-            || git commit -m "🚀 Auto-update: channels, logos & playlists [skip ci]" \
-            && git push
+          
+          # চেক করবে কোনো নতুন পরিবর্তন আছে কি না
+          if ! git diff --staged --quiet; then
+            git commit -m "🚀 Auto-update: channels, logos & playlists [skip ci]"
+            
+            # পুশ করার আগে রিমোটের লেটেস্ট কোড লোকাল ব্রাঞ্চে রিবেস (মার্জ) করে নেবে
+            git pull --rebase origin main
+            
+            git push
+          else
+            echo "No changes to commit, skipping push."
+          fi
