@@ -45,6 +45,9 @@ jobs:
             iptv-state-
 
       - name: Run IPTV Updater
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python update_channels.py
 
       - name: Commit & push changes
