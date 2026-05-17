@@ -20,6 +20,8 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Fetches all history for all branches and tags
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -54,6 +56,13 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git config user.name  "github-actions[bot]"
           git add logos/ scraper_state.json
-          git diff --quiet && git diff --staged --quiet \
-            || git commit -m "chore: auto-add logos [skip ci]"
-          git push
+          
+          # Check if there are changes to commit
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: auto-add logos [skip ci]"
+            # Pull latest changes from remote to avoid push rejection
+            git pull --rebase origin main
+            git push
+          else
+            echo "No changes to commit, skipping push."
+          fi
