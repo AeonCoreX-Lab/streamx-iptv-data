@@ -14,6 +14,8 @@ jobs:
   scrape-and-update:
     runs-on: ubuntu-latest
     timeout-minutes: 340      # 5h 40m — GitHub default is 360m; we exit at 5h15m
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout Repository
