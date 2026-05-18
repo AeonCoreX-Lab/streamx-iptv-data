@@ -189,8 +189,9 @@ Please open a formal GitHub Issue or contact the maintainer directly with valid 
 ---
 
 ## Credits
-- Channels logo images provided by [TheTVDB](https://thetvdb.com/).
-- This product uses the TVDB API but is not endorsed or certified by TheTVDB.
+- **IPTV Stream Links:** Public and Free-to-Air (FTA) streams are sourced from the open-source community initiative [iptv-org](https://github.com/iptv-org/iptv).
+- **Channel Logos & Artwork:** Logo images and metadata are provided via official API integration by [TheTVDB](https://thetvdb.com/).
+- This product uses these public data sources for indexing and user-interface simulation but is not officially endorsed, certified, or sponsored by iptv-org or TheTVDB.
 
 
 ## 🤝 Maintained By
