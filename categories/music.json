@@ -129,8 +129,8 @@
       "name": "4 Fun TV",
       "logoUrl": "https://w7.pngwing.com/pngs/913/246/png-transparent-4fun-tv-television-channel-8tv-4fun-gold-funny-logo-purple-television-violet.png",
       "streamUrls": [
-        "https://stream.4fun.tv:8888/hls/4f.m3u8",
         "https://stream.4fun.tv:8888/hls/4f_high/index.m3u8",
+        "https://stream.4fun.tv:8888/hls/4f.m3u8",
         "https://srv1.adriatelekom.com/4FunTV/index.m3u8"
       ],
       "category": "Music",
@@ -161,8 +161,8 @@
       "name": "51 Radio TV",
       "logoUrl": "https://i.imgur.com/UupkBt6.png",
       "streamUrls": [
-        "https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8",
-        "http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8"
+        "http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8",
+        "https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -1121,9 +1121,9 @@
       "name": "First Music Channel",
       "logoUrl": "https://www.nicepng.com/png/detail/357-3578615_i-one-tv-1-first-music-channel.png",
       "streamUrls": [
-        "http://hz1.teleport.cc/HLS/SD.m3u8",
+        "http://rtmp.one.by:1200",
         "http://hz1.teleport.cc/HLS/HD.m3u8",
-        "http://rtmp.one.by:1300"
+        "http://hz1.teleport.cc/HLS/SD.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -1133,8 +1133,8 @@
       "name": "First Music Channel Russia",
       "logoUrl": "https://www.logotypes101.com/logos/288/BF8E1FBE79EECB7A332B99577F1D83E6/First_Channel_Russia.png",
       "streamUrls": [
-        "http://rtmp.one.by:2200",
-        "http://rtmp.one.by:2300"
+        "http://rtmp.one.by:2300",
+        "http://rtmp.one.by:2200"
       ],
       "category": "Music",
       "genre": "Music"
@@ -1264,8 +1264,8 @@
       "name": "Hitradio O3",
       "logoUrl": "https://static.wikia.nocookie.net/tbslogos/images/6/6d/Hitradio_Ö3_2000s.png/revision/latest?cb=20241013162748",
       "streamUrls": [
-        "https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8",
         "https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/master.m3u8",
+        "https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8",
         "https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/manifest.mpd"
       ],
       "category": "Music",
@@ -2043,8 +2043,8 @@
       "name": "NOW Rock",
       "logoUrl": "https://i.imgur.com/GuM4GnX.png",
       "streamUrls": [
-        "https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8",
         "https://lightningnow90-samsungau.amagi.tv/playlist.m3u8",
+        "https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8",
         "https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8"
       ],
       "category": "Music",
@@ -2086,8 +2086,8 @@
       "logoUrl": "https://i.postimg.cc/xdWDWzXr/now70s.png",
       "streamUrls": [
         "https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8",
-        "https://lightning-now70s-rakuten.amagi.tv/playlist.m3u8",
-        "https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8"
+        "https://amg01076-amg01076c1-samsung-gb-6682.playouts.now.amagi.tv/playlist.m3u8",
+        "https://lightning-now70s-rakuten.amagi.tv/playlist.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -2098,8 +2098,8 @@
       "logoUrl": "https://www.tvchannellists.com/wiki/images/2/24/Now_80s.png",
       "streamUrls": [
         "https://samsunguk-lightning-now80s-samsunguk-n908q.amagi.tv/playlist/samsunguk-lightning-now80s-samsunguk/playlist.m3u8",
-        "https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8",
-        "https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8"
+        "https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8",
+        "https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -2243,26 +2243,6 @@
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/c/c9/One_Music_Television.png/revision/latest?cb=20201114231706",
       "streamUrls": [
         "https://cdne.folxplay.tv/folx-trz/streams/ch-3/master.m3u8"
-      ],
-      "category": "Music",
-      "genre": "Music"
-    },
-    {
-      "id": "OneTV.lb",
-      "name": "One TV",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/a/af/ONE_TV_2021_logo.png",
-      "streamUrls": [
-        "https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8"
-      ],
-      "category": "Music",
-      "genre": "Music"
-    },
-    {
-      "id": "OneFM.lb",
-      "name": "OneFM",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/b/b8/One_FM_Switzerland.png/revision/latest?cb=20100915170804",
-      "streamUrls": [
-        "https://hms.pfs.gdn/v1/broadcast/onefm/playlist.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -2524,8 +2504,8 @@
       "name": "Qello Concerts by Stingray",
       "logoUrl": "https://png.pngitem.com/pimgs/s/240-2401110_stingray-qello-logo-hd-png-download.png",
       "streamUrls": [
-        "https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8",
         "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883052",
+        "https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8",
         "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/qello-qello001-montreal/distrotv/master.m3u8?ads.vf=u2vmdOuxEbe"
       ],
       "category": "Music",
@@ -3115,9 +3095,9 @@
       "name": "Shanson TV",
       "logoUrl": "https://seeklogo.com/images/S/shanson-tv-logo-3FDB29680C-seeklogo.com.png",
       "streamUrls": [
-        "https://uiptv.do.am/1ufc/602079679/playlist.m3u8",
+        "http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8",
         "https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8",
-        "http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8"
+        "https://uiptv.do.am/1ufc/602079679/playlist.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -3147,8 +3127,8 @@
       "name": "Sky Folk TV",
       "logoUrl": "https://i.imgur.com/ya5xpUL.png",
       "streamUrls": [
-        "https://eu.live.skyfolk.mk/live.m3u8",
-        "https://skyfolk.mk/live.m3u8"
+        "https://skyfolk.mk/live.m3u8",
+        "https://eu.live.skyfolk.mk/live.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -3229,7 +3209,8 @@
       "name": "Stingray Classic Rock",
       "logoUrl": "https://logowik.com/content/uploads/images/stingray-classica8017.logowik.com.webp",
       "streamUrls": [
-        "https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8"
+        "https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-classic-rock/master.m3u8?ads.vf=VvT2jJevYaK"
       ],
       "category": "Music",
       "genre": "Music"
@@ -3281,7 +3262,8 @@
       "name": "Stingray Flashback 70's",
       "logoUrl": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500008IJ_20231024T231806SQUARE.png_20231024231807.png",
       "streamUrls": [
-        "https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8"
+        "https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-flashback-70s/master.m3u8?ads.vf=2HRE0twQFKq"
       ],
       "category": "Music",
       "genre": "Music"
@@ -3292,8 +3274,7 @@
       "logoUrl": "https://image.xumo.com/v1/channels/channel/99991120/600x337.webp?type=channelTile",
       "streamUrls": [
         "https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8",
-        "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883053",
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-greatest-hits/master.m3u8?ads.vf=7XQlh7i26u0"
+        "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883053"
       ],
       "category": "Music",
       "genre": "Music"
@@ -3336,7 +3317,8 @@
       "name": "Stingray Karaoke",
       "logoUrl": "https://images.sr.roku.com/idType/roku/context/trc/id/stingray/providers/provider_1_23_1539019879233_stingray-karaoke-partner-tile-092818.jpg",
       "streamUrls": [
-        "https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8"
+        "https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/karaoke-kar000-montreal/distrotv/master.m3u8?ads.vf=RTfUlT1fC1i"
       ],
       "category": "Music",
       "genre": "Music"
@@ -3347,8 +3329,8 @@
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/9/91/Stingray_Naturescape.svg/revision/latest/scale-to-width-down/300?cb=20200102192817",
       "streamUrls": [
         "https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8",
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/naturescape-a003-montreal/distrotv/master.m3u8?ads.vf=KV9HuIoiFAu",
-        "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883056"
+        "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883056",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/naturescape-a003-montreal/distrotv/master.m3u8?ads.vf=KV9HuIoiFAu"
       ],
       "category": "Music",
       "genre": "Music"
@@ -3379,8 +3361,8 @@
       "name": "Stingray Remember the 80s",
       "logoUrl": "http://p-img.movetv.com/1920x1080/14cfd4ebe24f5a91dcf07221945ceef8.jpeg",
       "streamUrls": [
-        "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/68cc5f97-cf6c-4ff7-9125-f56f272dbcb6/1.m3u8",
         "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883071",
+        "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/68cc5f97-cf6c-4ff7-9125-f56f272dbcb6/1.m3u8",
         "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-remember-the-80s/master.m3u8?ads.vf=Fq0bVWh7hy0"
       ],
       "category": "Music",
@@ -3391,8 +3373,7 @@
       "name": "Stingray Rock Alternative",
       "logoUrl": "https://proxy.zeno.fm/content/stations/010f2752-45ec-4e46-914a-0db0e422464e/image/?u=1701700071000",
       "streamUrls": [
-        "https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8",
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-rock-alternative/master.m3u8?ads.vf=aOA9FlpE9HG"
+        "https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -3472,8 +3453,8 @@
       "name": "Strana FM",
       "logoUrl": "https://images.seeklogo.com/logo-png/47/1/strana-tv-logo-png_seeklogo-476040.png",
       "streamUrls": [
-        "https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8",
-        "http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8"
+        "http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8",
+        "https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -3799,7 +3780,7 @@
       "streamUrls": [
         "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-urban/encrypted.m3u8?ads.vf=TBE_v7iuzNi",
         "https://amg01131-tracetv-amg01131c1-rakuten-us-1081.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-rakutenus/playlist.m3u8",
-        "https://amg01131-tracetv-traceurbanse-samsungse-ov22d.amagi.tv/playlist/amg01131-tracetv-traceurbanse-samsungse/playlist.m3u8"
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-traceurbanit-samsungit/playlist.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -3849,8 +3830,8 @@
       "name": "Turkmen Owazy",
       "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/2/27/Turkmen_Ovazy.png/revision/latest/scale-to-width-down/250?cb=20211225160825",
       "streamUrls": [
-        "https://alpha.tv.online.tm/hls/ch005.m3u8",
-        "https://alpha.tv.online.tm/legacyhls/ch005.m3u8"
+        "https://alpha.tv.online.tm/legacyhls/ch005.m3u8",
+        "https://alpha.tv.online.tm/hls/ch005.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -4302,8 +4283,7 @@
       "name": "9X Jalwa",
       "logoUrl": "https://e7.pngegg.com/pngimages/849/297/png-clipart-9x-jalwa-television-channel-9x-media-streaming-media-others-miscellaneous-television.png",
       "streamUrls": [
-        "https://b.jsrdn.com/strm/channels/9xjalwa/master.m3u8",
-        "https://mumt03.tangotv.in/9XJALWA/index.m3u8"
+        "https://b.jsrdn.com/strm/channels/9xjalwa/master.m3u8"
       ],
       "category": "Music",
       "languages": [],
