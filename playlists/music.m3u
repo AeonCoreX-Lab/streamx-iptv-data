@@ -971,6 +971,8 @@ http://74.91.26.218:82/live/cctv11hd.m3u8
 http://74.91.26.218:82/live/cctv15hd.m3u8
 #EXTINF:-1 tvg-id="RotanaFMKSA.sa" tvg-logo="https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png" group-title="Music",Rotana FM KSA
 rtmp://live.restream.io/pull/play_320121_94512612fd0e084bd284
+#EXTINF:-1 tvg-id="CEACOMTV.bo" tvg-logo="https://ceacomtv.com/images/ceacom/logos/Logo+CEACOM+02+icon.png" group-title="Music [FHD]",CEACOM TV [FHD]
+https://eu1.servers10.com:8081/ceacom/index.m3u8
 #EXTINF:-1 tvg-id="CityTV.bg" tvg-logo="https://logowik.com/content/uploads/images/city-tv7517.logowik.com.webp" group-title="Music [FHD]",City TV [FHD]
 https://tv.city.bg/play/tshls/citytv/index.m3u8
 #EXTINF:-1 tvg-id="MTVBiggestPop.us" tvg-logo="https://iili.io/bF51d7.png" group-title="Music [FHD]",MTV Biggest Pop [FHD]
@@ -983,29 +985,21 @@ https://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8
 https://alba-py-rqp-rqp.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="vevo_pop_pluto" tvg-logo="https://i.ibb.co/4Z5vMhP/vevo-logo.png" group-title="Music",Vevo Pop
 https://jmp2.uk/stvp-GBBC19000017V
-#EXTINF:-1 tvg-id="CEACOMTV.bo" tvg-logo="https://ceacomtv.com/images/ceacom/logos/Logo+CEACOM+02+icon.png" group-title="Music [FHD]",CEACOM TV [FHD]
-https://eu1.servers10.com:8081/ceacom/index.m3u8
-#EXTINF:-1 tvg-id="OneTV.lb" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/ONE_TV_2021_logo.png" group-title="Music [SD]",One TV [SD]
-https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8
-#EXTINF:-1 tvg-id="OneFM.lb" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/One_FM_Switzerland.png/revision/latest?cb=20100915170804" group-title="Music",OneFM
-https://hms.pfs.gdn/v1/broadcast/onefm/playlist.m3u8
+#EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk" tvg-logo="https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100076442564251" group-title="Music [FHD]",Afrobeat TV Entertainment [FHD]
+https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:-1 tvg-id="ShowBox.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/Showbox_logo.png/revision/latest/scale-to-width-down/250?cb=20200120174638" group-title="Music",ShowBox
 http://116.90.120.151:8000/play/a0k2/index.m3u8
 #EXTINF:-1 tvg-id="TNTMusic.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_tnt.png" group-title="Music",TNT Music
 https://tntm.mediacdn.ru/cdn/tntmusic/tracks-v2a1/mono.ts.m3u8?filter.tracks=v1v2v3v4v5a1
 #EXTINF:-1 tvg-id="YoMTV.us" tvg-logo="https://www.tvchannellists.com/wiki/images/9/9f/Yo!_MTV.svg" group-title="Music [FHD]",Yo! MTV [FHD]
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3737-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=32448355-0e6b-41d6-91ca-4bad8ef8310d
-#EXTINF:-1 tvg-id="AlternaTV.ar" tvg-logo="https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063713564085" group-title="Music",AlternaTV
-https://tv.alterna.ar/stream/hls/live.m3u8
 #EXTINF:-1 tvg-id="SuryaMusic.in" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/6/64/Surya_Music.jpg/revision/latest/scale-to-width-down/1200?cb=20221013221903" group-title="Music",Surya Music
 http://iptvcasomsapi.jprdigital.in/x-media/C0579/master.m3u8
 #EXTINF:-1 tvg-id="UdayaMusic.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Udaya_Music.jpg/revision/latest/scale-to-width-down/250?cb=20180318053133" group-title="Music",Udaya Music
 http://iptvcasomsapi.jprdigital.in/x-media/C0588/master.m3u8
-#EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk" tvg-logo="https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100076442564251" group-title="Music [FHD]",Afrobeat TV Entertainment [FHD]
-https://stream.ecable.tv/afrobeats/index.m3u8
-#EXTINF:-1 tvg-id="A2iMusic.sn" tvg-logo="https://i.imgur.com/Fykhzxh.jpg" group-title="Music [HD]",A2i Music [HD]
-https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="OneTV.lb" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/ONE_TV_2021_logo.png" group-title="Music [SD]",One TV [SD]
+https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8
+#EXTINF:-1 tvg-id="OneFM.lb" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/One_FM_Switzerland.png/revision/latest?cb=20100915170804" group-title="Music",OneFM
+https://hms.pfs.gdn/v1/broadcast/onefm/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceLatina.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Trace_Latina.svg/revision/latest?cb=20191223072133" group-title="Music [SD]",Trace Latina [SD]
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/encrypted.m3u8?ads.vf=8rE20DsHHI0
-#EXTINF:-1 tvg-id="TraVinhTV.vn" tvg-logo="https://i.imgur.com/uqMu5Fb.png" group-title="Music [SD]",Tra Vinh TV [SD]
-https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8
