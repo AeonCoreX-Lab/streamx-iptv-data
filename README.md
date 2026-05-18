@@ -112,19 +112,15 @@ streamx-iptv-data/ │ ├── index.json │   └── Master entry point f
 
 ## 🔄 Automation System
 
-This repository is maintained using an **internal automation pipeline**:
+This repository is powered and maintained by **AeonCoreX's Official Automation Engine**. The included Python scraper scripts handle the complete lifecycle of our IPTV data infrastructure.
 
-- M3U sources are fetched automatically  
-- Channels are parsed & validated  
-- JSON files are regenerated  
-- Data is pushed to GitHub  
-- StreamX Ultra app syncs instantly  
+### 🛡️ Safety & Integrity Standards:
+- **100% Safe & Clean:** The automation scripts contain zero malicious code, backdoors, or telemetry. They are fully optimized for lightweight, standard web requests.
+- **Strict Compliance:** The core scraper interacts only with public, open-source endpoints (like `iptv-org`) and official APIs (like `TheTVDB`). It strictly respects target rate-limits (`robots.txt`) and does not perform aggressive scraping or DDoS-like behaviors.
+- **Enterprise Automation:** Developed internally by the **AeonCoreX Platform Team** using secure environment variables (`GITHUB_TOKEN` / Secrets) to handle data commits safely within GitHub Actions.
 
-⏱ Update frequency: **Daily (or configurable)**
+⏱ Update frequency: **Daily (Automated via GitHub Actions)**
 
-> Automation scripts are intentionally excluded from GitHub for security reasons.
-
----
 
 ## 🔗 App Integration
 
