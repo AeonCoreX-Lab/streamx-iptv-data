@@ -172,6 +172,11 @@ See [LICENSE](LICENSE) for details.
 
 ---
 
+## Credits
+- Channels logo images provided by [TheTVDB](https://thetvdb.com/).
+- This product uses the TVDB API but is not endorsed or certified by TheTVDB.
+
+
 ## 🤝 Maintained By
 
 **AeonCoreX – Core Platform Team**  
