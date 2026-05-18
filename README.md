@@ -162,6 +162,22 @@ See [LICENSE](LICENSE) for details.
 
 ---
 
+## ⚖️ Legal Disclaimer & Attribution
+
+### 1. Attribution
+This project utilizes data, metadata, and artwork (including logos, posters, and icons) provided by **[TheTVDB](https://thetvdb.com/)**. This project is not officially endorsed, certified, or sponsored by TheTVDB or its affiliates. All API usage strictly adheres to TheTVDB's Terms of Service.
+
+### 2. Fair Use Notice
+This repository is maintained strictly for **educational, research, and non-commercial development purposes**. 
+
+Any copyrighted material, including but not limited to media logos, network trademarks, and promotional imagery, registered by their respective production houses (e.g., Netflix, Disney, HBO, Warner Bros.) or networks, is used here under the **Fair Use** doctrine (Section 107 of the U.S. Copyright Act). This usage is intended solely for informational indexing and user-interface simulation, without any intent to infringe upon the original creators' commercial rights.
+
+### 3. DMCA & Takedown Policy
+The owner of this repository does not claim ownership over any retrieved media assets. If you are a copyright owner or an agent thereof and believe that any content hosted in this repository infringes upon your copyrights, you may request a removal. 
+
+Please open a formal GitHub Issue or contact the maintainer directly with valid proof of ownership, and the contested material will be removed promptly within 24-48 hours.
+
+
 ## 🔮 Roadmap
 
 - 🌐 Global country expansion  
