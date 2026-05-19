@@ -149,7 +149,7 @@ No app updates required for content changes.
 
 ## 📄 License & Copyright
 
-© 2025 AeonCoreX
+© 2026 AeonCoreX
 
 This repository is licensed under the **MIT License**.  
 However, **AeonCoreX**, **StreamX Ultra**, branding, and platform identity remain the **exclusive property of AeonCoreX**.
