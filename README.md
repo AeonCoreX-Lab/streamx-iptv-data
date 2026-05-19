@@ -184,10 +184,38 @@ Please open a formal GitHub Issue or contact the maintainer directly with valid 
 
 ---
 
-## Credits
-- **IPTV Stream Links:** Public and Free-to-Air (FTA) streams are sourced from the open-source community initiative [iptv-org](https://github.com/iptv-org/iptv).
-- **Channel Logos & Artwork:** Logo images and metadata are provided via official API integration by [TheTVDB](https://thetvdb.com/).
-- This product uses these public data sources for indexing and user-interface simulation but is not officially endorsed, certified, or sponsored by iptv-org or TheTVDB.
+## Credits & Attribution
+
+This repository uses data and media from the following sources:
+
+### Channel Logos
+
+**Primary Source**
+- **[TheTVDB (TVDB)](https://thetvdb.com)** — Company/Channel logo search API
+  - Used as the primary source for high-quality channel artwork
+  - Requires free API key for access
+  - All TVDB data is subject to their [Terms of Service](https://thetvdb.com/tos)
+
+**Fallback Source**
+- **[tv-logo/tv-logos](https://github.com/tv-logo/tv-logos)** — Open-source TV logo collection
+  - Curated PNG logos for 50+ countries
+  - Used under community fair-use for IPTV/EPG applications
+  - Direct raw URLs served from GitHub CDN
+
+### Channel Metadata & Stream Links
+
+- **[iptv-org](https://github.com/iptv-org)** — Global IPTV database
+  - `channels.json` — Channel metadata (name, country, category, ID mapping)
+  - `streams.json` / M3U playlists — Public stream URLs for testing/development
+  - API endpoints: `https://iptv-org.github.io/api/`
+
+---
+
+**Disclaimer:**  
+This project is intended for **educational and IPTV app development purposes only**.  
+All channel logos, names, and stream links are property of their respective broadcasters/networks.  
+We do not host any video streams or claim ownership of any media content.
+
 
 
 ## 🤝 Maintained By
