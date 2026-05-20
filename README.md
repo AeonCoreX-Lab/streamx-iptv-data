@@ -413,13 +413,12 @@ This repository uses data and media from the following sources:
   - All TVDB data is subject to their [Terms of Service](https://thetvdb.com/tos)
 
 
-**[tv-logo/tv-logos](https://github.com/tv-logo/tv-logos)** — Open-source TV logo collection
+- **[tv-logo/tv-logos](https://github.com/tv-logo/tv-logos)** — Open-source TV logo collection
   - Curated PNG logos for 50+ countries
   - Used under community fair-use for IPTV/EPG applications
   - Direct raw URLs served from GitHub CDN
 
 - **[iptv-org/logos.json](https://iptv-org.github.io/api/logos.json)** — Direct ID match
--  
 
 - **[LyngSat](https://www.lyngsat-logo.com)** — Satellite logo database
 
