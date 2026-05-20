@@ -1,12 +1,13 @@
-name: Auto Scrape IPTV Logos
+Name: Auto Scrape IPTV Logos
 
 on:
   schedule:
     - cron: '0 */6 * * *'
   workflow_dispatch:
 
+# শুধু main branch-এর জন্য কনকারেন্সি লক করবে, অন্য ব্রাঞ্চে run_id দিয়ে ইউনিক রাখবে
 concurrency:
-  group: scrape-logos
+  group: ${{ github.ref == 'refs/heads/main' && 'scrape-logos-main' || github.run_id }}
   cancel-in-progress: false
 
 jobs:
