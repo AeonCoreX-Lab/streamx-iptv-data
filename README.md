@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/AeonCoreX-Official%20Project-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://raw.githubusercontent.com/AeonCoreX-Lab/.github/main/badges/aeoncorex-badge.svg"/>
   <img src="https://img.shields.io/badge/StreamX%20Ultra-Live%20TV%20Platform-1E90FF?style=for-the-badge&logo=tvtime&logoColor=white"/>
 </p>
 
