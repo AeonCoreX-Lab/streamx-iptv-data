@@ -408,7 +408,7 @@ This repository uses data and media from the following sources:
 **Fallback Source**
 
 - **[TheTVDB (TVDB)](https://thetvdb.com)** — Company/Channel logo search API
-  - Used as the primary source for high-quality channel artwork
+  - Used as the Fallback source for high-quality channel artwork
   - Requires free API key for access
   - All TVDB data is subject to their [Terms of Service](https://thetvdb.com/tos)
 
