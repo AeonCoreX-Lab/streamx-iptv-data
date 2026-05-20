@@ -470,7 +470,7 @@ def get_logo_dev_url(channel_name: str, website: str = None, logo_dev_key: str =
             continue
 
         try:
-            # Use GET instead of HEAD for better compatibility with logo.dev
+            # Use GET instead of HEAD for better compatibility
             for retina in [True, False]:
                 retina_param = "&retina=true" if retina else ""
                 api_url = f"https://img.logo.dev/{domain}?token={logo_dev_key}&format=png{retina_param}"
@@ -479,12 +479,10 @@ def get_logo_dev_url(channel_name: str, website: str = None, logo_dev_key: str =
                 if r.status_code == 200:
                     ct = r.headers.get('content-type', '').lower()
                     if 'image' in ct:
-                        # Verify it's actually a PNG by checking magic bytes
+                        # Verify PNG magic bytes
                         header = r.raw.read(8)
                         r.close()
-                        if header[:8] == b'PNG
-
-':
+                        if len(header) >= 8 and header[:8] == b'\x89PNG\r\n\x1a\n':
                             return api_url
                 r.close()
 
