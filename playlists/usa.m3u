@@ -17,6 +17,8 @@ https://30a-tv.com/loomer.m3u8
 https://30a-tv.com/feeds/vidaa/luxelife.m3u8
 #EXTINF:-1 tvg-id="30AMusic.us" tvg-logo="https://www.parsatv.com/index_files/channels/30atv.jpg" group-title="USA [HD]",30A Music [HD]
 https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8
+#EXTINF:-1 tvg-id="30ARidiculousTV.us" tvg-logo="https://30a.media/wp-content/uploads/2023/08/pzaz-30atv-2-230x366-ridiculous.jpg" group-title="USA [HD]",30A Ridiculous TV [HD]
+https://30a-tv.com/feeds/720p/63.m3u8
 #EXTINF:-1 tvg-id="30ASidewalks.us" tvg-logo="https://www.sidewalkstv.com/wp-content/uploads/2021/05/30a-tv.png" group-title="USA [HD]",30A Sidewalks [HD]
 https://30a-tv.com/sidewalks.m3u8
 #EXTINF:-1 tvg-id="30ATVClassicMovies.us" tvg-logo="https://www.parsatv.com/index_files/channels/30atv.jpg" group-title="USA [HD]",30A TV Classic Movies [HD]
@@ -47,8 +49,6 @@ https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8
 https://live.enhdtv.com:8081/8150/index.m3u8
 #EXTINF:-1 tvg-id="70sCinema.us" tvg-logo="https://www.tvchannellists.com/wiki/images/a/af/70s_Cinema.svg" group-title="USA",70s Cinema
 https://jmp2.uk/plu-5f4d878d3d19b30007d2e782.m3u8
-#EXTINF:-1 tvg-id="80sRewind.us" tvg-logo="https://www.tvchannellists.com/wiki/images/c/cd/80s_Rewind.svg" group-title="USA",80s Rewind
-https://jmp2.uk/plu-5ca525b650be2571e3943c63.m3u8
 #EXTINF:-1 tvg-id="90sThrowback.us" tvg-logo="https://www.pngmart.com/files/21/90s-Logo-PNG-Photos.png" group-title="USA",90s Throwback
 https://jmp2.uk/plu-5f4d86f519358a00072b978e.m3u8
 #EXTINF:-1 tvg-id="AE.us" tvg-logo="https://p7.hiclipart.com/preview/226/921/233/a-e-networks-television-channel-logo-germany.jpg" group-title="USA [SD]",A&E [SD]
@@ -455,6 +455,8 @@ https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
 https://jmp2.uk/plu-561c5b0dada51f8004c4d855.m3u8
 #EXTINF:-1 tvg-id="ClassicTVComedy.us" tvg-logo="https://www.tvchannellists.com/wiki/images/3/37/Classic_TV_Comedy.svg" group-title="USA",Classic TV Comedy
 https://jmp2.uk/plu-5f15e32b297f96000768f928.m3u8
+#EXTINF:-1 tvg-id="ClassicTVDrama.us" tvg-logo="https://i.imgur.com/XHQxv0x.png" group-title="USA",Classic TV Drama
+https://jmp2.uk/plu-5f15e3cccf49290007053c67.m3u8
 #EXTINF:-1 tvg-id="ClassicTVFamilies.us" tvg-logo="https://i.imgur.com/llAZ49f.png" group-title="USA",Classic TV: Families
 https://jmp2.uk/plu-61325d18f5166c00081b84e0.m3u8
 #EXTINF:-1 tvg-id="Classica.us" tvg-logo="https://img.favpng.com/6/17/22/classica-hd-logo-high-definition-television-television-channel-paramount-channel-italy-png-favpng-Pf8NaVKxgLZMwgi2xtyGpQQPi.jpg" group-title="USA",Classica
@@ -470,7 +472,7 @@ https://reflect-collier-countyboc.cablecast.tv/live-4/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.us" tvg-logo="https://www.liblogo.com/img-logo/co1534c153-comedy-central-logo-comedy-central-logo-custom-by-mickeyfan123-on-.png" group-title="USA [FHD]",Comedy Central [FHD]
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralPlutoTV.us" tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/featuredImage.jpg" group-title="USA",Comedy Central Pluto TV
-https://jmp2.uk/plu-5ca671f215a62078d2ec0abf.m3u8
+https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralSouthPark.us" tvg-logo="https://logonoid.com/images/south-park-logo.png" group-title="USA",Comedy Central South Park
 https://jmp2.uk/plu-609ae66b359b270007869ff1.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralenEspanol.us" tvg-logo="https://www.liblogo.com/img-logo/co1534c153-comedy-central-logo-comedy-central-logo-custom-by-mickeyfan123-on-.png" group-title="USA",Comedy Central en Espanol
@@ -904,15 +906,11 @@ https://jmp2.uk/plu-5db6a697d5f34a000934cd13.m3u8
 #EXTINF:-1 tvg-id="MTVDating.us" tvg-logo="https://crystalpng.com/wp-content/uploads/2025/02/mtv-logo-01.png" group-title="USA [HD]",MTV Dating [HD]
 https://jmp2.uk/plu-5caf330ea5068259a32320fd.m3u8
 #EXTINF:-1 tvg-id="MTVPlutoTV.us" tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/pages/images/2023/11/01/MTV_PlutoTV_Channel_1080x1080_Square-4siej87m.png" group-title="USA",MTV Pluto TV
-https://jmp2.uk/plu-5caf325764025859afdd6c4d.m3u8
+https://jmp2.uk/plu-5ca672f515a62078d2ec0ad2.m3u8
 #EXTINF:-1 tvg-id="MTVSpankinNew.us" tvg-logo="https://cmflix.net/uploads/tv_image/mtv-spankin-new.png" group-title="USA [FHD]",MTV Spankin' New [FHD]
 https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
 #EXTINF:-1 tvg-id="MTVTeenMom.us" tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/logos/original/2023/05/08/MTV_Logo_Dimensional_RGB_TRANS.svg" group-title="USA [HD]",MTV Teen Mom [HD]
 https://jmp2.uk/plu-5cffcf5686dfe15595fb3f56.m3u8
-#EXTINF:-1 tvg-id="MTVTheShores.us" tvg-logo="https://www.tvchannellists.com/wiki/images/2/2e/MTV_The_Shores.svg" group-title="USA",MTV The Shores
-https://jmp2.uk/plu-5caf32c2a5068259a32320fc.m3u8
-#EXTINF:-1 tvg-id="MTVenEspanol.us" tvg-logo="https://crystalpng.com/wp-content/uploads/2025/02/mtv-logo-01.png" group-title="USA",MTV en Espanol
-https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8
 #EXTINF:-1 tvg-id="MadDogandMerrill.us" tvg-logo="https://www.theruralchannel.com/wp-content/uploads/2017/03/mdamLogoLogo1.png" group-title="USA [HD]",Mad Dog and Merrill [HD]
 https://rpn.bozztv.com/gusa/gusa-mwg/index.m3u8
 #EXTINF:-1 tvg-id="MadeInHollywood.us" tvg-logo="https://image.pngaaa.com/639/8746639-middle.png" group-title="USA [SD]",Made In Hollywood [SD]
@@ -951,8 +949,6 @@ https://6096a9cf11ae5.streamlock.net:1943/live/missiontv/playlist.m3u8
 http://media.mohabat.tv:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="MonroeCountyTV.us" tvg-logo="https://www.monroecountypa.com/sites/default/files/Monroe+County+Logo+Crop.jpg" group-title="USA",Monroe County TV
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/monroe/live/ch1/video.m3u8
-#EXTINF:-1 tvg-id="MoreTVDrama.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/CTV_Drama_Channel_2019.svg/1200px-CTV_Drama_Channel_2019.svg.png" group-title="USA",More TV Drama
-https://jmp2.uk/plu-613260e4bdb71c00070d63fa.m3u8
 #EXTINF:-1 tvg-id="MoreTVSitcoms.us" tvg-logo="https://i.imgur.com/4mbhOEo.png" group-title="USA",More TV Sitcoms
 https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8
 #EXTINF:-1 tvg-id="MovieSphere.us" tvg-logo="https://www.tvchannellists.com/wiki/images/c/c7/MovieSphere_by_Lionsgate.svg" group-title="USA [SD]",MovieSphere [SD]
@@ -1137,8 +1133,6 @@ https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/psl/G0262_003/playlist.m3u8
 https://storage.sardius.media/archives/-KyMV-J0vDqnClcSXs8p/events/site_1a4721d3BA/playlist.m3u8
 #EXTINF:-1 tvg-id="PalmBeachesTV.us" tvg-logo="https://www.pbfilm.com/upload/editor/news/PBC-TV-logo-with-TDC-and-website.jpg" group-title="USA [HD]",Palm Beaches TV [HD]
 https://live.feed.thepalmbeaches.tv/index.m3u8
-#EXTINF:-1 tvg-id="ParamountPlusPicks.us" tvg-logo="https://images.pluto.tv/channels/5ff8c708653d080007361b14/featuredImage.jpg" group-title="USA",Paramount+ Picks
-https://jmp2.uk/plu-5ff8c708653d080007361b14.m3u8
 #EXTINF:-1 tvg-id="ParsTV.us" tvg-logo="https://www.dthsat.com/images/Pars-TV-Logo.png" group-title="USA",Pars TV
 https://parshls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PayamJavanTV.us" tvg-logo="https://i.imgur.com/GYfsHh9.png" group-title="USA [HD]",Payam Javan TV [HD]
@@ -1177,8 +1171,6 @@ https://jmp2.uk/plu-5a4d3a00ad95e4718ae8d8db.m3u8
 https://jmp2.uk/plu-5d767790d0438aceb41d03ae.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCrimeDrama.us" tvg-logo="https://static.wikia.nocookie.net/pluto-tv/images/e/e6/Site-logo.png/revision/latest?cb=20220804012105" group-title="USA",Pluto TV Crime Drama
 https://jmp2.uk/plu-5f31fd1b4c510e00071c3103.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCrimeMovies.us" tvg-logo="https://static.wikia.nocookie.net/pluto-tv/images/e/e6/Site-logo.png/revision/latest?cb=20220804012105" group-title="USA",Pluto TV Crime Movies
-https://jmp2.uk/plu-5f4d8594eb979c0007706de7.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCultFilms.us" tvg-logo="https://static.wikia.nocookie.net/pluto-tv/images/e/e6/Site-logo.png/revision/latest?cb=20240613045916" group-title="USA",Pluto TV Cult Films
 https://jmp2.uk/plu-5c665db3e6c01b72c4977bc2.m3u8
 #EXTINF:-1 tvg-id="PlutoTVDrama.us" tvg-logo="https://static.wikia.nocookie.net/pluto-tv/images/e/e6/Site-logo.png/revision/latest?cb=20240613045916" group-title="USA",Pluto TV Drama
@@ -1201,12 +1193,10 @@ https://jmp2.uk/plu-61c09e3ac210ed0007606620.m3u8
 https://jmp2.uk/plu-5f32cf37c9ff2b00082adbc8.m3u8
 #EXTINF:-1 tvg-id="PlutoTVInvestigation.us" tvg-logo="https://static.wikia.nocookie.net/pluto-tv/images/e/e6/Site-logo.png/revision/latest?cb=20220804012105" group-title="USA",Pluto TV Investigation
 https://jmp2.uk/plu-63808dc806aa4700075f319a.m3u8
-#EXTINF:-1 tvg-id="PlutoTVKultfilme.us" tvg-logo="https://static.wikia.nocookie.net/pluto-tv/images/e/e6/Site-logo.png/revision/latest?cb=20240613045916" group-title="USA",Pluto TV Kultfilme
-https://jmp2.uk/plu-5dde47b63585b500099f74ec.m3u8
 #EXTINF:-1 tvg-id="PlutoTVLives.us" tvg-logo="https://logospng.org/download/pluto-tv/pluto-tv-4096.png" group-title="USA",Pluto TV Lives
 https://jmp2.uk/plu-5d8beeb39b5d5d5f8c672530.m3u8
 #EXTINF:-1 tvg-id="PlutoTVMovies.us" tvg-logo="https://seeklogo.com/images/P/pluto-tv-logo-1914C10887-seeklogo.com.png" group-title="USA [SD]",Pluto TV Movies [SD]
-https://jmp2.uk/plu-5ad8d3a31b95267e225e4e09.m3u8
+https://jmp2.uk/plu-5c5c3b948002db3c3e0b262e.m3u8
 #EXTINF:-1 tvg-id="PlutoTVNatureza.us" tvg-logo="https://preview.redd.it/pluto-tv-new-logo-2024-v0-8kk139yoa9fc1.png?width=1436&format=png&auto=webp&s=d1c2368b1a58a71e0a57718cd0495398049f3f95" group-title="USA",Pluto TV Natureza
 https://jmp2.uk/plu-5f1213ba0ecebc00070e170f.m3u8
 #EXTINF:-1 tvg-id="PlutoTVNovelas.us" tvg-logo="https://logowik.com/content/uploads/images/pluto-tv4908.jpg" group-title="USA",Pluto TV Novelas
@@ -1231,8 +1221,6 @@ https://jmp2.uk/plu-5dc2c00abfed110009d97243.m3u8
 https://jmp2.uk/plu-5d767ab2b456c8cf265ce921.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSpace.us" tvg-logo="https://static.wikia.nocookie.net/pluto-tv/images/e/e6/Site-logo.png/revision/latest?cb=20240613045916" group-title="USA",Pluto TV Space
 https://jmp2.uk/plu-61409f8d6feb30000766b675.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSpotlight.us" tvg-logo="https://www.tvchannellists.com/wiki/images/e/e9/Pluto_TV_Spotlight.svg" group-title="USA",Pluto TV Spotlight
-https://jmp2.uk/plu-5ba3fb9c4b078e0f37ad34e8.m3u8
 #EXTINF:-1 tvg-id="PlutoTVTerror.us" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2025/07/Pluto-TV-Series-Terror-canal-pop-up.jpg" group-title="USA",Pluto TV Terror
 https://jmp2.uk/plu-5c6dc88fcd232425a6e0f06e.m3u8
 #EXTINF:-1 tvg-id="PlutoTVTheTwilightZone.us" tvg-logo="https://images.pluto.tv/channels/67352ed93a61d4000881f9fa/featuredImage-1731638293892.jpg" group-title="USA",Pluto TV The Twilight Zone
@@ -1240,7 +1228,7 @@ https://jmp2.uk/plu-67352ed93a61d4000881f9fa.m3u8
 #EXTINF:-1 tvg-id="PlutoTVThrillers.us" tvg-logo="https://images.pluto.tv/channels/5b4e69e08291147bd04a9fd7/solidLogoSVG.svg?auto=&trim=auto&ixlib=react-9.1.5&h=50" group-title="USA",Pluto TV Thrillers
 https://jmp2.uk/plu-5dbfedccc563080009b60f4a.m3u8
 #EXTINF:-1 tvg-id="PlutoTVTrueCrime.us" tvg-logo="https://images.pluto.tv/channels/5812be1c249444e05d09cc50/solidLogoSVG.svg?auto=&trim=auto&ixlib=react-9.1.5&h=50" group-title="USA",Pluto TV True Crime
-https://jmp2.uk/plu-615333098185f00008715a56.m3u8
+https://jmp2.uk/plu-5812be1c249444e05d09cc50.m3u8
 #EXTINF:-1 tvg-id="PlutoTVVidaReal.us" tvg-logo="https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/solidLogoSVG.svg?auto=&trim=auto&ixlib=react-9.1.5&h=50" group-title="USA",Pluto TV Vida Real
 https://jmp2.uk/plu-5f32d4d9ec194100070c7449.m3u8
 #EXTINF:-1 tvg-id="PlutoTVWesterns.us" tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/pages/images/2024/07/01/PLUTOWesternTV_Channel_1080x1080_HeroSquare-q1jizwtr.png" group-title="USA",Pluto TV Westerns
@@ -1327,6 +1315,8 @@ https://reflect-bayarea.cablecast.tv/live-5/live/live.m3u8
 https://reflect-bayarea.cablecast.tv/live-6/live/live.m3u8
 #EXTINF:-1 tvg-id="SFGovTV.us" tvg-logo="https://static.wikia.nocookie.net/youtube/images/7/7a/SFGovTV_icon.jpg/revision/latest/scale-to-width-down/350?cb=20201124183959" group-title="USA [FHD]",SFGovTV [FHD]
 https://cdn3.wowza.com/5/ZFdxUW9BQWt2UWRL/sanfrancisco/G0051_048/playlist.m3u8
+#EXTINF:-1 tvg-id="SFGovTV2.us" tvg-logo="https://i.imgur.com/SOk5m5B.png" group-title="USA [FHD]",SFGovTV2 [FHD]
+https://cdn3.wowza.com/5/ZFdxUW9BQWt2UWRL/sanfrancisco/G0051_050/playlist.m3u8
 #EXTINF:-1 tvg-id="SGTN49.us" tvg-logo="https://i.imgur.com/4fbJRWW.png" group-title="USA [HD]",SGTN-49 [HD]
 https://rpn.bozztv.com/gusa/gusa-stgn/index.m3u8
 #EXTINF:-1 tvg-id="SGTV.us" tvg-logo="https://www.sgtv.com.br/img/logo-hq.png" group-title="USA [FHD]",SGTV [FHD]
@@ -1371,8 +1361,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71
 https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/stream.m3u8
 #EXTINF:-1 tvg-id="SmithsonianChannelSelects.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Smithsonian_Channel.png" group-title="USA",Smithsonian Channel Selects
 https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
-#EXTINF:-1 tvg-id="SonyCanalEscapePerfecto.us" tvg-logo="https://images.pluto.tv/channels/605e479d5b8229000763e697/solidLogoSVG.svg?auto=&trim=auto&ixlib=react-9.1.5&h=50" group-title="USA",Sony Canal Escape Perfecto
-https://jmp2.uk/plu-605e479d5b8229000763e697.m3u8
 #EXTINF:-1 tvg-id="SonyKALHindi.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Sony_Kal_Logo.jpg/revision/latest/scale-to-width-down/200?cb=20240615084342" group-title="USA [SD]",Sony KAL Hindi [SD]
 https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="SoundViewCommunityMedia.us" tvg-logo="https://soundviewtv.org/wp-content/uploads/2024/02/logo-header.png" group-title="USA [HD]",Sound View Community Media [HD]
@@ -1731,6 +1719,8 @@ https://depdwjha9qyli.cloudfront.net/Xplore.m3u8
 https://yta.unitedteleports.tv/hls/YTA.m3u8
 #EXTINF:-1 tvg-id="YahooFinance.us" tvg-logo="https://www.pngitem.com/pimgs/m/613-6138205_yahoo-finance-logo-png-transparent-png.png" group-title="USA [SD]",Yahoo! Finance [SD]
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="YoMTV.us" tvg-logo="https://www.tvchannellists.com/wiki/images/9/9f/Yo!_MTV.svg" group-title="USA [FHD]",Yo! MTV [FHD]
+https://jmp2.uk/plu-5d14fc31252d35decbc4080b.m3u8
 #EXTINF:-1 tvg-id="YouDotGov.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logo_YouGov.svg/320px-Logo_YouGov.svg.png" group-title="USA [FHD]",YouDotGov [FHD]
 https://reflect-communitytv.cablecast.tv/live-3/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="YoungHollywood.us" tvg-logo="https://image.roku.com/developer_channels/prod/0f39628fbee01c86a42c782489528cb3559c0f931b71814b1939391636f9c74d.png" group-title="USA [SD]",Young Hollywood [SD]
@@ -1821,8 +1811,6 @@ https://live-mcl.cdn01.net/smarttv/64wj6m6d8/playlist.m3u8
 https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="EntrepreneurTV.us" tvg-logo="https://assets.entrepreneur.com/static/20220713080803-Ent-TV-Logo-Black.svg" group-title="USA [SD]",EntrepreneurTV [SD]
 https://cineverse-entrepreneurtv-entrepreneurtv-1-us.ono.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="SportsTVPlus.us" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/jr0wlq1681309932.png" group-title="USA [SD]",Sports TV Plus [SD]
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/NKXQTWMREOB2XFJRLAHO/hls3/now,-1m/m.m3u8?ads.vf=SqsoCl37PjC
 #EXTINF:-1 tvg-id="AccessHumboldt.us" tvg-logo="https://imagecdn.mightycause.com/bc38ef4f-8605-4786-bea1-4b51231da9eb/" group-title="USA",Access Humboldt
 https://rtmp-live-ingest-ap-northeast-2-universe-dacast-com.akamaized.net/transmuxv1/streams/f08fcd45-1d04-9a8c-39ca-f56091820e5c.m3u8
 #EXTINF:-1 tvg-id="NBCSportsNOW.us" tvg-logo="https://nbcsports.brightspotcdn.com/dims4/default/a67d84d/2147483647/strip/true/crop/500x281+0+0/resize/1440x810!/quality/90/?url=https://nbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com/brightspot/59/58/d49cf9c14d06b6a728e677333ba6/nbcsportsnow-color-k-text-logo-425x300-1-2.png" group-title="USA [SD]",NBC Sports NOW [SD]
@@ -1867,8 +1855,6 @@ https://jmp2.uk/plu-5f5c216df68f920007888315.m3u8
 https://jmp2.uk/plu-615af74dfe3d8e0007524511.m3u8
 #EXTINF:-1 tvg-id="ParanormalState.us" tvg-logo="http://www.paranormalusa.com/Paranormal_State_Logo.jpg" group-title="USA",Paranormal State
 https://jmp2.uk/plu-60804d85858bd00007c5d591.m3u8
-#EXTINF:-1 tvg-id="PlutoTVAnimation.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Pluto_TV_logo_2024.svg" group-title="USA",Pluto TV Animation
-https://jmp2.uk/plu-612f761008a9e50007984ba0.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAnimeAcao.us" tvg-logo="https://img.anime2you.de/2021/06/pluto-tv-anime-logo-1536x864.jpg" group-title="USA",Pluto TV Anime Acao
 https://jmp2.uk/plu-604b79c558393100078faeef.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCineComedia.us" tvg-logo="https://logospng.org/download/pluto-tv/pluto-tv-4096.png" group-title="USA",Pluto TV Cine Comedia
@@ -1877,8 +1863,6 @@ https://jmp2.uk/plu-5f513564e4622a0007c578c0.m3u8
 https://jmp2.uk/plu-5f171f988ab9780007fa95ea.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCineSucessos.us" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/solidLogoSVG.svg?auto=&trim=auto&ixlib=react-9.1.5&h=50&dpr=5&q=20" group-title="USA",Pluto TV Cine Sucessos
 https://jmp2.uk/plu-5f120e94a5714d00074576a1.m3u8
-#EXTINF:-1 tvg-id="PlutoTVConspiracy.us" tvg-logo="https://www.monsterjam.com/wp-content/uploads/2024/04/PlutoTV_Wordmark_Black_1500x500.png" group-title="USA",Pluto TV Conspiracy
-https://jmp2.uk/plu-5d4ae94ef1a1bbb350ca41bb.m3u8
 #EXTINF:-1 tvg-id="PlutoTVFiccaoCientifica.us" tvg-logo="https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/solidLogoSVG.svg?auto=&trim=auto&ixlib=react-9.1.5&h=50" group-title="USA",Pluto TV Ficcao Cientifica
 https://jmp2.uk/plu-5fa15ad6367e170007cdd098.m3u8
 #EXTINF:-1 tvg-id="PlutoTVFilmesAcao.us" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/solidLogoSVG.svg?auto=&trim=auto&ixlib=react-9.1.5&h=50&dpr=2&q=50" group-title="USA",Pluto TV Filmes Acao
@@ -2457,16 +2441,8 @@ https://livestream.telvue.com/phillycam1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/pl
 https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8
 #EXTINF:-1 tvg-id="AMGATV.us" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/03/Amga-TV-Logo.jpg" group-title="USA [FHD]",AMGA TV [FHD]
 https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8
-#EXTINF:-1 tvg-id="AlientoVision.us" tvg-logo="https://static.wixstatic.com/media/59c031_b10c329535aa411ca0d56dbdf8cb7bd1~mv2.png/v1/fit/w_2500,h_1330,al_c/59c031_b10c329535aa411ca0d56dbdf8cb7bd1~mv2.png" group-title="USA [FHD]",Aliento Vision [FHD]
-https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo/playlist.m3u8
-#EXTINF:-1 tvg-id="CSI.us" tvg-logo="https://e7.pngegg.com/pngimages/380/561/png-clipart-csi-crime-scene-investigation-csi-deadly-intent-detective-investigation-television-police-officer.png" group-title="USA",CSI
-https://jmp2.uk/plu-5efbd29e4aa26700076c0d06.m3u8
-#EXTINF:-1 tvg-id="CineAdrenalina.us" tvg-logo="https://images.pluto.tv/channels/5d8d164d92e97a5e107638d2/solidLogoSVG.svg?auto=&trim=auto&ixlib=react-9.1.5&h=50" group-title="USA",Cine Adrenalina
-https://jmp2.uk/plu-5d8d164d92e97a5e107638d2.m3u8
 #EXTINF:-1 tvg-id="CineTerror.us" tvg-logo="https://i.imgur.com/I5XxyLI.png" group-title="USA",Cine Terror
-https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8
-#EXTINF:-1 tvg-id="ExtremaTV.us" tvg-logo="https://m.media-amazon.com/images/I/61hITojys4L.png" group-title="USA [HD]",Extrema TV [HD]
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+https://jmp2.uk/plu-5f12111c9e6c2c00078ef3bb.m3u8
 #EXTINF:-1 tvg-id="FamilyTies.us" tvg-logo="https://logowik.com/content/uploads/images/family-tiestvshow9622.logowik.com.webp" group-title="USA",Family Ties
 https://jmp2.uk/plu-5f77939a630f530007dde654.m3u8
 #EXTINF:-1 tvg-id="ForeverKids.us" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/04fbf8b3-296c-42a1-b3ff-ef48d7e3444c/dgm9m2r-8a34baf7-7bae-4b5e-a574-aa816777d892.jpg/v1/fill/w_1191,h_671,q_70,strp/forever_kids_pluto_tv_usa_logo__2021_present__by_west_harris_dgm9m2r-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIxIiwicGF0aCI6IlwvZlwvMDRmYmY4YjMtMjk2Yy00MmExLWIzZmYtZWY0OGQ3ZTM0NDRjXC9kZ205bTJyLThhMzRiYWY3LTdiYWUtNGI1ZS1hNTc0LWFhODE2Nzc3ZDg5Mi5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Pmz4tzYhDEriD5loKH6NxzkYkCIvfDiAlYXCX4z99Pc" group-title="USA",Forever Kids
@@ -2483,62 +2459,86 @@ https://jmp2.uk/plu-5ad8d54be738977e2c310940.m3u8
 https://jmp2.uk/plu-5bb3fea0f711fd76340eebff.m3u8
 #EXTINF:-1 tvg-id="PlutoTVMisterios.us" tvg-logo="https://preview.redd.it/pluto-tv-new-logo-2024-v0-8kk139yoa9fc1.png?width=1436&format=png&auto=webp&s=d1c2368b1a58a71e0a57718cd0495398049f3f95" group-title="USA",Pluto TV Misterios
 https://jmp2.uk/plu-5fac52f142044f00078e2a51.m3u8
-#EXTINF:-1 tvg-id="PlutoTVNature.us" tvg-logo="https://www.pngitem.com/pimgs/m/475-4753223_pluto-tv-logo-png-transparent-png.png" group-title="USA",Pluto TV Nature
-https://jmp2.uk/plu-5be1c3f9851dd5632e2c91b2.m3u8
-#EXTINF:-1 tvg-id="PlutoTVStaffPicks.us" tvg-logo="https://www.tvchannellists.com/wiki/images/d/d6/Pluto_TV_Staff_Picks.svg" group-title="USA",Pluto TV Staff Picks
-https://jmp2.uk/plu-5f4d863b98b41000076cd061.m3u8
 #EXTINF:-1 tvg-id="TBNArmenia.us" tvg-logo="https://epg.iptvx.one/picons/tbn-armenia.png" group-title="USA [FHD]",TBN Armenia [FHD]
 https://164475.gvideo.io/mpegts/164475_650646/master_mpegts.m3u8
-#EXTINF:-1 tvg-id="TVLandSitcoms.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TV_Land_2015_logo.svg/1200px-TV_Land_2015_logo.svg.png" group-title="USA",TV Land Sitcoms
-https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8
 #EXTINF:-1 tvg-id="TVSTelevisionNetwork.us" tvg-logo="https://i.pinimg.com/736x/e7/cc/a7/e7cca7480db787fad33f9ae409b6579b.jpg" group-title="USA [SD]",TVS Television Network [SD]
 https://rpn.bozztv.com/gusa/gusa-tvstn/index.m3u8
 #EXTINF:-1 tvg-id="TeenMom.us" tvg-logo="https://cdn.justjared.com/wp-content/uploads/headlines/2022/08/mom-chap.jpg" group-title="USA",Teen Mom
 https://jmp2.uk/plu-62d550d81054990007db7798.m3u8
 #EXTINF:-1 tvg-id="TheAmazingRace.us" tvg-logo="http://img1.wikia.nocookie.net/__cb20130930003913/logopedia/images/9/9a/The_Amazing_Race_Season_23_Title_Card.png" group-title="USA",The Amazing Race
 https://jmp2.uk/plu-5f21e8a6e2f12b000755afdb.m3u8
-#EXTINF:-1 tvg-id="ThePriceIsRight.us" tvg-logo="http://logonoid.com/images/the-price-is-right-logo.png" group-title="USA [HD]",The Price Is Right [HD]
-https://jmp2.uk/plu-643f035d5a0cd50008361534.m3u8
-#EXTINF:-1 tvg-id="YoMTV.us" tvg-logo="https://www.tvchannellists.com/wiki/images/9/9f/Yo!_MTV.svg" group-title="USA [FHD]",Yo! MTV [FHD]
-https://jmp2.uk/plu-5d14fc31252d35decbc4080b.m3u8
 #EXTINF:-1 tvg-id="GhostDimension.us" tvg-logo="https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063687228763" group-title="USA [SD]",Ghost Dimension [SD]
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/Q7VW3TCBWCN12JGUJGUY/hls3/now,-1m/m.m3u8?ads.vf=7sLXLbaCnLW
-#EXTINF:-1 tvg-id="Farscape.us" tvg-logo="https://p1.hiclipart.com/preview/538/726/473/farscape-series-and-season-folder-icons-farscape-s05-png-icon.jpg" group-title="USA",Farscape
-https://jmp2.uk/plu-680bb31c56ff83bcd685d64e.m3u8
 #EXTINF:-1 tvg-id="KenanKel.us" tvg-logo="https://www.nicepng.com/png/detail/741-7410077_kenan-and-kel-logo.png" group-title="USA",Kenan & Kel
 https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8
 #EXTINF:-1 tvg-id="MasterChef.us" tvg-logo="https://p7.hiclipart.com/preview/175/312/923/masterchef-logo-television-show-logo-chef.jpg" group-title="USA",MasterChef
 https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8
 #EXTINF:-1 tvg-id="SensingMurder.us" tvg-logo="https://image.tmdb.org/t/p/original/qz76CzITYS5Fd4XVahdasweuta8.jpg" group-title="USA",Sensing Murder
 https://jmp2.uk/plu-5e9ed47c26ebb000074af566.m3u8
-#EXTINF:-1 tvg-id="NarutoShippuden.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Logo_Naruto_Shipp%C5%ABden.svg/250px-Logo_Naruto_Shipp%C5%ABden.svg.png" group-title="USA",Naruto Shippuden
-https://jmp2.uk/plu-64c92fea3c3344000869e8a9.m3u8
-#EXTINF:-1 tvg-id="KTIV46.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/KTIV_NBC_4_Sioux_City%2C_Iowa_Logo.svg/250px-KTIV_NBC_4_Sioux_City%2C_Iowa_Logo.svg.png" group-title="USA [SD]",KTIV 4.6 [SD]
-http://txc4-swbb-mn.fibernet-tv.com/KABY-CW-2364/index.m3u8
+#EXTINF:-1 tvg-id="80sRewind.us" tvg-logo="https://www.tvchannellists.com/wiki/images/c/cd/80s_Rewind.svg" group-title="USA",80s Rewind
+https://jmp2.uk/plu-5ca525b650be2571e3943c63.m3u8
+#EXTINF:-1 tvg-id="CSI.us" tvg-logo="https://e7.pngegg.com/pngimages/380/561/png-clipart-csi-crime-scene-investigation-csi-deadly-intent-detective-investigation-television-police-officer.png" group-title="USA",CSI
+https://jmp2.uk/plu-5efbd29e4aa26700076c0d06.m3u8
+#EXTINF:-1 tvg-id="CineAdrenalina.us" tvg-logo="https://images.pluto.tv/channels/5d8d164d92e97a5e107638d2/solidLogoSVG.svg?auto=&trim=auto&ixlib=react-9.1.5&h=50" group-title="USA",Cine Adrenalina
+https://jmp2.uk/plu-5d8d164d92e97a5e107638d2.m3u8
 #EXTINF:-1 tvg-id="JBS.us" tvg-logo="https://w7.pngwing.com/pngs/609/116/png-transparent-jbs-hd-logo.png" group-title="USA",JBS
-http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/playlist.m3u8
+http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8
+#EXTINF:-1 tvg-id="MTVTheShores.us" tvg-logo="https://www.tvchannellists.com/wiki/images/2/2e/MTV_The_Shores.svg" group-title="USA",MTV The Shores
+https://jmp2.uk/plu-5caf32c2a5068259a32320fc.m3u8
+#EXTINF:-1 tvg-id="MTVenEspanol.us" tvg-logo="https://crystalpng.com/wp-content/uploads/2025/02/mtv-logo-01.png" group-title="USA",MTV en Espanol
+https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8
+#EXTINF:-1 tvg-id="MoreTVDrama.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/CTV_Drama_Channel_2019.svg/1200px-CTV_Drama_Channel_2019.svg.png" group-title="USA",More TV Drama
+https://jmp2.uk/plu-613260e4bdb71c00070d63fa.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCineFamilia.us" tvg-logo="https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5&w=4087" group-title="USA",Pluto TV Cine Familia
 https://jmp2.uk/plu-5f171f032cd22e0007f17f3d.m3u8
-#EXTINF:-1 tvg-id="PlutoTVReaction.us" tvg-logo="https://preview.redd.it/pluto-tv-new-logo-2024-v0-8kk139yoa9fc1.png?width=1436&format=png&auto=webp&s=d1c2368b1a58a71e0a57718cd0495398049f3f95" group-title="USA",Pluto TV Reaction
-https://jmp2.uk/plu-617b37b361e0fd0008cfd8c5.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCrimeMovies.us" tvg-logo="https://static.wikia.nocookie.net/pluto-tv/images/e/e6/Site-logo.png/revision/latest?cb=20220804012105" group-title="USA",Pluto TV Crime Movies
+https://jmp2.uk/plu-5f4d8594eb979c0007706de7.m3u8
+#EXTINF:-1 tvg-id="PlutoTVKultfilme.us" tvg-logo="https://static.wikia.nocookie.net/pluto-tv/images/e/e6/Site-logo.png/revision/latest?cb=20240613045916" group-title="USA",Pluto TV Kultfilme
+https://jmp2.uk/plu-5dde47b63585b500099f74ec.m3u8
+#EXTINF:-1 tvg-id="PlutoTVNature.us" tvg-logo="https://www.pngitem.com/pimgs/m/475-4753223_pluto-tv-logo-png-transparent-png.png" group-title="USA",Pluto TV Nature
+https://jmp2.uk/plu-5be1c3f9851dd5632e2c91b2.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSpotlight.us" tvg-logo="https://www.tvchannellists.com/wiki/images/e/e9/Pluto_TV_Spotlight.svg" group-title="USA",Pluto TV Spotlight
+https://jmp2.uk/plu-5ba3fb9c4b078e0f37ad34e8.m3u8
+#EXTINF:-1 tvg-id="SonyCanalEscapePerfecto.us" tvg-logo="https://images.pluto.tv/channels/605e479d5b8229000763e697/solidLogoSVG.svg?auto=&trim=auto&ixlib=react-9.1.5&h=50" group-title="USA",Sony Canal Escape Perfecto
+https://jmp2.uk/plu-605e479d5b8229000763e697.m3u8
+#EXTINF:-1 tvg-id="TVLandSitcoms.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TV_Land_2015_logo.svg/1200px-TV_Land_2015_logo.svg.png" group-title="USA",TV Land Sitcoms
+https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8
+#EXTINF:-1 tvg-id="ThePriceIsRight.us" tvg-logo="http://logonoid.com/images/the-price-is-right-logo.png" group-title="USA [HD]",The Price Is Right [HD]
+https://jmp2.uk/plu-643f035d5a0cd50008361534.m3u8
+#EXTINF:-1 tvg-id="SportsTVPlus.us" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/jr0wlq1681309932.png" group-title="USA [SD]",Sports TV Plus [SD]
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/NKXQTWMREOB2XFJRLAHO/hls3/now,-1m/m.m3u8?ads.vf=SqsoCl37PjC
+#EXTINF:-1 tvg-id="Farscape.us" tvg-logo="https://p1.hiclipart.com/preview/538/726/473/farscape-series-and-season-folder-icons-farscape-s05-png-icon.jpg" group-title="USA",Farscape
+https://jmp2.uk/plu-680bb31c56ff83bcd685d64e.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAnimation.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Pluto_TV_logo_2024.svg" group-title="USA",Pluto TV Animation
+https://jmp2.uk/plu-612f761008a9e50007984ba0.m3u8
+#EXTINF:-1 tvg-id="PlutoTVConspiracy.us" tvg-logo="https://www.monsterjam.com/wp-content/uploads/2024/04/PlutoTV_Wordmark_Black_1500x500.png" group-title="USA",Pluto TV Conspiracy
+https://jmp2.uk/plu-5d4ae94ef1a1bbb350ca41bb.m3u8
 #EXTINF:-1 tvg-id="PlutoTVFilmesNacionais.us" tvg-logo="https://static.wikia.nocookie.net/pluto-tv/images/e/e6/Site-logo.png/revision/latest?cb=20240613045916" group-title="USA",Pluto TV Filmes Nacionais
 https://jmp2.uk/plu-5f5a545d0dbf7f0007c09408.m3u8
+#EXTINF:-1 tvg-id="ParamountPlusPicks.us" tvg-logo="https://images.pluto.tv/channels/5ff8c708653d080007361b14/featuredImage.jpg" group-title="USA",Paramount+ Picks
+https://jmp2.uk/plu-5ff8c708653d080007361b14.m3u8
+#EXTINF:-1 tvg-id="PlutoTVReaction.us" tvg-logo="https://preview.redd.it/pluto-tv-new-logo-2024-v0-8kk139yoa9fc1.png?width=1436&format=png&auto=webp&s=d1c2368b1a58a71e0a57718cd0495398049f3f95" group-title="USA",Pluto TV Reaction
+https://jmp2.uk/plu-617b37b361e0fd0008cfd8c5.m3u8
 #EXTINF:-1 tvg-id="WLIO81.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Lima_Hometown_Stations.png" group-title="USA [HD]",WLIO 8.1 [HD]
 https://live.field59.com/wlio/wlio1/playlist.m3u8
-#EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/250px-FOX_Sports_logo.svg.png" group-title="USA [HD]",Fox Sports 1 [HD]
-https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="30ARidiculousTV.us" tvg-logo="https://30a.media/wp-content/uploads/2023/08/pzaz-30atv-2-230x366-ridiculous.jpg" group-title="USA [HD]",30A Ridiculous TV [HD]
-https://30a-tv.com/feeds/720p/63.m3u8
-#EXTINF:-1 tvg-id="ClassicTVDrama.us" tvg-logo="https://i.imgur.com/XHQxv0x.png" group-title="USA",Classic TV Drama
-https://jmp2.uk/plu-5f15e3cccf49290007053c67.m3u8
+#EXTINF:-1 tvg-id="NarutoShippuden.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Logo_Naruto_Shipp%C5%ABden.svg/250px-Logo_Naruto_Shipp%C5%ABden.svg.png" group-title="USA",Naruto Shippuden
+https://jmp2.uk/plu-64c92fea3c3344000869e8a9.m3u8
+#EXTINF:-1 tvg-id="AlientoVision.us" tvg-logo="https://static.wixstatic.com/media/59c031_b10c329535aa411ca0d56dbdf8cb7bd1~mv2.png/v1/fit/w_2500,h_1330,al_c/59c031_b10c329535aa411ca0d56dbdf8cb7bd1~mv2.png" group-title="USA [FHD]",Aliento Vision [FHD]
+https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo/playlist.m3u8
+#EXTINF:-1 tvg-id="ExtremaTV.us" tvg-logo="https://m.media-amazon.com/images/I/61hITojys4L.png" group-title="USA [HD]",Extrema TV [HD]
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="InkMaster.us" tvg-logo="https://w7.pngwing.com/pngs/799/379/png-transparent-ink-master-television-show-paramount-network-reality-television-others-television-ink-text.png" group-title="USA",Ink Master
 https://jmp2.uk/plu-60807fd5db701400078219c2.m3u8
-#EXTINF:-1 tvg-id="SFGovTV2.us" tvg-logo="https://i.imgur.com/SOk5m5B.png" group-title="USA [FHD]",SFGovTV2 [FHD]
-https://cdn3.wowza.com/5/ZFdxUW9BQWt2UWRL/sanfrancisco/G0051_050/playlist.m3u8
 #EXTINF:-1 tvg-id="ParamountMovieChannel.us" tvg-logo="https://e7.pngegg.com/pngimages/537/26/png-clipart-paramount-s-paramount-channel-television-channel-film-paramount-network-logo-television-blue.png" group-title="USA",Paramount Movie Channel
 https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
+#EXTINF:-1 tvg-id="PlutoTVStaffPicks.us" tvg-logo="https://www.tvchannellists.com/wiki/images/d/d6/Pluto_TV_Staff_Picks.svg" group-title="USA",Pluto TV Staff Picks
+https://jmp2.uk/plu-5f4d863b98b41000076cd061.m3u8
 #EXTINF:-1 tvg-id="TheAddamsFamily.us" tvg-logo="https://logos-world.net/wp-content/uploads/2024/11/The-Addams-Family-Logo.png" group-title="USA",The Addams Family
 https://jmp2.uk/plu-5d81607ab737153ea3c1c80e.m3u8
+#EXTINF:-1 tvg-id="KTIV46.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/KTIV_NBC_4_Sioux_City%2C_Iowa_Logo.svg/250px-KTIV_NBC_4_Sioux_City%2C_Iowa_Logo.svg.png" group-title="USA [SD]",KTIV 4.6 [SD]
+http://txc4-swbb-mn.fibernet-tv.com/KABY-CW-2364/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/250px-FOX_Sports_logo.svg.png" group-title="USA [HD]",Fox Sports 1 [HD]
+https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="abc_news_live_us" tvg-logo="https://i.ibb.co/9V5x1wJ/ABC-News-Live-logo.png" group-title="USA",ABC News Live
 https://abcnews-streams.akamaized.net/hls/live/2023565/abcnewshudson6/master_4000.m3u8
 #EXTINF:-1 tvg-id="charge_tv_us" tvg-logo="https://i.ibb.co/jDG4b8N/Charge-logo-svg.png" group-title="USA",Charge!
