@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AeonCoreX-Lab/.github/main/badges/aeoncorex-badge.svg"/>
-  <img src="https://img.shields.io/badge/StreamX%20Ultra-Live%20TV%20Platform-1E90FF?style=for-the-badge&logo=tvtime&logoColor=white"/>
+  <a href="https://github.com/AeonCoreX-Lab">
+    <img src="https://raw.githubusercontent.com/AeonCoreX-Lab/.github/main/badges/aeoncorex-badge.svg" alt="AeonCoreX Official Project" width="220">
+  </a> 
+   <img src="https://img.shields.io/badge/StreamX%20Ultra-Live%20TV%20Platform-1E90FF?style=for-the-badge&logo=tvtime&logoColor=white"/>
 </p>
 
 <p align="center">
