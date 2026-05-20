@@ -1,13 +1,13 @@
-name: Update IPTV Channels
+Name: Update IPTV Channels
 
 on:
   schedule:
     - cron: '0 */6 * * *'   # প্রতি ৬ ঘণ্টায় — script ৫.৫h চলে, .৫h gap থাকে
   workflow_dispatch:          # Manual trigger
 
-# একই সময়ে দুটো run চলবে না
+# একই সময়ে দুটো run চলবে না (শুধু main branch-এর জন্য প্রজোয্য, টেস্ট ব্রাঞ্চে প্যারালাল চলবে)
 concurrency:
-  group: iptv-update
+  group: ${{ github.ref == 'refs/heads/main' && 'iptv-update-main' || github.run_id }}
   cancel-in-progress: false   # চলমান run শেষ হোক, তারপর নতুনটা শুরু
 
 jobs:
