@@ -158,20 +158,228 @@ See [LICENSE](LICENSE) for details.
 
 ---
 
-## ⚖️ Legal Disclaimer & Attribution
+---
 
-### 1. Attribution
-This project utilizes data, metadata, and artwork (including logos, posters, and icons) provided by **[TheTVDB](https://thetvdb.com/)**. This project is not officially endorsed, certified, or sponsored by TheTVDB or its affiliates. All API usage strictly adheres to TheTVDB's Terms of Service.
+## ⚖️ Legal Disclaimer, Attribution & Compliance
 
-### 2. Fair Use Notice
-This repository is maintained strictly for **educational, research, and non-commercial development purposes**. 
+### 1. Project Purpose & Scope
 
-Any copyrighted material, including but not limited to media logos, network trademarks, and promotional imagery, registered by their respective production houses (e.g., Netflix, Disney, HBO, Warner Bros.) or networks, is used here under the **Fair Use** doctrine (Section 107 of the U.S. Copyright Act). This usage is intended solely for informational indexing and user-interface simulation, without any intent to infringe upon the original creators' commercial rights.
+**StreamX Ultra** and this repository are maintained strictly for:
 
-### 3. DMCA & Takedown Policy
-The owner of this repository does not claim ownership over any retrieved media assets. If you are a copyright owner or an agent thereof and believe that any content hosted in this repository infringes upon your copyrights, you may request a removal. 
+- ✅ **Educational** purposes — learning IPTV data structures and API integration
+- ✅ **Research** — studying global channel metadata and streaming infrastructure
+- ✅ **Non-commercial development** — building open-source IPTV applications
+- ✅ **Personal use** — individual developers testing their own apps
 
-Please open a formal GitHub Issue or contact the maintainer directly with valid proof of ownership, and the contested material will be removed promptly within 24-48 hours.
+**This is NOT a commercial streaming service. We do NOT host, distribute, or retransmit any video content, streams, or broadcasts.**
+
+---
+
+### 2. Third-Party API & Data Attribution
+
+This project relies on official APIs and community-driven open data. Each source operates under its own terms:
+
+| Source | Type | Usage in This Project | Compliance Status |
+|--------|------|----------------------|-------------------|
+| **[Logo.dev](https://logo.dev)** | Official Logo API | Primary logo source via `img.logo.dev` | ✅ Free tier (500K req/month). Attribution link required in production per [Terms](https://logo.dev/terms). |
+| **[TheTVDB](https://thetvdb.com)** | Official Media DB | Fallback artwork & metadata | ✅ API key required. Subject to [TVDB TOS](https://thetvdb.com/tos). Not endorsed by TVDB. |
+| **[iptv-org](https://github.com/iptv-org)** | Open-Source Community | Channel metadata, IDs, public stream URLs | ✅ Open-source project. Data sourced from `github.io/api/` endpoints. |
+| **[tv-logo/tv-logos](https://github.com/tv-logo/tv-logos)** | GitHub Open Repo | Fallback PNG logos | ✅ GitHub CDN raw URLs. Community fair-use for EPG/IPTV apps. |
+| **[MarhyCZ Picons](https://github.com/MarhyCZ/picons)** | GitHub Open Repo | Fallback vector logos | ✅ GitHub Pages CDN. Open-source picon collection. |
+| **[LyngSat](https://www.lyngsat-logo.com)** | Satellite Info Site | Fallback satellite logos | ✅ Public website. Used via standard HTTP requests. |
+| **[Wikipedia](https://en.wikipedia.org)** | Wikimedia Project | Fallback infobox images | ✅ [Wikimedia API Terms](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use). CC BY-SA where applicable. |
+
+**Important:** This project is **not officially endorsed, certified, sponsored, or affiliated** with any of the above entities. All trademarks, service marks, and logos belong to their respective owners.
+
+---
+
+### 3. Intellectual Property & Copyright Notice
+
+#### 3.1 Channel Logos & Trademarks
+All channel logos, network trademarks, brand names, and promotional imagery displayed or referenced in this repository are the **exclusive property of their respective owners**, including but not limited to:
+
+- **Broadcasting Networks:** BBC, CNN, ESPN, Fox, NBC, CBS, ABC, Al Jazeera, Sony, Zee, Star, etc.
+- **Production Houses:** Netflix, Disney, HBO, Warner Bros., Paramount, Universal, etc.
+- **Sports Leagues:** NFL, NBA, FIFA, UEFA, ICC, IPL, etc.
+- **Regional Broadcasters:** Every country's respective TV networks
+
+**We do NOT claim ownership, licensing rights, or distribution rights over any of these materials.**
+
+#### 3.2 Fair Use Doctrine (U.S. Copyright Act Section 107)
+The use of copyrighted logos and imagery in this repository constitutes **"Fair Use"** as defined under Section 107 of the U.S. Copyright Act. The following factors support this classification:
+
+| Factor | Application |
+|--------|-------------|
+| **Purpose** | Non-commercial, educational, and transformative use for data indexing |
+| **Nature** | Factual metadata and small-resolution logos (not full creative works) |
+| **Amount** | Only logo thumbnails used, not full broadcasts or content |
+| **Market Effect** | No substitution for original content or commercial licensing |
+
+#### 3.3 No Commercial Exploitation
+This repository and its data are **never sold, licensed, or monetized**. There is no:
+- Subscription fees
+- Pay-per-view charges
+- Advertising revenue from logo display
+- Resale of aggregated data
+
+---
+
+### 4. Stream Content Disclaimer
+
+#### 4.1 No Video Hosting
+**We do NOT host, store, cache, or transmit any video streams.** This repository contains **only metadata**:
+
+- Channel names and IDs
+- Logo image URLs (not the actual image files in most cases)
+- Category classifications
+- Stream URL pointers (publicly available M3U links from iptv-org)
+
+#### 4.2 Third-Party Stream Sources
+Any stream URLs referenced in this data originate from:
+- **iptv-org public database** — community-maintained, publicly accessible
+- **Official broadcaster websites** — freely available streams
+- **Open-source IPTV projects** — licensed under their respective terms
+
+**We are NOT responsible for the content, quality, legality, or availability of any third-party streams.**
+
+#### 4.3 User Responsibility
+End users and developers utilizing this data are solely responsible for:
+- Ensuring compliance with their local laws and regulations
+- Verifying they have proper rights to access referenced streams
+- Respecting broadcaster terms of service
+- Using VPN or geo-unblocking tools in accordance with local laws
+
+---
+
+### 5. Data Accuracy & Availability
+
+#### 5.1 No Guarantees
+While we strive for accuracy through automated validation, we provide **no warranties**:
+
+| Aspect | Disclaimer |
+|--------|------------|
+| **Accuracy** | Channel metadata may contain errors or become outdated |
+| **Availability** | Logos and streams may change, move, or become unavailable without notice |
+| **Completeness** | Not all world channels are covered; gaps exist |
+| **Timeliness** | Updates occur every 6 hours; real-time changes may not reflect immediately |
+
+#### 5.2 Automated Nature
+This repository is **100% machine-generated** via GitHub Actions:
+- No human editorial oversight on individual channels
+- No manual verification of every logo or stream URL
+- Algorithmic matching may occasionally produce incorrect associations
+
+---
+
+### 6. DMCA Takedown & Content Removal Policy
+
+#### 6.1 Commitment to Compliance
+We respect intellectual property rights and comply with the **Digital Millennium Copyright Act (DMCA)**. If you believe your copyrighted material is improperly used:
+
+#### 6.2 Takedown Request Process
+
+**Step 1: Identify the Content**
+- Specific channel ID or logo file name
+- URL or file path in this repository
+- Your ownership documentation
+
+**Step 2: Submit Request**
+| Method | Details |
+|--------|---------|
+| **GitHub Issue** | Open a new issue with title `[DMCA] Content Removal Request` |
+| **Email** | dmca@aeoncorex.com (replace with actual contact) |
+| **Required Info** | Full legal name, contact info, specific URLs, statement of good faith |
+
+**Step 3: Verification & Action**
+- ⏱️ **Acknowledgment:** Within 24 hours
+- 🔍 **Review:** 24-48 hours for ownership verification
+- 🗑️ **Removal:** Within 48 hours of verified valid request
+- 📧 **Notification:** Confirmation sent to requester
+
+#### 6.3 Counter-Notification
+If you believe content was removed in error, you may submit a counter-notification with:
+- Your contact information
+- Identification of removed content
+- Statement under penalty of perjury
+- Consent to jurisdiction
+
+---
+
+### 7. Privacy & Data Protection
+
+#### 7.1 No User Data Collection
+This repository and its automation scripts:
+- ❌ Do NOT collect, store, or process any personal user data
+- ❌ Do NOT use cookies, trackers, or analytics on end users
+- ❌ Do NOT require user registration or authentication
+- ✅ Only process publicly available channel metadata
+
+#### 7.2 GitHub Actions Data
+Our CI/CD pipeline processes data entirely within GitHub's infrastructure:
+- API keys stored in **encrypted GitHub Secrets**
+- No secrets exposed in logs or code
+- Cache data is ephemeral and non-personal
+
+---
+
+### 8. Jurisdiction & Governing Law
+
+#### 8.1 Applicable Law
+This project is governed by the laws of **Bangladesh** (AeonCoreX's registered jurisdiction) and respects:
+
+- U.S. Copyright Act (Fair Use, Section 107)
+- DMCA provisions
+- EU GDPR (for any incidental data processing)
+- Local laws of users' respective countries
+
+#### 8.2 Dispute Resolution
+Any disputes arising from this project shall be resolved through:
+1. Good-faith negotiation
+2. Mediation
+3. Arbitration in Dhaka, Bangladesh
+4. Final resort: Competent courts in Bangladesh
+
+---
+
+### 9. Changes to This Disclaimer
+
+We reserve the right to update this legal disclaimer at any time. Changes will be:
+
+- Posted in this README with updated timestamp
+- Committed with clear message `[LEGAL] Updated disclaimer`
+- Not retroactively applied (only affects future usage)
+
+**Last Updated:** 2026-05-20
+
+---
+
+### 10. Contact & Inquiries
+
+| Purpose | Contact |
+|---------|---------|
+| **General Questions** | Open a GitHub Discussion |
+| **Bug Reports** | Open a GitHub Issue |
+| **DMCA / Legal** | dmca@aeoncorex.com |
+| **Business / Licensing** | business@aeoncorex.com |
+| **Security Issues** | security@aeoncorex.com (PGP key available) |
+
+**Response Time:** 24-48 hours for standard inquiries; 24 hours for legal/security issues.
+
+---
+
+### 11. Acknowledgment
+
+By using, forking, or referencing this repository, you acknowledge that you:
+
+1. ✅ Have read and understood this entire disclaimer
+2. ✅ Agree to use this data for lawful purposes only
+3. ✅ Accept that AeonCoreX bears no liability for third-party content
+4. ✅ Will comply with all applicable laws in your jurisdiction
+5. ✅ Understand this is an educational/research project, not a streaming service
+
+**If you do NOT agree with these terms, please do NOT use this repository.**
+
+---
 
 
 ## 🔮 Roadmap
