@@ -181,7 +181,7 @@ This project relies on official APIs and community-driven open data. Each source
 
 | Source | Type | Usage in This Project | Compliance Status |
 |--------|------|----------------------|-------------------|
-| **[Logo.dev](https://logo.dev)** | Official Logo API | Primary logo source via `img.logo.dev` | ✅ Free tier (500K req/month). Attribution link required in production per [Terms](https://logo.dev/terms). |
+| **[Logo.dev](https://logo.dev)** | Official Logo API | Primary logo source via `img.logo.dev` | ✅ Free tier (500K req/month). Attribution link required in production per [Terms](https://www.logo.dev/legal/terms). |
 | **[TheTVDB](https://thetvdb.com)** | Official Media DB | Fallback artwork & metadata | ✅ API key required. Subject to [TVDB TOS](https://thetvdb.com/tos). Not endorsed by TVDB. |
 | **[iptv-org](https://github.com/iptv-org)** | Open-Source Community | Channel metadata, IDs, public stream URLs | ✅ Open-source project. Data sourced from `github.io/api/` endpoints. |
 | **[tv-logo/tv-logos](https://github.com/tv-logo/tv-logos)** | GitHub Open Repo | Fallback PNG logos | ✅ GitHub CDN raw URLs. Community fair-use for EPG/IPTV apps. |
