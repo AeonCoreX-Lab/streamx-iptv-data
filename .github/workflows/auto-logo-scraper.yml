@@ -2,18 +2,17 @@ name: Auto Scrape IPTV Logos
 
 on:
   schedule:
-    - cron: '0 */6 * * *'   # every 6 hours (was 2h — overlapping caused chaos)
+    - cron: '0 */6 * * *'
   workflow_dispatch:
 
-# Prevent two runs from colliding and corrupting state.json
 concurrency:
   group: scrape-logos
-  cancel-in-progress: false   # let the current run finish; queue next
+  cancel-in-progress: false
 
 jobs:
   scrape-and-update:
     runs-on: ubuntu-latest
-    timeout-minutes: 340      # 5h 40m — GitHub default is 360m; we exit at 5h15m
+    timeout-minutes: 340
     permissions:
       contents: write
 
@@ -21,7 +20,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Fetches all history for all branches and tags
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -31,36 +30,38 @@ jobs:
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests
-  
+          pip install requests beautifulsoup4
+
       - name: Restore Scraper State and Logos Cache
         id: logo-cache
         uses: actions/cache@v4
         with:
           path: |
-            scraper_state.json
+            scraper_state.json        # ✅ ROOT e state file
             logos/
-          # প্রতি রানের জন্য ইউনিক কি (Key) জেনারেট করবে
-          key: logo-state-${{ github.run_id }}
-          # যদি ইউনিক কি না মেলে, তবে সর্বশেষ ব্যাকআপ থেকে রিস্টোর করবে
+            channel_logo_mapping.json
+          key: logo-state-${{ github.run_id }}-${{ github.run_attempt }}
           restore-keys: |
             logo-state-
 
       - name: Run Scraper
         env:
+          LOGO_DEV_KEY: ${{ secrets.LOGO_DEV_KEY }}
           PRIMARY_API_KEY: ${{ secrets.PRIMARY_API_KEY }}
         run: python logomaster.py
 
-      - name: Commit logos + state
+      - name: Commit logos + state + reports
         run: |
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git config user.name  "github-actions[bot]"
-          git add logos/ scraper_state.json
           
-          # Check if there are changes to commit
+          git add logos/ 
+          git add reports/ 
+          git add scraper_state.json        # ✅ ROOT e state
+          git add channel_logo_mapping.json
+          
           if ! git diff --staged --quiet; then
             git commit -m "chore: auto-add logos [skip ci]"
-            # Pull latest changes from remote to avoid push rejection
             git pull --rebase origin main
             git push
           else
