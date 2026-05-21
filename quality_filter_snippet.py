@@ -1,86 +1,206 @@
+import os
+import json
+import struct
+import shutil
+from collections import defaultdict
+from datetime import datetime
 
-# Add this to logomaster.py after validate_image_file function
+LOGOS_DIR = 'logos'
+REPORT_FILE = 'logo_quality_report.json'
+ARCHIVE_DIR = 'logos_low_quality_archive'
 
-def check_logo_quality(filepath: str) -> dict:
-    """
-    Check logo quality metrics.
-    Returns: {"score": 0-100, "width": int, "height": int, "size": int}
-    """
-    try:
-        size = os.path.getsize(filepath)
+# এনভায়রনমেন্ট ভ্যারিয়েবল থেকে ইনপুট রিড করা (ডিফল্ট ব্যাকআপ সহ)
+ACTION = os.getenv('ACTION_INPUT', 'check')
+MIN_SCORE = int(os.getenv('MIN_SCORE_INPUT', '40'))
 
-        with open(filepath, 'rb') as f:
-            header = f.read(24)
+def run_quality_check():
+    stats = {
+        'total': 0, 'valid_png': 0, 'corrupt': 0,
+        'tiny': 0, 'small': 0, 'medium': 0, 'large': 0, 'huge': 0,
+        'by_country': defaultdict(int),
+        'low_quality': []
+    }
 
-        if header[:8] != b'\x89PNG\r\n\x1a\n':
-            return {"score": 0, "error": "not_png"}
+    if not os.path.exists(LOGOS_DIR):
+        print(f"❌ Error: {LOGOS_DIR} directory not found.")
+        return
 
-        if header[12:16] == b'IHDR':
-            width = struct.unpack('>I', header[16:20])[0]
-            height = struct.unpack('>I', header[20:24])[0]
+    print(f'🔍 Analyzing logos in {LOGOS_DIR}/...')
 
-            # Quality scoring
-            score = 100
+    for country in os.listdir(LOGOS_DIR):
+        country_path = os.path.join(LOGOS_DIR, country)
+        if not os.path.isdir(country_path):
+            continue
 
-            # Size penalty (too small = bad)
-            if size < 2048:      # < 2KB
-                score -= 40
-            elif size < 5120:    # < 5KB
-                score -= 20
-            elif size > 102400:  # > 100KB (too big, probably not logo)
-                score -= 30
+        for fname in os.listdir(country_path):
+            if not fname.endswith('.png'):
+                continue
 
-            # Resolution penalty
-            min_dim = min(width, height)
-            if min_dim < 64:
-                score -= 50
-            elif min_dim < 128:
-                score -= 20
-            elif min_dim < 256:
-                score -= 10
+            stats['total'] += 1
+            stats['by_country'][country] += 1
 
-            # Aspect ratio penalty (logos should be roughly square or wide)
-            ratio = max(width, height) / max(min(width, height), 1)
-            if ratio > 5:  # Too tall/thin
-                score -= 20
+            filepath = os.path.join(country_path, fname)
+            size = os.path.getsize(filepath)
 
-            return {
-                "score": max(0, score),
-                "width": width,
-                "height": height,
-                "size": size,
-                "ratio": round(ratio, 2)
-            }
+            if size < 1024:
+                stats['tiny'] += 1
+            elif size < 5120:
+                stats['small'] += 1
+            elif size < 20480:
+                stats['medium'] += 1
+            elif size < 102400:
+                stats['large'] += 1
+            else:
+                stats['huge'] += 1
 
-        return {"score": 0, "error": "no_ihdr"}
+            try:
+                with open(filepath, 'rb') as f:
+                    header = f.read(24)
 
-    except Exception as e:
-        return {"score": 0, "error": str(e)}
+                # হেক্স ফরম্যাটে স্ট্যান্ডার্ড PNG সিগনেচার ভ্যালিডেশন
+                if header[:8] != b'\x89PNG\r\n\x1a\n':
+                    stats['corrupt'] += 1
+                    continue
 
+                if header[12:16] == b'IHDR':
+                    width = struct.unpack('>I', header[16:20])[0]
+                    height = struct.unpack('>I', header[20:24])[0]
+                    stats['valid_png'] += 1
 
-MIN_QUALITY_SCORE = 40  # Reject logos below this score
+                    score = 100
+                    if size < 2048:
+                        score -= 40
+                    elif size < 5120:
+                        score -= 20
+                    elif size > 102400:
+                        score -= 30
 
-def save_logo_with_quality_check(data: bytes, save_path: str) -> tuple[bool, int]:
-    """
-    Save logo only if quality is acceptable.
-    Returns: (success, size_or_score)
-    """
-    # First do normal save
-    temp_path = save_path + ".quality"
+                    min_dim = min(width, height)
+                    if min_dim < 64:
+                        score -= 50
+                    elif min_dim < 128:
+                        score -= 20
+                    elif min_dim < 256:
+                        score -= 10
 
-    with open(temp_path, 'wb') as f:
-        f.write(data)
+                    ratio = max(width, height) / max(min(width, height), 1)
+                    if ratio > 5:
+                        score -= 20
 
-    # Check quality
-    quality = check_logo_quality(temp_path)
+                    if score < 40:
+                        stats['low_quality'].append({
+                            'file': f'{country}/{fname}',
+                            'score': score,
+                            'size': size,
+                            'width': width,
+                            'height': height
+                        })
+            except Exception:
+                stats['corrupt'] += 1
 
-    if quality["score"] < MIN_QUALITY_SCORE:
-        os.remove(temp_path)
-        print(f"   ⚠️  Low quality rejected (score {quality['score']}): {os.path.basename(save_path)}")
-        return False, quality["score"]
+    report = {
+        'generated_at': datetime.now().isoformat(),
+        'summary': {
+            'total_logos': stats['total'],
+            'valid_png': stats['valid_png'],
+            'corrupt': stats['corrupt'],
+            'quality_distribution': {
+                'tiny (<1KB)': stats['tiny'],
+                'small (1-5KB)': stats['small'],
+                'medium (5-20KB)': stats['medium'],
+                'large (20-100KB)': stats['large'],
+                'huge (>100KB)': stats['huge']
+            },
+            'countries': len(stats['by_country']),
+            'low_quality_count': len(stats['low_quality'])
+        },
+        'by_country': dict(stats['by_country']),
+        'low_quality_logos': stats['low_quality'][:100]
+    }
 
-    # Quality OK, move to final path
-    os.makedirs(os.path.dirname(save_path), exist_ok=True)
-    os.replace(temp_path, save_path)
+    with open(REPORT_FILE, 'w', encoding='utf-8') as f:
+        json.dump(report, f, indent=2, ensure_ascii=False)
 
-    return True, os.path.getsize(save_path)
+    print(f'\n📊 Quality Report:')
+    print(f'   Total: {stats["total"]}')
+    print(f'   ✅ Valid: {stats["valid_png"]}')
+    print(f'   ❌ Corrupt: {stats["corrupt"]}')
+    print(f'   ⚠️  Low Quality: {len(stats["low_quality"])}')
+    print(f'   📁 Saved: {REPORT_FILE}')
+
+def run_filter():
+    print(f'🗑️ Filtering logos with score < {MIN_SCORE}...')
+    removed = 0
+    archived = 0
+    errors = 0
+
+    if not os.path.exists(LOGOS_DIR):
+        print(f"❌ Error: {LOGOS_DIR} directory not found.")
+        return
+
+    for country in os.listdir(LOGOS_DIR):
+        country_path = os.path.join(LOGOS_DIR, country)
+        if not os.path.isdir(country_path):
+            continue
+
+        for fname in os.listdir(country_path):
+            if not fname.endswith('.png'):
+                continue
+
+            filepath = os.path.join(country_path, fname)
+
+            try:
+                size = os.path.getsize(filepath)
+
+                with open(filepath, 'rb') as f:
+                    header = f.read(24)
+
+                if header[:8] != b'\x89PNG\r\n\x1a\n':
+                    os.remove(filepath)
+                    removed += 1
+                    continue
+
+                if header[12:16] == b'IHDR':
+                    width = struct.unpack('>I', header[16:20])[0]
+                    height = struct.unpack('>I', header[20:24])[0]
+
+                    score = 100
+                    if size < 2048:
+                        score -= 40
+                    elif size < 5120:
+                        score -= 20
+                    elif size > 102400:
+                        score -= 30
+
+                    min_dim = min(width, height)
+                    if min_dim < 64:
+                        score -= 50
+                    elif min_dim < 128:
+                        score -= 20
+                    elif min_dim < 256:
+                        score -= 10
+
+                    ratio = max(width, height) / max(min(width, height), 1)
+                    if ratio > 5:
+                        score -= 20
+
+                    if score < MIN_SCORE:
+                        archive_country = os.path.join(ARCHIVE_DIR, country)
+                        os.makedirs(archive_country, exist_ok=True)
+                        shutil.move(filepath, os.path.join(archive_country, fname))
+                        archived += 1
+                        print(f'   Archived: {country}/{fname} (score: {score})')
+            except Exception as e:
+                print(f'   Error: {fname} - {e}')
+                errors += 1
+
+    print(f'\n✅ Filter complete:')
+    print(f'   Removed (corrupt): {removed}')
+    print(f'   Archived (low quality): {archived}')
+    print(f'   Errors: {errors}')
+
+if __name__ == '__main__':
+    if ACTION in ['check', 'check-and-filter']:
+        run_quality_check()
+    if ACTION in ['filter', 'check-and-filter']:
+        run_filter()
