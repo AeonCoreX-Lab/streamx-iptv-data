@@ -289,7 +289,7 @@ We respect intellectual property rights and comply with the **Digital Millennium
 | Method | Details |
 |--------|---------|
 | **GitHub Issue** | Open a new issue with title `[DMCA] Content Removal Request` |
-| **Email** | dmca@aeoncorex.com (replace with actual contact) |
+| **Email** | aeoncorexbd@gmail.com |
 | **Required Info** | Full legal name, contact info, specific URLs, statement of good faith |
 
 **Step 3: Verification & Action**
@@ -361,9 +361,9 @@ We reserve the right to update this legal disclaimer at any time. Changes will b
 |---------|---------|
 | **General Questions** | Open a GitHub Discussion |
 | **Bug Reports** | Open a GitHub Issue |
-| **DMCA / Legal** | dmca@aeoncorex.com |
-| **Business / Licensing** | business@aeoncorex.com |
-| **Security Issues** | security@aeoncorex.com (PGP key available) |
+| **DMCA / Legal** | aeoncorexbd@gmail.com |
+| **Business / Licensing** | aeoncorexbd@gmail.com |
+| **Security Issues** | aeoncorexbd@gmail.com |
 
 **Response Time:** 24-48 hours for standard inquiries; 24 hours for legal/security issues.
 
