@@ -33,7 +33,9 @@ jobs:
             python api_generator.py
           else
             echo "⚠️ api_generator.py not found. Creating inline generator..."
-            python -c "
+            
+            # পাইথন কোডটিকে সরাসরি একটি ফাইলে রাইট করা হচ্ছে যেন কোটেশন বা ব্যাকস্ল্যাশের সমস্যা না হয়
+            cat << 'EOF' > temp_generator.py
 import os, json, glob
 from datetime import datetime
 
@@ -212,20 +214,23 @@ stats = {
 }
 save_json(os.path.join(API_DIR, 'stats.json'), stats)
 
-print(f'\\n🎉 API generation complete!')
+print('\n🎉 API generation complete!')
 print(f'   Total channels: {total_channels}')
 print(f'   Total logos: {total_logos}')
 print(f'   Countries: {len(countries)}')
-"
+EOF
+            
+            python temp_generator.py
+            rm temp_generator.py
           fi
 
       - name: Commit API Changes
         run: |
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git config user.name  "github-actions[bot]"
-          
+
           git add api/
-          
+
           if ! git diff --staged --quiet; then
             git commit -m "🚀 Auto-generate API endpoints [skip ci]"
             git pull --rebase origin main
