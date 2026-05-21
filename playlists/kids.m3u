@@ -137,10 +137,6 @@ http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
 https://reflect-npa.cablecast.tv/live-9/live/live.m3u8
 #EXTINF:-1 tvg-id="Naruto.us" tvg-logo="https://www.pngall.com/wp-content/uploads/13/Naruto-Logo-PNG.png" group-title="Kids [FHD]",Naruto [FHD]
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bbd39836-427d-4099-82bb-28b34f88aa35
-#EXTINF:-1 tvg-id="NickPlutoTV.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Nick_-_Pluto_TV.svg/revision/latest?cb=20210629162143" group-title="Kids [HD]",Nick Pluto TV [HD]
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3livestitch/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5108-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&profilesFromStream=true&serverSideAds=false&sid=5730720c-9e54-41d9-b73d-eab8fdac7291
-#EXTINF:-1 tvg-id="NickenEspanol.us" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/8/85/Nick_(Logo).png" group-title="Kids",Nick en Espanol
-https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.us" tvg-logo="https://www.freepnglogos.com/uploads/text-nick-nickelodeon-logo-png-9.png" group-title="Kids [FHD]",Nickelodeon [FHD]
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-logo="https://www.freepnglogos.com/uploads/text-nick-nickelodeon-logo-png-9.png" group-title="Kids [HD]",Nickelodeon [HD]
@@ -317,6 +313,8 @@ https://d3i6upqaqzosi1.cloudfront.net/tg/jr_us/tg_jr_us.m3u8
 https://dl74gpgmnb7i8.cloudfront.net/pocketwatch_GameOn.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAnime.us" tvg-logo="https://static.wikia.nocookie.net/pluto-tv/images/e/e6/Site-logo.png/revision/latest?cb=20240613045916" group-title="Kids",Pluto TV Anime
 https://jmp2.uk/plu-5f12136385bccc00070142ed.m3u8
+#EXTINF:-1 tvg-id="NarutoShippuden.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Logo_Naruto_Shipp%C5%ABden.svg/250px-Logo_Naruto_Shipp%C5%ABden.svg.png" group-title="Kids",Naruto Shippuden
+https://jmp2.uk/plu-64c92fea3c3344000869e8a9.m3u8
 #EXTINF:-1 tvg-id="Narutoenespanol.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/PlayTV20062020.png/250px-PlayTV20062020.png" group-title="Kids",Naruto en espanol
 https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8
 #EXTINF:-1 tvg-id="NickOnline.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/250px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="Kids [HD]",NickOnline [HD]
@@ -357,22 +355,24 @@ https://northtelecom.b-cdn.net/hodhodtv.m3u8
 https://xykt-fix.github.io/iptv/streams/SP57.m3u8
 #EXTINF:-1 tvg-id="ADOTV.bj" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Adom_TV_Logo.png/revision/latest/scale-to-width-down/300?cb=20211015065844" group-title="Kids [HD]",ADO TV [HD]
 https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
-#EXTINF:-1 tvg-id="ForeverKids.us" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/04fbf8b3-296c-42a1-b3ff-ef48d7e3444c/dgm9m2r-8a34baf7-7bae-4b5e-a574-aa816777d892.jpg/v1/fill/w_1191,h_671,q_70,strp/forever_kids_pluto_tv_usa_logo__2021_present__by_west_harris_dgm9m2r-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIxIiwicGF0aCI6IlwvZlwvMDRmYmY4YjMtMjk2Yy00MmExLWIzZmYtZWY0OGQ3ZTM0NDRjXC9kZ205bTJyLThhMzRiYWY3LTdiYWUtNGI1ZS1hNTc0LWFhODE2Nzc3ZDg5Mi5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Pmz4tzYhDEriD5loKH6NxzkYkCIvfDiAlYXCX4z99Pc" group-title="Kids",Forever Kids
-https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8
-#EXTINF:-1 tvg-id="PlutoTVPokemon.us" tvg-logo="https://static.wikia.nocookie.net/pluto-tv/images/e/e6/Site-logo.png/revision/latest?cb=20240613045916" group-title="Kids",Pluto TV Pokemon
-https://jmp2.uk/plu-6683cd71a1d7ad000866ec6a.m3u8
 #EXTINF:-1 tvg-id="CarouselInternational.ru" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/83f6a320123243.562e66a5f1cba.jpg" group-title="Kids [SD]",Carousel International [SD]
 https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
+#EXTINF:-1 tvg-id="ForeverKids.us" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/04fbf8b3-296c-42a1-b3ff-ef48d7e3444c/dgm9m2r-8a34baf7-7bae-4b5e-a574-aa816777d892.jpg/v1/fill/w_1191,h_671,q_70,strp/forever_kids_pluto_tv_usa_logo__2021_present__by_west_harris_dgm9m2r-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIxIiwicGF0aCI6IlwvZlwvMDRmYmY4YjMtMjk2Yy00MmExLWIzZmYtZWY0OGQ3ZTM0NDRjXC9kZ205bTJyLThhMzRiYWY3LTdiYWUtNGI1ZS1hNTc0LWFhODE2Nzc3ZDg5Mi5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Pmz4tzYhDEriD5loKH6NxzkYkCIvfDiAlYXCX4z99Pc" group-title="Kids",Forever Kids
+https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8
+#EXTINF:-1 tvg-id="NickPlutoTV.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Nick_-_Pluto_TV.svg/revision/latest?cb=20210629162143" group-title="Kids [HD]",Nick Pluto TV [HD]
+https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
+#EXTINF:-1 tvg-id="NickenEspanol.us" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/8/85/Nick_(Logo).png" group-title="Kids",Nick en Espanol
+https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
+#EXTINF:-1 tvg-id="PlutoTVPokemon.us" tvg-logo="https://static.wikia.nocookie.net/pluto-tv/images/e/e6/Site-logo.png/revision/latest?cb=20240613045916" group-title="Kids",Pluto TV Pokemon
+https://jmp2.uk/plu-6683cd71a1d7ad000866ec6a.m3u8
+#EXTINF:-1 tvg-id="Tokusato.us" tvg-logo="https://www.tvchannellists.com/wiki/images/1/10/TokuSATO.svg" group-title="Kids",Tokusato
+https://jmp2.uk/plu-5ff609de50ab210008025c1b.m3u8
+#EXTINF:-1 tvg-id="ExtremaKidsTV.cr" tvg-logo="https://img1.wsimg.com/isteam/ip/da8996f8-d448-4109-b5d0-e4eabc6ee359/Extrema+Kids+logo.jpg" group-title="Kids [HD]",Extrema Kids TV [HD]
+https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 #EXTINF:-1 tvg-id="NickelodeonTeen.fr" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/e/e6/Nickelodeon-teen.png" group-title="Kids [HD]",Nickelodeon Teen [HD]
 https://jmp2.uk/plu-5f0d668b872e4400073acc68.m3u8
 #EXTINF:-1 tvg-id="RaiYoyo.it" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2022/12/rai-yoyo-logo-freelogovectors.net_.png" group-title="Kids",Rai Yoyo
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899
-#EXTINF:-1 tvg-id="ExtremaKidsTV.cr" tvg-logo="https://img1.wsimg.com/isteam/ip/da8996f8-d448-4109-b5d0-e4eabc6ee359/Extrema+Kids+logo.jpg" group-title="Kids [HD]",Extrema Kids TV [HD]
-https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
-#EXTINF:-1 tvg-id="Tokusato.us" tvg-logo="https://www.tvchannellists.com/wiki/images/1/10/TokuSATO.svg" group-title="Kids",Tokusato
-https://jmp2.uk/plu-5ff609de50ab210008025c1b.m3u8
-#EXTINF:-1 tvg-id="NarutoShippuden.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Logo_Naruto_Shipp%C5%ABden.svg/250px-Logo_Naruto_Shipp%C5%ABden.svg.png" group-title="Kids",Naruto Shippuden
-https://jmp2.uk/plu-64c92fea3c3344000869e8a9.m3u8
 #EXTINF:-1 tvg-id="AnimeAllDay.us" tvg-logo="https://static.wikia.nocookie.net/russel/images/d/dd/Anime_All_Day_Logo_2017.png/revision/latest?cb=20240426041556" group-title="Kids",Anime All Day
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62a2e8d8a1c8650007e95bac/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=5986314d-1e42-49ea-a9fe-01332b159247
 #EXTINF:-1 tvg-id="Gubbare.in" tvg-logo="https://www.animationxpress.com/wp-content/uploads/2020/11/gubbare-logo-1-01.jpg" group-title="Kids",Gubbare

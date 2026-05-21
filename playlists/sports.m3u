@@ -29,8 +29,6 @@ https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
 https://propee33f9c2.airspace-cdn.cbsivideo.com/index.m3u8
 #EXTINF:-1 tvg-id="CDNDeportes.do" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cdn_deportes-mediano.png" group-title="Sports",CDN Deportes
 http://200.125.170.122:8000/play/a03j/index.m3u8
-#EXTINF:-1 tvg-id="CTSport.cz" tvg-logo="https://wordpress.tvtelo.cz/wp-content/uploads/2023/09/ct-sport.png" group-title="Sports",CT Sport
-http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="DAZNCombat.uk" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2024/02/logo-DAZN-Combat.png" group-title="Sports [SD]",DAZN Combat [SD]
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-id="DDSports.in" tvg-logo="https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20230906112447.jpg" group-title="Sports [SD]",DD Sports [SD]
@@ -347,6 +345,10 @@ http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts
 https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FloHockey.us" tvg-logo="https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png" group-title="Sports [SD]",FloHockey [SD]
 https://amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DSportsUruguay.uy" tvg-logo="https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png" group-title="Sports",DSports Uruguay
+https://cors-proxy.cooks.fyi/http://147.135.114.221:8001/play/a00m/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/250px-FOX_Sports_logo.svg.png" group-title="Sports [HD]",Fox Sports 1 [HD]
+https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="RallyTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Belsat_%282022%29.svg/250px-Belsat_%282022%29.svg.png" group-title="Sports [FHD]",Rally TV [FHD]
 https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8
 #EXTINF:-1 tvg-id="CCTV5.cn" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=tv.cctv.com" group-title="Sports [HD]",CCTV-5 [HD]
@@ -355,24 +357,22 @@ http://74.91.26.218:82/live/cctv5hd.m3u8
 http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119515.m3u8
 #EXTINF:-1 tvg-id="SPOTV2.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/330px-SPOTV_logo.svg.png" group-title="Sports",SPOTV 2
 http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119516.m3u8
-#EXTINF:-1 tvg-id="PlutoTVFutbolParaFans.us" tvg-logo="https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png" group-title="Sports",Pluto TV Futbol Para Fans
-https://jmp2.uk/plu-63c6e37e636b7e0007ccb635.m3u8
 #EXTINF:-1 tvg-id="ADOTV.bj" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Adom_TV_Logo.png/revision/latest/scale-to-width-down/300?cb=20211015065844" group-title="Sports [HD]",ADO TV [HD]
 https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
 #EXTINF:-1 tvg-id="SportsTVPlus.us" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/jr0wlq1681309932.png" group-title="Sports [SD]",Sports TV Plus [SD]
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/NKXQTWMREOB2XFJRLAHO/hls3/now,-1m/m.m3u8?ads.vf=SqsoCl37PjC
+#EXTINF:-1 tvg-id="PlutoTVFutbolParaFans.us" tvg-logo="https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png" group-title="Sports",Pluto TV Futbol Para Fans
+https://jmp2.uk/plu-63c6e37e636b7e0007ccb635.m3u8
+#EXTINF:-1 tvg-id="CTSport.cz" tvg-logo="https://wordpress.tvtelo.cz/wp-content/uploads/2023/09/ct-sport.png" group-title="Sports",CT Sport
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="MatchPlaneta.ru" tvg-logo="https://ewsat.com/img/MATCH_PLANETA.png" group-title="Sports [SD]",Match! Planeta [SD]
 https://cdn4.skygo.mn/live/disk1/Match_Planeta/HLSv3-FTA/Match_Planeta.m3u8
-#EXTINF:-1 tvg-id="GoalZone.sa" tvg-logo="https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png" group-title="Sports [FHD]",Goal Zone [FHD]
-https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8
 #EXTINF:-1 tvg-id="LaLigaTV.es" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=laliga.es" group-title="Sports",LaLiga TV
 http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTZID4SFOqZLZ81NguVP-JxM/m3u8
-#EXTINF:-1 tvg-id="DSportsUruguay.uy" tvg-logo="https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png" group-title="Sports",DSports Uruguay
-https://cors-proxy.cooks.fyi/http://147.135.114.221:8001/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="LuchaLibreAAA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Lucha_Libre_AAA_Worldwide_logo.png/500px-Lucha_Libre_AAA_Worldwide_logo.png" group-title="Sports",Lucha Libre AAA
 https://jmp2.uk/plu-5c01df1759ee03633e7b272c.m3u8
-#EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/250px-FOX_Sports_logo.svg.png" group-title="Sports [HD]",Fox Sports 1 [HD]
-https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="GoalZone.sa" tvg-logo="https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png" group-title="Sports [FHD]",Goal Zone [FHD]
+https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8
 #EXTINF:-1 tvg-id="sport_tv_1_pt" tvg-logo="https://i.ibb.co/F8q1f60/sport-tv-1-logo.png" group-title="Sports",Sport TV 1 Portugal
 http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2525/index.m3u8
 #EXTINF:-1 tvg-id="FUELTV.at" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Fuel_TV.svg/1280px-Fuel_TV.svg.png" group-title="Sports",FUEL TV
