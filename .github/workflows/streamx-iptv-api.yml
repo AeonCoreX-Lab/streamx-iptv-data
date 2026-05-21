@@ -1,0 +1,95 @@
+name: Auto Update IPTV Data + API
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.ref == 'refs/heads/main' && 'iptv-full-main' || github.run_id }}
+  cancel-in-progress: false
+
+jobs:
+  full-update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4
+
+      # ── STEP 1: Logo Scraper ──────────────────────────────────────────
+      - name: Restore Logo Cache
+        uses: actions/cache@v4
+        with:
+          path: |
+            scraper_state.json
+            logos/
+            channel_logo_mapping.json
+          key: logo-state-${{ github.run_id }}
+          restore-keys: logo-state-
+
+      - name: Run Logo Scraper
+        env:
+          LOGO_DEV_KEY: ${{ secrets.LOGO_DEV_KEY }}
+          PRIMARY_API_KEY: ${{ secrets.PRIMARY_API_KEY }}
+        run: python logomaster.py
+
+      # ── STEP 2: Channel Updater ──────────────────────────────────────
+      - name: Restore Updater Cache
+        uses: actions/cache@v4
+        with:
+          path: |
+            updater_state.json
+            .cache/
+          key: updater-state-${{ github.run_id }}
+          restore-keys: updater-state-
+
+      - name: Run Channel Updater
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python update_channels.py
+
+      # ── STEP 3: Generate API Endpoints ──────────────────────────────
+      - name: Generate API
+        run: python api_generator.py
+
+      # ── STEP 4: Commit All ───────────────────────────────────────────
+      - name: Commit All Changes
+        run: |
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name  "github-actions[bot]"
+
+          git add logos/
+          git add categories/
+          git add playlists/
+          git add reports/
+          git add api/
+          git add index.html
+          git add scraper_state.json
+          git add updater_state.json
+          git add channel_logo_mapping.json
+          git add channel_logo_mapping_legacy.json
+
+          if ! git diff --staged --quiet; then
+            git commit -m "🚀 Auto-update: channels, logos, playlists & API [skip ci]"
+            git pull --rebase origin main
+            git push
+          else
+            echo "No changes to commit."
+          fi
