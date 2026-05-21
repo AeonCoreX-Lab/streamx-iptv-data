@@ -1,0 +1,59 @@
+name: Migrate Logos to Country Subfolders
+
+on:
+  workflow_dispatch:
+    inputs:
+      confirm:
+        description: 'Type YES to confirm migration'
+        required: true
+        default: 'NO'
+
+jobs:
+  migrate:
+    if: github.ref == 'refs/heads/main' && github.event.inputs.confirm == 'YES'
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run Migration
+        run: |
+          # Built-in migration script - no external file needed!
+          python -c "
+          import os, shutil
+          LOGOS_DIR = 'logos'
+          moved = 0; skipped = 0; errors = 0
+          
+          files = [f for f in os.listdir(LOGOS_DIR) if f.endswith('.png')]
+          for fname in files:
+              try:
+                  parts = fname.replace('.png', '').split('.')
+                  country = parts[-1].lower() if len(parts) >= 2 else 'unknown'
+                  src = os.path.join(LOGOS_DIR, fname)
+                  dst = os.path.join(LOGOS_DIR, country, fname)
+                  os.makedirs(os.path.dirname(dst), exist_ok=True)
+                  if os.path.exists(dst):
+                      os.remove(src); skipped += 1
+                  else:
+                      shutil.move(src, dst); moved += 1
+              except Exception as e:
+                  errors += 1
+          print(f'✅ Moved: {moved} | ⚠️ Duplicates: {skipped} | ❌ Errors: {errors}')
+          "
+
+      - name: Commit Migration
+        run: |
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add logos/
+          git commit -m "chore: migrate logos to country subfolders [skip ci]" || echo "No changes"
+          git push
