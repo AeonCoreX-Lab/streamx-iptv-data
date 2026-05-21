@@ -27,202 +27,200 @@ jobs:
           python-version: '3.11'
 
       - name: Generate API Endpoints
+        shell: python
         run: |
-          if [ -f "api_generator.py" ]; then
-            echo "🚀 Running api_generator.py..."
-            python api_generator.py
-          else
-            echo "⚠️ api_generator.py not found. Creating inline generator..."
-            
-            # পাইথন কোডটিকে সরাসরি একটি ফাইলে রাইট করা হচ্ছে যেন কোটেশন বা ব্যাকস্ল্যাশের সমস্যা না হয়
-            cat << 'EOF' > temp_generator.py
-import os, json, glob
-from datetime import datetime
+          import os
+          import json
+          import glob
+          from datetime import datetime
 
-BASE_DIR = os.getcwd()
-API_DIR = os.path.join(BASE_DIR, 'api', 'v1')
-CATEGORY_DIR = os.path.join(BASE_DIR, 'categories')
-PLAYLIST_DIR = os.path.join(BASE_DIR, 'playlists')
-MAPPING_FILE = os.path.join(BASE_DIR, 'channel_logo_mapping.json')
-EVENTS_FILE = os.path.join(BASE_DIR, 'events.json')
+          # যদি আগে থেকেই প্রজেক্টে api_generator.py থাকে, তবে সেটা রান করবে
+          if os.path.exists("api_generator.py"):
+              print("🚀 Running api_generator.py...")
+              os.system("python api_generator.py")
+              exit(0)
 
-os.makedirs(os.path.join(API_DIR, 'categories'), exist_ok=True)
+          print("⚠️ api_generator.py not found. Running inline generator...")
 
-def load_categories():
-    categories = {}
-    for filepath in glob.glob(os.path.join(CATEGORY_DIR, '*.json')):
-        name = os.path.basename(filepath).replace('.json', '')
-        try:
-            with open(filepath, encoding='utf-8') as f:
-                data = json.load(f)
-            categories[name] = data.get('channels', [])
-        except Exception as e:
-            print(f'⚠️ Error loading {name}: {e}')
-    return categories
+          BASE_DIR = os.getcwd()
+          API_DIR = os.path.join(BASE_DIR, 'api', 'v1')
+          CATEGORY_DIR = os.path.join(BASE_DIR, 'categories')
+          PLAYLIST_DIR = os.path.join(BASE_DIR, 'playlists')
+          MAPPING_FILE = os.path.join(BASE_DIR, 'channel_logo_mapping.json')
+          EVENTS_FILE = os.path.join(BASE_DIR, 'events.json')
 
-def load_logo_mapping():
-    if not os.path.exists(MAPPING_FILE):
-        return {}
-    try:
-        with open(MAPPING_FILE, encoding='utf-8') as f:
-            data = json.load(f)
-        if isinstance(data, dict) and 'flat' in data:
-            return data['flat']
-        return data
-    except Exception:
-        return {}
+          os.makedirs(os.path.join(API_DIR, 'categories'), exist_ok=True)
 
-def generate_playlists():
-    playlists = []
-    if os.path.exists(PLAYLIST_DIR):
-        for filepath in glob.glob(os.path.join(PLAYLIST_DIR, '*.m3u')):
-            name = os.path.basename(filepath).replace('.m3u', '')
-            size = os.path.getsize(filepath)
-            playlists.append({
-                'name': name,
-                'url': f'https://aeoncorex-lab.github.io/streamx-iptv-data/playlists/{name}.m3u',
-                'size_bytes': size,
-                'format': 'm3u'
-            })
-    return playlists
+          def load_categories():
+              categories = {}
+              for filepath in glob.glob(os.path.join(CATEGORY_DIR, '*.json')):
+                  name = os.path.basename(filepath).replace('.json', '')
+                  try:
+                      with open(filepath, encoding='utf-8') as f:
+                          data = json.load(f)
+                      categories[name] = data.get('channels', [])
+                  except Exception as e:
+                      print(f'⚠️ Error loading {name}: {e}')
+              return categories
 
-def generate_events():
-    if not os.path.exists(EVENTS_FILE):
-        return None
-    try:
-        with open(EVENTS_FILE, encoding='utf-8') as f:
-            data = json.load(f)
-        if isinstance(data, list):
-            return data
-        elif isinstance(data, dict) and 'events' in data:
-            return data['events']
-        elif isinstance(data, dict):
-            return [data]
-        return None
-    except Exception:
-        return None
+          def load_logo_mapping():
+              if not os.path.exists(MAPPING_FILE):
+                  return {}
+              try:
+                  with open(MAPPING_FILE, encoding='utf-8') as f:
+                      data = json.load(f)
+                  if isinstance(data, dict) and 'flat' in data:
+                      return data['flat']
+                  return data
+              except Exception:
+                  return {}
 
-def save_json(filepath, data):
-    os.makedirs(os.path.dirname(filepath), exist_ok=True)
-    with open(filepath, 'w', encoding='utf-8') as f:
-        json.dump(data, f, indent=2, ensure_ascii=False)
-    print(f'✅ {os.path.basename(filepath)} ({len(str(data))} bytes)')
+          def generate_playlists():
+              playlists = []
+              if os.path.exists(PLAYLIST_DIR):
+                  for filepath in glob.glob(os.path.join(PLAYLIST_DIR, '*.m3u')):
+                      name = os.path.basename(filepath).replace('.m3u', '')
+                      size = os.path.getsize(filepath)
+                      playlists.append({
+                          'name': name,
+                          'url': f'https://aeoncorex-lab.github.io/streamx-iptv-data/playlists/{name}.m3u',
+                          'size_bytes': size,
+                          'format': 'm3u'
+                      })
+              return playlists
 
-categories = load_categories()
-print(f'📂 Loaded {len(categories)} categories')
+          def generate_events():
+              if not os.path.exists(EVENTS_FILE):
+                  return None
+              try:
+                  with open(EVENTS_FILE, encoding='utf-8') as f:
+                      data = json.load(f)
+                  if isinstance(data, list):
+                      return data
+                  elif isinstance(data, dict) and 'events' in data:
+                      return data['events']
+                  elif isinstance(data, dict):
+                      return [data]
+                  return None
+              except Exception:
+                  return None
 
-all_channels = []
-for cat_name, channels in categories.items():
-    for ch in channels:
-        ch_copy = dict(ch)
-        ch_copy['_category'] = cat_name
-        all_channels.append(ch_copy)
+          def save_json(filepath, data):
+              os.makedirs(os.path.dirname(filepath), exist_ok=True)
+              with open(filepath, 'w', encoding='utf-8') as f:
+                  json.dump(data, f, indent=2, ensure_ascii=False)
+              print(f'✅ {os.path.basename(filepath)} ({len(str(data))} bytes)')
 
-save_json(os.path.join(API_DIR, 'channels.json'), {
-    'channels': all_channels,
-    'count': len(all_channels),
-    'generated_at': datetime.now().isoformat()
-})
+          categories = load_categories()
+          print(f'📂 Loaded {len(categories)} categories')
 
-logo_mapping = load_logo_mapping()
-mapping = {}
-for cat_name, channels in categories.items():
-    for ch in channels:
-        cid = ch.get('id', '')
-        if cid in logo_mapping:
-            path = logo_mapping[cid]
-            if path.startswith('logos/'):
-                mapping[cid] = f'https://aeoncorex-lab.github.io/streamx-iptv-data/{path}'
-            else:
-                mapping[cid] = path
-        else:
-            logo = ch.get('logoUrl', '')
-            if logo:
-                mapping[cid] = logo
+          all_channels = []
+          for cat_name, channels in categories.items():
+              for ch in channels:
+                  ch_copy = dict(ch)
+                  ch_copy['_category'] = cat_name
+                  all_channels.append(ch_copy)
 
-save_json(os.path.join(API_DIR, 'logos.json'), {
-    'logos': mapping,
-    'count': len(mapping),
-    'generated_at': datetime.now().isoformat()
-})
+          save_json(os.path.join(API_DIR, 'channels.json'), {
+              'channels': all_channels,
+              'count': len(all_channels),
+              'generated_at': datetime.now().isoformat()
+          })
 
-save_json(os.path.join(API_DIR, 'categories.json'), {
-    'categories': [
-        {
-            'name': name,
-            'url': f'https://aeoncorex-lab.github.io/streamx-iptv-data/api/v1/categories/{name}.json',
-            'channel_count': len(channels)
-        }
-        for name, channels in categories.items()
-    ],
-    'generated_at': datetime.now().isoformat()
-})
+          logo_mapping = load_logo_mapping()
+          mapping = {}
+          for cat_name, channels in categories.items():
+              for ch in channels:
+                  cid = ch.get('id', '')
+                  if cid in logo_mapping:
+                      path = logo_mapping[cid]
+                      if path.startswith('logos/'):
+                          mapping[cid] = f'https://aeoncorex-lab.github.io/streamx-iptv-data/{path}'
+                      else:
+                          mapping[cid] = path
+                  else:
+                      logo = ch.get('logoUrl', '')
+                      if logo:
+                          mapping[cid] = logo
 
-for name, channels in categories.items():
-    save_json(os.path.join(API_DIR, 'categories', f'{name}.json'), {
-        'category': name,
-        'channels': channels,
-        'count': len(channels),
-        'generated_at': datetime.now().isoformat()
-    })
+          save_json(os.path.join(API_DIR, 'logos.json'), {
+              'logos': mapping,
+              'count': len(mapping),
+              'generated_at': datetime.now().isoformat()
+          })
 
-playlists = generate_playlists()
-save_json(os.path.join(API_DIR, 'playlists.json'), {
-    'playlists': playlists,
-    'count': len(playlists),
-    'generated_at': datetime.now().isoformat()
-})
+          save_json(os.path.join(API_DIR, 'categories.json'), {
+              'categories': [
+                  {
+                      'name': name,
+                      'url': f'https://aeoncorex-lab.github.io/streamx-iptv-data/api/v1/categories/{name}.json',
+                      'channel_count': len(channels)
+                  }
+                  for name, channels in categories.items()
+              ],
+              'generated_at': datetime.now().isoformat()
+          })
 
-events = generate_events()
-if events:
-    save_json(os.path.join(API_DIR, 'events.json'), {
-        'events': events,
-        'count': len(events),
-        'generated_at': datetime.now().isoformat()
-    })
+          for name, channels in categories.items():
+              save_json(os.path.join(API_DIR, 'categories', f'{name}.json'), {
+                  'category': name,
+                  'channels': channels,
+                  'count': len(channels),
+                  'generated_at': datetime.now().isoformat()
+              })
 
-total_channels = sum(len(ch) for ch in categories.values())
-total_logos = len(mapping)
-countries = set()
-for cat_name, channels in categories.items():
-    for ch in channels:
-        cid = ch.get('id', '')
-        if '.' in cid:
-            countries.add(cid.split('.')[-1].lower())
+          playlists = generate_playlists()
+          save_json(os.path.join(API_DIR, 'playlists.json'), {
+              'playlists': playlists,
+              'count': len(playlists),
+              'generated_at': datetime.now().isoformat()
+          })
 
-endpoints = {
-    'channels': '/api/v1/channels.json',
-    'logos': '/api/v1/logos.json',
-    'categories': '/api/v1/categories.json',
-    'playlists': '/api/v1/playlists.json',
-    'stats': '/api/v1/stats.json'
-}
-if events is not None:
-    endpoints['events'] = '/api/v1/events.json'
+          events = generate_events()
+          if events:
+              save_json(os.path.join(API_DIR, 'events.json'), {
+                  'events': events,
+                  'count': len(events),
+                  'generated_at': datetime.now().isoformat()
+              })
 
-stats = {
-    'generated_at': datetime.now().isoformat(),
-    'total_channels': total_channels,
-    'total_logos': total_logos,
-    'total_playlists': len(playlists),
-    'total_events': len(events) if events else 0,
-    'countries': len(countries),
-    'country_list': sorted(list(countries)),
-    'categories': list(categories.keys()),
-    'api_version': 'v1',
-    'endpoints': endpoints
-}
-save_json(os.path.join(API_DIR, 'stats.json'), stats)
+          total_channels = sum(len(ch) for ch in categories.values())
+          total_logos = len(mapping)
+          countries = set()
+          for cat_name, channels in categories.items():
+              for ch in channels:
+                  cid = ch.get('id', '')
+                  if '.' in cid:
+                      countries.add(cid.split('.')[-1].lower())
 
-print('\n🎉 API generation complete!')
-print(f'   Total channels: {total_channels}')
-print(f'   Total logos: {total_logos}')
-print(f'   Countries: {len(countries)}')
-EOF
-            
-            python temp_generator.py
-            rm temp_generator.py
-          fi
+          endpoints = {
+              'channels': '/api/v1/channels.json',
+              'logos': '/api/v1/logos.json',
+              'categories': '/api/v1/categories.json',
+              'playlists': '/api/v1/playlists.json',
+              'stats': '/api/v1/stats.json'
+          }
+          if events is not None:
+              endpoints['events'] = '/api/v1/events.json'
+
+          stats = {
+              'generated_at': datetime.now().isoformat(),
+              'total_channels': total_channels,
+              'total_logos': total_logos,
+              'total_playlists': len(playlists),
+              'total_events': len(events) if events else 0,
+              'countries': len(countries),
+              'country_list': sorted(list(countries)),
+              'categories': list(categories.keys()),
+              'api_version': 'v1',
+              'endpoints': endpoints
+          }
+          save_json(os.path.join(API_DIR, 'stats.json'), stats)
+
+          print('\n🎉 API generation complete!')
+          print(f'   Total channels: {total_channels}')
+          print(f'   Total logos: {total_logos}')
+          print(f'   Countries: {len(countries)}')
 
       - name: Commit API Changes
         run: |
