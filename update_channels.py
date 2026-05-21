@@ -918,7 +918,7 @@ def generate_dashboard(all_channels: list, state: dict):
 </body>
 </html>"""
 
-    path = os.path.join(BASE_DIR, "index.html")
+    path = os.path.join(BASE_DIR, "index_channels.html")
     try:
         with open(path, "w", encoding="utf-8") as f:
             f.write(html)
