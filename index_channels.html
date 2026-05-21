@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="refresh" content="3600">
+  <title>StreamX IPTV Status Dashboard</title>
+  <style>
+    *{box-sizing:border-box;margin:0;padding:0}
+    body{font-family:'Segoe UI',Arial,sans-serif;background:#0d1117;color:#e6edf3;padding:20px}
+    h1{font-size:1.6em;margin-bottom:4px}
+    h2{font-size:1em;color:#58a6ff;margin:18px 0 10px}
+    .subtitle{color:#8b949e;font-size:.82em;margin-bottom:20px}
+    .card{background:#161b22;border:1px solid #30363d;border-radius:10px;padding:20px;margin:12px 0}
+    .stats{display:flex;flex-wrap:wrap;gap:16px}
+    .stat{text-align:center;min-width:110px}
+    .stat .num{font-size:2em;font-weight:bold;color:#58a6ff}
+    .stat .label{color:#8b949e;font-size:.78em;margin-top:2px}
+    .green{color:#3fb950}.red{color:#f85149}.orange{color:#f0883e}
+    table{width:100%;border-collapse:collapse;font-size:.86em}
+    th,td{padding:7px 10px;border-bottom:1px solid #21262d;text-align:left}
+    th{color:#8b949e;font-weight:500}
+    tr:hover td{background:#1c2128}
+    .score-bar{display:inline-block;width:80px;height:8px;background:#21262d;
+               border-radius:4px;vertical-align:middle}
+    .score-bar div{height:100%;border-radius:4px}
+    .footer{color:#8b949e;font-size:.75em;text-align:right;margin-top:16px}
+    .epg-tag{display:inline-block;background:#1f6feb;color:#fff;padding:1px 6px;
+              border-radius:10px;font-size:.72em;margin-left:4px}
+  </style>
+</head>
+<body>
+  <h1>📺 StreamX IPTV Dashboard</h1>
+  <p class="subtitle">
+    Auto-updated · 2026-05-21 12:08 UTC ·
+    Runtime: 0h 32m
+    <span class="epg-tag">EPG ✓</span>
+  </p>
+
+  <div class="card">
+    <div class="stats">
+      <div class="stat">
+        <div class="num">3272</div>
+        <div class="label">Total Channels</div>
+      </div>
+      <div class="stat">
+        <div class="num green">2509</div>
+        <div class="label">Healthy Streams</div>
+      </div>
+      <div class="stat">
+        <div class="num red">1190</div>
+        <div class="label">Dead Channels</div>
+      </div>
+      <div class="stat">
+        <div class="num">0</div>
+        <div class="label">Added This Run</div>
+      </div>
+      <div class="stat">
+        <div class="num orange">0.69</div>
+        <div class="label">Avg Health Score</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card" style="display:flex;gap:20px;flex-wrap:wrap">
+    <div style="flex:1;min-width:200px">
+      <h2>📂 By Category</h2>
+      <table>
+        <tr><th>Category</th><th>Channels</th></tr>
+        <tr><td>Bangladesh</td><td>23</td></tr>
+<tr><td>India</td><td>490</td></tr>
+<tr><td>Informative</td><td>242</td></tr>
+<tr><td>Kids</td><td>199</td></tr>
+<tr><td>Music</td><td>498</td></tr>
+<tr><td>Sports</td><td>201</td></tr>
+<tr><td>UAE</td><td>55</td></tr>
+<tr><td>UK</td><td>10</td></tr>
+<tr><td>USA</td><td>1554</td></tr>
+      </table>
+    </div>
+    <div style="flex:1;min-width:200px">
+      <h2>🔍 Stream Quality (Upgrade 2)</h2>
+      <table>
+        <tr><th>Quality</th><th>Channels</th></tr>
+        <tr><td>Unknown</td><td>1673</td></tr>
+<tr><td>SD</td><td>970</td></tr>
+<tr><td>HD</td><td>585</td></tr>
+<tr><td>FHD</td><td>469</td></tr>
+<tr><td>4K</td><td>2</td></tr>
+      </table>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>📊 Health Score Distribution (Upgrade 1)</h2>
+    <div class="stats" style="margin-bottom:12px">
+      <div class="stat">
+        <div class="num green">2462</div>
+        <div class="label">Excellent (≥0.9)</div>
+      </div>
+      <div class="stat">
+        <div class="num">83</div>
+        <div class="label">Good (0.7–0.9)</div>
+      </div>
+      <div class="stat">
+        <div class="num orange">1154</div>
+        <div class="label">Poor (&lt;0.7)</div>
+      </div>
+    </div>
+    <h2>⭐ Top 10 Most Reliable Channels</h2>
+    <table>
+      <tr><th>Channel</th><th>Health Score</th></tr>
+      <tr><td>Ekushey TV</td><td><div class="score-bar"><div style="width:100%;background:#3fb950"></div></div>&nbsp;1.0</td></tr>
+<tr><td>Madani Channel Bangla</td><td><div class="score-bar"><div style="width:100%;background:#3fb950"></div></div>&nbsp;1.0</td></tr>
+<tr><td>ATN Music</td><td><div class="score-bar"><div style="width:100%;background:#3fb950"></div></div>&nbsp;1.0</td></tr>
+<tr><td>Green TV</td><td><div class="score-bar"><div style="width:100%;background:#3fb950"></div></div>&nbsp;1.0</td></tr>
+<tr><td>Movie Bangla</td><td><div class="score-bar"><div style="width:100%;background:#3fb950"></div></div>&nbsp;1.0</td></tr>
+<tr><td>Ekhon TV</td><td><div class="score-bar"><div style="width:100%;background:#3fb950"></div></div>&nbsp;1.0</td></tr>
+<tr><td>Boishakhi TV</td><td><div class="score-bar"><div style="width:100%;background:#3fb950"></div></div>&nbsp;1.0</td></tr>
+<tr><td>10 TV</td><td><div class="score-bar"><div style="width:100%;background:#3fb950"></div></div>&nbsp;1.0</td></tr>
+<tr><td>22Scope News</td><td><div class="score-bar"><div style="width:100%;background:#3fb950"></div></div>&nbsp;1.0</td></tr>
+<tr><td>24 News</td><td><div class="score-bar"><div style="width:100%;background:#3fb950"></div></div>&nbsp;1.0</td></tr>
+    </table>
+  </div>
+
+  <p class="footer">
+    StreamX IPTV Auto-Updater v5 · EPG sources: 5 feeds
+  </p>
+</body>
+</html>
