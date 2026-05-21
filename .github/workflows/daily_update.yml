@@ -58,7 +58,7 @@ jobs:
           git add playlists/
           git add reports/
           git add updater_state.json
-          git add index.html
+          git add index_channels.html
 
           if ! git diff --staged --quiet; then
             git commit -m "🚀 Auto-update: channels, logos & playlists [skip ci]"
