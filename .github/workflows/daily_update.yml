@@ -2,18 +2,18 @@ name: Update IPTV Channels
 
 on:
   schedule:
-    - cron: '0 */6 * * *'   # প্রতি ৬ ঘণ্টায় — script ৫.৫h চলে, .৫h gap থাকে
-  workflow_dispatch:          # Manual trigger
+    - cron: '30 */6 * * *'   # ⏰ লোগো স্ক্রেপারের ৩০ মিনিট পর — যাতে নতুন লোগো ম্যাপিং তৈরি হয়
+  workflow_dispatch:
 
-# একই সময়ে দুটো run চলবে না (শুধু main branch-এর জন্য প্রজোয্য, টেস্ট ব্রাঞ্চে প্যারালাল চলবে)
+# শুধু main branch-এর জন্য কনকারেন্সি লক, অন্য ব্রাঞ্চে প্যারালাল চলবে
 concurrency:
   group: ${{ github.ref == 'refs/heads/main' && 'iptv-update-main' || github.run_id }}
-  cancel-in-progress: false   # চলমান run শেষ হোক, তারপর নতুনটা শুরু
+  cancel-in-progress: false
 
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 355      # 5h 55m — script নিজেই 5h 30m এ থামে
+    timeout-minutes: 355
     permissions:
       contents: write
 
@@ -21,7 +21,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0      # 👈 Full history fetch, pull --rebase এর জন্য জরুরি
+          fetch-depth: 0
 
       - name: Setup Python 3.11
         uses: actions/setup-python@v5
@@ -31,9 +31,8 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests
+          pip install requests beautifulsoup4
 
-       # 💾 রানিং স্টেট এবং এপিআই ক্যাশ পুনরুদ্ধার (বড় অপটিমাইজেশন)
       - name: Restore Updater Cache
         uses: actions/cache@v4
         with:
@@ -54,15 +53,16 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add categories/ playlists/ reports/ updater_state.json
-          
-          # চেক করবে কোনো নতুন পরিবর্তন আছে কি না
+
+          git add categories/
+          git add playlists/
+          git add reports/
+          git add updater_state.json
+          git add index.html
+
           if ! git diff --staged --quiet; then
             git commit -m "🚀 Auto-update: channels, logos & playlists [skip ci]"
-            
-            # পুশ করার আগে রিমোটের লেটেস্ট কোড লোকাল ব্রাঞ্চে রিবেস (মার্জ) করে নেবে
             git pull --rebase origin main
-            
             git push
           else
             echo "No changes to commit, skipping push."
