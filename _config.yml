@@ -1,0 +1,25 @@
+# GitHub Pages Configuration
+title: StreamX IPTV API
+description: Free unlimited IPTV API with 33,000+ logos and 10,000+ channels
+theme: jekyll-theme-cayman
+
+# Enable JSON serving
+include:
+  - "*.json"
+  - "api/"
+  - "logos/"
+  - "playlists/"
+
+# Exclude
+exclude:
+  - "*.py"
+  - ".github/"
+  - "backups/"
+  - ".cache/"
+  - "reports/"
+  - "scraper_state.json"
+  - "updater_state.json"
+
+# Plugins
+plugins:
+  - jekyll-sitemap
