@@ -1,0 +1,103 @@
+name: ⚽ Update Live Events
+
+# ─────────────────────────────────────────────────────────────────
+# Runs every 20 minutes — lightweight, only touches events.json
+# Separate from the main channel updater (no interference)
+# ─────────────────────────────────────────────────────────────────
+
+on:
+  schedule:
+    - cron: '*/20 * * * *'   # Every 20 minutes, 24/7
+  workflow_dispatch:          # Manual trigger from GitHub UI
+
+concurrency:
+  group: live-events-update
+  cancel-in-progress: true   # If new run starts, cancel pending one
+
+permissions:
+  contents: write
+
+jobs:
+  update-events:
+    name: Fetch & Validate Live Events
+    runs-on: ubuntu-latest
+    timeout-minutes: 12      # Max 12 min; normal run takes 2-4 min
+
+    steps:
+      # ── 1. Checkout ──────────────────────────────────────────────
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1     # Shallow clone — faster, state file এর জন্য full history লাগে না
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # ── 2. Python Setup ──────────────────────────────────────────
+      - name: 🐍 Setup Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'       # pip cache করবে — install step দ্রুত হবে
+
+      # ── 3. Install Dependencies ──────────────────────────────────
+      - name: 📦 Install Dependencies
+        run: |
+          pip install --upgrade pip
+          pip install requests beautifulsoup4 cloudscraper lxml
+
+      # ── 4. Restore events_state.json from cache ──────────────────
+      # CRITICAL FIX: State file cache করা না হলে প্রতি run-এ fresh state
+      # দিয়ে শুরু হয় — source health tracking কাজ করে না।
+      # Source 3 বার fail করলে 2 ঘন্টা skip হওয়ার কথা, কিন্তু state
+      # না থাকলে প্রতিবার আবার retry করে → সময় নষ্ট + rate limit।
+      - name: 📂 Restore State Cache
+        uses: actions/cache@v4
+        with:
+          path: events_state.json
+          key: events-state-${{ runner.os }}
+          # restore-keys: always restore the latest state regardless of key match
+          restore-keys: |
+            events-state-${{ runner.os }}
+
+      # ── 5. Run Event Updater ─────────────────────────────────────
+      - name: 🔄 Run Event Updater
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python update_events.py
+
+      # ── 6. Save events_state.json to cache (always — even if script fails) ──
+      # CRITICAL: always: true দিলে step 5 fail করলেও state save হবে
+      # না হলে partial state হারিয়ে যাবে।
+      - name: 💾 Save State Cache
+        uses: actions/cache@v4
+        if: always()
+        with:
+          path: events_state.json
+          key: events-state-${{ runner.os }}-${{ github.run_id }}
+
+      # ── 7. Commit & Push if files changed ───────────────────────
+      - name: 📤 Commit & Push
+        if: always()    # push করবে এমনকি script warning দিলেও
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Stage করার আগে রিমোট থেকে pull করে নেবে (race condition avoid করতে)
+          git pull --rebase origin main || true
+
+          git add events.json index_events.html events_state.json
+
+          # চেক করবে কোনো নতুন পরিবর্তন আছে কি না
+          if ! git diff --staged --quiet; then
+            git commit -m "⚽ Live Events Auto-Update [skip ci]"
+
+            # Push — retry on failure (concurrent runs এর ক্ষেত্রে)
+            for attempt in 1 2 3; do
+              git push && break
+              echo "Push attempt $attempt failed — retrying..."
+              git pull --rebase origin main || true
+              sleep $((attempt * 3))
+            done
+          else
+            echo "ℹ️ No changes to commit, skipping push."
+          fi
