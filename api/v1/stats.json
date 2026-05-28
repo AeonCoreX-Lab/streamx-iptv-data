@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-28T05:40:12.366456",
+  "generated_at": "2026-05-28T08:06:31.219524",
   "total_channels": 3178,
   "total_logos": 2868,
   "total_playlists": 10,
-  "total_events": 0,
+  "total_events": 1,
   "countries": 112,
   "country_list": [
     "ae",
@@ -120,14 +120,14 @@
     "za"
   ],
   "categories": [
-    "usa",
     "sports",
+    "informative",
     "uae",
     "uk",
+    "bangladesh",
+    "usa",
     "music",
     "kids",
-    "informative",
-    "bangladesh",
     "india"
   ],
   "api_version": "v1",
@@ -136,6 +136,7 @@
     "logos": "/api/v1/logos.json",
     "categories": "/api/v1/categories.json",
     "playlists": "/api/v1/playlists.json",
-    "stats": "/api/v1/stats.json"
+    "stats": "/api/v1/stats.json",
+    "events": "/api/v1/events.json"
   }
 }
