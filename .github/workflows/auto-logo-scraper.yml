@@ -1,8 +1,6 @@
 name: Auto Scrape IPTV Logos
 
 on:
-  schedule:
-    - cron: '0 */6 * * *'
   workflow_dispatch:
 
 # শুধু main branch-এর জন্য কনকারেন্সি লক, অন্য ব্রাঞ্চে ইউনিক run_id দিয়ে প্যারালাল চলবে
