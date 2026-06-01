@@ -160,7 +160,7 @@ All content updates are managed through this repository and delivered automatica
 ## 🚀 Production Deployment
 
 <p align="center">
-  <img src="assets/screenshots/showcase.png" alt="StreamX Ultra Showcase" width="1000"/>
+  <img src="assets/showcase.png" alt="StreamX Ultra Showcase" width="1000"/>
 </p>
 
 **Showcase Includes**
