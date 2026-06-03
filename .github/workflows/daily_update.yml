@@ -2,7 +2,7 @@ name: Update IPTV Channels
 
 on:
   schedule:
-     - cron: '0 */6 * * *'   # ⏰ লোগো স্ক্রেপারের ৩০ মিনিট পর — যাতে নতুন লোগো ম্যাপিং তৈরি হয়
+    - cron: '0 */6 * * *'   # ⏰ লোগো স্ক্রেপারের ৩০ মিনিট পর — যাতে নতুন লোগো ম্যাপিং তৈরি হয়
   workflow_dispatch:
 
 # শুধু main branch-এর জন্য কনকারেন্সি লক, অন্য ব্রাঞ্চে প্যারালাল চলবে
@@ -39,7 +39,7 @@ jobs:
           path: |
             updater_state.json
             .cache/
-          key: iptv-state-${{ github.run_id }}
+          key: iptv-state-${{ github.sha }}
           restore-keys: |
             iptv-state-
 
@@ -47,10 +47,8 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          GEMINI_API_KEY: $
-{{ secrets.GEMINI_API_KEY }}
-          GROQ_API_KEY: $
-{{ secrets.GROQ_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
         run: python update_channels.py
 
       - name: Commit & push changes
