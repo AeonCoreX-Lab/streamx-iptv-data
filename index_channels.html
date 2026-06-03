@@ -4,127 +4,136 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="refresh" content="3600">
-  <title>StreamX IPTV Status Dashboard</title>
+  <title>StreamX IPTV Dashboard v6</title>
   <style>
     *{box-sizing:border-box;margin:0;padding:0}
     body{font-family:'Segoe UI',Arial,sans-serif;background:#0d1117;color:#e6edf3;padding:20px}
-    h1{font-size:1.6em;margin-bottom:4px}
-    h2{font-size:1em;color:#58a6ff;margin:18px 0 10px}
+    h1{font-size:1.6em;margin-bottom:4px} h2{font-size:1em;color:#58a6ff;margin:18px 0 10px}
     .subtitle{color:#8b949e;font-size:.82em;margin-bottom:20px}
     .card{background:#161b22;border:1px solid #30363d;border-radius:10px;padding:20px;margin:12px 0}
     .stats{display:flex;flex-wrap:wrap;gap:16px}
     .stat{text-align:center;min-width:110px}
     .stat .num{font-size:2em;font-weight:bold;color:#58a6ff}
     .stat .label{color:#8b949e;font-size:.78em;margin-top:2px}
-    .green{color:#3fb950}.red{color:#f85149}.orange{color:#f0883e}
+    .green{color:#3fb950}.red{color:#f85149}.orange{color:#f0883e}.purple{color:#bc8cff}
     table{width:100%;border-collapse:collapse;font-size:.86em}
     th,td{padding:7px 10px;border-bottom:1px solid #21262d;text-align:left}
-    th{color:#8b949e;font-weight:500}
-    tr:hover td{background:#1c2128}
-    .score-bar{display:inline-block;width:80px;height:8px;background:#21262d;
-               border-radius:4px;vertical-align:middle}
+    th{color:#8b949e;font-weight:500} tr:hover td{background:#1c2128}
+    .score-bar{display:inline-block;width:80px;height:8px;background:#21262d;border-radius:4px;vertical-align:middle}
     .score-bar div{height:100%;border-radius:4px}
     .footer{color:#8b949e;font-size:.75em;text-align:right;margin-top:16px}
-    .epg-tag{display:inline-block;background:#1f6feb;color:#fff;padding:1px 6px;
-              border-radius:10px;font-size:.72em;margin-left:4px}
+    .badge{display:inline-block;padding:1px 6px;border-radius:10px;font-size:.72em;margin-left:4px;color:#fff}
+    .badge-epg{background:#1f6feb} .badge-v7{background:#bc8cff} .badge-ai{background:#3fb950}
   </style>
 </head>
 <body>
-  <h1>📺 StreamX IPTV Dashboard</h1>
+  <h1>📺 StreamX IPTV Dashboard <span class="badge badge-v7">v7</span></h1>
   <p class="subtitle">
-    Auto-updated · 2026-06-03 10:51 UTC ·
-    Runtime: 0h 2m
-    <span class="epg-tag">EPG ✓</span>
+    Auto-updated · 2026-06-03 12:09 UTC ·
+    Runtime: 0h 43m ·
+    47 categories
+    <span class="badge badge-epg">EPG ✓</span>
+    <span class="badge badge-ai">🤖 AI ✓</span>
   </p>
-
   <div class="card">
     <div class="stats">
-      <div class="stat">
-        <div class="num">2896</div>
-        <div class="label">Total Channels</div>
-      </div>
-      <div class="stat">
-        <div class="num green">2233</div>
-        <div class="label">Healthy Streams</div>
-      </div>
-      <div class="stat">
-        <div class="num red">1503</div>
-        <div class="label">Dead Channels</div>
-      </div>
-      <div class="stat">
-        <div class="num">0</div>
-        <div class="label">Added This Run</div>
-      </div>
-      <div class="stat">
-        <div class="num orange">0.68</div>
-        <div class="label">Avg Health Score</div>
-      </div>
+      <div class="stat"><div class="num">8479</div><div class="label">Total Channels</div></div>
+      <div class="stat"><div class="num green">5289</div><div class="label">Healthy</div></div>
+      <div class="stat"><div class="num red">3481</div><div class="label">Temp Dead</div></div>
+      <div class="stat"><div class="num purple">7</div><div class="label">Perm Dead 🪦</div></div>
+      <div class="stat"><div class="num green">0</div><div class="label">Recovered 🟢</div></div>
+      <div class="stat"><div class="num">5590</div><div class="label">Added</div></div>
+      <div class="stat"><div class="num orange">0.64</div><div class="label">Avg Health</div></div>
     </div>
   </div>
-
+  <div class="card">
+    <h2>🤖 AI Classifier (v7)</h2>
+    <div class="stats">
+      <div class="stat"><div class="num green">1836</div><div class="label">AI Classified</div></div>
+      <div class="stat"><div class="num">0</div><div class="label">Rule-based</div></div>
+      <div class="stat"><div class="num orange">0</div><div class="label">State Cleaned 🧹</div></div>
+      <div class="stat"><div class="num purple">—</div><div class="label">AI Cache Size</div></div>
+    </div>
+  </div>
   <div class="card" style="display:flex;gap:20px;flex-wrap:wrap">
     <div style="flex:1;min-width:200px">
-      <h2>📂 By Category</h2>
-      <table>
-        <tr><th>Category</th><th>Channels</th></tr>
-        <tr><td>Bangladesh</td><td>22</td></tr>
+      <h2>📂 By Category (48 categories)</h2>
+      <table><tr><th>Category</th><th>Channels</th></tr><tr><td>Argentina</td><td>82</td></tr>
+<tr><td>Australia</td><td>26</td></tr>
+<tr><td>Bangladesh</td><td>22</td></tr>
+<tr><td>Brazil</td><td>106</td></tr>
+<tr><td>Business</td><td>53</td></tr>
+<tr><td>Canada</td><td>104</td></tr>
+<tr><td>China</td><td>69</td></tr>
+<tr><td>Colombia</td><td>66</td></tr>
+<tr><td>Egypt</td><td>14</td></tr>
+<tr><td>Entertainment</td><td>1066</td></tr>
+<tr><td>France</td><td>91</td></tr>
+<tr><td>Germany</td><td>128</td></tr>
+<tr><td>Ghana</td><td>3</td></tr>
 <tr><td>India</td><td>455</td></tr>
-<tr><td>Informative</td><td>200</td></tr>
-<tr><td>Kids</td><td>159</td></tr>
-<tr><td>Music</td><td>459</td></tr>
-<tr><td>Sports</td><td>201</td></tr>
+<tr><td>Indonesia</td><td>95</td></tr>
+<tr><td>Informative</td><td>270</td></tr>
+<tr><td>Iran</td><td>115</td></tr>
+<tr><td>Iraq</td><td>39</td></tr>
+<tr><td>Italy</td><td>177</td></tr>
+<tr><td>Japan</td><td>57</td></tr>
+<tr><td>Kenya</td><td>1</td></tr>
+<tr><td>Kids</td><td>160</td></tr>
+<tr><td>Lifestyle</td><td>220</td></tr>
+<tr><td>Malaysia</td><td>7</td></tr>
+<tr><td>Mexico</td><td>77</td></tr>
+<tr><td>Movies</td><td>105</td></tr>
+<tr><td>Music</td><td>472</td></tr>
+<tr><td>Netherlands</td><td>136</td></tr>
+<tr><td>New Zealand</td><td>8</td></tr>
+<tr><td>News</td><td>821</td></tr>
+<tr><td>Nigeria</td><td>30</td></tr>
+<tr><td>Other</td><td>394</td></tr>
+<tr><td>Pakistan</td><td>24</td></tr>
+<tr><td>Poland</td><td>69</td></tr>
+<tr><td>Portugal</td><td>34</td></tr>
+<tr><td>Religious</td><td>518</td></tr>
+<tr><td>Russia</td><td>256</td></tr>
+<tr><td>Saudi Arabia</td><td>41</td></tr>
+<tr><td>South Africa</td><td>16</td></tr>
+<tr><td>South Korea</td><td>55</td></tr>
+<tr><td>Spain</td><td>176</td></tr>
+<tr><td>Sports</td><td>209</td></tr>
+<tr><td>Turkey</td><td>156</td></tr>
 <tr><td>UAE</td><td>54</td></tr>
 <tr><td>UK</td><td>10</td></tr>
-<tr><td>USA</td><td>1336</td></tr>
-      </table>
+<tr><td>USA</td><td>1334</td></tr>
+<tr><td>Ukraine</td><td>45</td></tr>
+<tr><td>Weather</td><td>13</td></tr></table>
     </div>
     <div style="flex:1;min-width:200px">
-      <h2>🔍 Stream Quality (Upgrade 2)</h2>
-      <table>
-        <tr><th>Quality</th><th>Channels</th></tr>
-        <tr><td>Unknown</td><td>1679</td></tr>
-<tr><td>SD</td><td>987</td></tr>
-<tr><td>HD</td><td>594</td></tr>
-<tr><td>FHD</td><td>474</td></tr>
-<tr><td>4K</td><td>2</td></tr>
-      </table>
+      <h2>🔍 Stream Quality</h2>
+      <table><tr><th>Quality</th><th>Channels</th></tr><tr><td>Unknown</td><td>4532</td></tr>
+<tr><td>SD</td><td>1782</td></tr>
+<tr><td>HD</td><td>1314</td></tr>
+<tr><td>FHD</td><td>1146</td></tr>
+<tr><td>4K</td><td>3</td></tr></table>
     </div>
   </div>
-
   <div class="card">
-    <h2>📊 Health Score Distribution (Upgrade 1)</h2>
+    <h2>📊 Health Score Distribution</h2>
     <div class="stats" style="margin-bottom:12px">
-      <div class="stat">
-        <div class="num green">2244</div>
-        <div class="label">Excellent (≥0.9)</div>
-      </div>
-      <div class="stat">
-        <div class="num">305</div>
-        <div class="label">Good (0.7–0.9)</div>
-      </div>
-      <div class="stat">
-        <div class="num orange">1187</div>
-        <div class="label">Poor (&lt;0.7)</div>
-      </div>
+      <div class="stat"><div class="num green">5288</div><div class="label">Excellent (≥0.9)</div></div>
+      <div class="stat"><div class="num">313</div><div class="label">Good (0.7–0.9)</div></div>
+      <div class="stat"><div class="num orange">3176</div><div class="label">Poor (&lt;0.7)</div></div>
     </div>
-    <h2>⭐ Top 10 Most Reliable Channels</h2>
-    <table>
-      <tr><th>Channel</th><th>Health Score</th></tr>
-      <tr><td>Ekushey TV</td><td><div class="score-bar"><div style="width:100%;background:#3fb950"></div></div>&nbsp;1.0</td></tr>
+    <h2>⭐ Top 10 Most Reliable</h2>
+    <table><tr><th>Channel</th><th>Health Score</th></tr><tr><td>Ekushey TV</td><td><div class="score-bar"><div style="width:100%;background:#3fb950"></div></div>&nbsp;1.0</td></tr>
 <tr><td>Madani Channel Bangla</td><td><div class="score-bar"><div style="width:100%;background:#3fb950"></div></div>&nbsp;1.0</td></tr>
 <tr><td>Green TV</td><td><div class="score-bar"><div style="width:100%;background:#3fb950"></div></div>&nbsp;1.0</td></tr>
 <tr><td>Movie Bangla</td><td><div class="score-bar"><div style="width:100%;background:#3fb950"></div></div>&nbsp;1.0</td></tr>
 <tr><td>Ekhon TV</td><td><div class="score-bar"><div style="width:100%;background:#3fb950"></div></div>&nbsp;1.0</td></tr>
 <tr><td>Boishakhi TV</td><td><div class="score-bar"><div style="width:100%;background:#3fb950"></div></div>&nbsp;1.0</td></tr>
 <tr><td>10 TV</td><td><div class="score-bar"><div style="width:100%;background:#3fb950"></div></div>&nbsp;1.0</td></tr>
-<tr><td>22Scope News</td><td><div class="score-bar"><div style="width:100%;background:#3fb950"></div></div>&nbsp;1.0</td></tr>
 <tr><td>24 News</td><td><div class="score-bar"><div style="width:100%;background:#3fb950"></div></div>&nbsp;1.0</td></tr>
 <tr><td>4TV News</td><td><div class="score-bar"><div style="width:100%;background:#3fb950"></div></div>&nbsp;1.0</td></tr>
-    </table>
+<tr><td>6 TV Telugu</td><td><div class="score-bar"><div style="width:100%;background:#3fb950"></div></div>&nbsp;1.0</td></tr></table>
   </div>
-
-  <p class="footer">
-    StreamX IPTV Auto-Updater v5 · EPG sources: 5 feeds
-  </p>
-</body>
-</html>
+  <p class="footer">StreamX IPTV v7 · 47 categories · 14 EPG feeds · AI: Rule-based</p>
+</body></html>
