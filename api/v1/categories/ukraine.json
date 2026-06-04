@@ -94,7 +94,7 @@
     {
       "id": "EWTNUkraine.ua",
       "name": "EWTN Ukraine",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=ewtn.org.ua",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/330px-Fox_News_Channel_logo.svg.png",
       "streamUrls": [
         "https://cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8"
       ],
@@ -278,8 +278,8 @@
       "name": "Pervyy gorodskoy. Odessa",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/PervyygorodskoyOdessa.ua.png",
       "streamUrls": [
-        "http://91.194.79.46:8081/stream2/channel2/playlist.m3u8",
-        "http://91.194.79.46:8081/stream1/channel1/playlist.m3u8"
+        "http://91.194.79.46:8081/stream1/channel1/playlist.m3u8",
+        "http://91.194.79.46:8081/stream2/channel2/playlist.m3u8"
       ],
       "category": "Ukraine",
       "languages": []
@@ -421,8 +421,8 @@
       "name": "TVA",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/TVA.ua.png",
       "streamUrls": [
-        "http://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8",
         "http://hls.cdn.ua/tva.ua_live/livestream/chunklist_w396178779.m3u8",
+        "http://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8",
         "http://rtsp.cdn.ua/tva.ua_live/livestream/playlist.m3u8"
       ],
       "category": "Ukraine",
@@ -457,8 +457,88 @@
       ],
       "category": "Ukraine",
       "languages": []
+    },
+    {
+      "id": "EUMusic.ua",
+      "name": "EU Music",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/EUMusic.ua.png",
+      "streamUrls": [
+        "https://iptv.prosto.tv/ch134/tracks-v2a1/1.m3u8?21yo=1&live=1&ip=104.28.156.59&id=742347&secret=vu2y5m72&ses=ca0cfbf5db9d8003&uid=vu2y5m72&cs_track=false&e=1782900912&st=j-Ja2visdxrjH_8haQZjNg"
+      ],
+      "category": "Ukraine",
+      "languages": []
+    },
+    {
+      "id": "Lale.ua",
+      "name": "Lale",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/Lale.ua.png",
+      "streamUrls": [
+        "https://iptv.prosto.tv/ch77/tracks-v1a1/mono.m3u8?21yo=1&live=1&ip=178.136.40.86&id=742347&secret=vu2y5m72&e=1783084689&st=rPsumttSTQSUM-5DQx9lzw"
+      ],
+      "category": "Ukraine",
+      "languages": []
+    },
+    {
+      "id": "SuspilneIvanoFrankivsk.ua",
+      "name": "Suspilne. Ivano-Frankivsk",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/SuspilneIvanoFrankivsk.ua.png",
+      "streamUrls": [
+        "https://iptv.prosto.tv/ch96/tracks-v1a1/mono.m3u8?live=1&ip=5.63.189.224&id=921239&secret=z6vxuhnm&21yo=0&e=1783094347&st=kGRjEFP8_5qe3vEINbXwBQ"
+      ],
+      "category": "Ukraine",
+      "languages": []
+    },
+    {
+      "id": "SuspilneLutsk.ua",
+      "name": "Suspilne. Lutsk",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/SuspilneLutsk.ua.png",
+      "streamUrls": [
+        "https://iptv.prosto.tv/ch222/tracks-v1a1/mono.m3u8?live=1&ip=178.136.40.86&id=921233&secret=9szoe89y&21yo=0&e=1783108254&st=xvdqQHExhHEv8FDqvbjDbg"
+      ],
+      "category": "Ukraine",
+      "languages": []
+    },
+    {
+      "id": "SuspilneLviv.ua",
+      "name": "Suspilne. Lviv",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/SuspilneLviv.ua.png",
+      "streamUrls": [
+        "http://91.146.94.234:10001/play/a00l"
+      ],
+      "category": "Ukraine",
+      "languages": []
+    },
+    {
+      "id": "SuspilneZaporizhzhya.ua",
+      "name": "Suspilne. Zaporizhzhya",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/SuspilneZaporizhzhya.ua.png",
+      "streamUrls": [
+        "https://iptv.prosto.tv/ch187/tracks-v1a1/mono.m3u8?21yo=1&live=1&ip=5.63.189.224&id=921239&secret=z6vxuhnm&e=1783094937&st=EzFtzQG2T03aIIo4Sdn-OQ"
+      ],
+      "category": "Ukraine",
+      "languages": []
+    },
+    {
+      "id": "SuspilneZhytomyr.ua",
+      "name": "Suspilne. Zhytomyr",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/SuspilneZhytomyr.ua.png",
+      "streamUrls": [
+        "https://iptv.prosto.tv/ch183/tracks-v1a1/mono.m3u8?21yo=1&live=1&ip=5.63.189.224&id=921239&secret=z6vxuhnm&e=1783094567&st=eSKzulrNBzvGLO-irrW1Fg"
+      ],
+      "category": "Ukraine",
+      "languages": []
+    },
+    {
+      "id": "UAFashionTV.ua",
+      "name": "UA Fashion TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/UAFashionTV.ua.png",
+      "streamUrls": [
+        "https://iptv.prosto.tv/ch216/tracks-v1a1/mono.m3u8?21yo=1&live=1&ip=178.136.40.86&id=742347&secret=vu2y5m72&e=1783109682&st=xTgqNzpx4NJPo6cfuf5oLA"
+      ],
+      "category": "Ukraine",
+      "languages": []
     }
   ],
-  "count": 45,
-  "generated_at": "2026-06-03T22:29:44.524768"
+  "count": 53,
+  "generated_at": "2026-06-04T04:22:06.835214"
 }

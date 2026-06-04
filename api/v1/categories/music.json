@@ -928,16 +928,6 @@
       "genre": "Music"
     },
     {
-      "id": "FomixTV.nl",
-      "name": "FomixTV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/nl/FomixTV.nl.png",
-      "streamUrls": [
-        "https://stream.fomixmedia.nl/FomixTV/video.m3u8"
-      ],
-      "category": "Music",
-      "genre": "Music"
-    },
-    {
       "id": "GEMMifaPlus.tr",
       "name": "GEM Mifa +",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/GEMMifaPlus.tr.png",
@@ -1125,7 +1115,6 @@
       "name": "Jawhara TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tn/JawharaTV.tn.png",
       "streamUrls": [
-        "http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8",
         "https://streaming.toutech.net/live/jtv/index.m3u8"
       ],
       "category": "Music",
@@ -4612,8 +4601,29 @@
       ],
       "category": "Music",
       "languages": []
+    },
+    {
+      "id": "EUMusic.ua",
+      "name": "EU Music",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/EUMusic.ua.png",
+      "streamUrls": [
+        "https://iptv.prosto.tv/ch134/tracks-v2a1/1.m3u8?21yo=1&live=1&ip=104.28.156.59&id=742347&secret=vu2y5m72&ses=ca0cfbf5db9d8003&uid=vu2y5m72&cs_track=false&e=1782900912&st=j-Ja2visdxrjH_8haQZjNg"
+      ],
+      "category": "Music",
+      "languages": []
+    },
+    {
+      "id": "MBCMood.sa",
+      "name": "MBC Mood",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8",
+        "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-mood/78367bf48ccdba501d0d014a10c21031/index.m3u8"
+      ],
+      "category": "Music",
+      "languages": []
     }
   ],
-  "count": 445,
-  "generated_at": "2026-06-03T22:29:44.587836"
+  "count": 446,
+  "generated_at": "2026-06-04T04:22:06.899097"
 }
