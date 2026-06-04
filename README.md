@@ -18,11 +18,6 @@
   <img src="https://img.shields.io/github/license/cybernahid-dev/streamx-iptv-data"/>
 </p>
 
-<div align="center">
-    <h3>📥 Official Download</h3>
-    <a href='https://streamx-ultra.en.uptodown.com/android' title='Download StreamX Ultra on Uptodown'>
-      <img src='https://stc.utdstc.com/img/mediakit/download-gio-big.png' width="250" alt='Download StreamX Ultra from Uptodown'>
-    </a>
 
 ---
 
