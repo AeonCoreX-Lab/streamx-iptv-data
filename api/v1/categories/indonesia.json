@@ -236,6 +236,7 @@
       "name": "CNBC Indonesia",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/CNBCIndonesia.id.png",
       "streamUrls": [
+        "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8",
         "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8"
       ],
       "category": "Indonesia",
@@ -386,9 +387,9 @@
       "name": "JTV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/JTV.id.png",
       "streamUrls": [
-        "http://122.248.43.242:1935/JTVMADIUN/_definst_/myStream/playlist.m3u8",
         "http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8",
-        "http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8"
+        "http://122.248.43.242:1935/JTVMALANG/_definst_/myStream/playlist.m3u8",
+        "http://122.248.43.242:1935/JTVMADIUN/_definst_/myStream/playlist.m3u8"
       ],
       "category": "Indonesia",
       "languages": []
@@ -399,8 +400,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/JawaPosTV.id.png",
       "streamUrls": [
         "http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8",
-        "http://122.248.43.242:1935/JAWAPOSTVSEMARANG/_definst_/myStream/playlist.m3u8",
-        "http://122.248.43.242:1935/JAWAPOSTVSBY/_definst_/myStream/playlist.m3u8"
+        "http://122.248.43.242:1935/JAWAPOSTVSBY/_definst_/myStream/playlist.m3u8",
+        "http://122.248.43.242:1935/JAWAPOSTVMADIUN/_definst_/myStream/playlist.m3u8"
       ],
       "category": "Indonesia",
       "languages": []
@@ -470,7 +471,6 @@
       "name": "MDTV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/MDTV.id.png",
       "streamUrls": [
-        "https://wahyu1ptv.pages.dev/MDTV-HD.m3u8",
         "http://103.148.44.38:8000/play/a05b/index.m3u8"
       ],
       "category": "Indonesia",
@@ -702,8 +702,8 @@
       "name": "Salira TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/SaliraTV.id.png",
       "streamUrls": [
-        "https://live.salira.tv:3870/stream/play.m3u8",
-        "https://live.salira.tv/p/3870/hybrid/play.m3u8"
+        "https://live.salira.tv/p/3870/hybrid/play.m3u8",
+        "https://live.salira.tv:3870/stream/play.m3u8"
       ],
       "category": "Indonesia",
       "languages": []
@@ -743,8 +743,8 @@
       "name": "Stara TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/StaraTV.id.png",
       "streamUrls": [
-        "https://parahyangan.staratv.id/hls/0/stream.m3u8",
-        "https://bandung.staratv.id/hls/0/stream.m3u8",
+        "https://stream.staratv.id/hls/0/stream.m3u8",
+        "https://cianjur.staratv.id/hls/0/stream.m3u8",
         "https://jakarta.staratv.id/hls/0/stream.m3u8"
       ],
       "category": "Indonesia",
@@ -846,8 +846,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/TVRI.id.png",
       "streamUrls": [
         "https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8",
-        "https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8",
-        "https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8"
+        "https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8",
+        "https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8"
       ],
       "category": "Indonesia",
       "languages": []
@@ -931,8 +931,18 @@
       ],
       "category": "Indonesia",
       "languages": []
+    },
+    {
+      "id": "JogjaTV.id",
+      "name": "Jogja TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/JogjaTV.id.png",
+      "streamUrls": [
+        "https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8"
+      ],
+      "category": "Indonesia",
+      "languages": []
     }
   ],
-  "count": 92,
-  "generated_at": "2026-06-05T04:05:19.039681"
+  "count": 93,
+  "generated_at": "2026-06-05T11:31:30.480388"
 }
