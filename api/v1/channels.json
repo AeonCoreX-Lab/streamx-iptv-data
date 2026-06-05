@@ -2207,17 +2207,6 @@
       "_category": "indonesia"
     },
     {
-      "id": "SampitTV.id",
-      "name": "Sampit TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/SampitTV.id.png",
-      "streamUrls": [
-        "https://sampit-tv.siar.us/live/sampit-tv.m3u8"
-      ],
-      "category": "Indonesia",
-      "languages": [],
-      "_category": "indonesia"
-    },
-    {
       "id": "SelaparangTV.id",
       "name": "Selaparang TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/SelaparangTV.id.png",
@@ -3694,17 +3683,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/AradanaTV.in.png",
       "streamUrls": [
         "https://cdn-1.pishow.tv/live/961/master.m3u8"
-      ],
-      "category": "Religious",
-      "languages": [],
-      "_category": "religious"
-    },
-    {
-      "id": "ArboldeVidaTV.sv",
-      "name": "Arbol de Vida TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/sv/ArboldeVidaTV.sv.png",
-      "streamUrls": [
-        "https://yupistream.top:19360/livearbol/livearbol.m3u8"
       ],
       "category": "Religious",
       "languages": [],
@@ -21976,7 +21954,8 @@
       "name": "WNET 21.1",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/WNET211.us.png",
       "streamUrls": [
-        "https://tvpass.org/live/WNET/sd"
+        "https://tvpass.org/live/WNET/sd",
+        "https://tvpass.org/live/WNET/hd"
       ],
       "country": "US",
       "category": "USA",
@@ -32050,17 +32029,6 @@
       "_category": "entertainment"
     },
     {
-      "id": "LaCaletaTV.do",
-      "name": "La Caleta TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/LaCaletaTV.do.png",
-      "streamUrls": [
-        "https://edge.essastream.com/lacaletatv/playlist.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": [],
-      "_category": "entertainment"
-    },
-    {
       "id": "LaDescargaTV.do",
       "name": "La Descarga TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/LaDescargaTV.do.png",
@@ -37300,6 +37268,7 @@
       "name": "SBN",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/SBN.mn.png",
       "streamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/SBN/DASH-FTA/SBN.mpd",
         "https://cdn4.skygo.mn/live/disk1/SBN/HLSv3-FTA/SBN.m3u8"
       ],
       "category": "Other",
@@ -37557,17 +37526,6 @@
         "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/samara/samara24-hd/index.m3u8"
       ],
       "category": "Informative",
-      "languages": [],
-      "_category": "entertainment"
-    },
-    {
-      "id": "SampitTV.id",
-      "name": "Sampit TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/SampitTV.id.png",
-      "streamUrls": [
-        "https://sampit-tv.siar.us/live/sampit-tv.m3u8"
-      ],
-      "category": "Other",
       "languages": [],
       "_category": "entertainment"
     },
@@ -39131,17 +39089,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/hr/TVNova.hr.png",
       "streamUrls": [
         "https://stream.agatin.hr:3727/live/tvnovalive.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": [],
-      "_category": "entertainment"
-    },
-    {
-      "id": "TVOasisMonay.ve",
-      "name": "TV Oasis Monay",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ve/TVOasisMonay.ve.png",
-      "streamUrls": [
-        "https://live20.bozztv.com/akamaissh101/ssh101/oasistv123/playlist.m3u8"
       ],
       "category": "Entertainment",
       "languages": [],
@@ -49503,17 +49450,6 @@
       "_category": "brazil"
     },
     {
-      "id": "TVPantanalMS.br",
-      "name": "TV Pantanal MS",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/TVPantanalMS.br.png",
-      "streamUrls": [
-        "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8"
-      ],
-      "category": "Brazil",
-      "languages": [],
-      "_category": "brazil"
-    },
-    {
       "id": "TVParaense.br",
       "name": "TV Paraense",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/TVParaense.br.png",
@@ -59190,6 +59126,17 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/RTVi.ru.png",
       "streamUrls": [
         "https://s70378.cdn.ngenix.net/rtvi/index.m3u8"
+      ],
+      "category": "Russia",
+      "languages": [],
+      "_category": "russia"
+    },
+    {
+      "id": "Channel5International.ru",
+      "name": "Channel 5 International",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Channel5International.ru.png",
+      "streamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/Channel_5/HLSv3-FTA/Channel_5.m3u8"
       ],
       "category": "Russia",
       "languages": [],
@@ -84903,16 +84850,6 @@
       "_category": "india"
     },
     {
-      "id": "RaftaarMedia.in",
-      "name": "Raftaar Media",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/RaftaarMedia.in.png",
-      "streamUrls": [
-        "https://6n3yorwpy9ok-hls-live.5centscdn.com/raftaarmedia/243bd1ce0387f18005abfc43b001646a.sdp/playlist.m3u8"
-      ],
-      "category": "India",
-      "_category": "india"
-    },
-    {
       "id": "RajMusixTelugu.in",
       "name": "Raj Musix Telugu",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/RajMusixTelugu.in.png",
@@ -88919,6 +88856,6 @@
       "_category": "spain"
     }
   ],
-  "count": 7998,
-  "generated_at": "2026-06-05T17:58:54.349605"
+  "count": 7992,
+  "generated_at": "2026-06-05T21:28:05.249103"
 }
