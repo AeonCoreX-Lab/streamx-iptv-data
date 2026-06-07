@@ -1388,8 +1388,8 @@
       "name": "Antena 21",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/Antena21.do.png",
       "streamUrls": [
-        "https://alba-do-antena7-c21.stream.mediatiquestream.com/index.m3u8",
-        "https://d1p8txxph783az.cloudfront.net/index.m3u8"
+        "https://d1p8txxph783az.cloudfront.net/index.m3u8",
+        "https://alba-do-antena7-c21.stream.mediatiquestream.com/index.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -1420,8 +1420,8 @@
       "name": "Antena 7",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/Antena7.do.png",
       "streamUrls": [
-        "https://alba-do-antena7-antena7.stream.mediatiquestream.com/index.m3u8",
-        "https://d3mhrz6vhsrmmq.cloudfront.net/index.m3u8"
+        "https://d3mhrz6vhsrmmq.cloudfront.net/index.m3u8",
+        "https://alba-do-antena7-antena7.stream.mediatiquestream.com/index.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -1658,6 +1658,7 @@
       "name": "AsianBox",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/AsianBox.mn.png",
       "streamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX.m3u8",
         "https://cdn4.skygo.mn/live/disk1/AsianBOX/DASH-FTA/AsianBOX.mpd"
       ],
       "category": "Entertainment",
@@ -5311,16 +5312,6 @@
       "languages": []
     },
     {
-      "id": "EVITV.cd",
-      "name": "EVI TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cd/EVITV.cd.png",
-      "streamUrls": [
-        "https://stream.berosat.live:19360/evi-tv/evi-tv.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "EcosCanal57.do",
       "name": "Ecos Canal 57",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/EcosCanal57.do.png",
@@ -5349,16 +5340,6 @@
         "https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8"
       ],
       "category": "News",
-      "languages": []
-    },
-    {
-      "id": "EdenTV.bj",
-      "name": "Eden TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bj/EdenTV.bj.png",
-      "streamUrls": [
-        "https://rtmp.edentv.bj/hls/stream.m3u8"
-      ],
-      "category": "Other",
       "languages": []
     },
     {
@@ -6353,16 +6334,6 @@
         "https://tencentplaybusiness.gztv.com/live/zonghes.m3u8"
       ],
       "category": "Informative",
-      "languages": []
-    },
-    {
-      "id": "GuaroTV.ve",
-      "name": "Guaro TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ve/GuaroTV.ve.png",
-      "streamUrls": [
-        "https://streamtv.intervenhosting.net:3592/hybrid/play.m3u8"
-      ],
-      "category": "Entertainment",
       "languages": []
     },
     {
@@ -11603,16 +11574,6 @@
       "languages": []
     },
     {
-      "id": "OndaTV.do",
-      "name": "Onda TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/OndaTV.do.png",
-      "streamUrls": [
-        "https://cnn.hostlagarto.com/ondatv/index.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "OndaTV.it",
       "name": "Onda TV",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/View_of_the_MTV_Studios_building_from_Hawley_Crescent_-_geograph.org.uk_-_5425610.jpg/330px-View_of_the_MTV_Studios_building_from_Hawley_Crescent_-_geograph.org.uk_-_5425610.jpg",
@@ -11720,16 +11681,6 @@
         "https://ottop-live-meride.akamaized.net/hls/live/2039996/ch1/playlist.m3u8"
       ],
       "category": "Movies",
-      "languages": []
-    },
-    {
-      "id": "OviedoTV.py",
-      "name": "Oviedo TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/py/OviedoTV.py.png",
-      "streamUrls": [
-        "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8"
-      ],
-      "category": "Other",
       "languages": []
     },
     {
@@ -15209,7 +15160,8 @@
       "name": "TV8",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/TV8.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/TV8HD/DASH-FTA/TV8HD.mpd"
+        "https://cdn4.skygo.mn/live/disk1/TV8HD/HLSv3-FTA/TV8HD.m3u8",
+        "https://cdn1.skygo.mn/live/disk1/TV8HD/HLS-FTA/TV8HD.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -18240,6 +18192,6 @@
       "languages": []
     }
   ],
-  "count": 1795,
-  "generated_at": "2026-06-07T17:22:35.853278"
+  "count": 1790,
+  "generated_at": "2026-06-07T21:17:55.985044"
 }
