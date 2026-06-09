@@ -1367,8 +1367,8 @@
       "name": "Antena 21",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/Antena21.do.png",
       "streamUrls": [
-        "https://d1p8txxph783az.cloudfront.net/index.m3u8",
-        "https://alba-do-antena7-c21.stream.mediatiquestream.com/index.m3u8"
+        "https://alba-do-antena7-c21.stream.mediatiquestream.com/index.m3u8",
+        "https://d1p8txxph783az.cloudfront.net/index.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -1399,8 +1399,8 @@
       "name": "Antena 7",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/Antena7.do.png",
       "streamUrls": [
-        "https://d3mhrz6vhsrmmq.cloudfront.net/index.m3u8",
-        "https://alba-do-antena7-antena7.stream.mediatiquestream.com/index.m3u8"
+        "https://alba-do-antena7-antena7.stream.mediatiquestream.com/index.m3u8",
+        "https://d3mhrz6vhsrmmq.cloudfront.net/index.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -1637,6 +1637,7 @@
       "name": "AsianBox",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/AsianBox.mn.png",
       "streamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX.m3u8",
         "https://cdn4.skygo.mn/live/disk1/AsianBOX/DASH-FTA/AsianBOX.mpd"
       ],
       "category": "Entertainment",
@@ -4918,16 +4919,6 @@
       "languages": []
     },
     {
-      "id": "DodomaTV.tz",
-      "name": "Dodoma TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tz/DodomaTV.tz.png",
-      "streamUrls": [
-        "https://goliveafrica.media:9998/live/625965017ed69/index.m3u8"
-      ],
-      "category": "News",
-      "languages": []
-    },
-    {
       "id": "DongNaiTV1.vn",
       "name": "Dong Nai TV 1",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/vn/DongNaiTV1.vn.png",
@@ -5687,16 +5678,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bo/F10HD.bo.png",
       "streamUrls": [
         "https://tv2.bitstreaming.net:3235/multi_live/play.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
-      "id": "FAPTV.bo",
-      "name": "FAP TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bo/FAPTV.bo.png",
-      "streamUrls": [
-        "https://nd106.republicaservers.com/hls/c7284/index.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -15030,7 +15011,8 @@
       "name": "TV8",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/TV8.mn.png",
       "streamUrls": [
-        "https://cdn1.skygo.mn/live/disk1/TV8HD/HLS-FTA/TV8HD.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/TV8HD/DASH-FTA/TV8HD.mpd",
+        "https://cdn4.skygo.mn/live/disk1/TV8HD/HLSv3-FTA/TV8HD.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -16292,7 +16274,7 @@
       "name": "TenGer TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/TenGerTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/VTV/DASH-FTA/VTV.mpd"
+        "https://cdn4.skygo.mn/live/disk1/VTV/HLSv3-FTA/VTV.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -18096,6 +18078,17 @@
         "https://iptv.prosto.tv/ch191/tracks-v1a1/mono.m3u8?21yo=1&live=1&ip=178.136.40.86&id=742347&secret=vu2y5m72&e=1783350581&st=FOBLjQZsAj97omf627Quzg"
       ],
       "category": "News",
+      "languages": []
+    },
+    {
+      "id": "CanalNets.co",
+      "name": "Canal Nets",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/CanalNets.co.png",
+      "streamUrls": [
+        "https://movil.ejeserver.com/live/nets.m3u8",
+        "https://video.ejeserver.com/live/nets.m3u8"
+      ],
+      "category": "Entertainment",
       "languages": []
     }
   ]
