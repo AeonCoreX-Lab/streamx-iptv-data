@@ -123,7 +123,7 @@
       "streamUrls": [
         "https://pb-zjy36qhp8e8cz.akamaized.net/BBC_Earth_US.m3u8",
         "https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8",
-        "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8"
+        "https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -1365,9 +1365,9 @@
       "name": "CNA Originals",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/sg/CNAOriginals.sg.png",
       "streamUrls": [
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cna-originals/playlist.m3u8?ads.vf=P3eUYyWBR74",
         "https://amg01082-cna-amg01082c1-vidaa-gb-7580.playouts.now.amagi.tv/playlist.m3u8",
-        "https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8",
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cna-originals/playlist.m3u8?ads.vf=P3eUYyWBR74"
+        "https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -1662,9 +1662,9 @@
       "name": "History Hit",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/HistoryHit.uk.png",
       "streamUrls": [
+        "https://timeline-samsung-uk.amagi.tv/playlist.m3u8",
         "https://amg00426-lds-amg00426c2-samsung-ph-4623.playouts.now.amagi.tv/playlist.m3u8",
-        "https://lds-timeline-rakuten.amagi.tv/playlist.m3u8",
-        "https://timeline-samsung-uk.amagi.tv/playlist.m3u8"
+        "https://lds-timeline-rakuten.amagi.tv/playlist.m3u8"
       ],
       "category": "Informative",
       "languages": [],
@@ -1711,17 +1711,6 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8"
-      ],
-      "category": "Informative",
-      "languages": [],
-      "genre": "Informative"
-    },
-    {
-      "id": "BTBInfo.pl",
-      "name": "BTB Info",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/BTBInfo.pl.png",
-      "streamUrls": [
-        "https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8"
       ],
       "category": "Informative",
       "languages": [],
@@ -1840,6 +1829,36 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/md/TV8.md.png",
       "streamUrls": [
         "http://315e5a5d.ottrast.com/iptv/8KSD5KFDXA6H88/2454/index.m3u8"
+      ],
+      "category": "Informative",
+      "languages": []
+    },
+    {
+      "id": "ViasatExplore.se",
+      "name": "Viasat Explore",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/se/ViasatExplore.se.png",
+      "streamUrls": [
+        "http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12085/index.m3u8"
+      ],
+      "category": "Informative",
+      "languages": []
+    },
+    {
+      "id": "ViasatHistory.se",
+      "name": "Viasat History",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/se/ViasatHistory.se.png",
+      "streamUrls": [
+        "http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12101/index.m3u8"
+      ],
+      "category": "Informative",
+      "languages": []
+    },
+    {
+      "id": "ViasatNature.se",
+      "name": "Viasat Nature",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/se/ViasatNature.se.png",
+      "streamUrls": [
+        "http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12084/index.m3u8"
       ],
       "category": "Informative",
       "languages": []
