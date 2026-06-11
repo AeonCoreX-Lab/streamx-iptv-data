@@ -270,7 +270,8 @@
       "name": "Euronews Spanish",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/fr/EuronewsSpanish.fr.png",
       "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/euronews-es.m3u8?ads.vf=j3Z4oxuHXXK"
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/euronews-es.m3u8?ads.vf=j3Z4oxuHXXK",
+        "https://jmp2.uk/plu-619d59b7cbef25000728221c.m3u8"
       ],
       "category": "France",
       "languages": []
@@ -446,16 +447,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/fr/NickelodeonJunior.fr.png",
       "streamUrls": [
         "http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8"
-      ],
-      "category": "France",
-      "languages": []
-    },
-    {
-      "id": "Novocomedy.fr",
-      "name": "Novocomedy",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/fr/Novocomedy.fr.png",
-      "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/novo-comedy/video.m3u8?ads.vf=CMRSFvusYbe"
       ],
       "category": "France",
       "languages": []
@@ -875,8 +866,18 @@
       ],
       "category": "France",
       "languages": []
+    },
+    {
+      "id": "TV5MONDEChefs.fr",
+      "name": "TV5MONDE Chefs",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8"
+      ],
+      "category": "France",
+      "languages": []
     }
   ],
   "count": 85,
-  "generated_at": "2026-06-10T22:05:55.935524"
+  "generated_at": "2026-06-11T04:16:16.685447"
 }
