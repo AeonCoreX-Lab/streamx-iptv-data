@@ -1607,7 +1607,8 @@
       "name": "AsianBox",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/AsianBox.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/AsianBOX/DASH-FTA/AsianBOX.mpd"
       ],
       "category": "Entertainment",
       "languages": []
@@ -2354,41 +2355,11 @@
       "languages": []
     },
     {
-      "id": "CANTV19.us",
-      "name": "CAN TV19",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/CANTV19.us.png",
-      "streamUrls": [
-        "https://cantv.streamguys1.com/cantv/cantv19hls/playlist.m3u8"
-      ],
-      "category": "Movies",
-      "languages": []
-    },
-    {
       "id": "CANTV21.us",
       "name": "CAN TV21",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/CANTV21.us.png",
       "streamUrls": [
         "https://cantv.streamguys1.com/cantv/cantv21hls/playlist.m3u8"
-      ],
-      "category": "Movies",
-      "languages": []
-    },
-    {
-      "id": "CANTV27.us",
-      "name": "CAN TV27",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/CANTV27.us.png",
-      "streamUrls": [
-        "https://cantv.streamguys1.com/cantv/cantv27hls/playlist.m3u8"
-      ],
-      "category": "Movies",
-      "languages": []
-    },
-    {
-      "id": "CANTV36.us",
-      "name": "CAN TV36",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/CANTV36.us.png",
-      "streamUrls": [
-        "https://cantv.streamguys1.com/cantv/cantv36hls/playlist.m3u8"
       ],
       "category": "Movies",
       "languages": []
@@ -3168,16 +3139,6 @@
       "languages": []
     },
     {
-      "id": "CanalCdelZulia.ve",
-      "name": "Canal C del Zulia",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ve/CanalCdelZulia.ve.png",
-      "streamUrls": [
-        "https://vs20.live.opencaster.com/cristianhilos_314b91b0/index.m3u8"
-      ],
-      "category": "News",
-      "languages": []
-    },
-    {
       "id": "CanalCalimaTV.co",
       "name": "Canal Calima TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/CanalCalimaTV.co.png",
@@ -3193,16 +3154,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/CanalDTV.do.png",
       "streamUrls": [
         "https://s.emisoras.tv:8081/dtv/index.m3u8"
-      ],
-      "category": "News",
-      "languages": []
-    },
-    {
-      "id": "CanalDos.co",
-      "name": "Canal Dos",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/CanalDos.co.png",
-      "streamUrls": [
-        "http://131.221.41.94/hls/canal2.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -3557,6 +3508,7 @@
       "name": "Cartago Medios TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cr/CartagoMediosTV.cr.png",
       "streamUrls": [
+        "https://acceso.mediosdecostarica.com:3511/live/cartagomediostvlive.m3u8",
         "https://acceso.mediosdecostarica.com:3511/stream/play.m3u8"
       ],
       "category": "Entertainment",
@@ -6164,16 +6116,6 @@
       "languages": []
     },
     {
-      "id": "HLAJDTV.kr",
-      "name": "HLAJ-DTV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/kr/HLAJDTV.kr.png",
-      "streamUrls": [
-        "https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8"
-      ],
-      "category": "Movies",
-      "languages": []
-    },
-    {
       "id": "HLAMDTV.kr",
       "name": "HLAM-DTV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/kr/HLAMDTV.kr.png",
@@ -6229,16 +6171,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/kr/HLAWDTV.kr.png",
       "streamUrls": [
         "http://andong.webcasting.co.kr/live/mbc/playlist.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
-      "id": "HLCGDTV.kr",
-      "name": "HLCG-DTV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/kr/HLCGDTV.kr.png",
-      "streamUrls": [
-        "http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -10292,7 +10224,7 @@
       "name": "NTV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/NTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/NTVHD/HLSv3-FTA/NTVHD.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/NTVHD/DASH-FTA/NTVHD.mpd"
       ],
       "category": "News",
       "languages": []
@@ -17050,7 +16982,7 @@
     {
       "id": "XtraTv.do",
       "name": "Xtra Tv",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/DTX_Logo.png/330px-DTX_Logo.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Legend_station_logo_2023.svg/330px-Legend_station_logo_2023.svg.png",
       "streamUrls": [
         "https://edge.essastream.com/xtratv/index.m3u8"
       ],
@@ -18087,6 +18019,6 @@
       "languages": []
     }
   ],
-  "count": 1779,
-  "generated_at": "2026-06-11T12:12:54.135862"
+  "count": 1772,
+  "generated_at": "2026-06-11T18:49:03.497657"
 }
