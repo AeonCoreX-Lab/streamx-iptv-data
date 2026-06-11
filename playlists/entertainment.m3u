@@ -3321,6 +3321,8 @@ https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8
 https://live.azenagroup.com/zenith/index.ll.m3u8
 #EXTINF:-1 tvg-id="OPA.cr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cr/OPA.cr.png" group-title="Entertainment [FHD]",¡OPA! [FHD]
 https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8
+#EXTINF:-1 tvg-id="CEACOMTV.bo" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bo/CEACOMTV.bo.png" group-title="Entertainment [FHD]",CEACOM TV [FHD]
+https://eu1.servers10.com:8081/ceacom/index.m3u8
 #EXTINF:-1 tvg-id="Canal8TVPlus.co" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/Canal8TVPlus.co.png" group-title="Entertainment",Canal 8 TV+
 https://video.ejeserver.com/live/canal8tv.m3u8
 #EXTINF:-1 tvg-id="LittleGuyanaTV.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/LittleGuyanaTV.us.png" group-title="Kids [HD]",Little Guyana TV [HD]
@@ -3447,6 +3449,8 @@ https://jmp2.uk/plu-61c091343bf4940007803e03.m3u8
 https://vodcdn.bamboo-cloud.com/livehls/6901607706304423c1685213/master.m3u8
 #EXTINF:-1 tvg-id="TVGRANDENATALHDTVBRASIL.br" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/TVGRANDENATALHDTVBRASIL.br.png" group-title="Entertainment [HD]",TV GRANDE NATAL HDTV BRASIL [HD]
 http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
+#EXTINF:-1 tvg-id="ONTV.mn" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/ONTV.mn.png" group-title="Entertainment [SD]",ONTV [SD]
+https://cdn4.skygo.mn/live/disk1/ONTV/HLSv3-FTA/ONTV.m3u8
 #EXTINF:-1 tvg-id="AsianBox.mn" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/AsianBox.mn.png" group-title="Entertainment [SD]",AsianBox [SD]
 https://cdn4.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX.m3u8
 #EXTINF:-1 tvg-id="EdutainmentTV.mn" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/EdutainmentTV.mn.png" group-title="Entertainment [SD]",Edutainment TV [SD]
@@ -3491,16 +3495,12 @@ https://mrtvott.com/cache/MRTV-Ent-HD/master.m3u8
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 #EXTINF:-1 tvg-id="TelevisionOlanchana.hn" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/hn/TelevisionOlanchana.hn.png" group-title="Other [FHD]",Television Olanchana [FHD]
 https://viewhn.com/canal30/live/playlist.m3u8
-#EXTINF:-1 tvg-id="UlziiTV.mn" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/UlziiTV.mn.png" group-title="Other [SD]",Ulzii TV [SD]
-https://cdn4.skygo.mn/live/disk1/UlziiTV/HLSv3-FTA/UlziiTV.m3u8
 #EXTINF:-1 tvg-id="XtraTv.do" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Legend_station_logo_2023.svg/330px-Legend_station_logo_2023.svg.png" group-title="Entertainment [FHD]",Xtra Tv [FHD]
 https://edge.essastream.com/xtratv/index.m3u8
 #EXTINF:-1 tvg-id="CheriflaTV.ml" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ml/CheriflaTV.ml.png" group-title="Other [SD]",Cherifla TV [SD]
 http://69.64.57.208/cherifla/playlist.m3u8
 #EXTINF:-1 tvg-id="DunyaTV.az" tvg-logo="https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png" group-title="Other",Dunya TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
-#EXTINF:-1 tvg-id="CLTV36.ph" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ph/CLTV36.ph.png" group-title="Entertainment",CLTV 36
-https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
 #EXTINF:-1 tvg-id="LatestTV.uk" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/LatestTV.uk.png" group-title="Entertainment [SD]",Latest TV [SD]
 https://5a0e89631aa14.streamlock.net/live/LatestTelevision/playlist.m3u8
 #EXTINF:-1 tvg-id="5tv.ar" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/5tv.ar.png" group-title="Entertainment [SD]",5tv [SD]
@@ -3511,35 +3511,17 @@ https://cantv.streamguys1.com/cantv/cantv21hls/playlist.m3u8
 https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
 #EXTINF:-1 tvg-id="KawanuaTV.id" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/KawanuaTV.id.png" group-title="Informative [FHD]",Kawanua TV [FHD]
 http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="ReadyTVCanal6.do" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/ReadyTVCanal6.do.png" group-title="Entertainment [HD]",Ready TV Canal 6 [HD]
+https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
 #EXTINF:-1 tvg-id="SBTInterior.br" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/SBTInterior.br.png" group-title="Entertainment [HD]",SBT Interior [HD]
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-id="TNT4International.ru" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/TNT4International.ru.png" group-title="Entertainment [SD]",TNT4 International [SD]
 https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
 #EXTINF:-1 tvg-id="TVPassoFundo.br" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/TVPassoFundo.br.png" group-title="Entertainment [FHD]",TV Passo Fundo [FHD]
 https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="ATV.gn" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gn/ATV.gn.png" group-title="News",ATV
-https://guineetvdirect.online:3320/live/atvguineelive.m3u8
-#EXTINF:-1 tvg-id="ERT1.gr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gr/ERT1.gr.png" group-title="Entertainment [SD]",ERT1 [SD]
-https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT1/default/index.m3u8
-#EXTINF:-1 tvg-id="ERT2.gr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gr/ERT2.gr.png" group-title="Entertainment [SD]",ERT2 [SD]
-https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT2/default/index.m3u8
-#EXTINF:-1 tvg-id="LaUne.be" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/be/LaUne.be.png" group-title="Entertainment [SD]",La Une [SD]
-https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
-#EXTINF:-1 tvg-id="MulticanalCatamayo.ec" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ec/MulticanalCatamayo.ec.png" group-title="Entertainment",Multicanal Catamayo
-https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
-#EXTINF:-1 tvg-id="PalenqueTV.bo" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bo/PalenqueTV.bo.png" group-title="Movies",Palenque TV
-https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8
-#EXTINF:-1 tvg-id="QTVGambia.gm" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gm/QTVGambia.gm.png" group-title="Other",QTV Gambia
-https://player.qtv.gm/hls/live.stream.m3u8
-#EXTINF:-1 tvg-id="ReadyTVCanal6.do" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/ReadyTVCanal6.do.png" group-title="Entertainment [HD]",Ready TV Canal 6 [HD]
-https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
-#EXTINF:-1 tvg-id="SuMundoTV.do" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/SuMundoTV.do.png" group-title="Entertainment [SD]",Su Mundo TV [SD]
-https://appapi.sumundotv.com/api/stream-proxy/4pf8yy3WF1xp1_tQ6yUYRIsbwyLc3qxDRcZAY_NLNDs/playlist.m3u8
-#EXTINF:-1 tvg-id="WCOT.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/WCOT.us.png" group-title="News [FHD]",WCOT [FHD]
-https://stream.talgov.net/WCOT/smil:WCOT.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="NumericaTV.cd" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cd/NumericaTV.cd.png" group-title="Informative [FHD]",Numerica TV [FHD]
-https://tnt-television.com/NUMERICA/index.m3u8
+#EXTINF:-1 tvg-id="UlziiTV.mn" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/UlziiTV.mn.png" group-title="Other [SD]",Ulzii TV [SD]
+https://cdn4.skygo.mn/live/disk1/UlziiTV/HLSv3-FTA/UlziiTV.m3u8
+#EXTINF:-1 tvg-id="CLTV36.ph" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ph/CLTV36.ph.png" group-title="Entertainment",CLTV 36
+https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAnimales.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/PlutoTVAnimales.us.png" group-title="Entertainment",Pluto TV Animales
 https://jmp2.uk/plu-600ae6a78d801e0007117d21.m3u8
-#EXTINF:-1 tvg-id="CEACOMTV.bo" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bo/CEACOMTV.bo.png" group-title="Entertainment [FHD]",CEACOM TV [FHD]
-https://eu1.servers10.com:8081/ceacom/index.m3u8
