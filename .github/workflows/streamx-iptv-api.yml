@@ -12,7 +12,7 @@ on:
       - 'events.json'
       - 'channel_logo_mapping.json'
 
-FIX (Bug #2): Force all Node.js actions to Node.js 24 NOW
+# FIX (Bug #2): Force all Node.js actions to Node.js 24 NOW
 # Deadline: June 16, 2026 (forced migration). Adding this avoids the
 # "Node.js 20 actions are deprecated" warning for checkout, setup-java, etc.
 env:
