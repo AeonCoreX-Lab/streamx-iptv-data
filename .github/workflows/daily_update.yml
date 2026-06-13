@@ -5,6 +5,12 @@ on:
     - cron: '0 */6 * * *'   # ⏰ লোগো স্ক্রেপারের ৩০ মিনিট পর — যাতে নতুন লোগো ম্যাপিং তৈরি হয়
   workflow_dispatch:
 
+# FIX (Bug #2): Force all Node.js actions to Node.js 24 NOW
+# Deadline: June 16, 2026 (forced migration). Adding this avoids the
+# "Node.js 20 actions are deprecated" warning for checkout, setup-java, etc.
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 # শুধু main branch-এর জন্য কনকারেন্সি লক, অন্য ব্রাঞ্চে প্যারালাল চলবে
 concurrency:
   group: ${{ github.ref == 'refs/heads/main' && 'iptv-update-main' || github.run_id }}
