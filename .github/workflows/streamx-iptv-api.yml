@@ -11,7 +11,8 @@ on:
 # "Node.js 20 actions are deprecated" warning for checkout, setup-java, etc.
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-  push:
+  
+ push:
     paths:
       - 'categories/**'
       - 'logos/**'
