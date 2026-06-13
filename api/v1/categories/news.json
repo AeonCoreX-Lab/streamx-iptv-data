@@ -1997,7 +1997,7 @@
       "name": "ETV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/ETV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/ETV/HLSv3-FTA/ETV.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/ETV/DASH-FTA/ETV.mpd"
       ],
       "category": "News",
       "languages": []
@@ -2037,7 +2037,7 @@
       "name": "Eagle News",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/EagleNews.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/Eagle/HLSv3-FTA/Eagle.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/Eagle/DASH-FTA/Eagle.mpd"
       ],
       "category": "News",
       "languages": []
@@ -4280,26 +4280,6 @@
       "languages": []
     },
     {
-      "id": "PalestineAlYawm.lb",
-      "name": "Palestine Al Yawm",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/lb/PalestineAlYawm.lb.png",
-      "streamUrls": [
-        "https://live.paltodaytv.com/paltv/live/playlist_sfm4s.m3u8"
-      ],
-      "category": "News",
-      "languages": []
-    },
-    {
-      "id": "PalestineToday.ps",
-      "name": "Palestine Today",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ps/PalestineToday.ps.png",
-      "streamUrls": [
-        "https://live.paltodaytv.com/paltv/live/playlist.m3u8"
-      ],
-      "category": "News",
-      "languages": []
-    },
-    {
       "id": "PalitraNews.ge",
       "name": "Palitra News",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ge/PalitraNews.ge.png",
@@ -6355,8 +6335,18 @@
       ],
       "category": "News",
       "languages": []
+    },
+    {
+      "id": "CNBCMongolia.mn",
+      "name": "CNBC Mongolia",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/CNBCMongolia.mn.png",
+      "streamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/CNBC/HLSv3-FTA/CNBC.m3u8"
+      ],
+      "category": "News",
+      "languages": []
     }
   ],
-  "count": 615,
-  "generated_at": "2026-06-13T17:22:25.141640"
+  "count": 614,
+  "generated_at": "2026-06-13T21:16:03.592699"
 }
