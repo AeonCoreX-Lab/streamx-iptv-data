@@ -3359,21 +3359,10 @@
       "languages": []
     },
     {
-      "id": "CaritasTV.py",
-      "name": "Caritas TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/py/CaritasTV.py.png",
-      "streamUrls": [
-        "https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "CartagoMediosTV.cr",
       "name": "Cartago Medios TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cr/CartagoMediosTV.cr.png",
       "streamUrls": [
-        "https://acceso.mediosdecostarica.com:3511/live/cartagomediostvlive.m3u8",
         "https://acceso.mediosdecostarica.com:3511/stream/play.m3u8"
       ],
       "category": "Entertainment",
@@ -8624,16 +8613,6 @@
       "languages": []
     },
     {
-      "id": "M2.hu",
-      "name": "M2",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/hu/M2.hu.png",
-      "streamUrls": [
-        "http://88.212.15.19/live/m2_hun/index.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "MBC1.ae",
       "name": "MBC 1",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ae/MBC1.ae.png",
@@ -8871,7 +8850,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/MNB.mn.png",
       "streamUrls": [
         "https://cdn4.skygo.mn/live/disk1/MNB/DASH-FTA/MNB.mpd",
-        "https://cdn4.skygo.mn/live/disk1/MNB/HLSv3-FTA/MNB.m3u8",
         "https://live.mnb.mn/hls/mnb.stream.m3u8"
       ],
       "category": "Other",
@@ -13633,7 +13611,7 @@
       "name": "TV 25",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/TV25.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/MN25/DASH-FTA/MN25.mpd"
+        "https://cdn4.skygo.mn/live/disk1/MN25/HLSv3-FTA/MN25.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -14304,7 +14282,8 @@
       "name": "TV9",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/TV9.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/TV9HD/HLSv3-FTA/TV9HD.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/TV9HD/HLSv3-FTA/TV9HD.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/TV9HD/DASH-FTA/TV9HD.mpd"
       ],
       "category": "News",
       "languages": []
@@ -15524,8 +15503,7 @@
       "name": "TenGer TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/TenGerTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/VTV/DASH-FTA/VTV.mpd",
-        "https://cdn4.skygo.mn/live/disk1/VTV/HLSv3-FTA/VTV.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/VTV/DASH-FTA/VTV.mpd"
       ],
       "category": "Entertainment",
       "languages": []
@@ -15680,7 +15658,7 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/TopGear.uk.png",
       "streamUrls": [
         "https://jmp2.uk/plu-6202357dea93940007d723ca.m3u8",
-        "https://jmp2.uk/plu-64c109a4798def0008a6e03e.m3u8",
+        "https://jmp2.uk/plu-60d356a534f63f000850cdd7.m3u8",
         "https://jmp2.uk/plu-620239894757070008d4812d.m3u8"
       ],
       "category": "Entertainment",
@@ -15804,7 +15782,7 @@
       "name": "UBS",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/UBS.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/UBSHD/HLSv3-FTA/UBSHD.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/UBSHD/DASH-FTA/UBSHD.mpd"
       ],
       "category": "Other",
       "languages": []
@@ -15844,6 +15822,7 @@
       "name": "Ulzii TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/UlziiTV.mn.png",
       "streamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/UlziiTV/HLSv3-FTA/UlziiTV.m3u8",
         "https://cdn4.skygo.mn/live/disk1/UlziiTV/DASH-FTA/UlziiTV.mpd"
       ],
       "category": "Other",
@@ -17032,16 +17011,6 @@
       "languages": []
     },
     {
-      "id": "BanglaVision.bd",
-      "name": "Bangla Vision",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bd/BanglaVision.bd.png",
-      "streamUrls": [
-        "https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "Belarus1.by",
       "name": "Belarus-1",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/by/Belarus1.by.png",
@@ -17052,52 +17021,12 @@
       "languages": []
     },
     {
-      "id": "Channel9.bd",
-      "name": "Channel 9",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bd/Channel9.bd.png",
-      "streamUrls": [
-        "https://tvsen6.aynaott.com/channel9/index.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
-      "id": "DeeptoTV.bd",
-      "name": "Deepto TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bd/DeeptoTV.bd.png",
-      "streamUrls": [
-        "https://tvsen5.aynaott.com/DeeptoTVHD/index.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "ETB2On.es",
       "name": "ETB2 On",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/ETB2On.es.png",
       "streamUrls": [
         "https://cdn1.etbon.eus/etb2on/index.m3u8",
         "https://cdn1.etbon.eus/etb2on/index.mpd"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
-      "id": "MaasrangaTV.bd",
-      "name": "Maasranga TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bd/MaasrangaTV.bd.png",
-      "streamUrls": [
-        "https://tvsen5.aynaott.com/maasrangatv/index.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
-      "id": "NTV.bd",
-      "name": "NTV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bd/NTV.bd.png",
-      "streamUrls": [
-        "https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -17515,7 +17444,7 @@
       "name": "ONTV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/ONTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd"
+        "https://cdn4.skygo.mn/live/disk1/ONTV/HLSv3-FTA/ONTV.m3u8"
       ],
       "country": "MN",
       "category": "Entertainment",
@@ -17902,6 +17831,16 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/TVPublicaMarcosPaz.ar.png",
       "streamUrls": [
         "https://online.radiomelody.com.ar:2443/hls/mediospublicos.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "30AGeorgiaHollywoodReview.us",
+      "name": "30A Georgia Hollywood Review",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/30AGeorgiaHollywoodReview.us.png",
+      "streamUrls": [
+        "https://30a-tv.com/gh.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
