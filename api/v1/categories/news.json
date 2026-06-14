@@ -1996,6 +1996,7 @@
       "name": "ETV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/ETV.mn.png",
       "streamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/ETV/HLSv3-FTA/ETV.m3u8",
         "https://cdn4.skygo.mn/live/disk1/ETV/DASH-FTA/ETV.mpd"
       ],
       "category": "News",
@@ -2036,7 +2037,8 @@
       "name": "Eagle News",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/EagleNews.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/Eagle/DASH-FTA/Eagle.mpd"
+        "https://cdn4.skygo.mn/live/disk1/Eagle/DASH-FTA/Eagle.mpd",
+        "https://cdn4.skygo.mn/live/disk1/Eagle/HLSv3-FTA/Eagle.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -3067,16 +3069,6 @@
       "languages": []
     },
     {
-      "id": "LingkarTV.id",
-      "name": "Lingkar TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/LingkarTV.id.png",
-      "streamUrls": [
-        "https://lingkartv.my.id/hls/lingkartv.m3u8"
-      ],
-      "category": "News",
-      "languages": []
-    },
-    {
       "id": "LinierosTV.do",
       "name": "Linieros TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/LinierosTV.do.png",
@@ -3351,7 +3343,7 @@
       "name": "Mongolian News Channel",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/MongolianNewsChannel.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/MNCTV/DASH-FTA/MNCTV.mpd"
+        "https://cdn4.skygo.mn/live/disk1/MNCTV/HLSv3-FTA/MNCTV.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -6206,16 +6198,6 @@
       "languages": []
     },
     {
-      "id": "EkattorTV.bd",
-      "name": "Ekattor TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bd/EkattorTV.bd.png",
-      "streamUrls": [
-        "https://tvsen6.aynaott.com/ekattorbdtv/index.m3u8"
-      ],
-      "category": "News",
-      "languages": []
-    },
-    {
       "id": "TV8.md",
       "name": "TV8",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/md/TV8.md.png",
@@ -6396,6 +6378,6 @@
       "languages": []
     }
   ],
-  "count": 619,
-  "generated_at": "2026-06-14T04:00:48.264402"
+  "count": 617,
+  "generated_at": "2026-06-14T10:48:55.884381"
 }
