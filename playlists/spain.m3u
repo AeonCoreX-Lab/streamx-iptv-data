@@ -84,7 +84,7 @@ https://ingest1-video.streaming-pro.com/canalteABR/ctestream/playlist.m3u8
 #EXTINF:-1 tvg-id="CetelmonTV.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/CetelmonTV.es.png" group-title="Spain",Cetelmon TV
 http://player.cetelmon.tv/protecteddfd43c2f3a8b41f3f28582bf8993aca6/992_high.m3u8
 #EXTINF:-1 tvg-id="CineFriki.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/CineFriki.es.png" group-title="Spain [SD]",Cine Friki [SD]
-https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8
+https://zylo-cinefriki-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CineWestern.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/CineWestern.es.png" group-title="Spain [SD]",Cine Western [SD]
 https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8
 #EXTINF:-1 tvg-id="CiudadesdelOcioTV.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/CiudadesdelOcioTV.es.png" group-title="Spain [HD]",Ciudades del Ocio TV [HD]
@@ -128,13 +128,11 @@ https://video3.lhdserver.es/empordatv2/live.m3u8
 #EXTINF:-1 tvg-id="EsTuTele.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/EsTuTele.es.png" group-title="Spain",EsTuTele
 https://cloud.streamingconnect.tv/hls/estutele/estutele.m3u8
 #EXTINF:-1 tvg-id="Esport3.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/Esport3.es.png" group-title="Spain [SD]",Esport3 [SD]
-https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
+https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
 #EXTINF:-1 tvg-id="EsteponaTelevision.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/EsteponaTelevision.es.png" group-title="Spain [HD]",Estepona Television [HD]
 https://cloudvideo.servers10.com:8081/8022/index.m3u8
 #EXTINF:-1 tvg-id="FuerteventuraTV.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/FuerteventuraTV.es.png" group-title="Spain [FHD]",Fuerteventura TV [FHD]
 https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8
-#EXTINF:-1 tvg-id="GaliciaTVEuropa.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/GaliciaTVEuropa.es.png" group-title="Spain [HD]",Galicia TV Europa [HD]
-https://crtvg-europa.flumotion.cloud/playlist.m3u8
 #EXTINF:-1 tvg-id="GoienaEus.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/GoienaEus.es.png" group-title="Spain",Goiena Eus
 https://zuzenean.goienamedia.eus/goiena-telebista.m3u8
 #EXTINF:-1 tvg-id="GolClassics.es" tvg-logo="https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png" group-title="Spain [FHD]",Gol Classics [FHD]
@@ -157,6 +155,8 @@ https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8
 https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main.m3u8
 #EXTINF:-1 tvg-id="La1Catalunya.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/La1Catalunya.es.png" group-title="Spain [HD]",La 1 Catalunya [HD]
 https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main.m3u8
+#EXTINF:-1 tvg-id="La2Canarias.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/La2Canarias.es.png" group-title="Spain [HD]",La 2 Canarias [HD]
+https://ztnr.rtve.es/ztnr/5468585.m3u8
 #EXTINF:-1 tvg-id="La2Catalunya.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/La2Catalunya.es.png" group-title="Spain [HD]",La 2 Catalunya [HD]
 https://ztnr.rtve.es/ztnr/3987218.m3u8
 #EXTINF:-1 tvg-id="LancelotTV.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/LancelotTV.es.png" group-title="Spain [SD]",Lancelot TV [SD]
@@ -210,15 +210,15 @@ http://185.81.77.4/BocairentTV/index.m3u8
 #EXTINF:-1 tvg-id="RakutenTVActionMovies.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/RakutenTVActionMovies.es.png" group-title="Spain [SD]",Rakuten TV Action Movies [SD]
 https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
 #EXTINF:-1 tvg-id="RakutenTVComedyMovies.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/RakutenTVComedyMovies.es.png" group-title="Spain [SD]",Rakuten TV Comedy Movies [SD]
-https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8
+https://a300af98e00746e2acf2346f43e47bd1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6191/master.m3u8
 #EXTINF:-1 tvg-id="RakutenTVDramaMovies.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/RakutenTVDramaMovies.es.png" group-title="Spain [SD]",Rakuten TV Drama Movies [SD]
-https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8
+https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
 #EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/RakutenTVFamilyMovies.es.png" group-title="Spain [SD]",Rakuten TV Family Movies [SD]
-https://758ee983d61e400381dea6fa8154f4e0.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6227/master.m3u8
+https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8
 #EXTINF:-1 tvg-id="RakutenTVNordicFilms.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/RakutenTVNordicFilms.es.png" group-title="Spain [SD]",Rakuten TV Nordic Films [SD]
 https://4aa9ef08b70d4b0c8f3519c5950b1930.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6303/master.m3u8
 #EXTINF:-1 tvg-id="RakutenTVTopMovies.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/RakutenTVTopMovies.es.png" group-title="Spain [SD]",Rakuten TV Top Movies [SD]
-https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8
+https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
 #EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/RealMadridTV.es.png" group-title="Spain [SD]",Real Madrid TV [SD]
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 tvg-id="RiberaTV.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/RiberaTV.es.png" group-title="Spain",Ribera TV
@@ -233,8 +233,6 @@ https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 #EXTINF:-1 tvg-id="SpektraTV.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/SpektraTV.es.png" group-title="Spain",SpektraTV
 https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="TBNEspana.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/TBNEspana.es.png" group-title="Spain",TBN Espana
-https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
 #EXTINF:-1 tvg-id="TVBRICSSpanish.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/TVBRICSSpanish.es.png" group-title="Spain [FHD]",TV BRICS Spanish [FHD]
 https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSabadellValles.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/TVSabadellValles.es.png" group-title="Spain [FHD]",TV Sabadell-Valles [FHD]
@@ -244,11 +242,11 @@ https://streaming007.gestec-video.com/hls/artequatreTVA.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalAmerica.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/TVEInternacionalAmerica.es.png" group-title="Spain [FHD]",TVE Internacional America [FHD]
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalAsiaOceania.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/TVEInternacionalAsiaOceania.es.png" group-title="Spain [FHD]",TVE Internacional Asia-Oceania [FHD]
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_576.m3u8
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_1080.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalEurope.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/TVEInternacionalEurope.es.png" group-title="Spain [FHD]",TVE Internacional Europe [FHD]
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_576.m3u8
 #EXTINF:-1 tvg-id="TVEStar.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/TVEStar.es.png" group-title="Spain [FHD]",TVE Star [FHD]
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
 #EXTINF:-1 tvg-id="TVOJesus.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/TVOJesus.es.png" group-title="Spain [HD]",TVO Jesus [HD]
 https://cloud.tvomix.com/TVOJESUS/index.m3u8
 #EXTINF:-1 tvg-id="TVOMIX.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/TVOMIX.es.png" group-title="Spain [HD]",TVOMIX [HD]
@@ -296,60 +294,36 @@ https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
 #EXTINF:-1 tvg-id="XPTV2.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/XPTV2.es.png" group-title="Spain [SD]",XPTV2 [SD]
 https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8
 #EXTINF:-1 tvg-id="ETB1On.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/ETB1On.es.png" group-title="Spain [FHD]",ETB1 On [FHD]
-https://cdn1.etbon.eus/etb1on/index.m3u8
+https://cdn1.etbon.eus/etb1on/index.mpd
 #EXTINF:-1 tvg-id="ETB2On.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/ETB2On.es.png" group-title="Spain [FHD]",ETB2 On [FHD]
 https://cdn1.etbon.eus/etb2on/index.m3u8
 #EXTINF:-1 tvg-id="ETB1.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/ETB1.es.png" group-title="Spain [FHD]",ETB 1 [FHD]
 https://cdn1.etbon.eus/etb1/index.m3u8
 #EXTINF:-1 tvg-id="ETB2.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/ETB2.es.png" group-title="Spain [FHD]",ETB 2 [FHD]
 https://cdn1.etbon.eus/etb2/index.m3u8
-#EXTINF:-1 tvg-id="AXNCEE.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/AXNCEE.es.png" group-title="Spain",AXN CEE
-http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/7008/index.m3u8
+#EXTINF:-1 tvg-id="AXNCEE.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/AXNCEE.es.png" group-title="Spain [HD]",AXN CEE [HD]
+https://dokagents.site/live/axnhd/mono.m3u8
 #EXTINF:-1 tvg-id="ElMueble.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/ElMueble.es.png" group-title="Spain [HD]",El Mueble [HD]
 https://jmp2.uk/plu-690dd10a37b131228d76d5b1.m3u8
 #EXTINF:-1 tvg-id="HistoriaYVida.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/HistoriaYVida.es.png" group-title="Spain",Historia Y Vida
 https://jmp2.uk/plu-67517f923a61d40008c451f0.m3u8
-#EXTINF:-1 tvg-id="La2Canarias.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/La2Canarias.es.png" group-title="Spain [HD]",La 2 Canarias [HD]
-https://ztnr.rtve.es/ztnr/5468585.m3u8
+#EXTINF:-1 tvg-id="GaliciaTVEuropa.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/GaliciaTVEuropa.es.png" group-title="Spain [HD]",Galicia TV Europa [HD]
+https://crtvg-europa.flumotion.cloud/playlist.m3u8
 #EXTINF:-1 tvg-id="RNEparatodos.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/RNEparatodos.es.png" group-title="Spain [HD]",RNE para todos [HD]
 https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main.m3u8
-#EXTINF:-1 tvg-id="APunt.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/APunt.es.png" group-title="Spain",A Punt
-http://92.176.119.180:2095/play/a17d
-#EXTINF:-1 tvg-id="Antena3.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/Antena3.es.png" group-title="Spain",Antena 3
-http://92.176.119.180:2095/play/a1ee
-#EXTINF:-1 tvg-id="BomCine.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/BomCine.es.png" group-title="Spain",Bom Cine
-http://92.176.119.180:2095/play/a17f
-#EXTINF:-1 tvg-id="Cuatro.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/Cuatro.es.png" group-title="Spain",Cuatro
-http://92.176.119.180:2095/play/a1g2
-#EXTINF:-1 tvg-id="Divinity.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/Divinity.es.png" group-title="Spain",Divinity
-http://92.176.119.180:2095/play/a1g1
-#EXTINF:-1 tvg-id="Energy.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/Energy.es.png" group-title="Spain",Energy
-http://92.176.119.180:2095/play/a1ep
-#EXTINF:-1 tvg-id="FactoriadeFiccion.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/FactoriadeFiccion.es.png" group-title="Spain",Factoria de Ficcion
-http://92.176.119.180:2095/play/a1fo
-#EXTINF:-1 tvg-id="La2.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/La2.es.png" group-title="Spain",La 2
-http://92.176.119.180:2095/play/a16y
-#EXTINF:-1 tvg-id="La8Mediterraneo.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/La8Mediterraneo.es.png" group-title="Spain",La 8 Mediterraneo
-http://92.176.119.180:2095/play/a1ft
-#EXTINF:-1 tvg-id="LaSexta.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/LaSexta.es.png" group-title="Spain",La Sexta
-http://92.176.119.180:2095/play/a16l
-#EXTINF:-1 tvg-id="Mega.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/Mega.es.png" group-title="Spain",Mega
-http://92.176.119.180:2095/play/a1ei
-#EXTINF:-1 tvg-id="Neox.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/Neox.es.png" group-title="Spain",Neox
-http://92.176.119.180:2095/play/a1eg
-#EXTINF:-1 tvg-id="Nova.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/Nova.es.png" group-title="Spain",Nova
-http://92.176.119.180:2095/play/a16o
-#EXTINF:-1 tvg-id="Squirrel.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/Squirrel.es.png" group-title="Spain",Squirrel
-http://92.176.119.180:2095/play/a1ey
-#EXTINF:-1 tvg-id="Squirrel2.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/Squirrel2.es.png" group-title="Spain",Squirrel 2
-http://92.176.119.180:2095/play/a1g3
-#EXTINF:-1 tvg-id="Telecinco.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/Telecinco.es.png" group-title="Spain",Telecinco
-http://92.176.119.180:2095/play/a15y
-#EXTINF:-1 tvg-id="Veo7.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/Veo7.es.png" group-title="Spain",Veo7
-http://92.176.119.180:2095/play/a1f1
+#EXTINF:-1 tvg-id="TBNEspana.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/TBNEspana.es.png" group-title="Spain",TBN Espana
+https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
 #EXTINF:-1 tvg-id="CanalDonana.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/CanalDonana.es.png" group-title="Spain",Canal Donana
 https://secure5.todostreaming.es/live/division-alm.m3u8
 #EXTINF:-1 tvg-id="24Horas.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/24Horas.es.png" group-title="Spain [HD]",24 Horas [HD]
 https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 tvg-id="BomCine.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/BomCine.es.png" group-title="Spain",Bom Cine
+http://92.176.119.180:2095/play/a17f
+#EXTINF:-1 tvg-id="Squirrel.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/Squirrel.es.png" group-title="Spain",Squirrel
+http://92.176.119.180:2095/play/a1ey
+#EXTINF:-1 tvg-id="Squirrel2.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/Squirrel2.es.png" group-title="Spain",Squirrel 2
+http://92.176.119.180:2095/play/a1g3
+#EXTINF:-1 tvg-id="Veo7.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/Veo7.es.png" group-title="Spain",Veo7
+http://92.176.119.180:2095/play/a1f1
 #EXTINF:-1 tvg-id="VoyagesSaveurs.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/VoyagesSaveurs.es.png" group-title="Spain",Voyages & Saveurs
 https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8
