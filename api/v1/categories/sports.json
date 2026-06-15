@@ -205,9 +205,9 @@
       "name": "FIFA+",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/FIFAPlus.uk.png",
       "streamUrls": [
-        "https://jmp2.uk/plu-660bfc032433010008def35a.m3u8",
-        "https://jmp2.uk/plu-660c29f80cd4630008f1547c.m3u8",
-        "https://jmp2.uk/plu-66997e8d3a4ad20008e50be9.m3u8"
+        "https://jmp2.uk/plu-66997e8d3a4ad20008e50be9.m3u8",
+        "https://jmp2.uk/plu-66997d18a1b69e00082ee85f.m3u8",
+        "https://jmp2.uk/plu-660bfc4424e1d000085b5f93.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -1693,9 +1693,9 @@
       "name": "Strongman Champions League",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/StrongmanChampionsLeague.uk.png",
       "streamUrls": [
-        "https://cb4748b76e2c4b11bb5790666256964b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_StrongmanChampionsLeague/playlist.m3u8",
-        "https://rightsboosterltd-scl-1-dk.samsung.wurl.tv/playlist.m3u8",
-        "https://rightsboosterltd-scl-1-us.xumo.wurl.tv/playlist.m3u8"
+        "https://rightsboosterltd-scl-1-no.samsung.wurl.tv/playlist.m3u8",
+        "https://rightsboosterltd-scl-1-se.samsung.wurl.tv/playlist.m3u8",
+        "https://rightsboosterltd-scl-1-dk.samsung.wurl.tv/playlist.m3u8"
       ],
       "category": "Sports",
       "languages": []
@@ -1965,6 +1965,7 @@
       "name": "Digi Sport 1",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ro/DigiSport1.ro.png",
       "streamUrls": [
+        "https://dokagents.site/live/digisport1/mono.m3u8",
         "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/2523/index.m3u8"
       ],
       "category": "Sports",
@@ -1975,6 +1976,7 @@
       "name": "Digi Sport 2",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ro/DigiSport2.ro.png",
       "streamUrls": [
+        "https://dokagents.site/live/digisport2/mono.m3u8",
         "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/2522/index.m3u8"
       ],
       "category": "Sports",
@@ -1985,6 +1987,7 @@
       "name": "Digi Sport 3",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ro/DigiSport3.ro.png",
       "streamUrls": [
+        "https://dokagents.site/live/digisport3/mono.m3u8",
         "http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/2524/index.m3u8"
       ],
       "category": "Sports",
@@ -1995,6 +1998,7 @@
       "name": "Digi Sport 4",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ro/DigiSport4.ro.png",
       "streamUrls": [
+        "https://dokagents.site/live/digisport4/mono.m3u8",
         "http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/2538/index.m3u8"
       ],
       "category": "Sports",
@@ -2099,8 +2103,38 @@
       ],
       "category": "Sports",
       "languages": []
+    },
+    {
+      "id": "ArenaSport5BH.ba",
+      "name": "Arena Sport 5 BH",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://nl1.nghk.ai/ArenaSport5BH/index.m3u8"
+      ],
+      "category": "Sports",
+      "languages": []
+    },
+    {
+      "id": "Equalympic.ua",
+      "name": "Equalympic",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/Equalympic.ua.png",
+      "streamUrls": [
+        "https://iptv.prosto.tv/ch215/index.m3u8"
+      ],
+      "category": "Sports",
+      "languages": []
+    },
+    {
+      "id": "VTV6.vn",
+      "name": "VTV6",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/VTV6_logo_2026_final.svg/330px-VTV6_logo_2026_final.svg.png",
+      "streamUrls": [
+        "https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv6tt-manifest.m3u8"
+      ],
+      "category": "Sports",
+      "languages": []
     }
   ],
-  "count": 198,
-  "generated_at": "2026-06-14T21:12:20.184399"
+  "count": 201,
+  "generated_at": "2026-06-15T04:13:49.202467"
 }
