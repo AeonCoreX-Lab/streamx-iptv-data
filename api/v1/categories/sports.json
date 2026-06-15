@@ -132,8 +132,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/DAZNCombat.uk.png",
       "streamUrls": [
         "https://jmp2.uk/plu-64df7ab4dfa32400083c517b.m3u8",
-        "https://jmp2.uk/plu-64805922536e0c0008a1a1e6.m3u8",
-        "https://jmp2.uk/plu-648056f0f77b61000828f1ba.m3u8"
+        "https://jmp2.uk/plu-64df7a9a44fe100009b6ac5a.m3u8",
+        "https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -447,7 +447,9 @@
       "name": "MNB Sport",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/MNBSport.mn.png",
       "streamUrls": [
-        "https://live.mnb.mn/hls/mnb_sport.stream.m3u8"
+        "https://live.mnb.mn/hls/mnb_sport.stream.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/MNBSport/HLSv3-FTA/MNBSport.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/MNBSport/DASH-FTA/MNBSport.mpd"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -675,9 +677,9 @@
       "name": "Red Bull TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/at/RedBullTV.at.png",
       "streamUrls": [
+        "https://jmp2.uk/plu-67813f3162bf016db944c9ab.m3u8",
         "https://769a97d9.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JlZEJ1bGxUVl9ITFM/playlist.m3u8",
-        "https://46cfeb23c7f74853bba7a256655a3119.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-582-WORBDACHDEFAST-WHALETVPLUS/582/whaletvplus/hls/master/playlist.m3u8",
-        "https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8"
+        "https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -1486,17 +1488,6 @@
       "genre": "Sports"
     },
     {
-      "id": "ERTSports1.gr",
-      "name": "ERT Sports 1",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gr/ERTSports1.gr.png",
-      "streamUrls": [
-        "http://hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts"
-      ],
-      "category": "Sports",
-      "languages": [],
-      "genre": "Sports"
-    },
-    {
       "id": "FloRacing.us",
       "name": "FloRacing",
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
@@ -2135,6 +2126,6 @@
       "languages": []
     }
   ],
-  "count": 201,
-  "generated_at": "2026-06-15T04:13:49.202467"
+  "count": 200,
+  "generated_at": "2026-06-15T13:55:28.383483"
 }
