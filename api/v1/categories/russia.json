@@ -38,7 +38,8 @@
       "name": "360°",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/360.ru.png",
       "streamUrls": [
-        "https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8"
+        "https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8",
+        "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8"
       ],
       "category": "Russia",
       "languages": []
@@ -354,8 +355,8 @@
       "name": "Channel 12",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Channel12.ru.png",
       "streamUrls": [
-        "https://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist.m3u8",
-        "https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8"
+        "https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8",
+        "https://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist.m3u8"
       ],
       "category": "Russia",
       "languages": []
@@ -375,8 +376,8 @@
       "name": "Channel One",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/ChannelOne.ru.png",
       "streamUrls": [
-        "https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd",
         "http://31.148.48.15/Pervii_kanal_HD/index.m3u8",
+        "https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8"
       ],
       "category": "Russia",
@@ -408,7 +409,6 @@
       "name": "Cinema",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Cinema.ru.png",
       "streamUrls": [
-        "http://catchup.videoline.ru/cinema/playlist.m3u8",
         "https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8"
       ],
       "category": "Russia",
@@ -683,8 +683,8 @@
       "name": "Hollywood",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Hollywood.ru.png",
       "streamUrls": [
-        "http://31.148.48.15/MGM_HD/index.m3u8",
-        "http://31.148.48.15/AMC/index.m3u8"
+        "http://31.148.48.15/AMC/index.m3u8",
+        "http://31.148.48.15/MGM_HD/index.m3u8"
       ],
       "category": "Russia",
       "languages": []
@@ -930,9 +930,9 @@
       "name": "LDPR TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/LDPRTV.ru.png",
       "streamUrls": [
+        "http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8",
         "http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8",
-        "http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8",
-        "http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8"
+        "http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8"
       ],
       "category": "Russia",
       "languages": []
@@ -992,8 +992,8 @@
       "name": "Match! Arena",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/MatchArena.ru.png",
       "streamUrls": [
-        "http://31.148.48.15/Match_Arena_HD/index.m3u8",
-        "http://31.148.48.15/Match_Arena/index.m3u8"
+        "http://31.148.48.15/Match_Arena/index.m3u8",
+        "http://31.148.48.15/Match_Arena_HD/index.m3u8"
       ],
       "category": "Russia",
       "languages": []
@@ -1013,8 +1013,8 @@
       "name": "Match! Igra",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/MatchIgra.ru.png",
       "streamUrls": [
-        "http://31.148.48.15/Match_Igra_HD/index.m3u8",
-        "http://31.148.48.15/Match_Igra/index.m3u8"
+        "http://31.148.48.15/Match_Igra/index.m3u8",
+        "http://31.148.48.15/Match_Igra_HD/index.m3u8"
       ],
       "category": "Russia",
       "languages": []
@@ -1024,8 +1024,8 @@
       "name": "Match! Strana",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/MatchStrana.ru.png",
       "streamUrls": [
-        "http://31.148.48.15/Match_Nash_Sport/index.m3u8",
-        "http://31.148.48.15/Match_Strana/index.m3u8"
+        "http://31.148.48.15/Match_Strana/index.m3u8",
+        "http://31.148.48.15/Match_Nash_Sport/index.m3u8"
       ],
       "category": "Russia",
       "languages": []
@@ -1037,7 +1037,7 @@
       "streamUrls": [
         "http://31.148.48.15/Mir/index.m3u8",
         "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8",
-        "https://stream8.cinerama.uz/1218/tracks-v1a1/mono.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/MIR/HLSv3-FTA/MIR.m3u8"
       ],
       "category": "Russia",
       "languages": []
@@ -1059,8 +1059,8 @@
       "name": "Mir Belogorya",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/MirBelogorya.ru.png",
       "streamUrls": [
-        "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
-        "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8"
+        "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
+        "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8"
       ],
       "category": "Russia",
       "languages": []
@@ -1144,8 +1144,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/MuzTV.ru.png",
       "streamUrls": [
         "https://streaming.televizor-24-tochka.ru/live/618.m3u8",
-        "https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8",
-        "https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8"
+        "https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8",
+        "https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8"
       ],
       "category": "Russia",
       "languages": []
@@ -1155,8 +1155,8 @@
       "name": "Muzyka 1",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Muzyka1.ru.png",
       "streamUrls": [
-        "https://kino-1.catcast.tv/content/37742/index.m3u8",
-        "https://kino-1.catcast.tv/content/37745/index.m3u8"
+        "https://kino-1.catcast.tv/content/37745/index.m3u8",
+        "https://kino-1.catcast.tv/content/37742/index.m3u8"
       ],
       "category": "Russia",
       "languages": []
@@ -1506,8 +1506,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/RT.ru.png",
       "streamUrls": [
         "http://89.218.32.179:18000/play/a025",
-        "https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8",
-        "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8"
+        "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8",
+        "https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8"
       ],
       "category": "Russia",
       "languages": []
@@ -1528,9 +1528,9 @@
       "name": "RT Documentary",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/RTDocumentary.ru.png",
       "streamUrls": [
-        "https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8",
+        "https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8",
         "https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8",
-        "https://streaming.thestream.cyou/live/554.m3u8"
+        "https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8"
       ],
       "category": "Russia",
       "languages": []
@@ -1551,8 +1551,8 @@
       "name": "RTG TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/RTGTV.ru.png",
       "streamUrls": [
-        "http://31.148.48.15/RTG/index.m3u8",
-        "http://31.148.48.15/RTG_HD/index.m3u8"
+        "http://31.148.48.15/RTG_HD/index.m3u8",
+        "http://31.148.48.15/RTG/index.m3u8"
       ],
       "category": "Russia",
       "languages": []
@@ -1572,9 +1572,9 @@
       "name": "RU.TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/RUTV.ru.png",
       "streamUrls": [
+        "https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?e=2069285076&s=d-E-bxKy2v3EEJ94RQX9CA&scheme=https",
         "http://31.148.48.15/RU_TV/index.m3u8",
-        "https://stream8.cinerama.uz/1202/tracks-v1a1/mono.m3u8",
-        "https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?e=2069285076&s=d-E-bxKy2v3EEJ94RQX9CA&scheme=https"
+        "https://stream8.cinerama.uz/1202/tracks-v1a1/mono.m3u8"
       ],
       "category": "Russia",
       "languages": []
@@ -1615,8 +1615,8 @@
       "name": "Red Line",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/RedLine.ru.png",
       "streamUrls": [
-        "http://s55766.cdn.ngenix.net/s55766-media-origin/rline_low/index.m3u8",
-        "http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8"
+        "http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8",
+        "http://s55766.cdn.ngenix.net/s55766-media-origin/rline_low/index.m3u8"
       ],
       "category": "Russia",
       "languages": []
@@ -1647,9 +1647,9 @@
       "name": "Russia-1",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Russia1.ru.png",
       "streamUrls": [
-        "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladimir/russia1-hd/index.m3u8",
-        "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/belgorod/russia1-hd/index.m3u8",
-        "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/astrahan/russia1-hd/index.m3u8"
+        "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/bryansk/russia1-hd/index.m3u8",
+        "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/russia1-hd/index.m3u8",
+        "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/belgorod/russia1-hd/index.m3u8"
       ],
       "category": "Russia",
       "languages": []
@@ -1659,9 +1659,9 @@
       "name": "Russia-24",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Russia24.ru.png",
       "streamUrls": [
+        "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/anadyr/russia24-sd/index.m3u8",
         "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/astrahan/russia24-sd/index.m3u8",
-        "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/abakan/russia24-sd/index.m3u8",
-        "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/anadyr/russia24-sd/index.m3u8"
+        "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8"
       ],
       "category": "Russia",
       "languages": []
@@ -1671,9 +1671,9 @@
       "name": "Russia-K",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/RussiaK.ru.png",
       "streamUrls": [
+        "http://31.148.48.15/TDK/index.m3u8",
         "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8",
-        "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8",
-        "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8"
+        "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8"
       ],
       "category": "Russia",
       "languages": []
@@ -1723,8 +1723,8 @@
       "name": "Russkiy roman",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Russkiyroman.ru.png",
       "streamUrls": [
-        "http://31.148.48.15/Russkiy_Roman/index.m3u8",
-        "http://31.148.48.15/Russkiy_Roman_HD/index.m3u8"
+        "http://31.148.48.15/Russkiy_Roman_HD/index.m3u8",
+        "http://31.148.48.15/Russkiy_Roman/index.m3u8"
       ],
       "category": "Russia",
       "languages": []
@@ -1765,8 +1765,8 @@
       "name": "STS",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/STS.ru.png",
       "streamUrls": [
-        "https://streaming.televizor-24-tochka.ru/live/296.m3u8",
         "http://31.148.48.15/STS/index.m3u8",
+        "https://streaming.televizor-24-tochka.ru/live/296.m3u8",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8"
       ],
       "category": "Russia",
@@ -1778,6 +1778,7 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/STSLove.ru.png",
       "streamUrls": [
         "http://31.148.48.15/STS_Love/index.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/Fashion_TV/HLSv3-FTA/Fashion_TV.m3u8",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8"
       ],
       "category": "Russia",
@@ -1910,8 +1911,8 @@
       "name": "Sibir 24",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Sibir24.ru.png",
       "streamUrls": [
-        "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8",
-        "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8"
+        "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8",
+        "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8"
       ],
       "category": "Russia",
       "languages": []
@@ -2174,8 +2175,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Telecafe.ru.png",
       "streamUrls": [
         "http://31.148.48.15/Telekafe/index.m3u8",
-        "https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8",
-        "https://cdn4.skygo.mn/live/disk1/Telecafe/HLSv3-FTA/Telecafe.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/Telecafe/HLSv3-FTA/Telecafe.m3u8",
+        "https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8"
       ],
       "category": "Russia",
       "languages": []
@@ -2297,8 +2298,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/U.ru.png",
       "streamUrls": [
         "http://31.148.48.15/U/index.m3u8",
-        "http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8",
-        "https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=2066519758&s=9cPc1rCGu6M932eqrifRhQ&scheme=https"
+        "https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=2066519758&s=9cPc1rCGu6M932eqrifRhQ&scheme=https",
+        "http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8"
       ],
       "category": "Russia",
       "languages": []
@@ -2390,8 +2391,8 @@
       "name": "Volgograd 24",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Volgograd24.ru.png",
       "streamUrls": [
-        "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/volgograd24-hd/index.m3u8",
-        "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8"
+        "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8",
+        "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/volgograd24-hd/index.m3u8"
       ],
       "category": "Russia",
       "languages": []
@@ -2764,5 +2765,5 @@
     }
   ],
   "count": 266,
-  "generated_at": "2026-06-15T22:19:08.130001"
+  "generated_at": "2026-06-16T04:03:03.816163"
 }
