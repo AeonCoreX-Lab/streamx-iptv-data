@@ -1,6 +1,4 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/bd.xml" url-tvg="https://iptv-org.github.io/epg/guides/in.xml" url-tvg="https://iptv-org.github.io/epg/guides/us.xml" url-tvg="https://iptv-org.github.io/epg/guides/gb.xml" url-tvg="https://iptv-org.github.io/epg/guides/ae.xml" url-tvg="https://iptv-org.github.io/epg/guides/pk.xml" url-tvg="https://iptv-org.github.io/epg/guides/au.xml" url-tvg="https://iptv-org.github.io/epg/guides/de.xml" url-tvg="https://iptv-org.github.io/epg/guides/fr.xml" url-tvg="https://iptv-org.github.io/epg/guides/it.xml" url-tvg="https://iptv-org.github.io/epg/guides/es.xml" url-tvg="https://iptv-org.github.io/epg/guides/br.xml" url-tvg="https://iptv-org.github.io/epg/guides/tr.xml" url-tvg="https://iptv-org.github.io/epg/guides/sa.xml" refresh="3600"
-#EXTINF:-1 tvg-id="100NEWS.ua" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/100NEWS.ua.png" group-title="Ukraine",100% NEWS
-http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1 tvg-id="ArmyTV.ua" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/ArmyTV.ua.png" group-title="Ukraine",Army TV
 https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
 #EXTINF:-1 tvg-id="BaltaTV.ua" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/BaltaTV.ua.png" group-title="Ukraine",Balta TV
@@ -15,7 +13,7 @@ https://cdn15.live-tv.cloud/ua_infinitas_tv/7tvod-abr/playlist.m3u8
 http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8
 #EXTINF:-1 tvg-id="DonechchynaTV.ua" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/DonechchynaTV.ua.png" group-title="Ukraine [SD]",Donechchyna TV [SD]
 https://lowa8026-cmyk.github.io/Ukraine/DonechchynaTV.m3u8
-#EXTINF:-1 tvg-id="EWTNUkraine.ua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/330px-Fox_News_Channel_logo.svg.png" group-title="Ukraine [FHD]",EWTN Ukraine [FHD]
+#EXTINF:-1 tvg-id="EWTNUkraine.ua" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=ewtn.org.ua" group-title="Ukraine [FHD]",EWTN Ukraine [FHD]
 https://cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EspresoTV.ua" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/EspresoTV.ua.png" group-title="Ukraine",Espreso TV
 https://dash4.antik.sk/live/test_espresso/playlist.m3u8
@@ -23,6 +21,8 @@ https://dash4.antik.sk/live/test_espresso/playlist.m3u8
 https://dash2.antik.sk/live/test_uatv/playlist.m3u8
 #EXTINF:-1 tvg-id="FirstBusiness.ua" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/FirstBusiness.ua.png" group-title="Ukraine [SD]",First Business [SD]
 https://lowa8026-cmyk.github.io/Ukraine/FirstBussines.m3u8
+#EXTINF:-1 tvg-id="Glas.ua" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/Glas.ua.png" group-title="Ukraine",Glas
+http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
 #EXTINF:-1 tvg-id="ITV.ua" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/ITV.ua.png" group-title="Ukraine [HD]",ITV [HD]
 http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
 #EXTINF:-1 tvg-id="InterPlus.ua" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/InterPlus.ua.png" group-title="Ukraine [HD]",Inter+ [HD]
@@ -31,24 +31,20 @@ https://cdn15.live-tv.cloud/ua_infinitas_tv/inter-abr/playlist.m3u8
 https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8
 #EXTINF:-1 tvg-id="Kyiv.ua" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/Kyiv.ua.png" group-title="Ukraine",Kyiv
 https://api-tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
-#EXTINF:-1 tvg-id="LanetTV.ua" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/LanetTV.ua.png" group-title="Ukraine",Lanet.TV
-https://kiev1-cdn.lanet.tv/live/1008.m3u8
 #EXTINF:-1 tvg-id="Muzvar.ua" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/Muzvar.ua.png" group-title="Ukraine [HD]",Muzvar [HD]
 https://cdn15.live-tv.cloud/ua_infinitas_tv/muzvar-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="NTKTV.ua" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/NTKTV.ua.png" group-title="Ukraine",NTK TV
 https://stream.ntktv.ua/s/ntk/ntk.m3u8
 #EXTINF:-1 tvg-id="NTN.ua" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/NTN.ua.png" group-title="Ukraine [HD]",NTN [HD]
 https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8
-#EXTINF:-1 tvg-id="ObshchestvennoeNezavisimoeTelevidenie.ua" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/ObshchestvennoeNezavisimoeTelevidenie.ua.png" group-title="Ukraine",Obshchestvennoe Nezavisimoe Televidenie
-http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
 #EXTINF:-1 tvg-id="OrbitaTV.ua" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/OrbitaTV.ua.png" group-title="Ukraine",Orbita TV
 http://ftp.orbita.dn.ua/hls/orbita.m3u8
 #EXTINF:-1 tvg-id="PTV.ua" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/PTV.ua.png" group-title="Ukraine [SD]",PTV [SD]
 https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="Pershyi.ua" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/Pershyi.ua.png" group-title="Ukraine",Pershyi
-https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
+https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8
 #EXTINF:-1 tvg-id="PervyygorodskoyOdessa.ua" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/PervyygorodskoyOdessa.ua.png" group-title="Ukraine [FHD]",Pervyy gorodskoy. Odessa [FHD]
-http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
+http://91.194.79.46:8081/stream2/channel2/playlist.m3u8
 #EXTINF:-1 tvg-id="PravdaTUTLviv.ua" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/PravdaTUTLviv.ua.png" group-title="Ukraine",PravdaTUT Lviv
 https://iptv.prosto.tv/ch192/tracks-v1a1/mono.m3u8?21yo=1&e=1782901327&id=742347&ip=104.28.156.59&live=1&secret=vu2y5m72&st=bflIqYjnSIr75ACfgV-mug
 #EXTINF:-1 tvg-id="RadaTV.ua" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/RadaTV.ua.png" group-title="Ukraine",Rada TV
@@ -60,13 +56,11 @@ http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
 #EXTINF:-1 tvg-id="Rivne1.ua" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/Rivne1.ua.png" group-title="Ukraine [HD]",Rivne 1 [HD]
 https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="SK1.ua" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/SK1.ua.png" group-title="Ukraine [HD]",SK 1 [HD]
-http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8
+http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
 #EXTINF:-1 tvg-id="SferaTV.ua" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/SferaTV.ua.png" group-title="Ukraine [SD]",Sfera-TV [SD]
 http://cdn10.live-tv.od.ua:8081/sferarv/sferarv-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="Simon.ua" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/Simon.ua.png" group-title="Ukraine [HD]",Simon [HD]
 https://hls.simon.ua/live-HD/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Skrypinua.ua" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/Skrypinua.ua.png" group-title="Ukraine [SD]",Skrypin.ua [SD]
-https://open-cdn.lanet.tv/play/skrypin.m3u8
 #EXTINF:-1 tvg-id="Svarozhychy.ua" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/Svarozhychy.ua.png" group-title="Ukraine [SD]",Svarozhychy [SD]
 https://iptv.prosto.tv/ch168/index.m3u8
 #EXTINF:-1 tvg-id="TISTV.ua" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/TISTV.ua.png" group-title="Ukraine [HD]",TIS TV [HD]
@@ -74,7 +68,7 @@ https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8
 #EXTINF:-1 tvg-id="TUSO.ua" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/TUSO.ua.png" group-title="Ukraine",TUSO
 https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8
 #EXTINF:-1 tvg-id="TVA.ua" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/TVA.ua.png" group-title="Ukraine [HD]",TVA [HD]
-http://rtsp.cdn.ua/tva.ua_live/livestream/playlist.m3u8
+http://hls.cdn.ua/tva.ua_live/livestream/chunklist_w396178779.m3u8
 #EXTINF:-1 tvg-id="TelekanalRAI.ua" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/TelekanalRAI.ua.png" group-title="Ukraine",Telekanal RAI
 https://stream.rai.ua/rai/stream.m3u8
 #EXTINF:-1 tvg-id="EUMusic.ua" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/EUMusic.ua.png" group-title="Ukraine [SD]",EU Music [SD]
@@ -155,5 +149,11 @@ https://iptv.prosto.tv/ch72/index.m3u8
 https://iptv.prosto.tv/ch71/index.m3u8
 #EXTINF:-1 tvg-id="Equalympic.ua" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/Equalympic.ua.png" group-title="Ukraine [FHD]",Equalympic [FHD]
 https://iptv.prosto.tv/ch215/index.m3u8
-#EXTINF:-1 tvg-id="Glas.ua" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/Glas.ua.png" group-title="Ukraine",Glas
-http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
+#EXTINF:-1 tvg-id="100NEWS.ua" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/100NEWS.ua.png" group-title="Ukraine",100% NEWS
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1 tvg-id="LanetTV.ua" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/LanetTV.ua.png" group-title="Ukraine",Lanet.TV
+https://kiev1-cdn.lanet.tv/live/1008.m3u8
+#EXTINF:-1 tvg-id="ObshchestvennoeNezavisimoeTelevidenie.ua" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/ObshchestvennoeNezavisimoeTelevidenie.ua.png" group-title="Ukraine",Obshchestvennoe Nezavisimoe Televidenie
+http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
+#EXTINF:-1 tvg-id="Skrypinua.ua" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/Skrypinua.ua.png" group-title="Ukraine [SD]",Skrypin.ua [SD]
+https://open-cdn.lanet.tv/play/skrypin.m3u8

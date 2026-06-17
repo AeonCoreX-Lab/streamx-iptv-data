@@ -828,9 +828,9 @@
       "name": "First Music Channel",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/by/FirstMusicChannel.by.png",
       "streamUrls": [
-        "http://rtmp.one.by:1300",
-        "http://rtmp.one.by:1200",
-        "http://hz1.teleport.cc/HLS/HD.m3u8"
+        "http://hz1.teleport.cc/HLS/SD.m3u8",
+        "http://hz1.teleport.cc/HLS/HD.m3u8",
+        "http://rtmp.one.by:1200"
       ],
       "category": "Music",
       "genre": "Music"
@@ -1492,8 +1492,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/NOWRock.uk.png",
       "streamUrls": [
         "http://118.142.17.190:8278/now90hls/playlist.m3u8",
-        "https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8",
-        "https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8"
+        "https://lightning-now90s-samsungse.amagi.tv/playlist.m3u8",
+        "https://lightning-now90s-rakuten.amagi.tv/playlist.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -1525,7 +1525,7 @@
       "streamUrls": [
         "http://118.142.17.190:8278/now70hls/playlist.m3u8",
         "https://lightningnow70-samsungau.amagi.tv/playlist.m3u8",
-        "https://amg01076-amg01076c1-samsung-gb-6682.playouts.now.amagi.tv/playlist.m3u8"
+        "https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -1535,9 +1535,9 @@
       "name": "Now 80s",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/Now80s.uk.png",
       "streamUrls": [
-        "https://samsunguk-lightning-now80s-samsunguk-n908q.amagi.tv/playlist/samsunguk-lightning-now80s-samsunguk/playlist.m3u8",
         "http://118.142.17.190:8278/now80hls/playlist.m3u8",
-        "https://lightning-now80s-samsungse.amagi.tv/playlist.m3u8"
+        "https://samsunguk-lightning-now80s-samsunguk-n908q.amagi.tv/playlist/samsunguk-lightning-now80s-samsunguk/playlist.m3u8",
+        "https://lightningnow80-samsungau.amagi.tv/playlist.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -3081,8 +3081,8 @@
       "name": "Turkmen Owazy",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tm/TurkmenOwazy.tm.png",
       "streamUrls": [
-        "https://alpha.tv.online.tm/hls/ch005.m3u8",
-        "https://alpha.tv.online.tm/legacyhls/ch005.m3u8"
+        "https://alpha.tv.online.tm/legacyhls/ch005.m3u8",
+        "https://alpha.tv.online.tm/hls/ch005.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -3534,6 +3534,7 @@
       "name": "Vantage Music",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ee/VantageMusic.ee.png",
       "streamUrls": [
+        "https://hls.vantagetv.ee/vmusic_stream/main_stream.m3u8",
         "https://hls.vantagetv.co.uk/vmusicuk_stream/index.m3u8"
       ],
       "category": "Music",
@@ -4062,7 +4063,6 @@
       "name": "RC Music",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/RCMusic.in.png",
       "streamUrls": [
-        "https://view.rcserver.in/tmp_hls2/stream/index.m3u8",
         "https://view.rcserver.in/tmp_hls1/stream/index.m3u8"
       ],
       "category": "Music",
