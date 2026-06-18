@@ -196,7 +196,6 @@
       "name": "CNBC Indonesia",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/CNBCIndonesia.id.png",
       "streamUrls": [
-        "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8",
         "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8"
       ],
       "category": "Indonesia",
@@ -481,6 +480,7 @@
       "name": "SMTV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/SMTV.id.png",
       "streamUrls": [
+        "http://122.248.43.242:1935/SMTV/_definst_/myStream/playlist.m3u8",
         "https://e.siar.us/live/smtv.m3u8"
       ],
       "category": "Indonesia",
@@ -531,8 +531,8 @@
       "name": "Salira TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/SaliraTV.id.png",
       "streamUrls": [
-        "https://live.salira.tv:3870/stream/play.m3u8",
-        "https://live.salira.tv/p/3870/hybrid/play.m3u8"
+        "https://live.salira.tv/p/3870/hybrid/play.m3u8",
+        "https://live.salira.tv:3870/stream/play.m3u8"
       ],
       "category": "Indonesia",
       "languages": []
@@ -552,9 +552,9 @@
       "name": "Stara TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/StaraTV.id.png",
       "streamUrls": [
-        "https://stream.staratv.id/hls/0/stream.m3u8",
-        "https://parahyangan.staratv.id/hls/0/stream.m3u8",
-        "https://malang.staratv.id/hls/0/stream.m3u8"
+        "https://malang.staratv.id/hls/0/stream.m3u8",
+        "https://jakarta.staratv.id/hls/0/stream.m3u8",
+        "https://bojonegoro.staratv.id/hls/stream.m3u8"
       ],
       "category": "Indonesia",
       "languages": []
@@ -624,9 +624,9 @@
       "name": "TVRI",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/TVRI.id.png",
       "streamUrls": [
-        "https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8",
-        "https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8",
-        "https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8"
+        "https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8",
+        "https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8",
+        "https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8"
       ],
       "category": "Indonesia",
       "languages": []
@@ -693,5 +693,5 @@
     }
   ],
   "count": 68,
-  "generated_at": "2026-06-18T15:23:04.625637"
+  "generated_at": "2026-06-18T18:25:55.876594"
 }
