@@ -481,9 +481,9 @@
       "name": "Al Araby TV 2",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/qa/AlArabyTV2.qa.png",
       "streamUrls": [
+        "https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8",
         "https://origin-cae-t482536.cdn.nextologies.com/63d8c759c5db83b4/25c4f89d27a79014ALA2306/playlist.m3u8",
-        "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5617",
-        "https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8"
+        "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5617"
       ],
       "category": "News",
       "languages": []
@@ -527,9 +527,9 @@
       "name": "Al Jazeera",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/qa/AlJazeera.qa.png",
       "streamUrls": [
+        "https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8",
         "https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8",
-        "https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8",
-        "https://dash4.antik.sk/live/test_aljazeera/playlist.m3u8"
+        "https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -885,8 +885,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/BBCArabic.uk.png",
       "streamUrls": [
         "https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd",
-        "https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8",
-        "https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_http.mpd"
+        "https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_http.mpd",
+        "https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -908,9 +908,9 @@
       "name": "BBC Persian",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/BBCPersian.uk.png",
       "streamUrls": [
-        "https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.m3u8",
-        "https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.m3u8",
-        "https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd"
+        "https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd",
+        "https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/hevc_iptv_mse_v0.mpd",
+        "https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_http.mpd"
       ],
       "category": "News",
       "languages": []
@@ -1416,7 +1416,6 @@
       "name": "CT24",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cz/CT24.cz.png",
       "streamUrls": [
-        "http://88.212.15.19/live/test_ct24_hevc/playlist.m3u8",
         "https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8"
       ],
       "category": "News",
@@ -1895,8 +1894,7 @@
       "name": "ETV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/ETV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/ETV/DASH-FTA/ETV.mpd",
-        "https://cdn4.skygo.mn/live/disk1/ETV/HLSv3-FTA/ETV.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/ETV/DASH-FTA/ETV.mpd"
       ],
       "category": "News",
       "languages": []
@@ -2152,8 +2150,8 @@
       "name": "First Channel News",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/am/FirstChannelNews.am.png",
       "streamUrls": [
-        "https://amtvusdvr.tulix.tv/am3abr/tracks-v1a1/mono.ts.m3u8",
-        "https://amtvusdvr.tulix.tv/am3abr/index.m3u8"
+        "https://amtvusdvr.tulix.tv/am3abr/index.m3u8",
+        "https://amtvusdvr.tulix.tv/am3abr/tracks-v1a1/mono.ts.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -2230,7 +2228,7 @@
       "streamUrls": [
         "https://amg01076-lightning-amg01076c7-lg-gb-2019.playouts.now.amagi.tv/playlist/amg01076-lightning-gbnews-lggb/playlist.m3u8",
         "https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8",
-        "https://live-gbnews.simplestreamcdn.com/s3/gbnews/index.m3u8"
+        "https://rakutenaa-lightning-gbnews-rakuten-ccoa9.amagi.tv/playlist/rakutenAA-lightning-gbnews-rakuten/playlist.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -2653,9 +2651,9 @@
       "name": "Iran International",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/IranInternational.uk.png",
       "streamUrls": [
-        "https://live.playstop.me/1816184091/index.m3u8",
         "https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8",
-        "https://live.livetvstream.co.uk/LS-63503-4/index.m3u8"
+        "https://live.playstop.me/1816184091/index.m3u8",
+        "https://live.playstop.me/LS-63503-4/index.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -3066,8 +3064,8 @@
       "name": "Medi1TV Afrique",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ma/Medi1TVAfrique.ma.png",
       "streamUrls": [
-        "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist_dvr.m3u8",
-        "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist.m3u8"
+        "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist.m3u8",
+        "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist_dvr.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -3077,8 +3075,8 @@
       "name": "Medi1TV Arabic",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ma/Medi1TVArabic.ma.png",
       "streamUrls": [
-        "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist.m3u8",
-        "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist_dvr.m3u8"
+        "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist_dvr.m3u8",
+        "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -4103,8 +4101,8 @@
       "name": "Palitra News",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ge/PalitraNews.ge.png",
       "streamUrls": [
-        "https://live.palitranews.ge/hls/palitratv/index.m3u8",
-        "https://livestream.palitra.ge/hls/palitratv/index.m3u8"
+        "https://livestream.palitra.ge/hls/palitratv/index.m3u8",
+        "https://live.palitranews.ge/hls/palitratv/index.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -4318,8 +4316,7 @@
       "name": "RNN",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/RNN.do.png",
       "streamUrls": [
-        "https://2-fss-2.streamhoster.com/pl_138/206532-6829902-1/playlist.m3u8",
-        "https://2-fss-2.streamhoster.com/pl_138/206532-6829912-1/playlist.m3u8"
+        "https://2-fss-2.streamhoster.com/pl_138/206532-6829902-1/playlist.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -5285,8 +5282,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ve/Telesur.ve.png",
       "streamUrls": [
         "https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8",
-        "https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8",
-        "https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8"
+        "https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8",
+        "https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -5989,7 +5986,7 @@
     {
       "id": "NewsWorld.hk",
       "name": "NewsWorld",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/OneNewsPH_logo.svg/330px-OneNewsPH_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/330px-BBC_News_2022_%28Alt%29.svg.png",
       "streamUrls": [
         "https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8"
       ],
@@ -6072,16 +6069,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/hn/ICNDigital.hn.png",
       "streamUrls": [
         "https://streaming.icndigital.com/live_output/icn_live_stream_1.m3u8"
-      ],
-      "category": "News",
-      "languages": []
-    },
-    {
-      "id": "CNBCMongolia.mn",
-      "name": "CNBC Mongolia",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/CNBCMongolia.mn.png",
-      "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/CNBC/HLSv3-FTA/CNBC.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -6415,8 +6402,19 @@
       ],
       "category": "News",
       "languages": []
+    },
+    {
+      "id": "CanTV.tr",
+      "name": "Can TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/CanTV.tr.png",
+      "streamUrls": [
+        "http://canbroadcast.com:7000/canlican/tv.m3u8",
+        "https://livetv.canbroadcast.com:7443/canlican/tv.m3u8"
+      ],
+      "category": "News",
+      "languages": []
     }
   ],
   "count": 621,
-  "generated_at": "2026-06-20T07:50:47.336677"
+  "generated_at": "2026-06-20T10:32:38.780225"
 }
