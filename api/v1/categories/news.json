@@ -549,8 +549,8 @@
       "name": "Al Jazeera Mubasher",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/qa/AlJazeeraMubasher.qa.png",
       "streamUrls": [
-        "https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8",
         "https://live-hls-web-ajm.getaj.net/AJM/index.m3u8",
+        "https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8",
         "https://live-hls-web-ajm-fa.thehlive.com/AJM/index.m3u8"
       ],
       "category": "News",
@@ -561,8 +561,8 @@
       "name": "Al Jazeera Mubasher 24",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/qa/AlJazeeraMubasher24.qa.png",
       "streamUrls": [
-        "https://live-hls-web-ajm24-fa.getaj.net/AJM24/index.m3u8",
         "https://live-hls-web-ajm24-fa.thehlive.com/AJM24/index.m3u8",
+        "https://live-hls-web-ajm24-fa.getaj.net/AJM24/index.m3u8",
         "https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8"
       ],
       "category": "News",
@@ -1381,16 +1381,6 @@
       "languages": []
     },
     {
-      "id": "CNA.al",
-      "name": "CNA",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/al/CNA.al.png",
-      "streamUrls": [
-        "https://live1.mediadesk.al/cnatvlive.m3u8"
-      ],
-      "category": "News",
-      "languages": []
-    },
-    {
       "id": "CNBCUK.uk",
       "name": "CNBC UK",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/CNBCUK.uk.png",
@@ -1934,6 +1924,7 @@
       "name": "Eagle News",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/EagleNews.mn.png",
       "streamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/Eagle/HLSv3-FTA/Eagle.m3u8",
         "https://cdn4.skygo.mn/live/disk1/Eagle/DASH-FTA/Eagle.mpd"
       ],
       "category": "News",
@@ -6425,6 +6416,6 @@
       "languages": []
     }
   ],
-  "count": 622,
-  "generated_at": "2026-06-20T17:26:31.118073"
+  "count": 621,
+  "generated_at": "2026-06-20T21:18:33.986889"
 }
