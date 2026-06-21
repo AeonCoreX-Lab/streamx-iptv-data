@@ -112,9 +112,9 @@
       "name": "BBC Earth",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/BBCEarth.uk.png",
       "streamUrls": [
+        "http://81.15.109.89:8001/play/BBCEarth",
         "https://pb-zjy36qhp8e8cz.akamaized.net/BBC_Earth_US.m3u8",
-        "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8",
-        "https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8"
+        "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -1336,8 +1336,9 @@
       "name": "CNA Originals",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/sg/CNAOriginals.sg.png",
       "streamUrls": [
+        "https://amg01082-cna-amg01082c1-vidaa-gb-7580.playouts.now.amagi.tv/playlist.m3u8",
         "https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8",
-        "https://amg01082-cna-amg01082c1-vidaa-gb-7580.playouts.now.amagi.tv/playlist.m3u8"
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cna-originals/playlist.m3u8?ads.vf=P3eUYyWBR74"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -1587,8 +1588,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/Wonder.uk.png",
       "streamUrls": [
         "https://lds-wonder-rakuten.amagi.tv/playlist.m3u8",
-        "https://lds-wonder-samsungau.amagi.tv/playlist.m3u8",
-        "https://lds-wonder-plex.amagi.tv/playlist.m3u8"
+        "https://wonder-samsung-uk.amagi.tv/playlist.m3u8",
+        "https://lds-wonder-samsungau.amagi.tv/playlist.m3u8"
       ],
       "category": "Informative",
       "languages": [],
@@ -2141,7 +2142,8 @@
       "name": "Pluto TV True Crime",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/330px-Pluto_TV_logo_2024.svg.png",
       "streamUrls": [
-        "https://jmp2.uk/plu-61c1e51354d923000731bf78.m3u8"
+        "https://jmp2.uk/plu-61c1e51354d923000731bf78.m3u8",
+        "https://jmp2.uk/plu-61c097ec8bb1830008e3f962.m3u8"
       ],
       "category": "Informative",
       "languages": []
@@ -2171,8 +2173,8 @@
       "name": "Pluto TV Verdenskrigene",
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
-        "https://jmp2.uk/plu-677d3a424bd63600082f7baf.m3u8",
-        "https://jmp2.uk/plu-677d397b60fbeb00084b0bff.m3u8"
+        "https://jmp2.uk/plu-677d397b60fbeb00084b0bff.m3u8",
+        "https://jmp2.uk/plu-677d3a424bd63600082f7baf.m3u8"
       ],
       "category": "Informative",
       "languages": []
@@ -2267,8 +2269,48 @@
       ],
       "category": "Informative",
       "languages": []
+    },
+    {
+      "id": "History.bg",
+      "name": "History",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bg/History.bg.png",
+      "streamUrls": [
+        "http://213.91.179.28:8000/play/a0c1"
+      ],
+      "category": "Informative",
+      "languages": []
+    },
+    {
+      "id": "NationalGeographic.bg",
+      "name": "National Geographic",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bg/NationalGeographic.bg.png",
+      "streamUrls": [
+        "http://213.91.179.28:8000/play/a0ct"
+      ],
+      "category": "Informative",
+      "languages": []
+    },
+    {
+      "id": "NationalGeographicWild.ru",
+      "name": "National Geographic Wild",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/NationalGeographicWild.ru.png",
+      "streamUrls": [
+        "http://hls127.freeott.top:8080/Nat_Geo_Wild_SD/video.m3u8"
+      ],
+      "category": "Informative",
+      "languages": []
+    },
+    {
+      "id": "NationalGeographicWild.bg",
+      "name": "National Geographic Wild",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bg/NationalGeographicWild.bg.png",
+      "streamUrls": [
+        "http://213.91.179.28:8000/play/a0cu"
+      ],
+      "category": "Informative",
+      "languages": []
     }
   ],
-  "count": 217,
-  "generated_at": "2026-06-20T21:18:33.974863"
+  "count": 221,
+  "generated_at": "2026-06-21T04:09:21.904731"
 }

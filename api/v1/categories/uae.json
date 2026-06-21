@@ -94,15 +94,6 @@
       "category": "UAE"
     },
     {
-      "id": "FujairahTV.ae",
-      "name": "Fujairah TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ae/FujairahTV.ae.png",
-      "streamUrls": [
-        "https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8"
-      ],
-      "category": "UAE"
-    },
-    {
       "id": "MBC1.ae",
       "name": "MBC 1",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ae/MBC1.ae.png",
@@ -253,9 +244,9 @@
       "name": "Sharjah TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ae/SharjahTV.ae.png",
       "streamUrls": [
-        "https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8",
+        "https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8",
         "https://cdn-globecast.akamaized.net/live/eds/sharjah_tv/hls_roku/index.m3u8",
-        "https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8"
+        "https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8"
       ],
       "category": "UAE"
     },
@@ -298,8 +289,18 @@
       ],
       "category": "UAE",
       "languages": []
+    },
+    {
+      "id": "ZeeAflam.ae",
+      "name": "Zee Aflam",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ae/ZeeAflam.ae.png",
+      "streamUrls": [
+        "http://41.223.30.230/ZEEAFLAM/index.m3u8"
+      ],
+      "category": "UAE",
+      "languages": []
     }
   ],
   "count": 32,
-  "generated_at": "2026-06-20T21:18:33.941241"
+  "generated_at": "2026-06-21T04:09:21.869599"
 }
