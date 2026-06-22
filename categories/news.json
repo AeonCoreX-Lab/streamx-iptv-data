@@ -548,9 +548,9 @@
       "name": "Al Jazeera Mubasher",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/qa/AlJazeeraMubasher.qa.png",
       "streamUrls": [
-        "https://live-hls-web-ajm.getaj.net/AJM/index.m3u8",
         "https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8",
-        "https://live-hls-apps-ajm-v3-fa.getaj.net/AJM/index.m3u8"
+        "https://live-hls-apps-ajm-v3-fa.getaj.net/AJM/index.m3u8",
+        "https://live-hls-web-ajm.getaj.net/AJM/index.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -561,8 +561,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/qa/AlJazeeraMubasher24.qa.png",
       "streamUrls": [
         "https://live-hls-web-ajm24-fa.getaj.net/AJM24/index.m3u8",
-        "https://live-hls-web-ajm24-fa.thehlive.com/AJM24/index.m3u8",
-        "https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8"
+        "https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8",
+        "https://live-hls-web-ajm24-fa.thehlive.com/AJM24/index.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -572,9 +572,9 @@
       "name": "Al Jazeera Mubasher Broadcast 2",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/qa/AlJazeeraMubasherBroadcast2.qa.png",
       "streamUrls": [
-        "https://live-hls-web-ajm2-fa.thehlive.com/AJM2/index.m3u8",
+        "https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8",
         "https://live-hls-web-ajm2-fa.getaj.net/AJM2/index.m3u8",
-        "https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8"
+        "https://live-hls-web-ajm2-fa.thehlive.com/AJM2/index.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -1914,6 +1914,7 @@
       "name": "Eagle News",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/EagleNews.mn.png",
       "streamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/Eagle/HLSv3-FTA/Eagle.m3u8",
         "https://cdn4.skygo.mn/live/disk1/Eagle/DASH-FTA/Eagle.mpd"
       ],
       "category": "News",
@@ -4124,16 +4125,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/PervyyRespublikanskiy.ru.png",
       "streamUrls": [
         "https://streaming.televizor-24-tochka.ru/live/27.m3u8"
-      ],
-      "category": "News",
-      "languages": []
-    },
-    {
-      "id": "PlenaTV.br",
-      "name": "Plena TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/PlenaTV.br.png",
-      "streamUrls": [
-        "https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -6431,6 +6422,46 @@
       "streamUrls": [
         "https://livetv.canbroadcast.com:7443/canlican/tv.m3u8",
         "http://canbroadcast.com:7000/canlican/tv.m3u8"
+      ],
+      "category": "News",
+      "languages": []
+    },
+    {
+      "id": "7Info.ci",
+      "name": "7 Info",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ci/7Info.ci.png",
+      "streamUrls": [
+        "https://video1.getstreamhosting.com:1936/8042/8042/playlist.m3u8"
+      ],
+      "category": "News",
+      "languages": []
+    },
+    {
+      "id": "AfrikInfoTV.gn",
+      "name": "Afrik Info TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gn/AfrikInfoTV.gn.png",
+      "streamUrls": [
+        "https://kali.vdopanel.com:3119/hybrid/play.m3u8"
+      ],
+      "category": "News",
+      "languages": []
+    },
+    {
+      "id": "BandNews.br",
+      "name": "BandNews",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/BandNews.br.png",
+      "streamUrls": [
+        "https://cdn-5.nxplay.com.br/BAND_NEWS/index.m3u8"
+      ],
+      "category": "News",
+      "languages": []
+    },
+    {
+      "id": "Kurdistan24.iq",
+      "name": "Kurdistan 24",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/iq/Kurdistan24.iq.png",
+      "streamUrls": [
+        "https://hlspackager.akamaized.net/live/DB/K24/HLS/K24.m3u8"
       ],
       "category": "News",
       "languages": []
