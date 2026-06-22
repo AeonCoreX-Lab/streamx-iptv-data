@@ -549,8 +549,8 @@
       "name": "Al Jazeera Mubasher",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/qa/AlJazeeraMubasher.qa.png",
       "streamUrls": [
+        "https://live-hls-web-ajm-fa.thehlive.com/AJM/index.m3u8",
         "https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8",
-        "https://live-hls-apps-ajm-v3-fa.getaj.net/AJM/index.m3u8",
         "https://live-hls-web-ajm.getaj.net/AJM/index.m3u8"
       ],
       "category": "News",
@@ -561,9 +561,9 @@
       "name": "Al Jazeera Mubasher 24",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/qa/AlJazeeraMubasher24.qa.png",
       "streamUrls": [
-        "https://live-hls-web-ajm24-fa.getaj.net/AJM24/index.m3u8",
         "https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8",
-        "https://live-hls-web-ajm24-fa.thehlive.com/AJM24/index.m3u8"
+        "https://live-hls-web-ajm24-fa.thehlive.com/AJM24/index.m3u8",
+        "https://live-hls-web-ajm24-fa.getaj.net/AJM24/index.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -573,9 +573,9 @@
       "name": "Al Jazeera Mubasher Broadcast 2",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/qa/AlJazeeraMubasherBroadcast2.qa.png",
       "streamUrls": [
-        "https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8",
         "https://live-hls-web-ajm2-fa.getaj.net/AJM2/index.m3u8",
-        "https://live-hls-web-ajm2-fa.thehlive.com/AJM2/index.m3u8"
+        "https://live-hls-web-ajm2-fa.thehlive.com/AJM2/index.m3u8",
+        "https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -1915,8 +1915,8 @@
       "name": "Eagle News",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/EagleNews.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/Eagle/HLSv3-FTA/Eagle.m3u8",
-        "https://cdn4.skygo.mn/live/disk1/Eagle/DASH-FTA/Eagle.mpd"
+        "https://cdn4.skygo.mn/live/disk1/Eagle/DASH-FTA/Eagle.mpd",
+        "https://cdn4.skygo.mn/live/disk1/Eagle/HLSv3-FTA/Eagle.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -6445,8 +6445,19 @@
       ],
       "category": "News",
       "languages": []
+    },
+    {
+      "id": "CanTV.tr",
+      "name": "Can TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/CanTV.tr.png",
+      "streamUrls": [
+        "http://canbroadcast.com:7000/canlican/tv.m3u8",
+        "https://livetv.canbroadcast.com:7443/canlican/tv.m3u8"
+      ],
+      "category": "News",
+      "languages": []
     }
   ],
-  "count": 624,
-  "generated_at": "2026-06-22T13:35:14.102954"
+  "count": 625,
+  "generated_at": "2026-06-22T19:26:24.553987"
 }
