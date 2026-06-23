@@ -196,7 +196,6 @@
       "name": "CNBC Indonesia",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/CNBCIndonesia.id.png",
       "streamUrls": [
-        "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8",
         "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8"
       ],
       "category": "Indonesia",
@@ -531,8 +530,8 @@
       "name": "Salira TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/SaliraTV.id.png",
       "streamUrls": [
-        "https://live.salira.tv/p/3870/hybrid/play.m3u8",
-        "https://live.salira.tv:3870/stream/play.m3u8"
+        "https://live.salira.tv:3870/stream/play.m3u8",
+        "https://live.salira.tv/p/3870/hybrid/play.m3u8"
       ],
       "category": "Indonesia",
       "languages": []
@@ -552,8 +551,8 @@
       "name": "Stara TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/StaraTV.id.png",
       "streamUrls": [
-        "https://jakarta.staratv.id/hls/0/stream.m3u8",
-        "https://bojonegoro.staratv.id/hls/stream.m3u8",
+        "https://stream.staratv.id/hls/0/stream.m3u8",
+        "https://malang.staratv.id/hls/0/stream.m3u8",
         "https://bandung.staratv.id/hls/0/stream.m3u8"
       ],
       "category": "Indonesia",
@@ -624,9 +623,9 @@
       "name": "TVRI",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/TVRI.id.png",
       "streamUrls": [
-        "https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8",
-        "https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8",
-        "https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8"
+        "https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8",
+        "https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8",
+        "https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8"
       ],
       "category": "Indonesia",
       "languages": []
@@ -690,8 +689,18 @@
       ],
       "category": "Indonesia",
       "languages": []
+    },
+    {
+      "id": "AhsanTV.id",
+      "name": "Ahsan TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/AhsanTV.id.png",
+      "streamUrls": [
+        "https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8"
+      ],
+      "category": "Indonesia",
+      "languages": []
     }
   ],
-  "count": 68,
-  "generated_at": "2026-06-22T22:02:15.905449"
+  "count": 69,
+  "generated_at": "2026-06-23T03:30:59.529522"
 }

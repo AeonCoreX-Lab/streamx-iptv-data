@@ -361,8 +361,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/DisneyJrLatinAmerica.ar.png",
       "streamUrls": [
         "http://190.11.225.124:5000/live/disney_jr_hd/playlist.m3u8",
-        "http://179.60.51.134:8888/DISNEY-JR/index.m3u8",
-        "http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD"
+        "http://181.78.14.26:4000/play/a073/index.m3u8",
+        "http://179.60.51.134:8888/DISNEY-JR/index.m3u8"
       ],
       "category": "Argentina",
       "languages": []
@@ -554,8 +554,8 @@
       "name": "Unife TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/UnifeTV.ar.png",
       "streamUrls": [
-        "https://5dcabf026b188.streamlock.net/StreamUnife/livestream/playlist.m3u8",
-        "https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8"
+        "https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8",
+        "https://5dcabf026b188.streamlock.net/StreamUnife/livestream/playlist.m3u8"
       ],
       "category": "Argentina",
       "languages": []
@@ -951,6 +951,7 @@
       "name": "TV Publica",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/TVPublica.ar.png",
       "streamUrls": [
+        "http://playcom.trapemn.tv:1935/transcoderip/tvpublica.stream/playlist.m3u8",
         "https://ola1.com.ar/tvpublica/index.m3u8"
       ],
       "category": "Argentina",
@@ -997,8 +998,28 @@
       ],
       "category": "Argentina",
       "languages": []
+    },
+    {
+      "id": "ElSiete.ar",
+      "name": "El Siete",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/ElSiete.ar.png",
+      "streamUrls": [
+        "https://edgectc.com/CANAL7_MZA/index.m3u8"
+      ],
+      "category": "Argentina",
+      "languages": []
+    },
+    {
+      "id": "TECTV.ar",
+      "name": "TEC TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/TECTV.ar.png",
+      "streamUrls": [
+        "https://edgectc.com/TEC_HD/index.m3u8"
+      ],
+      "category": "Argentina",
+      "languages": []
     }
   ],
-  "count": 98,
-  "generated_at": "2026-06-22T22:02:15.853023"
+  "count": 100,
+  "generated_at": "2026-06-23T03:30:59.476026"
 }
