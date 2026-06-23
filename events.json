@@ -1,52 +1,332 @@
 {
-  "last_updated": "2026-06-23T08:11:11Z",
+  "last_updated": "2026-06-23T11:35:23Z",
   "strict_mode": true,
   "requires_stream": true,
   "requires_thumbnail": true,
-  "total_live": 1,
-  "total_upcoming": 130,
-  "total_streamed": 131,
+  "total_live": 8,
+  "total_upcoming": 122,
+  "total_streamed": 130,
   "active_events": [
     {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_world_surf_league__2",
-      "title": "World Surf League: 2025 WSL Championship Tour: MEO Rip Curl Pro Portugal",
-      "sport": "Other",
-      "sport_icon": "live_tv",
-      "sport_color": "#E53935",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_world_surf_league__2",
-      "start_time": "2026-06-23T07:00:00Z",
-      "end_time": "2026-06-23T10:00:00Z",
+      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_national_rugby_leagu",
+      "title": "National Rugby League : Melbourne Storm vs Penrith Panthers",
+      "sport": "Rugby",
+      "sport_icon": "sports_rugby",
+      "sport_color": "#00BFA5",
+      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_national_rugby_leagu",
+      "start_time": "2026-06-23T09:00:00Z",
+      "end_time": "2026-06-23T12:00:00Z",
       "is_live": true,
       "streams": [
         {
-          "name": "Sportv3 Brazil (player)",
-          "url": "https://dlhd.pk/player/stream-80.php"
+          "name": "beIN Sports 3 France (cast)",
+          "url": "https://dlhd.pk/cast/stream-118.php"
         },
         {
-          "name": "Sportv3 Brazil (watch)",
-          "url": "https://dlhd.pk/watch/stream-80.php"
+          "name": "Sky Sports Action UK (cast)",
+          "url": "https://dlhd.pk/cast/stream-37.php"
         },
         {
-          "name": "Sportv3 Brazil",
-          "url": "https://dlhd.pk/stream/stream-80.php"
+          "name": "Sky Sports Action UK",
+          "url": "https://dlhd.pk/stream/stream-37.php"
         },
         {
-          "name": "Sportv3 Brazil (casting)",
-          "url": "https://dlhd.pk/casting/stream-80.php"
+          "name": "Fox Soccer Plus (plus)",
+          "url": "https://dlhd.pk/plus/stream-756.php"
         },
         {
-          "name": "Sportv3 Brazil (plus)",
-          "url": "https://dlhd.pk/plus/stream-80.php"
+          "name": "Fox Soccer Plus (player)",
+          "url": "https://dlhd.pk/player/stream-756.php"
         },
         {
-          "name": "Sportv3 Brazil (cast)",
-          "url": "https://dlhd.pk/cast/stream-80.php"
+          "name": "beIN Sports 3 France",
+          "url": "https://dlhd.pk/stream/stream-118.php"
+        }
+      ],
+      "stream_count": 6,
+      "has_stream": true,
+      "source": "DaddyLiveHD",
+      "thumbnail": "https://streamed.pk/api/images/badge/rugby.webp"
+    },
+    {
+      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_world_cup_qualifying",
+      "title": "World Cup Qualifying : Australia vs Indonesia",
+      "sport": "Football",
+      "sport_icon": "sports_soccer",
+      "sport_color": "#2962FF",
+      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_world_cup_qualifying",
+      "start_time": "2026-06-23T09:10:00Z",
+      "end_time": "2026-06-23T12:10:00Z",
+      "is_live": true,
+      "streams": [
+        {
+          "name": "Nova Sport Bulgaria (plus)",
+          "url": "https://dlhd.pk/plus/stream-468.php"
+        },
+        {
+          "name": "ESPN 1 NL",
+          "url": "https://dlhd.pk/stream/stream-379.php"
+        },
+        {
+          "name": "Nova Sport Bulgaria (player)",
+          "url": "https://dlhd.pk/player/stream-468.php"
+        },
+        {
+          "name": "Sportdigital FUSSBALL DE (watch)",
+          "url": "https://dlhd.pk/watch/stream-571.php"
+        },
+        {
+          "name": "ESPN 1 NL (cast)",
+          "url": "https://dlhd.pk/cast/stream-379.php"
+        },
+        {
+          "name": "ESPN 1 NL (player)",
+          "url": "https://dlhd.pk/player/stream-379.php"
+        }
+      ],
+      "stream_count": 6,
+      "has_stream": true,
+      "source": "DaddyLiveHD",
+      "thumbnail": "https://streamed.pk/api/images/badge/football.webp"
+    },
+    {
+      "event_id": "spk_atp-wta-bad-homburg-mallorca-tn-1",
+      "title": "ATP / WTA: Bad Homburg / Mallorca 🎾",
+      "sport": "Tennis",
+      "sport_icon": "sports_tennis",
+      "sport_color": "#FFD600",
+      "tvg_id": "spk_atp-wta-bad-homburg-mallorca-tn-1",
+      "start_time": "2026-06-23T09:30:00Z",
+      "end_time": "2026-06-23T12:30:00Z",
+      "is_live": true,
+      "streams": [
+        {
+          "name": "StreamedPK Echo HD #3",
+          "url": "https://embed.st/embed/echo/atp-wta-bad-homburg-mallorca-tn-1/3"
+        },
+        {
+          "name": "StreamedPK Echo HD #2",
+          "url": "https://embed.st/embed/echo/atp-wta-bad-homburg-mallorca-tn-1/2"
+        },
+        {
+          "name": "StreamedPK Echo HD #1",
+          "url": "https://embed.st/embed/echo/atp-wta-bad-homburg-mallorca-tn-1/1"
+        },
+        {
+          "name": "StreamedPK Echo HD #4",
+          "url": "https://embed.st/embed/echo/atp-wta-bad-homburg-mallorca-tn-1/4"
+        }
+      ],
+      "stream_count": 4,
+      "has_stream": true,
+      "source": "StreamedPK",
+      "thumbnail": "https://streamed.pk/api/images/badge/tennis.webp",
+      "league": "tennis"
+    },
+    {
+      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_wrc_safari_rally_ken",
+      "title": "WRC Safari Rally Kenya | Special Stage 1 | Day 1",
+      "sport": "Other",
+      "sport_icon": "live_tv",
+      "sport_color": "#E53935",
+      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_wrc_safari_rally_ken",
+      "start_time": "2026-06-23T10:00:00Z",
+      "end_time": "2026-06-23T13:00:00Z",
+      "is_live": true,
+      "streams": [
+        {
+          "name": "TNT Sports 2 UK (cast)",
+          "url": "https://dlhd.pk/cast/stream-32.php"
+        },
+        {
+          "name": "Motowizja Poland (player)",
+          "url": "https://dlhd.pk/player/stream-563.php"
+        },
+        {
+          "name": "Rally Tv",
+          "url": "https://dlhd.pk/stream/stream-607.php"
+        },
+        {
+          "name": "Canal+ Sport360",
+          "url": "https://dlhd.pk/stream/stream-464.php"
+        },
+        {
+          "name": "Rally Tv (plus)",
+          "url": "https://dlhd.pk/plus/stream-607.php"
+        },
+        {
+          "name": "TNT Sports 2 UK (casting)",
+          "url": "https://dlhd.pk/casting/stream-32.php"
         }
       ],
       "stream_count": 6,
       "has_stream": true,
       "source": "DaddyLiveHD",
       "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
+    },
+    {
+      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_absa_cape_epic__25__",
+      "title": "Absa Cape Epic '25: Stage 4",
+      "sport": "Cycling",
+      "sport_icon": "directions_bike",
+      "sport_color": "#0288D1",
+      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_absa_cape_epic__25__",
+      "start_time": "2026-06-23T10:00:00Z",
+      "end_time": "2026-06-23T13:00:00Z",
+      "is_live": true,
+      "streams": [
+        {
+          "name": "SuperSport Grandstand (plus)",
+          "url": "https://dlhd.pk/plus/stream-412.php"
+        },
+        {
+          "name": "SuperSport Grandstand (player)",
+          "url": "https://dlhd.pk/player/stream-412.php"
+        },
+        {
+          "name": "SuperSport Grandstand",
+          "url": "https://dlhd.pk/stream/stream-412.php"
+        },
+        {
+          "name": "SuperSport Grandstand (casting)",
+          "url": "https://dlhd.pk/casting/stream-412.php"
+        },
+        {
+          "name": "SuperSport Grandstand (cast)",
+          "url": "https://dlhd.pk/cast/stream-412.php"
+        },
+        {
+          "name": "SuperSport Grandstand (watch)",
+          "url": "https://dlhd.pk/watch/stream-412.php"
+        }
+      ],
+      "stream_count": 6,
+      "has_stream": true,
+      "source": "DaddyLiveHD",
+      "thumbnail": "https://streamed.pk/api/images/badge/cycling.webp"
+    },
+    {
+      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_women_s___group_stag",
+      "title": "Women's | Group Stage | World Championship : United States vs Norway",
+      "sport": "Other",
+      "sport_icon": "live_tv",
+      "sport_color": "#E53935",
+      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_women_s___group_stag",
+      "start_time": "2026-06-23T10:00:00Z",
+      "end_time": "2026-06-23T13:00:00Z",
+      "is_live": true,
+      "streams": [
+        {
+          "name": "EuroSport 1 France (cast)",
+          "url": "https://dlhd.pk/cast/stream-772.php"
+        },
+        {
+          "name": "EuroSport 1 Spain (plus)",
+          "url": "https://dlhd.pk/plus/stream-524.php"
+        },
+        {
+          "name": "EuroSport 1 Poland",
+          "url": "https://dlhd.pk/stream/stream-57.php"
+        },
+        {
+          "name": "EuroSport 1 Spain (cast)",
+          "url": "https://dlhd.pk/cast/stream-524.php"
+        },
+        {
+          "name": "EuroSport 1 France (watch)",
+          "url": "https://dlhd.pk/watch/stream-772.php"
+        },
+        {
+          "name": "EuroSport 1 Poland (plus)",
+          "url": "https://dlhd.pk/plus/stream-57.php"
+        }
+      ],
+      "stream_count": 6,
+      "has_stream": true,
+      "source": "DaddyLiveHD",
+      "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
+    },
+    {
+      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_premier_league_pool_",
+      "title": "Premier League Pool: Day 1",
+      "sport": "Football",
+      "sport_icon": "sports_soccer",
+      "sport_color": "#2962FF",
+      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_premier_league_pool_",
+      "start_time": "2026-06-23T11:00:00Z",
+      "end_time": "2026-06-23T14:00:00Z",
+      "is_live": true,
+      "streams": [
+        {
+          "name": "Sky Sport 3 NZ (casting)",
+          "url": "https://dlhd.pk/casting/stream-590.php"
+        },
+        {
+          "name": "Sky Sport 3 NZ (plus)",
+          "url": "https://dlhd.pk/plus/stream-590.php"
+        },
+        {
+          "name": "Sky Sport 3 NZ (player)",
+          "url": "https://dlhd.pk/player/stream-590.php"
+        },
+        {
+          "name": "Sky Sport 3 NZ (cast)",
+          "url": "https://dlhd.pk/cast/stream-590.php"
+        },
+        {
+          "name": "Sky Sport 3 NZ",
+          "url": "https://dlhd.pk/stream/stream-590.php"
+        },
+        {
+          "name": "Sky Sport 3 NZ (watch)",
+          "url": "https://dlhd.pk/watch/stream-590.php"
+        }
+      ],
+      "stream_count": 6,
+      "has_stream": true,
+      "source": "DaddyLiveHD",
+      "thumbnail": "https://streamed.pk/api/images/badge/football.webp"
+    },
+    {
+      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_asia_cup___guam_vs_t",
+      "title": "Asia Cup : Guam vs Thailand",
+      "sport": "Cricket",
+      "sport_icon": "sports_cricket",
+      "sport_color": "#00C853",
+      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_asia_cup___guam_vs_t",
+      "start_time": "2026-06-23T11:00:00Z",
+      "end_time": "2026-06-23T14:00:00Z",
+      "is_live": true,
+      "streams": [
+        {
+          "name": "Sport Klub 4 Serbia (player)",
+          "url": "https://dlhd.pk/player/stream-104.php"
+        },
+        {
+          "name": "Sport Klub 4 Serbia",
+          "url": "https://dlhd.pk/stream/stream-104.php"
+        },
+        {
+          "name": "Sport Klub 4 Serbia (cast)",
+          "url": "https://dlhd.pk/cast/stream-104.php"
+        },
+        {
+          "name": "Sport Klub 4 Serbia (casting)",
+          "url": "https://dlhd.pk/casting/stream-104.php"
+        },
+        {
+          "name": "Sport Klub 4 Serbia (watch)",
+          "url": "https://dlhd.pk/watch/stream-104.php"
+        },
+        {
+          "name": "Sport Klub 4 Serbia (plus)",
+          "url": "https://dlhd.pk/plus/stream-104.php"
+        }
+      ],
+      "stream_count": 6,
+      "has_stream": true,
+      "source": "DaddyLiveHD",
+      "thumbnail": "https://streamed.pk/api/images/badge/cricket.webp"
     },
     {
       "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_afl___carlton_blues_",
@@ -88,327 +368,6 @@
       "has_stream": true,
       "source": "DaddyLiveHD",
       "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_national_rugby_leagu",
-      "title": "National Rugby League : Melbourne Storm vs Penrith Panthers",
-      "sport": "Rugby",
-      "sport_icon": "sports_rugby",
-      "sport_color": "#00BFA5",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_national_rugby_leagu",
-      "start_time": "2026-06-23T09:00:00Z",
-      "end_time": "2026-06-23T12:00:00Z",
-      "is_live": false,
-      "streams": [
-        {
-          "name": "beIN Sports 3 France (cast)",
-          "url": "https://dlhd.pk/cast/stream-118.php"
-        },
-        {
-          "name": "Sky Sports Action UK (cast)",
-          "url": "https://dlhd.pk/cast/stream-37.php"
-        },
-        {
-          "name": "Sky Sports Action UK",
-          "url": "https://dlhd.pk/stream/stream-37.php"
-        },
-        {
-          "name": "Fox Soccer Plus (plus)",
-          "url": "https://dlhd.pk/plus/stream-756.php"
-        },
-        {
-          "name": "Fox Soccer Plus (player)",
-          "url": "https://dlhd.pk/player/stream-756.php"
-        },
-        {
-          "name": "beIN Sports 3 France",
-          "url": "https://dlhd.pk/stream/stream-118.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/rugby.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_world_cup_qualifying",
-      "title": "World Cup Qualifying : Australia vs Indonesia",
-      "sport": "Football",
-      "sport_icon": "sports_soccer",
-      "sport_color": "#2962FF",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_world_cup_qualifying",
-      "start_time": "2026-06-23T09:10:00Z",
-      "end_time": "2026-06-23T12:10:00Z",
-      "is_live": false,
-      "streams": [
-        {
-          "name": "Nova Sport Bulgaria (plus)",
-          "url": "https://dlhd.pk/plus/stream-468.php"
-        },
-        {
-          "name": "ESPN 1 NL",
-          "url": "https://dlhd.pk/stream/stream-379.php"
-        },
-        {
-          "name": "Nova Sport Bulgaria (player)",
-          "url": "https://dlhd.pk/player/stream-468.php"
-        },
-        {
-          "name": "Sportdigital FUSSBALL DE (watch)",
-          "url": "https://dlhd.pk/watch/stream-571.php"
-        },
-        {
-          "name": "ESPN 1 NL (cast)",
-          "url": "https://dlhd.pk/cast/stream-379.php"
-        },
-        {
-          "name": "ESPN 1 NL (player)",
-          "url": "https://dlhd.pk/player/stream-379.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/football.webp"
-    },
-    {
-      "event_id": "spk_atp-wta-bad-homburg-mallorca-tn-1",
-      "title": "ATP / WTA: Bad Homburg / Mallorca 🎾",
-      "sport": "Tennis",
-      "sport_icon": "sports_tennis",
-      "sport_color": "#FFD600",
-      "tvg_id": "spk_atp-wta-bad-homburg-mallorca-tn-1",
-      "start_time": "2026-06-23T09:30:00Z",
-      "end_time": "2026-06-23T12:30:00Z",
-      "is_live": false,
-      "streams": [
-        {
-          "name": "StreamedPK Echo HD #3",
-          "url": "https://embed.st/embed/echo/atp-wta-bad-homburg-mallorca-tn-1/3"
-        },
-        {
-          "name": "StreamedPK Echo HD #2",
-          "url": "https://embed.st/embed/echo/atp-wta-bad-homburg-mallorca-tn-1/2"
-        },
-        {
-          "name": "StreamedPK Echo HD #1",
-          "url": "https://embed.st/embed/echo/atp-wta-bad-homburg-mallorca-tn-1/1"
-        },
-        {
-          "name": "StreamedPK Echo HD #4",
-          "url": "https://embed.st/embed/echo/atp-wta-bad-homburg-mallorca-tn-1/4"
-        }
-      ],
-      "stream_count": 4,
-      "has_stream": true,
-      "source": "StreamedPK",
-      "thumbnail": "https://streamed.pk/api/images/badge/tennis.webp",
-      "league": "tennis"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_wrc_safari_rally_ken",
-      "title": "WRC Safari Rally Kenya | Special Stage 1 | Day 1",
-      "sport": "Other",
-      "sport_icon": "live_tv",
-      "sport_color": "#E53935",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_wrc_safari_rally_ken",
-      "start_time": "2026-06-23T10:00:00Z",
-      "end_time": "2026-06-23T13:00:00Z",
-      "is_live": false,
-      "streams": [
-        {
-          "name": "TNT Sports 2 UK (cast)",
-          "url": "https://dlhd.pk/cast/stream-32.php"
-        },
-        {
-          "name": "Motowizja Poland (player)",
-          "url": "https://dlhd.pk/player/stream-563.php"
-        },
-        {
-          "name": "Rally Tv",
-          "url": "https://dlhd.pk/stream/stream-607.php"
-        },
-        {
-          "name": "Canal+ Sport360",
-          "url": "https://dlhd.pk/stream/stream-464.php"
-        },
-        {
-          "name": "Rally Tv (plus)",
-          "url": "https://dlhd.pk/plus/stream-607.php"
-        },
-        {
-          "name": "TNT Sports 2 UK (casting)",
-          "url": "https://dlhd.pk/casting/stream-32.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_absa_cape_epic__25__",
-      "title": "Absa Cape Epic '25: Stage 4",
-      "sport": "Cycling",
-      "sport_icon": "directions_bike",
-      "sport_color": "#0288D1",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_absa_cape_epic__25__",
-      "start_time": "2026-06-23T10:00:00Z",
-      "end_time": "2026-06-23T13:00:00Z",
-      "is_live": false,
-      "streams": [
-        {
-          "name": "SuperSport Grandstand (plus)",
-          "url": "https://dlhd.pk/plus/stream-412.php"
-        },
-        {
-          "name": "SuperSport Grandstand (player)",
-          "url": "https://dlhd.pk/player/stream-412.php"
-        },
-        {
-          "name": "SuperSport Grandstand",
-          "url": "https://dlhd.pk/stream/stream-412.php"
-        },
-        {
-          "name": "SuperSport Grandstand (casting)",
-          "url": "https://dlhd.pk/casting/stream-412.php"
-        },
-        {
-          "name": "SuperSport Grandstand (cast)",
-          "url": "https://dlhd.pk/cast/stream-412.php"
-        },
-        {
-          "name": "SuperSport Grandstand (watch)",
-          "url": "https://dlhd.pk/watch/stream-412.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/cycling.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_women_s___group_stag",
-      "title": "Women's | Group Stage | World Championship : United States vs Norway",
-      "sport": "Other",
-      "sport_icon": "live_tv",
-      "sport_color": "#E53935",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_women_s___group_stag",
-      "start_time": "2026-06-23T10:00:00Z",
-      "end_time": "2026-06-23T13:00:00Z",
-      "is_live": false,
-      "streams": [
-        {
-          "name": "EuroSport 1 France (cast)",
-          "url": "https://dlhd.pk/cast/stream-772.php"
-        },
-        {
-          "name": "EuroSport 1 Spain (plus)",
-          "url": "https://dlhd.pk/plus/stream-524.php"
-        },
-        {
-          "name": "EuroSport 1 Poland",
-          "url": "https://dlhd.pk/stream/stream-57.php"
-        },
-        {
-          "name": "EuroSport 1 Spain (cast)",
-          "url": "https://dlhd.pk/cast/stream-524.php"
-        },
-        {
-          "name": "EuroSport 1 France (watch)",
-          "url": "https://dlhd.pk/watch/stream-772.php"
-        },
-        {
-          "name": "EuroSport 1 Poland (plus)",
-          "url": "https://dlhd.pk/plus/stream-57.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_premier_league_pool_",
-      "title": "Premier League Pool: Day 1",
-      "sport": "Football",
-      "sport_icon": "sports_soccer",
-      "sport_color": "#2962FF",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_premier_league_pool_",
-      "start_time": "2026-06-23T11:00:00Z",
-      "end_time": "2026-06-23T14:00:00Z",
-      "is_live": false,
-      "streams": [
-        {
-          "name": "Sky Sport 3 NZ (casting)",
-          "url": "https://dlhd.pk/casting/stream-590.php"
-        },
-        {
-          "name": "Sky Sport 3 NZ (plus)",
-          "url": "https://dlhd.pk/plus/stream-590.php"
-        },
-        {
-          "name": "Sky Sport 3 NZ (player)",
-          "url": "https://dlhd.pk/player/stream-590.php"
-        },
-        {
-          "name": "Sky Sport 3 NZ (cast)",
-          "url": "https://dlhd.pk/cast/stream-590.php"
-        },
-        {
-          "name": "Sky Sport 3 NZ",
-          "url": "https://dlhd.pk/stream/stream-590.php"
-        },
-        {
-          "name": "Sky Sport 3 NZ (watch)",
-          "url": "https://dlhd.pk/watch/stream-590.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/football.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_asia_cup___guam_vs_t",
-      "title": "Asia Cup : Guam vs Thailand",
-      "sport": "Cricket",
-      "sport_icon": "sports_cricket",
-      "sport_color": "#00C853",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_asia_cup___guam_vs_t",
-      "start_time": "2026-06-23T11:00:00Z",
-      "end_time": "2026-06-23T14:00:00Z",
-      "is_live": false,
-      "streams": [
-        {
-          "name": "Sport Klub 4 Serbia (player)",
-          "url": "https://dlhd.pk/player/stream-104.php"
-        },
-        {
-          "name": "Sport Klub 4 Serbia",
-          "url": "https://dlhd.pk/stream/stream-104.php"
-        },
-        {
-          "name": "Sport Klub 4 Serbia (cast)",
-          "url": "https://dlhd.pk/cast/stream-104.php"
-        },
-        {
-          "name": "Sport Klub 4 Serbia (casting)",
-          "url": "https://dlhd.pk/casting/stream-104.php"
-        },
-        {
-          "name": "Sport Klub 4 Serbia (watch)",
-          "url": "https://dlhd.pk/watch/stream-104.php"
-        },
-        {
-          "name": "Sport Klub 4 Serbia (plus)",
-          "url": "https://dlhd.pk/plus/stream-104.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/cricket.webp"
     },
     {
       "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_hell_s_kitchen_seaso",
@@ -1440,6 +1399,10 @@
         {
           "name": "StreamedPK Golf HD #2 (English)",
           "url": "https://embed.st/embed/golf/23322/2"
+        },
+        {
+          "name": "StreamedPK Delta #1",
+          "url": "https://embed.st/embed/delta/live_world-championship-gr-k_portugal-uzbekistan-live-streaming-1243793961/1"
         }
       ],
       "stream_count": 1,
@@ -2642,6 +2605,10 @@
         {
           "name": "StreamedPK Golf HD #2 (English)",
           "url": "https://embed.st/embed/golf/23323/2"
+        },
+        {
+          "name": "StreamedPK Delta #1",
+          "url": "https://embed.st/embed/delta/live_world-championship-gr-l_england-ghana-live-streaming-1243795959/1"
         }
       ],
       "stream_count": 1,
@@ -3462,6 +3429,10 @@
         {
           "name": "StreamedPK Golf HD #2 (English)",
           "url": "https://embed.st/embed/golf/23324/2"
+        },
+        {
+          "name": "StreamedPK Delta #1",
+          "url": "https://embed.st/embed/delta/live_world-championship-gr-l_panama-croatia-live-streaming-1243797957/1"
         }
       ],
       "stream_count": 1,
@@ -4533,6 +4504,10 @@
         {
           "name": "StreamedPK Echo #1",
           "url": "https://embed.st/embed/echo/colombia-vs-congo-dr-football-1539008/1"
+        },
+        {
+          "name": "StreamedPK Delta #1",
+          "url": "https://embed.st/embed/delta/live_world-championship-gr-k_colombia-dr-congo-live-streaming-1243794960/1"
         }
       ],
       "stream_count": 6,
@@ -4555,6 +4530,10 @@
         {
           "name": "StreamedPK Echo #1",
           "url": "https://embed.st/embed/echo/las-vegas-aces-w-vs-new-york-liberty-w-basketball-494900/1"
+        },
+        {
+          "name": "StreamedPK Delta #1",
+          "url": "https://embed.st/embed/delta/live_wnba_las-vegas-liberty-live-streaming-1211174613/1"
         }
       ],
       "stream_count": 1,
