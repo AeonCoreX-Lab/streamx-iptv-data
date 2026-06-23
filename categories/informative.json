@@ -111,9 +111,9 @@
       "name": "BBC Earth",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/BBCEarth.uk.png",
       "streamUrls": [
-        "https://pb-zjy36qhp8e8cz.akamaized.net/BBC_Earth_US.m3u8",
-        "https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8",
-        "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8"
+        "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8",
+        "https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8",
+        "https://pb-zjy36qhp8e8cz.akamaized.net/BBC_Earth_US.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -1335,8 +1335,8 @@
       "name": "CNA Originals",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/sg/CNAOriginals.sg.png",
       "streamUrls": [
-        "https://amg01082-cna-amg01082c1-vidaa-gb-7580.playouts.now.amagi.tv/playlist.m3u8",
-        "https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8"
+        "https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8",
+        "https://amg01082-cna-amg01082c1-vidaa-gb-7580.playouts.now.amagi.tv/playlist.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -1585,9 +1585,9 @@
       "name": "Wonder",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/Wonder.uk.png",
       "streamUrls": [
-        "https://wonder-samsung-uk.amagi.tv/playlist.m3u8",
+        "https://lds-wonder-plex.amagi.tv/playlist.m3u8",
         "https://lds-wonder-rakuten.amagi.tv/playlist.m3u8",
-        "https://lds-wonder-samsungau.amagi.tv/playlist.m3u8"
+        "https://wonder-samsung-uk.amagi.tv/playlist.m3u8"
       ],
       "category": "Informative",
       "languages": [],
@@ -1598,8 +1598,8 @@
       "name": "History Hit",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/HistoryHit.uk.png",
       "streamUrls": [
-        "https://lds-timeline-plex.amagi.tv/playlist.m3u8",
         "https://lds-timeline-rakuten.amagi.tv/playlist.m3u8",
+        "https://amg00426-lds-amg00426c2-samsung-ph-4623.playouts.now.amagi.tv/playlist.m3u8",
         "https://timeline-samsung-uk.amagi.tv/playlist.m3u8"
       ],
       "category": "Informative",
@@ -1894,6 +1894,7 @@
       "name": "History",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ro/History.ro.png",
       "streamUrls": [
+        "http://82.78.243.219:45739/play/a01f/index.m3u8",
         "https://dokagents.site/live/history/mono.m3u8"
       ],
       "category": "Informative",
@@ -2004,7 +2005,8 @@
       "name": "Pluto TV Dokumentar",
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
-        "https://jmp2.uk/plu-62b30b0060a9ca0007d628b4.m3u8"
+        "https://jmp2.uk/plu-62b30b0060a9ca0007d628b4.m3u8",
+        "https://jmp2.uk/plu-62b1e2498261390007f25c98.m3u8"
       ],
       "category": "Informative",
       "languages": []
@@ -2022,8 +2024,9 @@
     {
       "id": "PlutoTVFood.de",
       "name": "Pluto TV Food",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/330px-Pluto_TV_logo_2024.svg.png",
       "streamUrls": [
+        "https://jmp2.uk/plu-5ddf930548ff9b00090d5686.m3u8",
         "https://jmp2.uk/plu-5dc280c9aa218c0009724b4b.m3u8"
       ],
       "category": "Informative",
@@ -2139,8 +2142,9 @@
       "name": "Pluto TV True Crime",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/330px-Pluto_TV_logo_2024.svg.png",
       "streamUrls": [
-        "https://jmp2.uk/plu-61c0b438244e50000758083b.m3u8",
-        "https://jmp2.uk/plu-61c097ec8bb1830008e3f962.m3u8"
+        "https://jmp2.uk/plu-61c097ec8bb1830008e3f962.m3u8",
+        "https://jmp2.uk/plu-61c1e51354d923000731bf78.m3u8",
+        "https://jmp2.uk/plu-61c0b438244e50000758083b.m3u8"
       ],
       "category": "Informative",
       "languages": []
@@ -2170,6 +2174,7 @@
       "name": "Pluto TV Verdenskrigene",
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
+        "https://jmp2.uk/plu-677d3a424bd63600082f7baf.m3u8",
         "https://jmp2.uk/plu-677d397b60fbeb00084b0bff.m3u8"
       ],
       "category": "Informative",
@@ -2312,6 +2317,36 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cz/History.cz.png",
       "streamUrls": [
         "http://88.212.15.19/live/test_history/playlist.m3u8"
+      ],
+      "category": "Informative",
+      "languages": []
+    },
+    {
+      "id": "StLuciePublicSchools.us",
+      "name": "St Lucie Public Schools",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/StLuciePublicSchools.us.png",
+      "streamUrls": [
+        "https://reflect-stlucie-ps-fl.cablecast.tv/live-1/live/stream-1/WIFI-1896k-720p.m3u8"
+      ],
+      "category": "Informative",
+      "languages": []
+    },
+    {
+      "id": "TECTV.ar",
+      "name": "TEC TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/TECTV.ar.png",
+      "streamUrls": [
+        "https://edgectc.com/TEC_HD/index.m3u8"
+      ],
+      "category": "Informative",
+      "languages": []
+    },
+    {
+      "id": "UMAGTV.cl",
+      "name": "UMAGTV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cl/UMAGTV.cl.png",
+      "streamUrls": [
+        "https://tls-cl.cdnz.cl/umag1/ngrp:live_all/playlist.m3u8"
       ],
       "category": "Informative",
       "languages": []
