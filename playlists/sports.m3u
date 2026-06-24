@@ -82,7 +82,7 @@ https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playl
 #EXTINF:-1 tvg-id="MMATVcom.ru" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/MMATVcom.ru.png" group-title="Sports [SD]",MMA-TV.com [SD]
 https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 #EXTINF:-1 tvg-id="MNBSport.mn" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/MNBSport.mn.png" group-title="Sports [SD]",MNB Sport [SD]
-https://live.mnb.mn/hls/mnb_sport.stream.m3u8
+https://cdn4.skygo.mn/live/disk1/MNBSport/DASH-FTA/MNBSport.mpd
 #EXTINF:-1 tvg-id="MadeinBOTV.it" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/it/MadeinBOTV.it.png" group-title="Sports [FHD]",MadeinBO TV [FHD]
 https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
 #EXTINF:-1 tvg-id="MatchStrana.ru" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/MatchStrana.ru.png" group-title="Sports [SD]",Match! Strana [SD]
@@ -325,8 +325,6 @@ https://jmp2.uk/plu-65c69b683ba51e00084534a3.m3u8
 https://jmp2.uk/plu-6334a574605f140007e233c4.m3u8
 #EXTINF:-1 tvg-id="PlutoTVESports.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/330px-Pluto_TV_logo_2024.svg.png" group-title="Sports",Pluto TV E-Sports
 https://jmp2.uk/plu-5ff3934600d4c7000733ff49.m3u8
-#EXTINF:-1 tvg-id="PlutoTVHandboldHighlights.se" tvg-logo="https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png" group-title="Sports",Pluto TV Handbold Highlights
-https://jmp2.uk/plu-68dfa431cc3c6cd904053100.m3u8
 #EXTINF:-1 tvg-id="PlutoTVHandboldLive.se" tvg-logo="https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png" group-title="Sports",Pluto TV Handbold Live
 https://jmp2.uk/plu-6618f54baec96800081525ec.m3u8
 #EXTINF:-1 tvg-id="PlutoTVHandbollHighlights.se" tvg-logo="https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png" group-title="Sports",Pluto TV Handboll Highlights
@@ -389,23 +387,15 @@ http://45.5.119.43:4000/play/a05t/index.m3u8
 https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8
 #EXTINF:-1 tvg-id="TSports.bd" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bd/TSports.bd.png" group-title="Sports [HD]",T Sports [HD]
 https://trs1.aynaott.com/tsports/index.m3u8
-#EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ca/TSN3.ca.png" group-title="Sports [SD]",TSN3 [SD]
-https://tsn1.shaanp76.workers.dev/
 #EXTINF:-1 tvg-id="USANetwork.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/USANetwork.us.png" group-title="Sports [SD]",USA Network [SD]
 https://trs1.aynaott.com/usa/index.m3u8
 #EXTINF:-1 tvg-id="CTSport.cz" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cz/CTSport.cz.png" group-title="Sports",CT Sport
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRSport.ro" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ro/TVRSport.ro.png" group-title="Sports",TVR Sport
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8
-#EXTINF:-1 tvg-id="Sport1.hu" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/hu/Sport1.hu.png" group-title="Sports",Sport 1
-http://46.149.191.217:9005/play/a017
-#EXTINF:-1 tvg-id="VTV6.vn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/VTV6_logo_2026_final.svg/330px-VTV6_logo_2026_final.svg.png" group-title="Sports [HD]",VTV6 [HD]
-https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv6tt-manifest.m3u8
+#EXTINF:-1 tvg-id="PlutoTVHandboldHighlights.se" tvg-logo="https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png" group-title="Sports",Pluto TV Handbold Highlights
+https://jmp2.uk/plu-68dfa431cc3c6cd904053100.m3u8
 #EXTINF:-1 tvg-id="ArenaSport2.sk" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/sk/ArenaSport2.sk.png" group-title="Sports",Arena Sport 2
 http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
-#EXTINF:-1 tvg-id="TigoSports.bo" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bo/TigoSports.bo.png" group-title="Sports [FHD]",Tigo Sports [FHD]
-https://master.tucableip.com/Amistoso/index.m3u8
-#EXTINF:-1 tvg-id="M4SportPlus.hu" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/hu/M4SportPlus.hu.png" group-title="Sports",M4 Sport+
-http://46.149.191.217:9007/play/a02q
-#EXTINF:-1 tvg-id="Sport2.hu" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/hu/Sport2.hu.png" group-title="Sports",Sport 2
-http://46.149.191.217:9018/play/a01e
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ca/TSN3.ca.png" group-title="Sports [SD]",TSN3 [SD]
+https://tsn1.shaanp76.workers.dev/
