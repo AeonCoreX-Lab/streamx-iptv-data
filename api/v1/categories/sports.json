@@ -447,7 +447,9 @@
       "name": "MNB Sport",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/MNBSport.mn.png",
       "streamUrls": [
-        "https://live.mnb.mn/hls/mnb_sport.stream.m3u8"
+        "https://live.mnb.mn/hls/mnb_sport.stream.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/MNBSport/HLSv3-FTA/MNBSport.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/MNBSport/DASH-FTA/MNBSport.mpd"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -2146,7 +2148,8 @@
       "name": "Tigo Sports",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gt/TigoSports.gt.png",
       "streamUrls": [
-        "http://45.5.119.43:4000/play/a05t/index.m3u8"
+        "http://45.5.119.43:4000/play/a05t/index.m3u8",
+        "http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTf_5weWAERKDgrt9JpvlAiI/m3u8"
       ],
       "country": "GT",
       "category": "Sports",
@@ -2161,8 +2164,38 @@
       ],
       "category": "Sports",
       "languages": []
+    },
+    {
+      "id": "TSports.bd",
+      "name": "T Sports",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bd/TSports.bd.png",
+      "streamUrls": [
+        "https://trs1.aynaott.com/tsports/index.m3u8"
+      ],
+      "category": "Sports",
+      "languages": []
+    },
+    {
+      "id": "TSN3.ca",
+      "name": "TSN3",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ca/TSN3.ca.png",
+      "streamUrls": [
+        "https://tsn1.shaanp76.workers.dev/"
+      ],
+      "category": "Sports",
+      "languages": []
+    },
+    {
+      "id": "USANetwork.us",
+      "name": "USA Network",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/USANetwork.us.png",
+      "streamUrls": [
+        "https://trs1.aynaott.com/usa/index.m3u8"
+      ],
+      "category": "Sports",
+      "languages": []
     }
   ],
-  "count": 203,
-  "generated_at": "2026-06-23T21:43:05.621301"
+  "count": 206,
+  "generated_at": "2026-06-24T03:32:22.359224"
 }
