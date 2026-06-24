@@ -549,9 +549,9 @@
       "name": "Al Jazeera Mubasher",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/qa/AlJazeeraMubasher.qa.png",
       "streamUrls": [
-        "https://live-hls-web-ajm.getaj.net/AJM/index.m3u8",
         "https://live-hls-apps-ajm-v3-fa.getaj.net/AJM/index.m3u8",
-        "https://live-hls-web-ajm-fa.thehlive.com/AJM/index.m3u8"
+        "https://live-hls-web-ajm-fa.thehlive.com/AJM/index.m3u8",
+        "https://live-hls-web-ajm.getaj.net/AJM/index.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -574,8 +574,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/qa/AlJazeeraMubasherBroadcast2.qa.png",
       "streamUrls": [
         "https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8",
-        "https://live-hls-web-ajm2-fa.getaj.net/AJM2/index.m3u8",
-        "https://live-hls-web-ajm2-fa.thehlive.com/AJM2/index.m3u8"
+        "https://live-hls-web-ajm2-fa.thehlive.com/AJM2/index.m3u8",
+        "https://live-hls-web-ajm2-fa.getaj.net/AJM2/index.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -1895,7 +1895,6 @@
       "name": "Eagle News",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/EagleNews.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/Eagle/HLSv3-FTA/Eagle.m3u8",
         "https://cdn4.skygo.mn/live/disk1/Eagle/DASH-FTA/Eagle.mpd"
       ],
       "category": "News",
@@ -6422,6 +6421,7 @@
       "name": "CNA",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/al/CNA.al.png",
       "streamUrls": [
+        "https://live1.mediadesk.al/cnatvlive.m3u8",
         "https://op-group1-swiftservehd-1.dens.tv/h/h29/index.m3u8"
       ],
       "country": "AL",
@@ -6491,5 +6491,5 @@
     }
   ],
   "count": 628,
-  "generated_at": "2026-06-24T17:54:13.528216"
+  "generated_at": "2026-06-24T21:22:05.381476"
 }
