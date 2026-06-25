@@ -159,6 +159,7 @@
       "name": "Kyiv",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/Kyiv.ua.png",
       "streamUrls": [
+        "https://adpnetworkhd-cmd.github.io/iptv/Kyiv.m3u8",
         "https://api-tv.ipnet.ua/api/v1/manifest/1293296300.m3u8"
       ],
       "category": "Ukraine",
@@ -219,7 +220,8 @@
       "name": "Pershyi",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/Pershyi.ua.png",
       "streamUrls": [
-        "https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8"
+        "https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8",
+        "https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8"
       ],
       "category": "Ukraine",
       "languages": []
@@ -229,8 +231,8 @@
       "name": "Pervyy gorodskoy. Odessa",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/PervyygorodskoyOdessa.ua.png",
       "streamUrls": [
-        "http://91.194.79.46:8081/stream1/channel1/playlist.m3u8",
-        "http://91.194.79.46:8081/stream2/channel2/playlist.m3u8"
+        "http://91.194.79.46:8081/stream2/channel2/playlist.m3u8",
+        "http://91.194.79.46:8081/stream1/channel1/playlist.m3u8"
       ],
       "category": "Ukraine",
       "languages": []
@@ -694,7 +696,8 @@
       "name": "M1",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/M1.ua.png",
       "streamUrls": [
-        "https://iptv.prosto.tv/ch122/index.m3u8"
+        "https://iptv.prosto.tv/ch122/index.m3u8",
+        "http://158.101.222.193:88/georgia_play.php?id=m1"
       ],
       "category": "Ukraine",
       "languages": []
@@ -744,8 +747,8 @@
       "name": "FilmUADrama",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/FilmUADrama.ua.png",
       "streamUrls": [
-        "https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8",
-        "http://88.99.215.227/FilmUADrama/index.m3u8"
+        "http://88.99.215.227/FilmUADrama/index.m3u8",
+        "https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8"
       ],
       "category": "Ukraine",
       "languages": []
@@ -845,13 +848,76 @@
       "name": "TVA",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/TVA.ua.png",
       "streamUrls": [
-        "https://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8"
+        "http://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8",
+        "http://hls.cdn.ua/tva.ua_live/livestream/chunklist_w396178779.m3u8",
+        "http://rtsp.cdn.ua/tva.ua_live/livestream/playlist.m3u8"
       ],
       "country": "UA",
       "category": "Ukraine",
       "languages": []
+    },
+    {
+      "id": "KvartalTV.ua",
+      "name": "Kvartal TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/KvartalTV.ua.png",
+      "streamUrls": [
+        "http://158.101.222.193:88/georgia_play.php?id=kvartal95"
+      ],
+      "country": "UA",
+      "category": "Ukraine",
+      "languages": []
+    },
+    {
+      "id": "Bigudi.ua",
+      "name": "Bigudi",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/Bigudi.ua.png",
+      "streamUrls": [
+        "https://adpnetworkhd-cmd.github.io/iptv/Bigudi.m3u8"
+      ],
+      "category": "Ukraine",
+      "languages": []
+    },
+    {
+      "id": "Bolt.ua",
+      "name": "Bolt",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/Bolt.ua.png",
+      "streamUrls": [
+        "https://adpnetworkhd-cmd.github.io/iptv/BoltUA.m3u8"
+      ],
+      "category": "Ukraine",
+      "languages": []
+    },
+    {
+      "id": "EnterFilm.ua",
+      "name": "Enter-Film",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/EnterFilm.ua.png",
+      "streamUrls": [
+        "https://adpnetworkhd-cmd.github.io/iptv/Enterfilm.m3u8"
+      ],
+      "category": "Ukraine",
+      "languages": []
+    },
+    {
+      "id": "K1.ua",
+      "name": "K1",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/K1.ua.png",
+      "streamUrls": [
+        "https://adpnetworkhd-cmd.github.io/iptv/K1.m3u8"
+      ],
+      "category": "Ukraine",
+      "languages": []
+    },
+    {
+      "id": "K2.ua",
+      "name": "K2",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/K2.ua.png",
+      "streamUrls": [
+        "https://adpnetworkhd-cmd.github.io/iptv/K2.m3u8"
+      ],
+      "category": "Ukraine",
+      "languages": []
     }
   ],
-  "count": 84,
-  "generated_at": "2026-06-24T21:22:05.389268"
+  "count": 90,
+  "generated_at": "2026-06-25T03:30:10.827872"
 }

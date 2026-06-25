@@ -47,7 +47,8 @@
       "name": "ATV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/ATV.tr.png",
       "streamUrls": [
-        "http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8"
+        "http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8",
+        "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8"
       ],
       "category": "Turkey",
       "languages": []
@@ -367,7 +368,7 @@
     {
       "id": "GEMPixel.tr",
       "name": "GEM Pixel",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=gemgroup.tv",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Google_Gemini_Screenshot_%282026%29.png/330px-Google_Gemini_Screenshot_%282026%29.png",
       "streamUrls": [
         "https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8"
       ],
@@ -419,8 +420,8 @@
       "name": "Haber61 TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/Haber61TV.tr.png",
       "streamUrls": [
-        "https://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8",
-        "https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8"
+        "https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8",
+        "https://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8"
       ],
       "category": "Turkey",
       "languages": []
@@ -591,8 +592,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/KanalDDrama.tr.png",
       "streamUrls": [
         "https://thema-vivekanald-rakuten.amagi.tv/playlist.m3u8",
-        "http://8.243.126.131:8000/play/a0mn/index.m3u8",
-        "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8"
+        "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8",
+        "http://8.243.126.131:8000/play/a0mn/index.m3u8"
       ],
       "category": "Turkey",
       "languages": []
@@ -883,8 +884,8 @@
       "name": "PowerTurk TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/PowerTurkTV.tr.png",
       "streamUrls": [
-        "https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8",
-        "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8"
+        "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8",
+        "https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8"
       ],
       "category": "Turkey",
       "languages": []
@@ -934,8 +935,8 @@
       "name": "TGRT Belgesel",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/TGRTBelgesel.tr.png",
       "streamUrls": [
-        "http://463758a0.ucomist.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/6860/index.m3u8",
-        "https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8"
+        "https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8",
+        "http://463758a0.ucomist.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/6860/index.m3u8"
       ],
       "category": "Turkey",
       "languages": []
@@ -966,8 +967,8 @@
       "name": "TMB",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/TMB.tr.png",
       "streamUrls": [
-        "https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/tmb-tv.m3u8",
-        "https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8"
+        "https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8",
+        "https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/tmb-tv.m3u8"
       ],
       "category": "Turkey",
       "languages": []
@@ -1337,8 +1338,18 @@
       "country": "TR",
       "category": "Turkey",
       "languages": []
+    },
+    {
+      "id": "CocukSmart.tr",
+      "name": "Cocuk Smart",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/CocukSmart.tr.png",
+      "streamUrls": [
+        "https://adpnetworkhd-cmd.github.io/iptv/CocukSmart.m3u8"
+      ],
+      "category": "Turkey",
+      "languages": []
     }
   ],
-  "count": 132,
-  "generated_at": "2026-06-24T21:22:05.305858"
+  "count": 133,
+  "generated_at": "2026-06-25T03:30:10.269992"
 }
