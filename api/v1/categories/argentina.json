@@ -195,16 +195,6 @@
       "languages": []
     },
     {
-      "id": "Canal7Neuquen.ar",
-      "name": "Canal 7 Neuquen",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/Canal7Neuquen.ar.png",
-      "streamUrls": [
-        "https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8"
-      ],
-      "category": "Argentina",
-      "languages": []
-    },
-    {
       "id": "Canal7Salta.ar",
       "name": "Canal 7 Salta",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/Canal7Salta.ar.png",
@@ -892,7 +882,8 @@
       "name": "Bragado TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/BragadoTV.ar.png",
       "streamUrls": [
-        "https://srv1053170.hstgr.cloud/hls/bragadotv.m3u8"
+        "https://srv1053170.hstgr.cloud/hls/bragadotv.m3u8",
+        "https://mp.panelchs.com:1936/8028/ngrp:8028_all/playlist.m3u8"
       ],
       "country": "AR",
       "category": "Argentina",
@@ -967,8 +958,18 @@
       ],
       "category": "Argentina",
       "languages": []
+    },
+    {
+      "id": "CosmosTv.ar",
+      "name": "Cosmos Tv",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/CosmosTv.ar.png",
+      "streamUrls": [
+        "https://canaletaplus.com:3922/live/cosmoslive.m3u8"
+      ],
+      "category": "Argentina",
+      "languages": []
     }
   ],
   "count": 95,
-  "generated_at": "2026-06-25T21:42:01.996662"
+  "generated_at": "2026-06-26T03:37:49.422766"
 }

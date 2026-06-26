@@ -550,7 +550,7 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/qa/AlJazeeraMubasher.qa.png",
       "streamUrls": [
         "https://live-hls-web-ajm-fa.thehlive.com/AJM/index.m3u8",
-        "https://live-hls-apps-ajm-v3-fa.getaj.net/AJM/index.m3u8",
+        "https://live-hls-web-ajm.getaj.net/AJM/index.m3u8",
         "https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8"
       ],
       "category": "News",
@@ -561,9 +561,9 @@
       "name": "Al Jazeera Mubasher 24",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/qa/AlJazeeraMubasher24.qa.png",
       "streamUrls": [
+        "https://live-hls-web-ajm24-fa.getaj.net/AJM24/index.m3u8",
         "https://live-hls-web-ajm24-fa.thehlive.com/AJM24/index.m3u8",
-        "https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8",
-        "https://live-hls-web-ajm24-fa.getaj.net/AJM24/index.m3u8"
+        "https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -573,8 +573,8 @@
       "name": "Al Jazeera Mubasher Broadcast 2",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/qa/AlJazeeraMubasherBroadcast2.qa.png",
       "streamUrls": [
-        "https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8",
         "https://live-hls-web-ajm2-fa.getaj.net/AJM2/index.m3u8",
+        "https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8",
         "https://live-hls-web-ajm2-fa.thehlive.com/AJM2/index.m3u8"
       ],
       "category": "News",
@@ -6468,8 +6468,39 @@
       ],
       "category": "News",
       "languages": []
+    },
+    {
+      "id": "IraneFardaTV.uk",
+      "name": "IraneFarda TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/IraneFardaTV.uk.png",
+      "streamUrls": [
+        "https://iranefardalive.com/stream/live.m3u8"
+      ],
+      "country": "UK",
+      "category": "News",
+      "languages": []
+    },
+    {
+      "id": "AntikInfoTV.sk",
+      "name": "Antik Info TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://dash4.antik.sk/live/test_infokanal_tizen/playlist.m3u8"
+      ],
+      "category": "News",
+      "languages": []
+    },
+    {
+      "id": "CosmosTv.ar",
+      "name": "Cosmos Tv",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/CosmosTv.ar.png",
+      "streamUrls": [
+        "https://canaletaplus.com:3922/live/cosmoslive.m3u8"
+      ],
+      "category": "News",
+      "languages": []
     }
   ],
-  "count": 626,
-  "generated_at": "2026-06-25T21:42:02.083044"
+  "count": 629,
+  "generated_at": "2026-06-26T03:37:49.505145"
 }

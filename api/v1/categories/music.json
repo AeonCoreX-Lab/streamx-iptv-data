@@ -3319,19 +3319,6 @@
       "genre": "Music"
     },
     {
-      "id": "AMusicChannel.ng",
-      "name": "AMusic Channel",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ng/AMusicChannel.ng.png",
-      "streamUrls": [
-        "http://mn-nl.mncdn.com/amusictv/amusicsrt.stream/playlist.m3u8",
-        "https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/LVP8DMYRYH6F6Y5UUO8J/hls3/now,-1m/m.m3u8?ads.vf=McCy6HuluFe",
-        "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_021/Stream/playlist.m3u8"
-      ],
-      "category": "Music",
-      "languages": [],
-      "genre": "Music"
-    },
-    {
       "id": "MuzTV.ru",
       "name": "Muz-TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/MuzTV.ru.png",
@@ -4401,8 +4388,8 @@
       "name": "Makao TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/MakaoTV.do.png",
       "streamUrls": [
-        "https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8",
-        "https://live.obslivestream.com/makaomux/index.m3u8"
+        "https://live.obslivestream.com/makaomux/index.m3u8",
+        "https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8"
       ],
       "country": "DO",
       "category": "Music",
@@ -4544,6 +4531,7 @@
       "name": "D3 TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ml/D3TV.ml.png",
       "streamUrls": [
+        "https://live20.bozztv.com/akamaissh101/ssh101/d3tvnet/playlist.m3u8",
         "https://lbgo.bozztv.com/ssh101/ssh101/d3tvnet/playlist.m3u8"
       ],
       "country": "ML",
@@ -4561,8 +4549,68 @@
       "country": "CZ",
       "category": "Music",
       "languages": []
+    },
+    {
+      "id": "EstelarTV.pe",
+      "name": "Estelar TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pe/EstelarTV.pe.png",
+      "streamUrls": [
+        "https://srt.tvdatta.com/tvestelar/index.m3u8"
+      ],
+      "category": "Music",
+      "languages": []
+    },
+    {
+      "id": "FolkloreTV.pe",
+      "name": "Folklore TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pe/FolkloreTV.pe.png",
+      "streamUrls": [
+        "https://play.folkloretv.pe/StreamSD/index.m3u8"
+      ],
+      "category": "Music",
+      "languages": []
+    },
+    {
+      "id": "MetropolitanadelCuzco.pe",
+      "name": "Metropolitana del Cuzco",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pe/MetropolitanadelCuzco.pe.png",
+      "streamUrls": [
+        "https://video1.earthcam.com/myearthcam/075ff02f78c35af55564cf3af3b3f750.flv/playlist.m3u8"
+      ],
+      "category": "Music",
+      "languages": []
+    },
+    {
+      "id": "Millenium109FM.pe",
+      "name": "Millenium 109 FM",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pe/Millenium109FM.pe.png",
+      "streamUrls": [
+        "https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8"
+      ],
+      "category": "Music",
+      "languages": []
+    },
+    {
+      "id": "NutaTV.pl",
+      "name": "Nuta TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/NutaTV.pl.png",
+      "streamUrls": [
+        "https://adpnetworkhd-cmd.github.io/iptv/NutaTV.m3u8"
+      ],
+      "category": "Music",
+      "languages": []
+    },
+    {
+      "id": "Totovision.gt",
+      "name": "Totovision",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gt/Totovision.gt.png",
+      "streamUrls": [
+        "https://cdn.streamhispanatv.net:3652/live/totovisiongtlive.m3u8"
+      ],
+      "category": "Music",
+      "languages": []
     }
   ],
-  "count": 441,
-  "generated_at": "2026-06-25T21:42:02.035486"
+  "count": 446,
+  "generated_at": "2026-06-26T03:37:49.459794"
 }
