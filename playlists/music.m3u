@@ -811,6 +811,8 @@ https://tvcosta.gleeze.com/memfs/4d48db09-0b1e-4803-8da7-22be388bdd7e.m3u8
 https://cdn-backup.lulzy.eu/vclassic_stream/index.m3u8
 #EXTINF:-1 tvg-id="MCM.fr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/fr/MCM.fr.png" group-title="Music [HD]",MCM [HD]
 http://rezofoot.tv/MCM/index.m3u8
+#EXTINF:-1 tvg-id="MusicBoxClassic.cz" tvg-logo="https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png" group-title="Music",Music Box Classic
+http://88.212.15.19/live/mb_classic/index.m3u8
 #EXTINF:-1 tvg-id="MusicBoxDance.cz" tvg-logo="https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png" group-title="Music",Music Box Dance
 http://88.212.15.19/live/mb_dance/index.m3u8
 #EXTINF:-1 tvg-id="AndinaRTV.pe" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pe/AndinaRTV.pe.png" group-title="Music [HD]",Andina RTV [HD]
@@ -846,7 +848,7 @@ https://channels.trace.plus/Traceprod/TOCA_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceVanillaIslands.fr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/fr/TraceVanillaIslands.fr.png" group-title="Music [HD]",Trace Vanilla Islands [HD]
 https://channels.trace.plus/Traceprod/VANILLA_hd/index.m3u8
 #EXTINF:-1 tvg-id="MakaoTV.do" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/MakaoTV.do.png" group-title="Music [FHD]",Makao TV [FHD]
-https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8
+https://live.obslivestream.com/makaomux/index.m3u8
 #EXTINF:-1 tvg-id="4FunDance.pl" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/4FunDance.pl.png" group-title="Music",4 Fun Dance
 http://89.218.32.179:18000/play/a016
 #EXTINF:-1 tvg-id="RadioRumbaTV.pe" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pe/RadioRumbaTV.pe.png" group-title="Music [HD]",Radio Rumba TV [HD]
@@ -874,10 +876,18 @@ https://trs1.aynaott.com/discoverykids/index.m3u8
 #EXTINF:-1 tvg-id="CEACOMTV.bo" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bo/CEACOMTV.bo.png" group-title="Music [FHD]",CEACOM TV [FHD]
 https://eu1.servers10.com:8081/ceacom/index.m3u8
 #EXTINF:-1 tvg-id="D3TV.ml" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ml/D3TV.ml.png" group-title="Music [SD]",D3 TV [SD]
-https://lbgo.bozztv.com/ssh101/ssh101/d3tvnet/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/d3tvnet/playlist.m3u8
 #EXTINF:-1 tvg-id="RetroMusicTV.cz" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cz/RetroMusicTV.cz.png" group-title="Music [FHD]",Retro Music TV [FHD]
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 tvg-id="AMusicChannel.ng" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ng/AMusicChannel.ng.png" group-title="Music [SD]",AMusic Channel [SD]
-http://mn-nl.mncdn.com/amusictv/amusicsrt.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="MusicBoxClassic.cz" tvg-logo="https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png" group-title="Music",Music Box Classic
-http://88.212.15.19/live/mb_classic/index.m3u8
+#EXTINF:-1 tvg-id="EstelarTV.pe" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pe/EstelarTV.pe.png" group-title="Music [FHD]",Estelar TV [FHD]
+https://srt.tvdatta.com/tvestelar/index.m3u8
+#EXTINF:-1 tvg-id="FolkloreTV.pe" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pe/FolkloreTV.pe.png" group-title="Music [HD]",Folklore TV [HD]
+https://play.folkloretv.pe/StreamSD/index.m3u8
+#EXTINF:-1 tvg-id="MetropolitanadelCuzco.pe" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pe/MetropolitanadelCuzco.pe.png" group-title="Music [SD]",Metropolitana del Cuzco [SD]
+https://video1.earthcam.com/myearthcam/075ff02f78c35af55564cf3af3b3f750.flv/playlist.m3u8
+#EXTINF:-1 tvg-id="Millenium109FM.pe" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pe/Millenium109FM.pe.png" group-title="Music [SD]",Millenium 109 FM [SD]
+https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
+#EXTINF:-1 tvg-id="NutaTV.pl" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/NutaTV.pl.png" group-title="Music [SD]",Nuta TV [SD]
+https://adpnetworkhd-cmd.github.io/iptv/NutaTV.m3u8
+#EXTINF:-1 tvg-id="Totovision.gt" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gt/Totovision.gt.png" group-title="Music",Totovision
+https://cdn.streamhispanatv.net:3652/live/totovisiongtlive.m3u8
