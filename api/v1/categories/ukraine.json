@@ -6,6 +6,7 @@
       "name": "Army TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/ArmyTV.ua.png",
       "streamUrls": [
+        "http://195.54.52.40:80/test/index.m3u8",
         "https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8"
       ],
       "category": "Ukraine",
@@ -222,8 +223,7 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/Pershyi.ua.png",
       "streamUrls": [
         "https://adpnetworkhd-cmd.github.io/iptv/Pershyi.m3u8",
-        "https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8",
-        "https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8"
+        "https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8"
       ],
       "category": "Ukraine",
       "languages": []
@@ -233,8 +233,8 @@
       "name": "Pervyy gorodskoy. Odessa",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/PervyygorodskoyOdessa.ua.png",
       "streamUrls": [
-        "http://91.194.79.46:8081/stream1/channel1/playlist.m3u8",
-        "http://91.194.79.46:8081/stream2/channel2/playlist.m3u8"
+        "http://91.194.79.46:8081/stream2/channel2/playlist.m3u8",
+        "http://91.194.79.46:8081/stream1/channel1/playlist.m3u8"
       ],
       "category": "Ukraine",
       "languages": []
@@ -294,8 +294,8 @@
       "name": "SK 1",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/SK1.ua.png",
       "streamUrls": [
-        "http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8",
-        "http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8"
+        "http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8",
+        "http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8"
       ],
       "category": "Ukraine",
       "languages": []
@@ -579,8 +579,8 @@
       "name": "1+1 International",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/1Plus1International.ua.png",
       "streamUrls": [
-        "http://34cb12c24-ottiptv.github.io/iptv/MM4E93NGF5LADZ/4829224/index.m3u8",
-        "https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8"
+        "https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8",
+        "http://34cb12c24-ottiptv.github.io/iptv/MM4E93NGF5LADZ/4829224/index.m3u8"
       ],
       "category": "Ukraine",
       "languages": []
@@ -651,7 +651,8 @@
       "name": "Viasat Kino Comedy",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/ViasatKinoComedy.ua.png",
       "streamUrls": [
-        "http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/31764/index.m3u8"
+        "http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/31764/index.m3u8",
+        "http://ukr.ukrainske.tv/493/keytvainua/video.m3u8"
       ],
       "category": "Ukraine",
       "languages": []
@@ -701,7 +702,8 @@
       "name": "M1",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/M1.ua.png",
       "streamUrls": [
-        "https://iptv.prosto.tv/ch122/index.m3u8"
+        "https://iptv.prosto.tv/ch122/index.m3u8",
+        "http://158.101.222.193:88/georgia_play.php?id=m1"
       ],
       "category": "Ukraine",
       "languages": []
@@ -731,6 +733,7 @@
       "name": "Niki Kids",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/NikiKids.ua.png",
       "streamUrls": [
+        "https://adpnetworkhd-cmd.github.io/iptv/NIKIKids.m3u8",
         "https://iptv.prosto.tv/ch71/index.m3u8"
       ],
       "category": "Ukraine",
@@ -853,9 +856,9 @@
       "name": "TVA",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/TVA.ua.png",
       "streamUrls": [
-        "http://hls.cdn.ua/tva.ua_live/livestream/chunklist_w396178779.m3u8",
+        "http://rtsp.cdn.ua/tva.ua_live/livestream/playlist.m3u8",
         "http://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8",
-        "http://rtsp.cdn.ua/tva.ua_live/livestream/playlist.m3u8"
+        "http://hls.cdn.ua/tva.ua_live/livestream/chunklist_w396178779.m3u8"
       ],
       "country": "UA",
       "category": "Ukraine",
@@ -974,5 +977,5 @@
     }
   ],
   "count": 95,
-  "generated_at": "2026-06-27T03:23:13.148098"
+  "generated_at": "2026-06-27T06:52:09.378818"
 }
