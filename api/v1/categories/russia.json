@@ -2095,16 +2095,6 @@
       "languages": []
     },
     {
-      "id": "TVPRO.ru",
-      "name": "TV PRO",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/TVPRO.ru.png",
-      "streamUrls": [
-        "http://rtmp.tvpro-online.ru/hls/ch1.m3u8"
-      ],
-      "category": "Russia",
-      "languages": []
-    },
-    {
       "id": "TV3.ru",
       "name": "TV-3",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/TV3.ru.png",
@@ -2773,7 +2763,8 @@
       "name": "REN TV International",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/RENTVInternational.ru.png",
       "streamUrls": [
-        "http://178.134.1.158:8081/RENTV/index.m3u8"
+        "http://178.134.1.158:8081/RENTV/index.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8"
       ],
       "category": "Russia",
       "languages": []
@@ -2815,8 +2806,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/MosfilmGoldCollection.ru.png",
       "streamUrls": [
         "https://adpnetworkhd-cmd.github.io/iptv/MosfilmGoldCollection.m3u8",
-        "http://31.222.235.15/mosfilm/index.m3u8",
-        "http://hls127.freeott.top:8080/Mosfilm/video.m3u8"
+        "http://hls127.freeott.top:8080/Mosfilm/video.m3u8",
+        "http://31.222.235.15/mosfilm/index.m3u8"
       ],
       "category": "Russia",
       "languages": []
@@ -3306,6 +3297,6 @@
       "languages": []
     }
   ],
-  "count": 314,
-  "generated_at": "2026-06-28T17:11:13.151090"
+  "count": 313,
+  "generated_at": "2026-06-28T21:00:45.806347"
 }
