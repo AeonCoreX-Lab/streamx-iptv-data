@@ -549,9 +549,9 @@
       "name": "Al Jazeera Mubasher",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/qa/AlJazeeraMubasher.qa.png",
       "streamUrls": [
+        "https://live-hls-web-ajm-fa.thehlive.com/AJM/index.m3u8",
         "https://live-hls-web-ajm.getaj.net/AJM/index.m3u8",
-        "https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8",
-        "https://live-hls-web-ajm-fa.thehlive.com/AJM/index.m3u8"
+        "https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -561,9 +561,9 @@
       "name": "Al Jazeera Mubasher 24",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/qa/AlJazeeraMubasher24.qa.png",
       "streamUrls": [
-        "https://live-hls-web-ajm24-fa.thehlive.com/AJM24/index.m3u8",
+        "https://live-hls-web-ajm24-fa.getaj.net/AJM24/index.m3u8",
         "https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8",
-        "https://live-hls-web-ajm24-fa.getaj.net/AJM24/index.m3u8"
+        "https://live-hls-web-ajm24-fa.thehlive.com/AJM24/index.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -573,9 +573,9 @@
       "name": "Al Jazeera Mubasher Broadcast 2",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/qa/AlJazeeraMubasherBroadcast2.qa.png",
       "streamUrls": [
-        "https://live-hls-web-ajm2-fa.thehlive.com/AJM2/index.m3u8",
+        "https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8",
         "https://live-hls-web-ajm2-fa.getaj.net/AJM2/index.m3u8",
-        "https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8"
+        "https://live-hls-web-ajm2-fa.thehlive.com/AJM2/index.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -1856,8 +1856,7 @@
       "name": "ETV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/ETV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/ETV/HLSv3-FTA/ETV.m3u8",
-        "https://cdn4.skygo.mn/live/disk1/ETV/DASH-FTA/ETV.mpd"
+        "https://cdn4.skygo.mn/live/disk1/ETV/HLSv3-FTA/ETV.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -1897,8 +1896,7 @@
       "name": "Eagle News",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/EagleNews.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/Eagle/DASH-FTA/Eagle.mpd",
-        "https://cdn4.skygo.mn/live/disk1/Eagle/HLSv3-FTA/Eagle.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/Eagle/DASH-FTA/Eagle.mpd"
       ],
       "category": "News",
       "languages": []
@@ -5884,6 +5882,7 @@
       "name": "Sky News",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ie/SkyNews.ie.png",
       "streamUrls": [
+        "http://41.205.77.102/SKYNEWS/index.m3u8",
         "https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8"
       ],
       "category": "News",
@@ -6409,6 +6408,26 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/CosmosTv.ar.png",
       "streamUrls": [
         "https://canaletaplus.com:3922/live/cosmoslive.m3u8"
+      ],
+      "category": "News",
+      "languages": []
+    },
+    {
+      "id": "RTBalkan.ru",
+      "name": "RT Balkan",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/330px-Russia-today-logo.svg.png",
+      "streamUrls": [
+        "https://rt-srb.rttv.com/live/rtbalkan/playlist.m3u8"
+      ],
+      "category": "News",
+      "languages": []
+    },
+    {
+      "id": "TeleCauquenes.cl",
+      "name": "TeleCauquenes",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cl/TeleCauquenes.cl.png",
+      "streamUrls": [
+        "https://lbgo.bozztv.com/ssh101/ssh101/telecauquenestv/playlist.m3u8"
       ],
       "category": "News",
       "languages": []

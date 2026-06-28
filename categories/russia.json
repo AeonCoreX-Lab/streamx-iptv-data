@@ -2581,16 +2581,6 @@
       "languages": []
     },
     {
-      "id": "BabyTime.ru",
-      "name": "Baby Time",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/BabyTime.ru.png",
-      "streamUrls": [
-        "http://89.218.32.179:18000/play/a028"
-      ],
-      "category": "Russia",
-      "languages": []
-    },
-    {
       "id": "Channel8International.ru",
       "name": "Channel 8 International",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Channel8International.ru.png",
@@ -2778,7 +2768,7 @@
       "name": "REN TV International",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/RENTVInternational.ru.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8"
+        "http://178.134.1.158:8081/RENTV/index.m3u8"
       ],
       "category": "Russia",
       "languages": []
@@ -2820,8 +2810,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/MosfilmGoldCollection.ru.png",
       "streamUrls": [
         "https://adpnetworkhd-cmd.github.io/iptv/MosfilmGoldCollection.m3u8",
-        "http://hls127.freeott.top:8080/Mosfilm/video.m3u8",
-        "http://31.222.235.15/mosfilm/index.m3u8"
+        "http://31.222.235.15/mosfilm/index.m3u8",
+        "http://hls127.freeott.top:8080/Mosfilm/video.m3u8"
       ],
       "category": "Russia",
       "languages": []
@@ -2917,20 +2907,11 @@
       "languages": []
     },
     {
-      "id": "ZharaKidsTV.ru",
-      "name": "Zhara Kids TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/ZharaKidsTV.ru.png",
-      "streamUrls": [
-        "https://trs1.aynaott.com/discoverykids/index.m3u8"
-      ],
-      "category": "Russia",
-      "languages": []
-    },
-    {
       "id": "Channel5International.ru",
       "name": "Channel 5 International",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Channel5International.ru.png",
       "streamUrls": [
+        "http://178.134.1.158:8081/5channel/index.m3u8",
         "https://cdn4.skygo.mn/live/disk1/Channel_5/HLSv3-FTA/Channel_5.m3u8"
       ],
       "category": "Russia",
@@ -3092,7 +3073,8 @@
       "name": ".red",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/red.ru.png",
       "streamUrls": [
-        "https://adpnetworkhd-cmd.github.io/iptv/RedHD.m3u8"
+        "https://adpnetworkhd-cmd.github.io/iptv/RedHD.m3u8",
+        "http://5.188.159.128:8070/RED/index.m3u8"
       ],
       "category": "Russia",
       "languages": []
@@ -3273,6 +3255,46 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/TopSecret.ru.png",
       "streamUrls": [
         "http://hls127.freeott.top:8080/Sovershenno_Sekretno/video.m3u8"
+      ],
+      "category": "Russia",
+      "languages": []
+    },
+    {
+      "id": "RTBalkan.ru",
+      "name": "RT Balkan",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/330px-Russia-today-logo.svg.png",
+      "streamUrls": [
+        "https://rt-srb.rttv.com/live/rtbalkan/playlist.m3u8"
+      ],
+      "category": "Russia",
+      "languages": []
+    },
+    {
+      "id": "Sportivnyy.ru",
+      "name": "Sportivnyy",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Sportivnyy.ru.png",
+      "streamUrls": [
+        "https://live-3.otcnet.ru/sportivny/index.m3u8"
+      ],
+      "category": "Russia",
+      "languages": []
+    },
+    {
+      "id": "VitrinaTV.ru",
+      "name": "Vitrina TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/VitrinaTV.ru.png",
+      "streamUrls": [
+        "https://live-11cinema.cdnvideo.ru/11cinema/11cinema/playlist.m3u8"
+      ],
+      "category": "Russia",
+      "languages": []
+    },
+    {
+      "id": "Vkus.ru",
+      "name": "Vkus",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/330px-REN_TV_logo_2017.svg.png",
+      "streamUrls": [
+        "http://178.134.1.158:8081/vkus/index.m3u8"
       ],
       "category": "Russia",
       "languages": []
