@@ -5139,16 +5139,6 @@
       "languages": []
     },
     {
-      "id": "GarudaTV.id",
-      "name": "Garuda TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/GarudaTV.id.png",
-      "streamUrls": [
-        "https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8"
-      ],
-      "category": "Other",
-      "languages": []
-    },
-    {
       "id": "Gen.py",
       "name": "Gen",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/py/Gen.py.png",
@@ -12283,7 +12273,7 @@
       "name": "TV 25",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/TV25.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/MN25/HLSv3-FTA/MN25.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/MN25/DASH-FTA/MN25.mpd"
       ],
       "category": "Entertainment",
       "languages": []
@@ -15588,17 +15578,6 @@
       "languages": []
     },
     {
-      "id": "ExOnTheBeach.us",
-      "name": "Ex On The Beach",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/ExOnTheBeach.us.png",
-      "streamUrls": [
-        "https://jmp2.uk/plu-61c09072a09bbe00078f5692.m3u8",
-        "https://jmp2.uk/plu-61c1d66518447e000717e4c2.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "Gametoon.nl",
       "name": "Gametoon",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/nl/Gametoon.nl.png",
@@ -15655,17 +15634,6 @@
       "streamUrls": [
         "http://85.14.32.26:8800/udp/239.100.10.67:5000",
         "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/12055/index.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
-      "id": "PimpmyRide.us",
-      "name": "Pimp my Ride",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/PimpmyRide.us.png",
-      "streamUrls": [
-        "https://jmp2.uk/plu-61c091343bf4940007803e03.m3u8",
-        "https://jmp2.uk/plu-61c09a3894aa450007814aea.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -16440,16 +16408,6 @@
         "http://www.coninfo.net:1935/tvlink/live/playlist.m3u8"
       ],
       "category": "Other",
-      "languages": []
-    },
-    {
-      "id": "PrvaMontenegro.me",
-      "name": "Prva Montenegro",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/me/PrvaMontenegro.me.png",
-      "streamUrls": [
-        "https://lb.dstvmultimedia.com/PrvaTVCG/index.m3u8"
-      ],
-      "category": "Entertainment",
       "languages": []
     },
     {
@@ -18159,17 +18117,6 @@
       "languages": []
     },
     {
-      "id": "ArpegioTV.pe",
-      "name": "Arpegio TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pe/ArpegioTV.pe.png",
-      "streamUrls": [
-        "https://vdo.oyotunserver.com/arpegio/video.m3u8"
-      ],
-      "country": "PE",
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "red.ru",
       "name": ".red",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/red.ru.png",
@@ -18693,16 +18640,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/af/ToloTV.af.png",
       "streamUrls": [
         "https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolohd/tracks-v1a1/mono.m3u8"
-      ],
-      "category": "News",
-      "languages": []
-    },
-    {
-      "id": "UnicaTV.bo",
-      "name": "Unica TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bo/UnicaTV.bo.png",
-      "streamUrls": [
-        "https://59d39900ebfb8.streamlock.net/unicatv/unicatv/playlist.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -19732,8 +19669,48 @@
       ],
       "category": "Entertainment",
       "languages": []
+    },
+    {
+      "id": "CSINYenespanol.us",
+      "name": "CSI: NY en espanol",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/330px-Pluto_TV_logo_2024.svg.png",
+      "streamUrls": [
+        "https://jmp2.uk/plu-632b606e12a67b0007c9e371.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "FXX.us",
+      "name": "FXX",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/FXX.us.png",
+      "streamUrls": [
+        "http://23.237.104.106:8080/USA_FXX/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "LiveMusic.us",
+      "name": "Live Music",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Fuse_Black_Logo_2017.png/330px-Fuse_Black_Logo_2017.png",
+      "streamUrls": [
+        "https://jmp2.uk/plu-5873fc21cad696fb37aa9054.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "MTVEmbarazadaalos16.de",
+      "name": "MTV Embarazada a los 16",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
+      "streamUrls": [
+        "https://jmp2.uk/plu-5f98537a5a4341000733aefe.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
     }
   ],
-  "count": 1936,
-  "generated_at": "2026-06-29T18:09:11.703374"
+  "count": 1934,
+  "generated_at": "2026-06-29T21:26:30.936539"
 }
