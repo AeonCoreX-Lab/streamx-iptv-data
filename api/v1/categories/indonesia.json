@@ -186,6 +186,7 @@
       "name": "CNBC Indonesia",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/CNBCIndonesia.id.png",
       "streamUrls": [
+        "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8",
         "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8"
       ],
       "category": "Indonesia",
@@ -296,8 +297,8 @@
       "name": "JTV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/JTV.id.png",
       "streamUrls": [
+        "http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8",
         "http://122.248.43.242:1935/JTVMADIUN/_definst_/myStream/playlist.m3u8",
-        "http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8",
         "http://122.248.43.242:1935/JTVMALANG/_definst_/myStream/playlist.m3u8"
       ],
       "category": "Indonesia",
@@ -308,9 +309,9 @@
       "name": "Jawa Pos TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/JawaPosTV.id.png",
       "streamUrls": [
+        "http://122.248.43.242:1935/JAWAPOSTVBALI/_definst_/myStream/playlist.m3u8",
         "http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8",
-        "http://122.248.43.242:1935/JAWAPOSTVMADIUN/_definst_/myStream/playlist.m3u8",
-        "http://122.248.43.242:1935/JAWAPOSTVBALI/_definst_/myStream/playlist.m3u8"
+        "http://122.248.43.242:1935/JAWAPOSTVSBY/_definst_/myStream/playlist.m3u8"
       ],
       "category": "Indonesia",
       "languages": []
@@ -511,8 +512,8 @@
       "name": "Stara TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/StaraTV.id.png",
       "streamUrls": [
+        "https://malang.staratv.id/hls/0/stream.m3u8",
         "https://bandung.staratv.id/hls/0/stream.m3u8",
-        "https://cianjur.staratv.id/hls/0/stream.m3u8",
         "https://parahyangan.staratv.id/hls/0/stream.m3u8"
       ],
       "category": "Indonesia",
@@ -573,9 +574,9 @@
       "name": "TVRI",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/TVRI.id.png",
       "streamUrls": [
-        "https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8",
-        "https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8",
-        "https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8"
+        "https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8",
+        "https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8",
+        "https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8"
       ],
       "category": "Indonesia",
       "languages": []
@@ -653,16 +654,6 @@
       "languages": []
     },
     {
-      "id": "JambiTV.id",
-      "name": "Jambi TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/JambiTV.id.png",
-      "streamUrls": [
-        "https://jambitv.globaldigitalcore.com/hls/sah5tu7Eiveepohyieyie3OoteL2anga.m3u8"
-      ],
-      "category": "Indonesia",
-      "languages": []
-    },
-    {
       "id": "SMTV.id",
       "name": "SMTV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/SMTV.id.png",
@@ -674,6 +665,6 @@
       "languages": []
     }
   ],
-  "count": 66,
-  "generated_at": "2026-06-28T21:00:45.859673"
+  "count": 65,
+  "generated_at": "2026-06-29T03:51:59.596845"
 }
