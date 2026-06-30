@@ -789,16 +789,6 @@
       "genre": "Music"
     },
     {
-      "id": "FolxSlovenija.si",
-      "name": "Folx Slovenija",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/si/FolxSlovenija.si.png",
-      "streamUrls": [
-        "https://cdne.folxplay.tv/folx-trz/streams/ch-5/master.m3u8"
-      ],
-      "category": "Music",
-      "genre": "Music"
-    },
-    {
       "id": "GMTV.us",
       "name": "GMTV",
       "logoUrl": "https://user-content.static.wf/avidwiki/thumb/e/e8/GMTV_(2004)_(From_-_August_31,_2004_broadcast).png/1067px-GMTV_(2004)_(From_-_August_31,_2004_broadcast).png",
@@ -4251,8 +4241,8 @@
       "name": "Radio Rumba TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pe/RadioRumbaTV.pe.png",
       "streamUrls": [
-        "https://tv.sistemasandinos.org/rumbatv/video.m3u8",
-        "https://live-evg7.tv360.bitel.com.pe/bitel/rumba/playlist.m3u8"
+        "https://live-evg7.tv360.bitel.com.pe/bitel/rumba/playlist.m3u8",
+        "https://tv.sistemasandinos.org/rumbatv/video.m3u8"
       ],
       "category": "Music",
       "languages": []
@@ -4551,8 +4541,19 @@
       ],
       "category": "Music",
       "languages": []
+    },
+    {
+      "id": "D3TV.ml",
+      "name": "D3 TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ml/D3TV.ml.png",
+      "streamUrls": [
+        "https://lbgo.bozztv.com/ssh101/ssh101/d3tvnet/playlist.m3u8"
+      ],
+      "country": "ML",
+      "category": "Music",
+      "languages": []
     }
   ],
   "count": 440,
-  "generated_at": "2026-06-29T21:26:30.962886"
+  "generated_at": "2026-06-30T03:35:58.130634"
 }

@@ -2762,7 +2762,7 @@
       "name": "REN TV International",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/RENTVInternational.ru.png",
       "streamUrls": [
-        "http://178.134.1.158:8081/RENTV/index.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8"
       ],
       "category": "Russia",
       "languages": []
@@ -2804,8 +2804,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/MosfilmGoldCollection.ru.png",
       "streamUrls": [
         "https://adpnetworkhd-cmd.github.io/iptv/MosfilmGoldCollection.m3u8",
-        "http://31.222.235.15/mosfilm/index.m3u8",
-        "http://hls127.freeott.top:8080/Mosfilm/video.m3u8"
+        "http://hls127.freeott.top:8080/Mosfilm/video.m3u8",
+        "http://31.222.235.15/mosfilm/index.m3u8"
       ],
       "category": "Russia",
       "languages": []
@@ -2895,7 +2895,7 @@
       "name": "Channel 5 International",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Channel5International.ru.png",
       "streamUrls": [
-        "http://178.134.1.158:8081/5channel/index.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/Channel_5/HLSv3-FTA/Channel_5.m3u8"
       ],
       "category": "Russia",
       "languages": []
@@ -3249,6 +3249,7 @@
       "name": "RT Balkan",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/330px-Russia-today-logo.svg.png",
       "streamUrls": [
+        "https://rt-srb.rttv.com/dvr/rtbalkan/playlist.m3u8",
         "https://rt-srb.rttv.com/live/rtbalkan/playlist.m3u8"
       ],
       "category": "Russia",
@@ -3293,8 +3294,39 @@
       ],
       "category": "Russia",
       "languages": []
+    },
+    {
+      "id": "NST.ru",
+      "name": "NST",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/NST.ru.png",
+      "streamUrls": [
+        "http://hls127.freeott.top:8080/HCTV/video.m3u8"
+      ],
+      "country": "RU",
+      "category": "Russia",
+      "languages": []
+    },
+    {
+      "id": "KulinarTV.ru",
+      "name": "Kulinar TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/KulinarTV.ru.png",
+      "streamUrls": [
+        "https://api.alpaca.t62a.com/hls/9110/stream0.m3u8"
+      ],
+      "category": "Russia",
+      "languages": []
+    },
+    {
+      "id": "LyubimoeTV.ru",
+      "name": "Lyubimoe.TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/LyubimoeTV.ru.png",
+      "streamUrls": [
+        "https://istoki.tv/live/stream1/playlist.m3u8"
+      ],
+      "category": "Russia",
+      "languages": []
     }
   ],
-  "count": 313,
-  "generated_at": "2026-06-29T21:26:30.925321"
+  "count": 316,
+  "generated_at": "2026-06-30T03:35:58.097222"
 }
