@@ -610,8 +610,8 @@
       "name": "Canal 5",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/Canal5.mx.png",
       "streamUrls": [
-        "http://190.11.225.124:5000/live/canal5_hd/playlist.m3u8",
-        "http://45.5.119.43:4000/play/a05o/index.m3u8"
+        "http://45.5.119.43:4000/play/a05o/index.m3u8",
+        "http://190.11.225.124:5000/live/canal5_hd/playlist.m3u8"
       ],
       "category": "Mexico",
       "languages": []
@@ -706,8 +706,28 @@
       ],
       "category": "Mexico",
       "languages": []
+    },
+    {
+      "id": "AntenaTV.mx",
+      "name": "Antena TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/AntenaTV.mx.png",
+      "streamUrls": [
+        "https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8"
+      ],
+      "category": "Mexico",
+      "languages": []
+    },
+    {
+      "id": "CBTVMichoacan.mx",
+      "name": "CB TV Michoacan",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/CBTVMichoacan.mx.png",
+      "streamUrls": [
+        "https://5ca3e84a76d30.streamlock.net/cbtv/videoc3b3t3v3/playlist.m3u8"
+      ],
+      "category": "Mexico",
+      "languages": []
     }
   ],
-  "count": 70,
-  "generated_at": "2026-07-01T21:27:48.925874"
+  "count": 72,
+  "generated_at": "2026-07-02T03:31:26.233658"
 }

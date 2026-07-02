@@ -4101,8 +4101,8 @@
       "name": "Makao TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/MakaoTV.do.png",
       "streamUrls": [
-        "https://live.obslivestream.com/makaomux/index.m3u8",
-        "https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8"
+        "https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8",
+        "https://live.obslivestream.com/makaomux/index.m3u8"
       ],
       "country": "DO",
       "category": "Music",
@@ -4384,17 +4384,6 @@
       "languages": []
     },
     {
-      "id": "RCMusic.in",
-      "name": "RC Music",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/RCMusic.in.png",
-      "streamUrls": [
-        "https://view.rcserver.in/tmp_hls2/stream/index.m3u8",
-        "https://view.rcserver.in/tmp_hls1/stream/index.m3u8"
-      ],
-      "category": "Music",
-      "languages": []
-    },
-    {
       "id": "D3TV.ml",
       "name": "D3 TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ml/D3TV.ml.png",
@@ -4426,8 +4415,48 @@
       ],
       "category": "Music",
       "languages": []
+    },
+    {
+      "id": "EskaTV.pl",
+      "name": "Eska TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/EskaTV.pl.png",
+      "streamUrls": [
+        "http://91.246.72.88:8000/play/a002/index.m3u8"
+      ],
+      "category": "Music",
+      "languages": []
+    },
+    {
+      "id": "FMPlusTV.cl",
+      "name": "FM Plus TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cl/FMPlusTV.cl.png",
+      "streamUrls": [
+        "https://v2.tustreaming.cl/fmplus/index.m3u8"
+      ],
+      "category": "Music",
+      "languages": []
+    },
+    {
+      "id": "MCMTop.fr",
+      "name": "MCM Top",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/fr/MCMTop.fr.png",
+      "streamUrls": [
+        "http://rezofoot.tv/MCM/index.m3u8"
+      ],
+      "category": "Music",
+      "languages": []
+    },
+    {
+      "id": "RewindTV.cl",
+      "name": "Rewind TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cl/RewindTV.cl.png",
+      "streamUrls": [
+        "https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8"
+      ],
+      "category": "Music",
+      "languages": []
     }
   ],
-  "count": 427,
-  "generated_at": "2026-07-01T21:27:48.927494"
+  "count": 430,
+  "generated_at": "2026-07-02T03:31:26.234562"
 }
