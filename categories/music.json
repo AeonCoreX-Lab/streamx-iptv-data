@@ -495,7 +495,7 @@
     {
       "id": "DanceTVAlgorhythm.ee",
       "name": "DanceTV Algorhythm",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=dancetv.net",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TodrickHall-byPhilipRomano.jpg/330px-TodrickHall-byPhilipRomano.jpg",
       "streamUrls": [
         "https://m2b2.worldcast.tv:7443/dancetelevisionfour/dancetelevisionfour.m3u8"
       ],
@@ -515,7 +515,7 @@
     {
       "id": "DanceTVEDMMainstage.ee",
       "name": "DanceTV EDM Mainstage",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=dancetv.net",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Sophie_Francis_Miami.jpg/330px-Sophie_Francis_Miami.jpg",
       "streamUrls": [
         "https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8"
       ],
@@ -770,9 +770,9 @@
       "name": "First Music Channel Russia",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/by/FirstMusicChannelRussia.by.png",
       "streamUrls": [
-        "http://hls127.freeott.top:8080/1muz_HD/video.m3u8",
         "http://rtmp.one.by:2300",
-        "http://rtmp.one.by:2200"
+        "http://rtmp.one.by:2200",
+        "http://hls127.freeott.top:8080/1muz_HD/video.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -822,8 +822,8 @@
       "name": "Hitradio O3",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/at/HitradioO3.at.png",
       "streamUrls": [
-        "https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/master.m3u8",
         "https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8",
+        "https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/master.m3u8",
         "https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/manifest.mpd"
       ],
       "category": "Music",
@@ -1153,16 +1153,6 @@
       "genre": "Music"
     },
     {
-      "id": "MBCAmerica.us",
-      "name": "MBC America",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/MBCAmerica.us.png",
-      "streamUrls": [
-        "https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8"
-      ],
-      "category": "Music",
-      "genre": "Music"
-    },
-    {
       "id": "MBCFM.ae",
       "name": "MBC FM",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ae/MBCFM.ae.png",
@@ -1361,9 +1351,9 @@
       "name": "NOW Rock",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/NOWRock.uk.png",
       "streamUrls": [
-        "https://lightningnow90-samsungau.amagi.tv/playlist.m3u8",
-        "https://lightning-now90s-rakuten.amagi.tv/playlist.m3u8",
-        "https://jmp2.uk/plu-6568a78d635c3c0008765f41.m3u8"
+        "http://118.142.17.190:8278/now90hls/playlist.m3u8",
+        "https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8",
+        "https://lightning-now90s-samsungse.amagi.tv/playlist.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -1393,9 +1383,9 @@
       "name": "Now 70s",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/Now70s.uk.png",
       "streamUrls": [
-        "https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8",
-        "https://lightning-now70s-rakuten.amagi.tv/playlist.m3u8",
-        "https://amg01076-amg01076c1-samsung-gb-6682.playouts.now.amagi.tv/playlist.m3u8"
+        "http://118.142.17.190:8278/now70hls/playlist.m3u8",
+        "https://lightningnow70-samsungau.amagi.tv/playlist.m3u8",
+        "https://lightning-now70s-rakuten.amagi.tv/playlist.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -1405,9 +1395,9 @@
       "name": "Now 80s",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/Now80s.uk.png",
       "streamUrls": [
+        "https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8",
         "https://samsunguk-lightning-now80s-samsunguk-n908q.amagi.tv/playlist/samsunguk-lightning-now80s-samsunguk/playlist.m3u8",
-        "https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8",
-        "https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8"
+        "https://lightningnow80-samsungau.amagi.tv/playlist.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -3241,8 +3231,8 @@
       "name": "Vantage Music",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ee/VantageMusic.ee.png",
       "streamUrls": [
-        "https://cdn-backup.lulzy.eu/vmusic_stream/index.m3u8",
         "https://cdn-backup.lulzy.eu/vrock_stream/index.m3u8",
+        "https://cdn-backup.lulzy.eu/vmusic_stream/index.m3u8",
         "https://hls.vantagetv.co.uk/vmusicuk_stream/index.m3u8"
       ],
       "category": "Music",
