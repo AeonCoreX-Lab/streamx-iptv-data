@@ -156,6 +156,7 @@
       "name": "CNBC Indonesia",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/CNBCIndonesia.id.png",
       "streamUrls": [
+        "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8",
         "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8"
       ],
       "category": "Indonesia",
@@ -257,8 +258,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/JTV.id.png",
       "streamUrls": [
         "http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8",
-        "http://122.248.43.242:1935/JTVMALANG/_definst_/myStream/playlist.m3u8",
-        "http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8"
+        "http://122.248.43.242:1935/JTVMADIUN/_definst_/myStream/playlist.m3u8",
+        "http://122.248.43.242:1935/JTVMALANG/_definst_/myStream/playlist.m3u8"
       ],
       "category": "Indonesia",
       "languages": []
@@ -354,16 +355,6 @@
       "languages": []
     },
     {
-      "id": "PKTV.id",
-      "name": "PKTV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/PKTV.id.png",
-      "streamUrls": [
-        "https://streaming.id18.tunnel.my.id/hls/stream.m3u8"
-      ],
-      "category": "Indonesia",
-      "languages": []
-    },
-    {
       "id": "RCTV.id",
       "name": "RCTV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/RCTV.id.png",
@@ -438,8 +429,8 @@
       "name": "Salira TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/SaliraTV.id.png",
       "streamUrls": [
-        "https://live.salira.tv:3870/stream/play.m3u8",
-        "https://live.salira.tv/p/3870/hybrid/play.m3u8"
+        "https://live.salira.tv/p/3870/hybrid/play.m3u8",
+        "https://live.salira.tv:3870/stream/play.m3u8"
       ],
       "category": "Indonesia",
       "languages": []
@@ -460,18 +451,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/StaraTV.id.png",
       "streamUrls": [
         "https://parahyangan.staratv.id/hls/0/stream.m3u8",
-        "https://bandung.staratv.id/hls/0/stream.m3u8",
-        "https://cianjur.staratv.id/hls/0/stream.m3u8"
-      ],
-      "category": "Indonesia",
-      "languages": []
-    },
-    {
-      "id": "SurabayaTV.id",
-      "name": "Surabaya TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/SurabayaTV.id.png",
-      "streamUrls": [
-        "https://e.siar.us/live/surabayatv.m3u8"
+        "https://stream.staratv.id/hls/0/stream.m3u8",
+        "https://bandung.staratv.id/hls/0/stream.m3u8"
       ],
       "category": "Indonesia",
       "languages": []
@@ -521,9 +502,9 @@
       "name": "TVRI",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/TVRI.id.png",
       "streamUrls": [
-        "https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8",
-        "https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8",
-        "https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8"
+        "https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8",
+        "https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8",
+        "https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8"
       ],
       "category": "Indonesia",
       "languages": []
@@ -612,6 +593,6 @@
       "languages": []
     }
   ],
-  "count": 60,
-  "generated_at": "2026-07-02T07:31:50.255290"
+  "count": 58,
+  "generated_at": "2026-07-02T10:38:53.064621"
 }
