@@ -541,9 +541,9 @@
       "name": "Al Jazeera Mubasher",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/qa/AlJazeeraMubasher.qa.png",
       "streamUrls": [
-        "https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8",
-        "https://live-hls-web-ajm.getaj.net/AJM/index.m3u8",
-        "https://live-hls-web-ajm-fa.thehlive.com/AJM/index.m3u8"
+        "https://live-hls-web-ajm-fa.thehlive.com/AJM/index.m3u8",
+        "https://live-hls-apps-ajm-v3-fa.getaj.net/AJM/index.m3u8",
+        "https://live-hls-web-ajm.getaj.net/AJM/index.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -553,9 +553,9 @@
       "name": "Al Jazeera Mubasher 24",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/qa/AlJazeeraMubasher24.qa.png",
       "streamUrls": [
-        "https://live-hls-web-ajm24-fa.thehlive.com/AJM24/index.m3u8",
         "https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8",
-        "https://live-hls-web-ajm24-fa.getaj.net/AJM24/index.m3u8"
+        "https://live-hls-web-ajm24-fa.getaj.net/AJM24/index.m3u8",
+        "https://live-hls-web-ajm24-fa.thehlive.com/AJM24/index.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -565,9 +565,9 @@
       "name": "Al Jazeera Mubasher Broadcast 2",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/qa/AlJazeeraMubasherBroadcast2.qa.png",
       "streamUrls": [
-        "https://live-hls-web-ajm2-fa.thehlive.com/AJM2/index.m3u8",
+        "https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8",
         "https://live-hls-web-ajm2-fa.getaj.net/AJM2/index.m3u8",
-        "https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8"
+        "https://live-hls-web-ajm2-fa.thehlive.com/AJM2/index.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -1807,7 +1807,7 @@
       "name": "ETV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/ETV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/ETV/DASH-FTA/ETV.mpd"
+        "https://cdn4.skygo.mn/live/disk1/ETV/HLSv3-FTA/ETV.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -3375,16 +3375,6 @@
       "streamUrls": [
         "https://live-us1.thaimomo.com/live-as/chnews1-2/playlist.m3u8",
         "http://news1.live14.com/stream/news1.m3u8"
-      ],
-      "category": "News",
-      "languages": []
-    },
-    {
-      "id": "News12Bronx.us",
-      "name": "News12 Bronx",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/News12Bronx.us.png",
-      "streamUrls": [
-        "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8?omap=https"
       ],
       "category": "News",
       "languages": []
@@ -5683,8 +5673,7 @@
       "name": "Sky News",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ie/SkyNews.ie.png",
       "streamUrls": [
-        "http://41.205.77.102/SKYNEWS/index.m3u8",
-        "https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8"
+        "http://41.205.77.102/SKYNEWS/index.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -6242,16 +6231,6 @@
       "languages": []
     },
     {
-      "id": "SomoyNewsTV.bd",
-      "name": "Somoy News TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bd/SomoyNewsTV.bd.png",
-      "streamUrls": [
-        "https://bozztv.com/rongo/rongo-somoy/index.m3u8"
-      ],
-      "category": "News",
-      "languages": []
-    },
-    {
       "id": "ADNTV.cl",
       "name": "ADN TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cl/ADNTV.cl.png",
@@ -6332,6 +6311,6 @@
       "languages": []
     }
   ],
-  "count": 612,
-  "generated_at": "2026-07-03T07:20:02.865480"
+  "count": 610,
+  "generated_at": "2026-07-03T10:35:07.379439"
 }
