@@ -409,8 +409,8 @@
       "name": "Haber61 TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/Haber61TV.tr.png",
       "streamUrls": [
-        "https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8",
-        "https://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8"
+        "https://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8",
+        "https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8"
       ],
       "category": "Turkey",
       "languages": []
@@ -581,7 +581,7 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/KanalDDrama.tr.png",
       "streamUrls": [
         "https://thema-vivekanald-rakuten.amagi.tv/playlist.m3u8",
-        "http://8.243.126.131:8000/play/a0mn/index.m3u8",
+        "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/KanalD.stream/playlist.m3u8",
         "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8"
       ],
       "category": "Turkey",
@@ -873,8 +873,8 @@
       "name": "PowerTurk TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/PowerTurkTV.tr.png",
       "streamUrls": [
-        "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8",
-        "https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8"
+        "https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8",
+        "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8"
       ],
       "category": "Turkey",
       "languages": []
@@ -934,8 +934,8 @@
       "name": "TGRT Haber",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/TGRTHaber.tr.png",
       "streamUrls": [
-        "https://canli.tgrthaber.com/tgrt.m3u8",
-        "https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8"
+        "https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8",
+        "https://canli.tgrthaber.com/tgrt.m3u8"
       ],
       "category": "Turkey",
       "languages": []
@@ -955,8 +955,8 @@
       "name": "TMB",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/TMB.tr.png",
       "streamUrls": [
-        "https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/tmb-tv.m3u8",
-        "https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8"
+        "https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8",
+        "https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/tmb-tv.m3u8"
       ],
       "category": "Turkey",
       "languages": []
@@ -1302,8 +1302,29 @@
       ],
       "category": "Turkey",
       "languages": []
+    },
+    {
+      "id": "FortunaTV.tr",
+      "name": "Fortuna TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/FortunaTV.tr.png",
+      "streamUrls": [
+        "https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8"
+      ],
+      "country": "TR",
+      "category": "Turkey",
+      "languages": []
+    },
+    {
+      "id": "Cine1.tr",
+      "name": "Cine 1",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Cin%C3%A9%2BOCS_2024.svg/330px-Cin%C3%A9%2BOCS_2024.svg.png",
+      "streamUrls": [
+        "https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8"
+      ],
+      "category": "Turkey",
+      "languages": []
     }
   ],
-  "count": 129,
-  "generated_at": "2026-07-04T02:50:11.333466"
+  "count": 131,
+  "generated_at": "2026-07-04T06:46:32.347022"
 }

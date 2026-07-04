@@ -37,8 +37,8 @@
       "name": "Bravo TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/BravoTV.ar.png",
       "streamUrls": [
-        "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef",
-        "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8"
+        "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8",
+        "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef"
       ],
       "category": "Argentina",
       "languages": []
@@ -310,9 +310,9 @@
       "name": "Disney Jr. Latin America",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/DisneyJrLatinAmerica.ar.png",
       "streamUrls": [
+        "http://45.189.62.33:8002/play/a0bz/index.m3u8",
         "http://190.11.225.124:5000/live/disney_jr_hd/playlist.m3u8",
-        "http://179.60.51.134:8888/DISNEY-JR/index.m3u8",
-        "http://45.185.163.75:8000/play/a016/index.m3u8"
+        "http://179.60.51.134:8888/DISNEY-JR/index.m3u8"
       ],
       "category": "Argentina",
       "languages": []
@@ -322,6 +322,7 @@
       "name": "El Trece",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/ElTrece.ar.png",
       "streamUrls": [
+        "http://190.108.83.69:8000/play/a01d/index.m3u8",
         "https://livetrx01.vodgc.net/eltrecetv/index.m3u8"
       ],
       "category": "Argentina",
@@ -483,8 +484,8 @@
       "name": "Unife TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/UnifeTV.ar.png",
       "streamUrls": [
-        "https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8",
-        "https://5dcabf026b188.streamlock.net/StreamUnife/livestream/playlist.m3u8"
+        "https://5dcabf026b188.streamlock.net/StreamUnife/livestream/playlist.m3u8",
+        "https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8"
       ],
       "category": "Argentina",
       "languages": []
@@ -794,8 +795,8 @@
       "name": "5tv",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/5tv.ar.png",
       "streamUrls": [
-        "https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8",
-        "http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8"
+        "http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8",
+        "https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8"
       ],
       "country": "AR",
       "category": "Argentina",
@@ -895,8 +896,28 @@
       ],
       "category": "Argentina",
       "languages": []
+    },
+    {
+      "id": "Canal2NexTVRafaela.ar",
+      "name": "Canal 2 NexTV Rafaela",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/Canal2NexTVRafaela.ar.png",
+      "streamUrls": [
+        "https://edge.enhdtv.com/nexthd/index.m3u8"
+      ],
+      "category": "Argentina",
+      "languages": []
+    },
+    {
+      "id": "NeoxTV.ar",
+      "name": "Neox TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/NeoxTV.ar.png",
+      "streamUrls": [
+        "https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8"
+      ],
+      "category": "Argentina",
+      "languages": []
     }
   ],
-  "count": 88,
-  "generated_at": "2026-07-04T02:50:11.326680"
+  "count": 90,
+  "generated_at": "2026-07-04T06:46:32.339667"
 }
