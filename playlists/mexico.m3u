@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/bd.xml" url-tvg="https://iptv-org.github.io/epg/guides/in.xml" url-tvg="https://iptv-org.github.io/epg/guides/us.xml" url-tvg="https://iptv-org.github.io/epg/guides/gb.xml" url-tvg="https://iptv-org.github.io/epg/guides/ae.xml" url-tvg="https://iptv-org.github.io/epg/guides/pk.xml" url-tvg="https://iptv-org.github.io/epg/guides/au.xml" url-tvg="https://iptv-org.github.io/epg/guides/de.xml" url-tvg="https://iptv-org.github.io/epg/guides/fr.xml" url-tvg="https://iptv-org.github.io/epg/guides/it.xml" url-tvg="https://iptv-org.github.io/epg/guides/es.xml" url-tvg="https://iptv-org.github.io/epg/guides/br.xml" url-tvg="https://iptv-org.github.io/epg/guides/tr.xml" url-tvg="https://iptv-org.github.io/epg/guides/sa.xml" refresh="3600"
 #EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/ADN40.mx.png" group-title="Mexico [SD]",ADN 40 [SD]
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+http://45.189.62.33:8002/play/a0ob/index.m3u8
 #EXTINF:-1 tvg-id="AMXNoticias.mx" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/AMXNoticias.mx.png" group-title="Mexico [HD]",AMX Noticias [HD]
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/AztecaInternacional.mx.png" group-title="Mexico [HD]",Azteca Internacional [HD]
@@ -66,7 +66,7 @@ https://5fe2654d6127d.streamlock.net/trc/videotrc/playlist.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/TUDN.mx.png" group-title="Mexico [SD]",TUDN [SD]
 https://streaming.alwaysdata.net/tudn.php
 #EXTINF:-1 tvg-id="TVCuatro41.mx" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/TVCuatro41.mx.png" group-title="Mexico [FHD]",TV Cuatro 4.1 [FHD]
-https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
+https://5ca3e84a76d30.streamlock.net/tv4gto/tv4gto.smil/.m3u8
 #EXTINF:-1 tvg-id="TVCuatro42.mx" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/TVCuatro42.mx.png" group-title="Mexico [FHD]",TV Cuatro 4.2 [FHD]
 https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
 #EXTINF:-1 tvg-id="TVLobo.mx" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/TVLobo.mx.png" group-title="Mexico [HD]",TV Lobo [HD]
@@ -118,9 +118,9 @@ https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 #EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/DePeliculaLatinAmerica.mx.png" group-title="Mexico",De Pelicula Latin America
 http://181.119.93.83:8000/play/a1jw/index.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/Canal5.mx.png" group-title="Mexico [HD]",Canal 5 [HD]
-http://45.5.119.43:4000/play/a05o/index.m3u8
-#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/ImagenTV.mx.png" group-title="Mexico",Imagen TV
-https://jmp2.uk/plu-64e35aff6b1fdb0008ea8441.m3u8
+http://190.11.225.124:5000/live/canal5_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/ImagenTV.mx.png" group-title="Mexico [HD]",Imagen TV [HD]
+https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
 #EXTINF:-1 tvg-id="TVCuatro43.mx" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/TVCuatro43.mx.png" group-title="Mexico [FHD]",TV Cuatro 4.3 [FHD]
 https://5ca3e84a76d30.streamlock.net/tv43gto/tv43gto.smil/.m3u8
 #EXTINF:-1 tvg-id="TVCuatro44.mx" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/TVCuatro44.mx.png" group-title="Mexico [FHD]",TV Cuatro 4.4 [FHD]
@@ -133,8 +133,6 @@ https://stream.crealatv.com/live.m3u8
 https://s5.mexside.net:1936/tvmigrante/tvmigrante/playlist.m3u8
 #EXTINF:-1 tvg-id="Panico.mx" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/Panico.mx.png" group-title="Mexico",Panico
 http://181.78.8.199:8000/play/a0bt/index.m3u8
-#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/LasEstrellasLatinAmerica.mx.png" group-title="Mexico [FHD]",Las Estrellas Latin America [FHD]
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Canal_Las_Estrellas.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PopcornCentral.mx" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/PopcornCentral.mx.png" group-title="Mexico [FHD]",Popcorn Central [FHD]
 https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8
 #EXTINF:-1 tvg-id="AntenaTV.mx" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/AntenaTV.mx.png" group-title="Mexico [FHD]",Antena TV [FHD]
@@ -145,3 +143,11 @@ https://5ca3e84a76d30.streamlock.net/cbtv/videoc3b3t3v3/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 #EXTINF:-1 tvg-id="GikTVMX.mx" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/GikTVMX.mx.png" group-title="Mexico",GikTVMX
 https://pistream.ddns.net/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ExaTV.mx" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/ExaTV.mx.png" group-title="Mexico",Exa TV
+http://45.189.62.33:8002/play/a0lr/index.m3u8
+#EXTINF:-1 tvg-id="LaMejorTV.mx" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/LaMejorTV.mx.png" group-title="Mexico",La Mejor TV
+http://45.189.62.33:8002/play/a0ls/index.m3u8
+#EXTINF:-1 tvg-id="OnceNinasyNinos.mx" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/OnceNinasyNinos.mx.png" group-title="Mexico",Once Ninas y Ninos
+http://45.189.62.33:8002/play/a0p7/index.m3u8
+#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/LasEstrellasLatinAmerica.mx.png" group-title="Mexico [FHD]",Las Estrellas Latin America [FHD]
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Canal_Las_Estrellas.stream/playlist.m3u8
