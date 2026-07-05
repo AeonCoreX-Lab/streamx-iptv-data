@@ -111,9 +111,9 @@
       "name": "BBC Earth",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/BBCEarth.uk.png",
       "streamUrls": [
-        "https://pb-zjy36qhp8e8cz.akamaized.net/BBC_Earth_US.m3u8",
         "http://185.102.171.218/BBCEarth/index.m3u8",
-        "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8"
+        "https://pb-zjy36qhp8e8cz.akamaized.net/BBC_Earth_US.m3u8",
+        "https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -564,8 +564,7 @@
       "name": "Edutainment TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/EdutainmentTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/Education/DASH-FTA/Education.mpd",
-        "https://cdn4.skygo.mn/live/disk1/Education/HLSv3-FTA/Education.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/Education/DASH-FTA/Education.mpd"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -604,7 +603,7 @@
     {
       "id": "HKTV.us",
       "name": "HKTV",
-      "logoUrl": "https://companieslogo.com/img/orig/1137.HK-632fb181.png?t=1691229539",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/HKTV.us.png",
       "streamUrls": [
         "https://reflect-hktv.cablecast.tv/live-3/live/live.m3u8"
       ],
@@ -1305,9 +1304,8 @@
       "name": "CNA Originals",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/sg/CNAOriginals.sg.png",
       "streamUrls": [
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cna-originals/playlist.m3u8?ads.vf=P3eUYyWBR74",
-        "https://amg01082-cna-amg01082c1-vidaa-gb-7580.playouts.now.amagi.tv/playlist.m3u8",
-        "https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8"
+        "https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8",
+        "https://amg01082-cna-amg01082c1-vidaa-gb-7580.playouts.now.amagi.tv/playlist.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -1904,7 +1902,7 @@
     {
       "id": "PlutoTVAnimais.us",
       "name": "Pluto TV Animais",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
         "https://jmp2.uk/plu-6474aa984cfc2c0008883a92.m3u8"
       ],
@@ -1946,7 +1944,8 @@
       "name": "Pluto TV Dokumentar",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-62b1e2498261390007f25c98.m3u8"
+        "https://jmp2.uk/plu-62b1e2498261390007f25c98.m3u8",
+        "https://jmp2.uk/plu-62b30b0060a9ca0007d628b4.m3u8"
       ],
       "category": "Informative",
       "languages": []
@@ -2383,8 +2382,8 @@
       "name": "Smithsonian Channel Selects",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-61fb9907b1b78d000717ed9f.m3u8",
-        "https://jmp2.uk/plu-61fb988e032c0100077d5252.m3u8"
+        "https://jmp2.uk/plu-61fb988e032c0100077d5252.m3u8",
+        "https://jmp2.uk/plu-61fb9907b1b78d000717ed9f.m3u8"
       ],
       "category": "Informative",
       "languages": []
@@ -2445,6 +2444,16 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/it/RaiScuola.it.png",
       "streamUrls": [
         "https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8"
+      ],
+      "category": "Informative",
+      "languages": []
+    },
+    {
+      "id": "XHUNESTDT.mx",
+      "name": "XHUNES-TDT",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/XHUNESTDT.mx.png",
+      "streamUrls": [
+        "https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8"
       ],
       "category": "Informative",
       "languages": []
