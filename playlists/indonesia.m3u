@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/bd.xml" url-tvg="https://iptv-org.github.io/epg/guides/in.xml" url-tvg="https://iptv-org.github.io/epg/guides/us.xml" url-tvg="https://iptv-org.github.io/epg/guides/gb.xml" url-tvg="https://iptv-org.github.io/epg/guides/ae.xml" url-tvg="https://iptv-org.github.io/epg/guides/pk.xml" url-tvg="https://iptv-org.github.io/epg/guides/au.xml" url-tvg="https://iptv-org.github.io/epg/guides/de.xml" url-tvg="https://iptv-org.github.io/epg/guides/fr.xml" url-tvg="https://iptv-org.github.io/epg/guides/it.xml" url-tvg="https://iptv-org.github.io/epg/guides/es.xml" url-tvg="https://iptv-org.github.io/epg/guides/br.xml" url-tvg="https://iptv-org.github.io/epg/guides/tr.xml" url-tvg="https://iptv-org.github.io/epg/guides/sa.xml" refresh="3600"
+#EXTINF:-1 tvg-id="AlWafaTarim.id" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/AlWafaTarim.id.png" group-title="Indonesia [HD]",Al Wafa Tarim [HD]
+https://ammedia.siar.us/ammedia/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AlBahjahTV.id" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/AlBahjahTV.id.png" group-title="Indonesia",Al-Bahjah TV
 http://202.150.161.117:8000/play/AlBahjahTV
 #EXTINF:-1 tvg-id="AlImanTV.id" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/AlImanTV.id.png" group-title="Indonesia [HD]",Al-Iman TV [HD]
@@ -17,8 +19,6 @@ https://flv.intechmedia.net/live/ch112.m3u8
 https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
 #EXTINF:-1 tvg-id="BandungTV.id" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/BandungTV.id.png" group-title="Indonesia",Bandung TV
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
-#EXTINF:-1 tvg-id="BantenTV.id" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/BantenTV.id.png" group-title="Indonesia [HD]",Banten TV [HD]
-https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
 #EXTINF:-1 tvg-id="BiznetAdventure.id" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/BiznetAdventure.id.png" group-title="Indonesia [FHD]",Biznet Adventure [FHD]
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BiznetKids.id" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/BiznetKids.id.png" group-title="Indonesia [SD]",Biznet Kids [SD]
@@ -46,7 +46,7 @@ https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist.m3u8
 #EXTINF:-1 tvg-id="IndonesianaTV.id" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/IndonesianaTV.id.png" group-title="Indonesia",Indonesiana.TV
 https://tvstreamcast.com/indonesiana.m3u8
 #EXTINF:-1 tvg-id="JTV.id" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/JTV.id.png" group-title="Indonesia [FHD]",JTV [FHD]
-http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8
+http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="JawaPosTV.id" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/JawaPosTV.id.png" group-title="Indonesia [HD]",Jawa Pos TV [HD]
 http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="JogjaIstimewaTV.id" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/JogjaIstimewaTV.id.png" group-title="Indonesia [HD]",Jogja Istimewa TV [HD]
@@ -103,11 +103,13 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="SMTV.id" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/SMTV.id.png" group-title="Indonesia [HD]",SMTV [HD]
 https://e.siar.us/live/smtv.m3u8
+#EXTINF:-1 tvg-id="FicomChannel.id" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/FicomChannel.id.png" group-title="Indonesia",Ficom Channel
+https://v3.siar.us/ficomchannel/live/playlist.m3u8
+#EXTINF:-1 tvg-id="BantenTV.id" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/BantenTV.id.png" group-title="Indonesia [HD]",Banten TV [HD]
+https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
 #EXTINF:-1 tvg-id="UGTV.id" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/UGTV.id.png" group-title="Indonesia",UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 #EXTINF:-1 tvg-id="SriwijayaTV.id" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/SriwijayaTV.id.png" group-title="Indonesia",Sriwijaya TV
 https://sriwijayatv.siar.us/live/sriwijayatv.m3u8
 #EXTINF:-1 tvg-id="TVMu.id" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/TVMu.id.png" group-title="Indonesia",TV Mu
 https://e.siar.us/live/tvmu.m3u8
-#EXTINF:-1 tvg-id="AlWafaTarim.id" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/AlWafaTarim.id.png" group-title="Indonesia [HD]",Al Wafa Tarim [HD]
-https://ammedia.siar.us/ammedia/live/playlist.m3u8
