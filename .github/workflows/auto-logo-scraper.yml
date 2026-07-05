@@ -1,8 +1,6 @@
 name: Auto Scrape IPTV Logos
 
-on:
-  schedule:
-    - cron: '0 */6 * * *'   
+on: 
   
   workflow_dispatch:
 
