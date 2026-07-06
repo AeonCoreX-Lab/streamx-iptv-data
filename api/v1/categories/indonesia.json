@@ -246,7 +246,8 @@
       "name": "JTV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/JTV.id.png",
       "streamUrls": [
-        "http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8",
+        "http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8",
+        "http://122.248.43.242:1935/JTVMALANG/_definst_/myStream/playlist.m3u8",
         "http://122.248.43.242:1935/JTVMADIUN/_definst_/myStream/playlist.m3u8"
       ],
       "category": "Indonesia",
@@ -600,8 +601,28 @@
       ],
       "category": "Indonesia",
       "languages": []
+    },
+    {
+      "id": "DMTVMalang.id",
+      "name": "DM TV Malang",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/DMTVMalang.id.png",
+      "streamUrls": [
+        "https://e.siar.us/live/dmtv.m3u8"
+      ],
+      "category": "Indonesia",
+      "languages": []
+    },
+    {
+      "id": "RadarTasikmalayaTV.id",
+      "name": "Radar Tasikmalaya TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/RadarTasikmalayaTV.id.png",
+      "streamUrls": [
+        "https://v2.siar.us/radartasikmalaya/live/playlist.m3u8"
+      ],
+      "category": "Indonesia",
+      "languages": []
     }
   ],
-  "count": 59,
-  "generated_at": "2026-07-06T08:19:39.115907"
+  "count": 61,
+  "generated_at": "2026-07-06T15:30:57.388773"
 }

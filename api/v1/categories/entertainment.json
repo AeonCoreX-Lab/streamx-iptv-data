@@ -1934,7 +1934,8 @@
       "name": "C1",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/C1.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/C1/DASH-FTA/C1.mpd"
+        "https://cdn4.skygo.mn/live/disk1/C1/DASH-FTA/C1.mpd",
+        "https://cdn4.skygo.mn/live/disk1/C1/HLSv3-FTA/C1.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -11835,7 +11836,6 @@
       "name": "TV 25",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/TV25.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/MN25/DASH-FTA/MN25.mpd",
         "https://cdn4.skygo.mn/live/disk1/MN25/HLSv3-FTA/MN25.m3u8"
       ],
       "category": "Entertainment",
@@ -12386,8 +12386,8 @@
       "name": "TV8",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/TV8.mn.png",
       "streamUrls": [
-        "https://cdn1.skygo.mn/live/disk1/TV8HD/HLS-FTA/TV8HD.m3u8",
-        "https://cdn4.skygo.mn/live/disk1/TV8HD/DASH-FTA/TV8HD.mpd"
+        "https://cdn4.skygo.mn/live/disk1/TV8HD/HLSv3-FTA/TV8HD.m3u8",
+        "https://cdn1.skygo.mn/live/disk1/TV8HD/HLS-FTA/TV8HD.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -13396,7 +13396,7 @@
       "name": "TenGer TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/TenGerTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/VTV/DASH-FTA/VTV.mpd"
+        "https://cdn4.skygo.mn/live/disk1/VTV/HLSv3-FTA/VTV.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -13646,8 +13646,7 @@
       "name": "Ulzii TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/UlziiTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/UlziiTV/DASH-FTA/UlziiTV.mpd",
-        "https://cdn4.skygo.mn/live/disk1/UlziiTV/HLSv3-FTA/UlziiTV.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/UlziiTV/DASH-FTA/UlziiTV.mpd"
       ],
       "category": "Other",
       "languages": []
@@ -17390,7 +17389,8 @@
       "name": "Star TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/StarTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/Star/HLSv3-FTA/Star.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/Star/HLSv3-FTA/Star.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd"
       ],
       "country": "MN",
       "category": "Entertainment",
@@ -18911,16 +18911,6 @@
       "languages": []
     },
     {
-      "id": "GikTVMX.mx",
-      "name": "GikTVMX",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/GikTVMX.mx.png",
-      "streamUrls": [
-        "https://pistream.ddns.net/hls/stream.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "A2Z.ph",
       "name": "A2Z",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ph/A2Z.ph.png",
@@ -19304,7 +19294,7 @@
     {
       "id": "RadioCamilaTV.cl",
       "name": "Radio Camila TV",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Camila_Cabello_Sundance_2024_Cropped_%28cropped%29.jpg/330px-Camila_Cabello_Sundance_2024_Cropped_%28cropped%29.jpg",
       "streamUrls": [
         "https://panel.tvstream.cl:1936/8008/8008/playlist.m3u8"
       ],
@@ -19314,7 +19304,7 @@
     {
       "id": "RadioCentro.bo",
       "name": "Radio Centro",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=grupocentro.com.bo",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/KECY_Fox_9_2020.webp/330px-KECY_Fox_9_2020.webp.png",
       "streamUrls": [
         "https://streamlov.alsolnet.com/grupocentrobo/live/playlist.m3u8"
       ],
@@ -19467,16 +19457,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/CanalCHD.co.png",
       "streamUrls": [
         "https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
-      "id": "SBS6Classics.nl",
-      "name": "SBS6 Classics",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/nl/SBS6Classics.nl.png",
-      "streamUrls": [
-        "https://sbs6classic.prd1.talpatvcdn.nl/v1/master/8ada1ed2ae3b9c3db6fc5e604cfa78fc7d2d745e/sbs6classic_ssai/fea54560ba684701a2143f33a9cf4489/index.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -19693,8 +19673,39 @@
       ],
       "category": "Entertainment",
       "languages": []
+    },
+    {
+      "id": "AjyalTV.ps",
+      "name": "Ajyal TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ps/AjyalTV.ps.png",
+      "streamUrls": [
+        "http://htvajyal.mada.ps:8888/ajyal/index.m3u8"
+      ],
+      "country": "PS",
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "DMTVMalang.id",
+      "name": "DM TV Malang",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/DMTVMalang.id.png",
+      "streamUrls": [
+        "https://e.siar.us/live/dmtv.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "TelePam.us",
+      "name": "Tele Pam",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/TelePam.us.png",
+      "streamUrls": [
+        "https://watch.haitilive.net/app/2020/telepam/index.fmp4.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
     }
   ],
-  "count": 1931,
-  "generated_at": "2026-07-06T08:19:39.076123"
+  "count": 1932,
+  "generated_at": "2026-07-06T15:30:57.345757"
 }
