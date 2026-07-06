@@ -146,7 +146,6 @@
       "name": "CNBC Indonesia",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/CNBCIndonesia.id.png",
       "streamUrls": [
-        "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8",
         "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8"
       ],
       "category": "Indonesia",
@@ -429,9 +428,9 @@
       "name": "Stara TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/StaraTV.id.png",
       "streamUrls": [
-        "https://jakarta.staratv.id/hls/0/stream.m3u8",
         "https://cianjur.staratv.id/hls/0/stream.m3u8",
-        "https://stream.staratv.id/hls/0/stream.m3u8"
+        "https://bandung.staratv.id/hls/0/stream.m3u8",
+        "https://malang.staratv.id/hls/0/stream.m3u8"
       ],
       "category": "Indonesia",
       "languages": []
@@ -481,9 +480,9 @@
       "name": "TVRI",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/TVRI.id.png",
       "streamUrls": [
-        "https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8",
-        "https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8",
-        "https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8"
+        "https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8",
+        "https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8",
+        "https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8"
       ],
       "category": "Indonesia",
       "languages": []
@@ -580,8 +579,29 @@
       ],
       "category": "Indonesia",
       "languages": []
+    },
+    {
+      "id": "TVRISport.id",
+      "name": "TVRI Sport",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/TVRISport.id.png",
+      "streamUrls": [
+        "http://157.15.187.3:25092/hls/49/49.m3u8"
+      ],
+      "country": "ID",
+      "category": "Indonesia",
+      "languages": []
+    },
+    {
+      "id": "SampitTV.id",
+      "name": "Sampit TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/SampitTV.id.png",
+      "streamUrls": [
+        "https://sampit-tv.siar.us/live/sampit-tv.m3u8"
+      ],
+      "category": "Indonesia",
+      "languages": []
     }
   ],
-  "count": 57,
-  "generated_at": "2026-07-06T03:27:40.512329"
+  "count": 59,
+  "generated_at": "2026-07-06T08:19:39.115907"
 }
