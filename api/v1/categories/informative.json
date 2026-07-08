@@ -112,9 +112,9 @@
       "name": "BBC Earth",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/BBCEarth.uk.png",
       "streamUrls": [
-        "http://185.102.171.218/BBCEarth/index.m3u8",
+        "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8",
         "https://pb-zjy36qhp8e8cz.akamaized.net/BBC_Earth_US.m3u8",
-        "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8"
+        "http://185.102.171.218/BBCEarth/index.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -1546,8 +1546,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/Wonder.uk.png",
       "streamUrls": [
         "https://lds-wonder-plex.amagi.tv/playlist.m3u8",
-        "https://lds-wonder-samsungau.amagi.tv/playlist.m3u8",
-        "https://lds-wonder-rakuten.amagi.tv/playlist.m3u8"
+        "https://lds-wonder-rakuten.amagi.tv/playlist.m3u8",
+        "https://lds-wonder-samsungau.amagi.tv/playlist.m3u8"
       ],
       "category": "Informative",
       "languages": [],
@@ -1558,8 +1558,8 @@
       "name": "History Hit",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/HistoryHit.uk.png",
       "streamUrls": [
-        "https://lds-timeline-rakuten.amagi.tv/playlist.m3u8",
         "https://timeline-samsung-uk.amagi.tv/playlist.m3u8",
+        "https://lds-timeline-rakuten.amagi.tv/playlist.m3u8",
         "https://lds-timeline-plex.amagi.tv/playlist.m3u8"
       ],
       "category": "Informative",
@@ -1955,7 +1955,7 @@
     {
       "id": "PlutoTVHistoire.de",
       "name": "Pluto TV Histoire",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Joanna_Miles_Larry_Keith_All_My_Children_1972.JPG/330px-Joanna_Miles_Larry_Keith_All_My_Children_1972.JPG",
       "streamUrls": [
         "https://jmp2.uk/plu-611e771e2f5f180007002224.m3u8"
       ],
@@ -2092,8 +2092,8 @@
       "name": "Pluto TV Verdenskrigene",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-677d397b60fbeb00084b0bff.m3u8",
-        "https://jmp2.uk/plu-677d3a424bd63600082f7baf.m3u8"
+        "https://jmp2.uk/plu-677d3a424bd63600082f7baf.m3u8",
+        "https://jmp2.uk/plu-677d397b60fbeb00084b0bff.m3u8"
       ],
       "category": "Informative",
       "languages": []
@@ -2352,7 +2352,7 @@
     {
       "id": "BondiRescue.de",
       "name": "Bondi Rescue",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bondi_rescue_lifeguard_-_Paris_hilton_bondi_beach_31_december_2008_%287%29.jpg/330px-Bondi_rescue_lifeguard_-_Paris_hilton_bondi_beach_31_december_2008_%287%29.jpg",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
         "https://jmp2.uk/plu-660be37e7bcd860008793a6a.m3u8"
       ],
@@ -2469,8 +2469,59 @@
       ],
       "category": "Informative",
       "languages": []
+    },
+    {
+      "id": "AgroCanal.br",
+      "name": "AgroCanal",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/AgroCanal.br.png",
+      "streamUrls": [
+        "http://45.162.64.114/AGRO_CANAL/index.m3u8",
+        "https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8"
+      ],
+      "category": "Informative",
+      "languages": []
+    },
+    {
+      "id": "CanalFutura.br",
+      "name": "Canal Futura",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/CanalFutura.br.png",
+      "streamUrls": [
+        "http://45.162.64.114/FUTURA/index.m3u8"
+      ],
+      "category": "Informative",
+      "languages": []
+    },
+    {
+      "id": "Futura.br",
+      "name": "Futura",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/Futura.br.png",
+      "streamUrls": [
+        "http://45.162.231.38:7779/Futura/index.m3u8"
+      ],
+      "category": "Informative",
+      "languages": []
+    },
+    {
+      "id": "History.br",
+      "name": "History",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/History.br.png",
+      "streamUrls": [
+        "http://177.52.24.163/HISTORY-HD/index.m3u8"
+      ],
+      "category": "Informative",
+      "languages": []
+    },
+    {
+      "id": "NationalGeographic.br",
+      "name": "National Geographic",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/NationalGeographic.br.png",
+      "streamUrls": [
+        "http://167.250.126.140:7777/NATGEO-HD/index.m3u8"
+      ],
+      "category": "Informative",
+      "languages": []
     }
   ],
-  "count": 237,
-  "generated_at": "2026-07-08T02:35:59.498021"
+  "count": 242,
+  "generated_at": "2026-07-08T06:27:39.481158"
 }

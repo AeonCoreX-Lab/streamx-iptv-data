@@ -108,6 +108,7 @@
       "name": "Golden",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/Golden.mx.png",
       "streamUrls": [
+        "http://177.234.249.135:8888/Golden/index.m3u8",
         "https://rpn.bozztv.com/gusa/gusa-goldentv/index.m3u8"
       ],
       "category": "Mexico",
@@ -592,8 +593,8 @@
       "name": "Canal 5",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/Canal5.mx.png",
       "streamUrls": [
-        "http://45.5.119.43:4000/play/a05o/index.m3u8",
-        "http://190.11.225.124:5000/live/canal5_hd/playlist.m3u8"
+        "http://190.11.225.124:5000/live/canal5_hd/playlist.m3u8",
+        "http://45.5.119.43:4000/play/a05o/index.m3u8"
       ],
       "category": "Mexico",
       "languages": []
@@ -603,7 +604,8 @@
       "name": "Imagen TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/ImagenTV.mx.png",
       "streamUrls": [
-        "https://igd-it-runtime.otteravision.com/igd/it/it.m3u8"
+        "https://igd-it-runtime.otteravision.com/igd/it/it.m3u8",
+        "https://jmp2.uk/plu-64e35aff6b1fdb0008ea8441.m3u8"
       ],
       "category": "Mexico",
       "languages": []
@@ -633,6 +635,7 @@
       "name": "Univision Latin America",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/UnivisionLatinAmerica.mx.png",
       "streamUrls": [
+        "http://177.234.249.135:8888/Univision/index.m3u8",
         "http://138.121.15.230:9002/UNIVISION/index.m3u8"
       ],
       "category": "Mexico",
@@ -674,7 +677,7 @@
       "name": "Las Estrellas Latin America",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/LasEstrellasLatinAmerica.mx.png",
       "streamUrls": [
-        "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Canal_Las_Estrellas.stream/playlist.m3u8"
+        "http://177.234.249.135:8888/LasEstrellas/index.m3u8"
       ],
       "category": "Mexico",
       "languages": []
@@ -788,8 +791,28 @@
       ],
       "category": "Mexico",
       "languages": []
+    },
+    {
+      "id": "DistritoComedia.mx",
+      "name": "Distrito Comedia",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/DistritoComedia.mx.png",
+      "streamUrls": [
+        "http://177.234.249.135:8888/DistritoComedia/index.m3u8"
+      ],
+      "category": "Mexico",
+      "languages": []
+    },
+    {
+      "id": "GoldenEdge.mx",
+      "name": "Golden Edge",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/GoldenEdge.mx.png",
+      "streamUrls": [
+        "http://177.234.249.135:8888/GoldenEdge/index.m3u8"
+      ],
+      "category": "Mexico",
+      "languages": []
     }
   ],
-  "count": 78,
-  "generated_at": "2026-07-08T02:35:59.464542"
+  "count": 80,
+  "generated_at": "2026-07-08T06:27:39.447952"
 }
