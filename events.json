@@ -1,765 +1,12 @@
 {
-  "last_updated": "2026-07-08T20:47:54Z",
+  "last_updated": "2026-07-08T22:08:10Z",
   "strict_mode": true,
   "requires_stream": true,
   "requires_thumbnail": true,
-  "total_live": 35,
+  "total_live": 27,
   "total_upcoming": 90,
-  "total_streamed": 125,
+  "total_streamed": 117,
   "active_events": [
-    {
-      "event_id": "spk_admin-rally-tv",
-      "title": "Rally TV",
-      "sport": "Other",
-      "sport_icon": "live_tv",
-      "sport_color": "#E53935",
-      "tvg_id": "spk_admin-rally-tv",
-      "start_time": "2026-07-08T17:54:58Z",
-      "end_time": "2026-07-08T20:54:58Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "StreamedPK Admin HD #1 (English)",
-          "url": "https://embed.st/embed/admin/admin-rally-tv/1"
-        }
-      ],
-      "stream_count": 1,
-      "has_stream": true,
-      "source": "StreamedPK",
-      "thumbnail": "https://streamed.pk/api/images/proxy//api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuMFBWLwBTYCbYAQxSzPzLCWDWB12Hga00quAGNCF0GdCBQhqjEM1Y4AJhixo5YXLCa8uwMAQSRgATkKk8bMFuKGIQA.webp.webp",
-      "league": "motor-sports"
-    },
-    {
-      "event_id": "spk_admin-sky-sports-tennis",
-      "title": "Sky Sports Tennis",
-      "sport": "Tennis",
-      "sport_icon": "sports_tennis",
-      "sport_color": "#FFD600",
-      "tvg_id": "spk_admin-sky-sports-tennis",
-      "start_time": "2026-07-08T17:54:58Z",
-      "end_time": "2026-07-08T20:54:58Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "StreamedPK Admin HD #1 (English)",
-          "url": "https://embed.st/embed/admin/admin-sky-sports-tennis/1"
-        },
-        {
-          "name": "StreamedPK Admin SD #2 (English)",
-          "url": "https://embed.st/embed/admin/admin-sky-sports-tennis/2"
-        }
-      ],
-      "stream_count": 2,
-      "has_stream": true,
-      "source": "StreamedPK",
-      "thumbnail": "https://streamed.pk/api/images/proxy//api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWYLYATmEIFNd4Dh5g1hh0ngLgJngBDFJsLiTBluwsCkycQbPuTZ5gCYAAZxfBLAZioNRZ3aFCKBLIGNiGRTC7xoVMuwizG+WbyZCyfYuCeK+7AJmCpBsckYmHjyK-viahFggjHwQ0iAUINwgJCCpKCCJGSCyilS2nA5chPRgYI5hEEA.webp.webp",
-      "league": "tennis"
-    },
-    {
-      "event_id": "spk_admin-tennis-channel",
-      "title": "Tennis Channel",
-      "sport": "Tennis",
-      "sport_icon": "sports_tennis",
-      "sport_color": "#FFD600",
-      "tvg_id": "spk_admin-tennis-channel",
-      "start_time": "2026-07-08T17:54:58Z",
-      "end_time": "2026-07-08T20:54:58Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "StreamedPK Admin HD #1 (English)",
-          "url": "https://embed.st/embed/admin/admin-tennis-channel/1"
-        },
-        {
-          "name": "StreamedPK Admin SD #2 (English)",
-          "url": "https://embed.st/embed/admin/admin-tennis-channel/2"
-        }
-      ],
-      "stream_count": 2,
-      "has_stream": true,
-      "source": "StreamedPK",
-      "thumbnail": "https://streamed.pk/api/images/proxy//api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBDXsQZgdgwwRgBOYAU0hDpqxQFZh5Tg0wmJgATMNTTAWkVqNri0LIinbQ61OvHS5CISiCggGIRPzWq0hNTTV5s2AMb6NNFif4h+VFxux5bFLXnk3aASx2PV0+LRRNR0hAtjYUBHZQYkk2JjBHEFsaOxytGFZYSWt5YFIVGOVgeTYOMl5AiCA.webp.webp",
-      "league": "tennis"
-    },
-    {
-      "event_id": "spk_admin-willow-cricket",
-      "title": "Willow Cricket",
-      "sport": "Cricket",
-      "sport_icon": "sports_cricket",
-      "sport_color": "#00C853",
-      "tvg_id": "spk_admin-willow-cricket",
-      "start_time": "2026-07-08T17:54:58Z",
-      "end_time": "2026-07-08T20:54:58Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "StreamedPK Admin HD #3 (Willow Sports)",
-          "url": "https://embed.st/embed/admin/admin-willow-cricket/3"
-        },
-        {
-          "name": "StreamedPK Admin HD #1 (English)",
-          "url": "https://embed.st/embed/admin/admin-willow-cricket/1"
-        },
-        {
-          "name": "StreamedPK Admin HD #2 (Willow 2)",
-          "url": "https://embed.st/embed/admin/admin-willow-cricket/2"
-        },
-        {
-          "name": "StreamedPK Admin SD #6 (Willow Sports)",
-          "url": "https://embed.st/embed/admin/admin-willow-cricket/6"
-        },
-        {
-          "name": "StreamedPK Admin SD #5 (Willow 2)",
-          "url": "https://embed.st/embed/admin/admin-willow-cricket/5"
-        },
-        {
-          "name": "StreamedPK Admin SD #4 (English)",
-          "url": "https://embed.st/embed/admin/admin-willow-cricket/4"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "StreamedPK",
-      "thumbnail": "https://streamed.pk/api/images/proxy//api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp.webp",
-      "league": "cricket"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_pictionary_season_3_",
-      "title": "Pictionary Season 3, Episode 114",
-      "sport": "Other",
-      "sport_icon": "live_tv",
-      "sport_color": "#E53935",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_pictionary_season_3_",
-      "start_time": "2026-07-08T18:00:00Z",
-      "end_time": "2026-07-08T21:00:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "FOXNY USA (player)",
-          "url": "https://dlhd.pk/player/stream-768.php"
-        },
-        {
-          "name": "FOXNY USA (cast)",
-          "url": "https://dlhd.pk/cast/stream-768.php"
-        },
-        {
-          "name": "FOXNY USA (casting)",
-          "url": "https://dlhd.pk/casting/stream-768.php"
-        },
-        {
-          "name": "FOXNY USA (plus)",
-          "url": "https://dlhd.pk/plus/stream-768.php"
-        },
-        {
-          "name": "FOXNY USA (watch)",
-          "url": "https://dlhd.pk/watch/stream-768.php"
-        },
-        {
-          "name": "FOXNY USA",
-          "url": "https://dlhd.pk/stream/stream-768.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_euroleague___bc_olym",
-      "title": "Euroleague : BC Olympiakos Piraeus vs. KK Crvena zvezda Belgrade",
-      "sport": "Football",
-      "sport_icon": "sports_soccer",
-      "sport_color": "#2962FF",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_euroleague___bc_olym",
-      "start_time": "2026-07-08T18:00:00Z",
-      "end_time": "2026-07-08T21:00:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "Magenta Sport 304 (plus)",
-          "url": "https://dlhd.pk/plus/stream-20.php"
-        },
-        {
-          "name": "MAX Sport 2 Bulgaria",
-          "url": "https://dlhd.pk/stream/stream-473.php"
-        },
-        {
-          "name": "Magenta Sport 304 (cast)",
-          "url": "https://dlhd.pk/cast/stream-20.php"
-        },
-        {
-          "name": "Movistar Deportes 4 Spain (cast)",
-          "url": "https://dlhd.pk/cast/stream-527.php"
-        },
-        {
-          "name": "Magenta Sport 304",
-          "url": "https://dlhd.pk/stream/stream-20.php"
-        },
-        {
-          "name": "Nova Sports 4 Greece (plus)",
-          "url": "https://dlhd.pk/plus/stream-634.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/football.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_euroleague___as_mona",
-      "title": "Euroleague : AS Monaco vs. Fenerbahce Istanbul",
-      "sport": "Football",
-      "sport_icon": "sports_soccer",
-      "sport_color": "#2962FF",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_euroleague___as_mona",
-      "start_time": "2026-07-08T18:00:00Z",
-      "end_time": "2026-07-08T21:00:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "Magenta Sport 302 (watch)",
-          "url": "https://dlhd.pk/watch/stream-21.php"
-        },
-        {
-          "name": "Magenta Sport 302 (player)",
-          "url": "https://dlhd.pk/player/stream-21.php"
-        },
-        {
-          "name": "Movistar Deportes 3 Spain (player)",
-          "url": "https://dlhd.pk/player/stream-526.php"
-        },
-        {
-          "name": "Nova Sports 5 Greece (plus)",
-          "url": "https://dlhd.pk/plus/stream-635.php"
-        },
-        {
-          "name": "MAX Sport 4 Bulgaria",
-          "url": "https://dlhd.pk/stream/stream-475.php"
-        },
-        {
-          "name": "Nova Sports 5 Greece (casting)",
-          "url": "https://dlhd.pk/casting/stream-635.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/football.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_handball_bundesliga_",
-      "title": "Handball-Bundesliga : Rhein-Neckar Lowen vs. TSV Hannover-Burgdorf",
-      "sport": "Football",
-      "sport_icon": "sports_soccer",
-      "sport_color": "#2962FF",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_handball_bundesliga_",
-      "start_time": "2026-07-08T18:00:00Z",
-      "end_time": "2026-07-08T21:00:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "Cosmote Sport 8 Greece (watch)",
-          "url": "https://dlhd.pk/watch/stream-629.php"
-        },
-        {
-          "name": "TV3 Max Denmark",
-          "url": "https://dlhd.pk/stream/stream-223.php"
-        },
-        {
-          "name": "Sport Klub 4 Serbia",
-          "url": "https://dlhd.pk/stream/stream-104.php"
-        },
-        {
-          "name": "Sport Klub 4 Serbia (watch)",
-          "url": "https://dlhd.pk/watch/stream-104.php"
-        },
-        {
-          "name": "Cosmote Sport 8 Greece (cast)",
-          "url": "https://dlhd.pk/cast/stream-629.php"
-        },
-        {
-          "name": "Cosmote Sport 8 Greece (casting)",
-          "url": "https://dlhd.pk/casting/stream-629.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/football.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_norway_eliteserien__",
-      "title": "Norway Eliteserien : Vaalerenga IF Oslo vs. Storhamar Hockey",
-      "sport": "Hockey",
-      "sport_icon": "sports_hockey",
-      "sport_color": "#1565C0",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_norway_eliteserien__",
-      "start_time": "2026-07-08T18:00:00Z",
-      "end_time": "2026-07-08T21:00:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "TV2 Sport 2 Norway (casting)",
-          "url": "https://dlhd.pk/casting/stream-28.php"
-        },
-        {
-          "name": "TV2 Sport 2 Norway (player)",
-          "url": "https://dlhd.pk/player/stream-28.php"
-        },
-        {
-          "name": "TV2 Sport 2 Norway",
-          "url": "https://dlhd.pk/stream/stream-28.php"
-        },
-        {
-          "name": "TV2 Sport 2 Norway (cast)",
-          "url": "https://dlhd.pk/cast/stream-28.php"
-        },
-        {
-          "name": "TV2 Sport 2 Norway (plus)",
-          "url": "https://dlhd.pk/plus/stream-28.php"
-        },
-        {
-          "name": "TV2 Sport 2 Norway (watch)",
-          "url": "https://dlhd.pk/watch/stream-28.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/ice-hockey.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_shl___brynas_if_vs__",
-      "title": "SHL : Brynas IF vs. Malmo IF",
-      "sport": "Hockey",
-      "sport_icon": "sports_hockey",
-      "sport_color": "#1565C0",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_shl___brynas_if_vs__",
-      "start_time": "2026-07-08T18:00:00Z",
-      "end_time": "2026-07-08T21:00:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "TV4 Hockey (casting)",
-          "url": "https://dlhd.pk/casting/stream-700.php"
-        },
-        {
-          "name": "Viaplay Sports 1 UK (player)",
-          "url": "https://dlhd.pk/player/stream-451.php"
-        },
-        {
-          "name": "Sport1+ Germany",
-          "url": "https://dlhd.pk/stream/stream-640.php"
-        },
-        {
-          "name": "TV4 Hockey (cast)",
-          "url": "https://dlhd.pk/cast/stream-700.php"
-        },
-        {
-          "name": "Viaplay Sports 1 UK (plus)",
-          "url": "https://dlhd.pk/plus/stream-451.php"
-        },
-        {
-          "name": "TV4 Sport Live 2 Sweden",
-          "url": "https://dlhd.pk/stream/stream-704.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/ice-hockey.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_hockeyallsvenskan___",
-      "title": "HockeyAllsvenskan : Oskarshamn vs BIK Karlskoga",
-      "sport": "Hockey",
-      "sport_icon": "sports_hockey",
-      "sport_color": "#1565C0",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_hockeyallsvenskan___",
-      "start_time": "2026-07-08T18:00:00Z",
-      "end_time": "2026-07-08T21:00:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "TV4 Sport Live 1 Sweden",
-          "url": "https://dlhd.pk/stream/stream-703.php"
-        },
-        {
-          "name": "TV4 Sport Live 1 Sweden (plus)",
-          "url": "https://dlhd.pk/plus/stream-703.php"
-        },
-        {
-          "name": "TV4 Sport Live 1 Sweden (casting)",
-          "url": "https://dlhd.pk/casting/stream-703.php"
-        },
-        {
-          "name": "TV4 Sport Live 1 Sweden (watch)",
-          "url": "https://dlhd.pk/watch/stream-703.php"
-        },
-        {
-          "name": "TV4 Sport Live 1 Sweden (player)",
-          "url": "https://dlhd.pk/player/stream-703.php"
-        },
-        {
-          "name": "TV4 Sport Live 1 Sweden (cast)",
-          "url": "https://dlhd.pk/cast/stream-703.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/ice-hockey.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_2025_ncaa_men_s_bask",
-      "title": "2025 NCAA Men's Basketball Tournament First Round: Southern Illinois-Edwardsville vs Houston",
-      "sport": "Basketball",
-      "sport_icon": "sports_basketball",
-      "sport_color": "#FF6D00",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_2025_ncaa_men_s_bask",
-      "start_time": "2026-07-08T18:00:00Z",
-      "end_time": "2026-07-08T21:00:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "TBS USA",
-          "url": "https://dlhd.pk/stream/stream-336.php"
-        },
-        {
-          "name": "TBS USA (player)",
-          "url": "https://dlhd.pk/player/stream-336.php"
-        },
-        {
-          "name": "TBS USA (watch)",
-          "url": "https://dlhd.pk/watch/stream-336.php"
-        },
-        {
-          "name": "TBS USA (plus)",
-          "url": "https://dlhd.pk/plus/stream-336.php"
-        },
-        {
-          "name": "TBS USA (cast)",
-          "url": "https://dlhd.pk/cast/stream-336.php"
-        },
-        {
-          "name": "TBS USA (casting)",
-          "url": "https://dlhd.pk/casting/stream-336.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/basketball.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_world_cup_qualifying",
-      "title": "World Cup Qualifying : Saudi Arabia vs China",
-      "sport": "Football",
-      "sport_icon": "sports_soccer",
-      "sport_color": "#2962FF",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_world_cup_qualifying",
-      "start_time": "2026-07-08T18:15:00Z",
-      "end_time": "2026-07-08T21:15:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "Sportdigital FUSSBALL DE (plus)",
-          "url": "https://dlhd.pk/plus/stream-571.php"
-        },
-        {
-          "name": "Sportdigital FUSSBALL DE",
-          "url": "https://dlhd.pk/stream/stream-571.php"
-        },
-        {
-          "name": "Astro Grandstand (cast)",
-          "url": "https://dlhd.pk/cast/stream-123.php"
-        },
-        {
-          "name": "ESPN 2 NL (cast)",
-          "url": "https://dlhd.pk/cast/stream-386.php"
-        },
-        {
-          "name": "Astro Grandstand (casting)",
-          "url": "https://dlhd.pk/casting/stream-123.php"
-        },
-        {
-          "name": "ESPN4 Mexico",
-          "url": "https://dlhd.pk/stream/stream-928.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/football.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_basquetebol__men_s_m",
-      "title": "Basquetebol: Men's March Madness #2 - College Basketball",
-      "sport": "Basketball",
-      "sport_icon": "sports_basketball",
-      "sport_color": "#FF6D00",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_basquetebol__men_s_m",
-      "start_time": "2026-07-08T18:45:00Z",
-      "end_time": "2026-07-08T21:45:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "DAZN Eleven 1 Portugal (watch)",
-          "url": "https://dlhd.pk/watch/stream-455.php"
-        },
-        {
-          "name": "DAZN Eleven 1 Portugal (plus)",
-          "url": "https://dlhd.pk/plus/stream-455.php"
-        },
-        {
-          "name": "DAZN Eleven 1 Portugal (player)",
-          "url": "https://dlhd.pk/player/stream-455.php"
-        },
-        {
-          "name": "DAZN Eleven 1 Portugal (cast)",
-          "url": "https://dlhd.pk/cast/stream-455.php"
-        },
-        {
-          "name": "DAZN Eleven 1 Portugal",
-          "url": "https://dlhd.pk/stream/stream-455.php"
-        },
-        {
-          "name": "DAZN Eleven 1 Portugal (casting)",
-          "url": "https://dlhd.pk/casting/stream-455.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/basketball.webp"
-    },
-    {
-      "event_id": "spk_saint-laurent-vs-forge-football-1544845",
-      "title": "Saint-Laurent vs Forge",
-      "sport": "Football",
-      "sport_icon": "sports_soccer",
-      "sport_color": "#2962FF",
-      "tvg_id": "spk_saint-laurent-vs-forge-football-1544845",
-      "start_time": "2026-07-08T19:00:00Z",
-      "end_time": "2026-07-08T22:00:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "StreamedPK Echo #1",
-          "url": "https://embed.st/embed/echo/saint-laurent-vs-forge-football-1544845/1"
-        }
-      ],
-      "stream_count": 1,
-      "has_stream": true,
-      "source": "StreamedPK",
-      "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIRERDYQJOuQYBjZuJ7wRVbgS6swYXPmtA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhEIRSBj1yDAMbNxPeCKrcCXVmDC58FoA.webp",
-      "league": "football"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_general_hospital_sea",
-      "title": "General Hospital Season 62, Episode 133",
-      "sport": "Other",
-      "sport_icon": "live_tv",
-      "sport_color": "#E53935",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_general_hospital_sea",
-      "start_time": "2026-07-08T19:00:00Z",
-      "end_time": "2026-07-08T22:00:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "ABC NY USA (casting)",
-          "url": "https://dlhd.pk/casting/stream-766.php"
-        },
-        {
-          "name": "ABC NY USA (cast)",
-          "url": "https://dlhd.pk/cast/stream-766.php"
-        },
-        {
-          "name": "ABC NY USA (player)",
-          "url": "https://dlhd.pk/player/stream-766.php"
-        },
-        {
-          "name": "ABC NY USA",
-          "url": "https://dlhd.pk/stream/stream-766.php"
-        },
-        {
-          "name": "ABC NY USA (plus)",
-          "url": "https://dlhd.pk/plus/stream-766.php"
-        },
-        {
-          "name": "ABC NY USA (watch)",
-          "url": "https://dlhd.pk/watch/stream-766.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_premier_league_darts",
-      "title": "Premier League Darts : Dobey, Chris vs. Bunting, Stephen",
-      "sport": "Football",
-      "sport_icon": "sports_soccer",
-      "sport_color": "#2962FF",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_premier_league_darts",
-      "start_time": "2026-07-08T19:00:00Z",
-      "end_time": "2026-07-08T22:00:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "Sport1 DE",
-          "url": "https://dlhd.pk/stream/stream-641.php"
-        },
-        {
-          "name": "Sky Sports Action UK (player)",
-          "url": "https://dlhd.pk/player/stream-37.php"
-        },
-        {
-          "name": "Sky Sports Main Event (watch)",
-          "url": "https://dlhd.pk/watch/stream-38.php"
-        },
-        {
-          "name": "Sky Sports Action UK (watch)",
-          "url": "https://dlhd.pk/watch/stream-37.php"
-        },
-        {
-          "name": "TV3 Sport Denmark (watch)",
-          "url": "https://dlhd.pk/watch/stream-809.php"
-        },
-        {
-          "name": "Sport1 DE (casting)",
-          "url": "https://dlhd.pk/casting/stream-641.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/football.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_switzerland_national",
-      "title": "Switzerland National League : HC Davos vs. EV Zug",
-      "sport": "Hockey",
-      "sport_icon": "sports_hockey",
-      "sport_color": "#1565C0",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_switzerland_national",
-      "start_time": "2026-07-08T19:00:00Z",
-      "end_time": "2026-07-08T22:00:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "3 Schweiz (cast)",
-          "url": "https://dlhd.pk/cast/stream-29.php"
-        },
-        {
-          "name": "SD-7584552",
-          "url": "https://dlhd.pk/stream/stream-7584552.php"
-        },
-        {
-          "name": "SD-7584552 (plus)",
-          "url": "https://dlhd.pk/plus/stream-7584552.php"
-        },
-        {
-          "name": "SD-7584552 (watch)",
-          "url": "https://dlhd.pk/watch/stream-7584552.php"
-        },
-        {
-          "name": "SD-7584552 (cast)",
-          "url": "https://dlhd.pk/cast/stream-7584552.php"
-        },
-        {
-          "name": "3 Schweiz (player)",
-          "url": "https://dlhd.pk/player/stream-29.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/ice-hockey.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_hungary_extraliga_wo",
-      "title": "Hungary Extraliga Women : Volleyball BRSE vs. Knrc",
-      "sport": "Other",
-      "sport_icon": "live_tv",
-      "sport_color": "#E53935",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_hungary_extraliga_wo",
-      "start_time": "2026-07-08T19:00:00Z",
-      "end_time": "2026-07-08T22:00:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "M4 Sport Hungary (casting)",
-          "url": "https://dlhd.pk/casting/stream-265.php"
-        },
-        {
-          "name": "M4 Sport Hungary (plus)",
-          "url": "https://dlhd.pk/plus/stream-265.php"
-        },
-        {
-          "name": "M4 Sport Hungary (watch)",
-          "url": "https://dlhd.pk/watch/stream-265.php"
-        },
-        {
-          "name": "M4 Sport Hungary",
-          "url": "https://dlhd.pk/stream/stream-265.php"
-        },
-        {
-          "name": "M4 Sport Hungary (player)",
-          "url": "https://dlhd.pk/player/stream-265.php"
-        },
-        {
-          "name": "M4 Sport Hungary (cast)",
-          "url": "https://dlhd.pk/cast/stream-265.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_live_players_champio",
-      "title": "Live Players Championship - Telford, England",
-      "sport": "Other",
-      "sport_icon": "live_tv",
-      "sport_color": "#E53935",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_live_players_champio",
-      "start_time": "2026-07-08T19:00:00Z",
-      "end_time": "2026-07-08T22:00:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "EuroSport 1 Poland (cast)",
-          "url": "https://dlhd.pk/cast/stream-57.php"
-        },
-        {
-          "name": "EuroSport 1 Spain (casting)",
-          "url": "https://dlhd.pk/casting/stream-524.php"
-        },
-        {
-          "name": "EuroSport 1 Spain (player)",
-          "url": "https://dlhd.pk/player/stream-524.php"
-        },
-        {
-          "name": "EuroSport 1 Poland",
-          "url": "https://dlhd.pk/stream/stream-57.php"
-        },
-        {
-          "name": "EuroSport 1 France",
-          "url": "https://dlhd.pk/stream/stream-772.php"
-        },
-        {
-          "name": "ITV 4 UK (watch)",
-          "url": "https://dlhd.pk/watch/stream-353.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
-    },
     {
       "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_euroleague___konfere",
       "title": "Euroleague : Konferenz",
@@ -1369,132 +616,6 @@
       "thumbnail": "https://streamed.pk/api/images/badge/basketball.webp"
     },
     {
-      "event_id": "spk_differdange-03-vs-ilves-2491807",
-      "title": "Differdange 03 vs Ilves",
-      "sport": "Football",
-      "sport_icon": "sports_soccer",
-      "sport_color": "#2962FF",
-      "tvg_id": "spk_differdange-03-vs-ilves-2491807",
-      "start_time": "2026-07-08T17:30:00Z",
-      "end_time": "2026-07-08T20:30:00Z",
-      "is_live": false,
-      "streams": [
-        {
-          "name": "StreamedPK Echo #1",
-          "url": "https://embed.st/embed/echo/fc-differdange-03-vs-ilves-football-1554395/1"
-        }
-      ],
-      "stream_count": 1,
-      "has_stream": true,
-      "source": "StreamedPK",
-      "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksM7ww4ACbqQ3ECR0hEOfXxAoQECwQpM+KLmDJr680faa0wjsaIhA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhySgwIDWAAmbENxAkQfDSBQGQiY-vgEKTPii5gy8IvNGOmtMM7GiIQA.webp",
-      "league": "football"
-    },
-    {
-      "event_id": "spk_connah-s-quay-nomads-vs-ballkani-2491799",
-      "title": "Connah's Quay Nomads vs Ballkani",
-      "sport": "Football",
-      "sport_icon": "sports_soccer",
-      "sport_color": "#2962FF",
-      "tvg_id": "spk_connah-s-quay-nomads-vs-ballkani-2491799",
-      "start_time": "2026-07-08T17:30:00Z",
-      "end_time": "2026-07-08T20:30:00Z",
-      "is_live": false,
-      "streams": [
-        {
-          "name": "StreamedPK Echo #1",
-          "url": "https://embed.st/embed/echo/gap-connah-s-quay-fc-vs-ballkani-football-1554393/1"
-        }
-      ],
-      "stream_count": 1,
-      "has_stream": true,
-      "source": "StreamedPK",
-      "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj64wSUNRzcQAExAGUIRDsT6DEwjGBM+KLmDLwi80faa0wjsaIhA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphQg+sEABNcPENy161uEKpggzfNQQpM+KLmDLwi80faa0wjsaIhA.webp",
-      "league": "football"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_denmark__handboldlig",
-      "title": "Denmark, Handboldligaen : Skanderborg-Aarhus Haandbold vs. Soenderjyske HK",
-      "sport": "Other",
-      "sport_icon": "live_tv",
-      "sport_color": "#E53935",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_denmark__handboldlig",
-      "start_time": "2026-07-08T17:30:00Z",
-      "end_time": "2026-07-08T20:30:00Z",
-      "is_live": false,
-      "streams": [
-        {
-          "name": "TV2 Sport Denmark (player)",
-          "url": "https://dlhd.pk/player/stream-810.php"
-        },
-        {
-          "name": "TV2 Sport Denmark (casting)",
-          "url": "https://dlhd.pk/casting/stream-810.php"
-        },
-        {
-          "name": "TV2 Sport Denmark",
-          "url": "https://dlhd.pk/stream/stream-810.php"
-        },
-        {
-          "name": "SD-7584527 (plus)",
-          "url": "https://dlhd.pk/plus/stream-7584527.php"
-        },
-        {
-          "name": "SD-7584527 (cast)",
-          "url": "https://dlhd.pk/cast/stream-7584527.php"
-        },
-        {
-          "name": "SD-7584527 (watch)",
-          "url": "https://dlhd.pk/watch/stream-7584527.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_premier_league_pool_",
-      "title": "Premier League Pool: Day 1",
-      "sport": "Football",
-      "sport_icon": "sports_soccer",
-      "sport_color": "#2962FF",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_premier_league_pool_",
-      "start_time": "2026-07-08T17:30:00Z",
-      "end_time": "2026-07-08T20:30:00Z",
-      "is_live": false,
-      "streams": [
-        {
-          "name": "Sky Sport 9 NZ (cast)",
-          "url": "https://dlhd.pk/cast/stream-596.php"
-        },
-        {
-          "name": "Sky Sport 9 NZ (plus)",
-          "url": "https://dlhd.pk/plus/stream-596.php"
-        },
-        {
-          "name": "Sky Sport 9 NZ",
-          "url": "https://dlhd.pk/stream/stream-596.php"
-        },
-        {
-          "name": "Sky Sport 9 NZ (player)",
-          "url": "https://dlhd.pk/player/stream-596.php"
-        },
-        {
-          "name": "Sky Sport 9 NZ (watch)",
-          "url": "https://dlhd.pk/watch/stream-596.php"
-        },
-        {
-          "name": "Sky Sport 9 NZ (casting)",
-          "url": "https://dlhd.pk/casting/stream-596.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/football.webp"
-    },
-    {
       "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_rubble__amp__crew_se",
       "title": "Rubble &amp; Crew Season 3",
       "sport": "Other",
@@ -1503,7 +624,7 @@
       "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_rubble__amp__crew_se",
       "start_time": "2026-07-08T21:00:00Z",
       "end_time": "2026-07-09T00:00:00Z",
-      "is_live": false,
+      "is_live": true,
       "streams": [
         {
           "name": "Nick JR USA (plus)",
@@ -1544,7 +665,7 @@
       "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_college_softball___p",
       "start_time": "2026-07-08T21:00:00Z",
       "end_time": "2026-07-09T00:00:00Z",
-      "is_live": false,
+      "is_live": true,
       "streams": [
         {
           "name": "BTN USA (plus)",
@@ -1585,7 +706,7 @@
       "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_brazil_copa_do_norde",
       "start_time": "2026-07-08T22:00:00Z",
       "end_time": "2026-07-09T01:00:00Z",
-      "is_live": false,
+      "is_live": true,
       "streams": [
         {
           "name": "Premier Brasil (plus)",
@@ -1626,7 +747,7 @@
       "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_first_round_2025_nca",
       "start_time": "2026-07-08T22:00:00Z",
       "end_time": "2026-07-09T01:00:00Z",
-      "is_live": false,
+      "is_live": true,
       "streams": [
         {
           "name": "TSN4",
@@ -1667,7 +788,7 @@
       "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_mlb___boston_red_sox",
       "start_time": "2026-07-08T22:05:00Z",
       "end_time": "2026-07-09T01:05:00Z",
-      "is_live": false,
+      "is_live": true,
       "streams": [
         {
           "name": "SD-7584574",
@@ -1708,7 +829,7 @@
       "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_mlb___new_york_yanke",
       "start_time": "2026-07-08T22:05:00Z",
       "end_time": "2026-07-09T01:05:00Z",
-      "is_live": false,
+      "is_live": true,
       "streams": [
         {
           "name": "MASN USA (player)",
@@ -1739,6 +860,546 @@
       "has_stream": true,
       "source": "DaddyLiveHD",
       "thumbnail": "https://streamed.pk/api/images/badge/baseball.webp"
+    },
+    {
+      "event_id": "spk_admin-tennis-channel",
+      "title": "Tennis Channel",
+      "sport": "Tennis",
+      "sport_icon": "sports_tennis",
+      "sport_color": "#FFD600",
+      "tvg_id": "spk_admin-tennis-channel",
+      "start_time": "2026-07-08T22:06:55Z",
+      "end_time": "2026-07-09T01:06:55Z",
+      "is_live": true,
+      "streams": [
+        {
+          "name": "StreamedPK Admin HD #1 (English)",
+          "url": "https://embed.st/embed/admin/admin-tennis-channel/1"
+        },
+        {
+          "name": "StreamedPK Admin SD #2 (English)",
+          "url": "https://embed.st/embed/admin/admin-tennis-channel/2"
+        }
+      ],
+      "stream_count": 2,
+      "has_stream": true,
+      "source": "StreamedPK",
+      "thumbnail": "https://streamed.pk/api/images/proxy//api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBDXsQZgdgwwRgBOYAU0hDpqxQFZh5Tg0wmJgATMNTTAWkVqNri0LIinbQ61OvHS5CISiCggGIRPzWq0hNTTV5s2AMb6NNFif4h+VFxux5bFLXnk3aASx2PV0+LRRNR0hAtjYUBHZQYkk2JjBHEFsaOxytGFZYSWt5YFIVGOVgeTYOMl5AiCA.webp.webp",
+      "league": "tennis"
+    },
+    {
+      "event_id": "spk_admin-sky-sports-tennis",
+      "title": "Sky Sports Tennis",
+      "sport": "Tennis",
+      "sport_icon": "sports_tennis",
+      "sport_color": "#FFD600",
+      "tvg_id": "spk_admin-sky-sports-tennis",
+      "start_time": "2026-07-08T22:06:55Z",
+      "end_time": "2026-07-09T01:06:55Z",
+      "is_live": true,
+      "streams": [
+        {
+          "name": "StreamedPK Admin HD #1 (English)",
+          "url": "https://embed.st/embed/admin/admin-sky-sports-tennis/1"
+        },
+        {
+          "name": "StreamedPK Admin SD #2 (English)",
+          "url": "https://embed.st/embed/admin/admin-sky-sports-tennis/2"
+        }
+      ],
+      "stream_count": 2,
+      "has_stream": true,
+      "source": "StreamedPK",
+      "thumbnail": "https://streamed.pk/api/images/proxy//api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWYLYATmEIFNd4Dh5g1hh0ngLgJngBDFJsLiTBluwsCkycQbPuTZ5gCYAAZxfBLAZioNRZ3aFCKBLIGNiGRTC7xoVMuwizG+WbyZCyfYuCeK+7AJmCpBsckYmHjyK-viahFggjHwQ0iAUINwgJCCpKCCJGSCyilS2nA5chPRgYI5hEEA.webp.webp",
+      "league": "tennis"
+    },
+    {
+      "event_id": "spk_admin-rally-tv",
+      "title": "Rally TV",
+      "sport": "Other",
+      "sport_icon": "live_tv",
+      "sport_color": "#E53935",
+      "tvg_id": "spk_admin-rally-tv",
+      "start_time": "2026-07-08T22:06:55Z",
+      "end_time": "2026-07-09T01:06:55Z",
+      "is_live": true,
+      "streams": [
+        {
+          "name": "StreamedPK Admin HD #1 (English)",
+          "url": "https://embed.st/embed/admin/admin-rally-tv/1"
+        }
+      ],
+      "stream_count": 1,
+      "has_stream": true,
+      "source": "StreamedPK",
+      "thumbnail": "https://streamed.pk/api/images/proxy//api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuMFBWLwBTYCbYAQxSzPzLCWDWB12Hga00quAGNCF0GdCBQhqjEM1Y4AJhixo5YXLCa8uwMAQSRgATkKk8bMFuKGIQA.webp.webp",
+      "league": "motor-sports"
+    },
+    {
+      "event_id": "spk_admin-willow-cricket",
+      "title": "Willow Cricket",
+      "sport": "Cricket",
+      "sport_icon": "sports_cricket",
+      "sport_color": "#00C853",
+      "tvg_id": "spk_admin-willow-cricket",
+      "start_time": "2026-07-08T22:06:55Z",
+      "end_time": "2026-07-09T01:06:55Z",
+      "is_live": true,
+      "streams": [
+        {
+          "name": "StreamedPK Admin HD #2 (Willow 2)",
+          "url": "https://embed.st/embed/admin/admin-willow-cricket/2"
+        },
+        {
+          "name": "StreamedPK Admin HD #1 (English)",
+          "url": "https://embed.st/embed/admin/admin-willow-cricket/1"
+        },
+        {
+          "name": "StreamedPK Admin HD #3 (Willow Sports)",
+          "url": "https://embed.st/embed/admin/admin-willow-cricket/3"
+        },
+        {
+          "name": "StreamedPK Admin SD #5 (Willow 2)",
+          "url": "https://embed.st/embed/admin/admin-willow-cricket/5"
+        },
+        {
+          "name": "StreamedPK Admin SD #4 (English)",
+          "url": "https://embed.st/embed/admin/admin-willow-cricket/4"
+        },
+        {
+          "name": "StreamedPK Admin SD #6 (Willow Sports)",
+          "url": "https://embed.st/embed/admin/admin-willow-cricket/6"
+        }
+      ],
+      "stream_count": 6,
+      "has_stream": true,
+      "source": "StreamedPK",
+      "thumbnail": "https://streamed.pk/api/images/proxy//api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp.webp",
+      "league": "cricket"
+    },
+    {
+      "event_id": "vip_e59042",
+      "title": "Link 5",
+      "sport": "Baseball",
+      "sport_icon": "sports_baseball",
+      "sport_color": "#FF6F00",
+      "tvg_id": "vip_e59042",
+      "start_time": "2026-07-08T22:07:36Z",
+      "end_time": "2026-07-09T01:07:36Z",
+      "is_live": true,
+      "streams": [
+        {
+          "name": "VIPLeague Stream",
+          "url": "https://dungatv.xyz/dunga15.php?onthetop"
+        },
+        {
+          "name": "VIPLeague Stream",
+          "url": "https://dungatv.xyz/dunga12.php"
+        },
+        {
+          "name": "VIPLeague Stream",
+          "url": "https://dungatv.xyz/dunga14.php"
+        },
+        {
+          "name": "VIPLeague Embed",
+          "url": "https://vipleaguetv.net/baseball/vtv-f2j9m-baltimore-orioles-chicago-cubs?l=2227442454"
+        },
+        {
+          "name": "VIPLeague Embed",
+          "url": "https://vipleaguetv.net/baseball/vtv-f2jb5-baltimore-orioles-chicago-cubs?l=2227442454"
+        },
+        {
+          "name": "VIPLeague Embed",
+          "url": "https://vipleaguetv.net/baseball/vtv-f2ja7-tampa-bay-rays-new-york-yankees?l=2227442454"
+        }
+      ],
+      "stream_count": 6,
+      "has_stream": true,
+      "source": "VIPLeague",
+      "thumbnail": "https://streamed.pk/api/images/badge/baseball.webp"
+    },
+    {
+      "event_id": "vip_00a5a4",
+      "title": "Link 1",
+      "sport": "Basketball",
+      "sport_icon": "sports_basketball",
+      "sport_color": "#FF6D00",
+      "tvg_id": "vip_00a5a4",
+      "start_time": "2026-07-08T22:07:36Z",
+      "end_time": "2026-07-09T01:07:36Z",
+      "is_live": true,
+      "streams": [
+        {
+          "name": "VIPLeague Embed",
+          "url": "https://vipleaguetv.net/basketball/vtv-f2jb1-connecticut-sun-women-minnesota-lynx-women?l=2227442454"
+        },
+        {
+          "name": "VIPLeague Stream",
+          "url": "https://dungatv.xyz/dunga18.php"
+        },
+        {
+          "name": "VIPLeague Stream",
+          "url": "https://dungatv.xyz/dunga18.php?onthetop"
+        },
+        {
+          "name": "VIPLeague Embed",
+          "url": "https://vipleaguetv.net/basketball/vtv-f2jb0-connecticut-sun-women-minnesota-lynx-women?l=2227442454"
+        }
+      ],
+      "stream_count": 4,
+      "has_stream": true,
+      "source": "VIPLeague",
+      "thumbnail": "https://streamed.pk/api/images/badge/basketball.webp"
+    },
+    {
+      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_basquetebol__men_s_m",
+      "title": "Basquetebol: Men's March Madness #2 - College Basketball",
+      "sport": "Basketball",
+      "sport_icon": "sports_basketball",
+      "sport_color": "#FF6D00",
+      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_basquetebol__men_s_m",
+      "start_time": "2026-07-08T18:45:00Z",
+      "end_time": "2026-07-08T21:45:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "DAZN Eleven 1 Portugal (watch)",
+          "url": "https://dlhd.pk/watch/stream-455.php"
+        },
+        {
+          "name": "DAZN Eleven 1 Portugal (plus)",
+          "url": "https://dlhd.pk/plus/stream-455.php"
+        },
+        {
+          "name": "DAZN Eleven 1 Portugal (player)",
+          "url": "https://dlhd.pk/player/stream-455.php"
+        },
+        {
+          "name": "DAZN Eleven 1 Portugal (cast)",
+          "url": "https://dlhd.pk/cast/stream-455.php"
+        },
+        {
+          "name": "DAZN Eleven 1 Portugal",
+          "url": "https://dlhd.pk/stream/stream-455.php"
+        },
+        {
+          "name": "DAZN Eleven 1 Portugal (casting)",
+          "url": "https://dlhd.pk/casting/stream-455.php"
+        }
+      ],
+      "stream_count": 6,
+      "has_stream": true,
+      "source": "DaddyLiveHD",
+      "thumbnail": "https://streamed.pk/api/images/badge/basketball.webp"
+    },
+    {
+      "event_id": "spk_saint-laurent-vs-forge-football-1544845",
+      "title": "Saint-Laurent vs Forge",
+      "sport": "Football",
+      "sport_icon": "sports_soccer",
+      "sport_color": "#2962FF",
+      "tvg_id": "spk_saint-laurent-vs-forge-football-1544845",
+      "start_time": "2026-07-08T19:00:00Z",
+      "end_time": "2026-07-08T22:00:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "StreamedPK Echo #1",
+          "url": "https://embed.st/embed/echo/saint-laurent-vs-forge-football-1544845/1"
+        }
+      ],
+      "stream_count": 1,
+      "has_stream": true,
+      "source": "StreamedPK",
+      "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIRERDYQJOuQYBjZuJ7wRVbgS6swYXPmtA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhEIRSBj1yDAMbNxPeCKrcCXVmDC58FoA.webp",
+      "league": "football"
+    },
+    {
+      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_general_hospital_sea",
+      "title": "General Hospital Season 62, Episode 133",
+      "sport": "Other",
+      "sport_icon": "live_tv",
+      "sport_color": "#E53935",
+      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_general_hospital_sea",
+      "start_time": "2026-07-08T19:00:00Z",
+      "end_time": "2026-07-08T22:00:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "ABC NY USA (casting)",
+          "url": "https://dlhd.pk/casting/stream-766.php"
+        },
+        {
+          "name": "ABC NY USA (cast)",
+          "url": "https://dlhd.pk/cast/stream-766.php"
+        },
+        {
+          "name": "ABC NY USA (player)",
+          "url": "https://dlhd.pk/player/stream-766.php"
+        },
+        {
+          "name": "ABC NY USA",
+          "url": "https://dlhd.pk/stream/stream-766.php"
+        },
+        {
+          "name": "ABC NY USA (plus)",
+          "url": "https://dlhd.pk/plus/stream-766.php"
+        },
+        {
+          "name": "ABC NY USA (watch)",
+          "url": "https://dlhd.pk/watch/stream-766.php"
+        }
+      ],
+      "stream_count": 6,
+      "has_stream": true,
+      "source": "DaddyLiveHD",
+      "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
+    },
+    {
+      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_premier_league_darts",
+      "title": "Premier League Darts : Dobey, Chris vs. Bunting, Stephen",
+      "sport": "Football",
+      "sport_icon": "sports_soccer",
+      "sport_color": "#2962FF",
+      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_premier_league_darts",
+      "start_time": "2026-07-08T19:00:00Z",
+      "end_time": "2026-07-08T22:00:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "Sport1 DE",
+          "url": "https://dlhd.pk/stream/stream-641.php"
+        },
+        {
+          "name": "Sky Sports Action UK (player)",
+          "url": "https://dlhd.pk/player/stream-37.php"
+        },
+        {
+          "name": "Sky Sports Main Event (watch)",
+          "url": "https://dlhd.pk/watch/stream-38.php"
+        },
+        {
+          "name": "Sky Sports Action UK (watch)",
+          "url": "https://dlhd.pk/watch/stream-37.php"
+        },
+        {
+          "name": "TV3 Sport Denmark (watch)",
+          "url": "https://dlhd.pk/watch/stream-809.php"
+        },
+        {
+          "name": "Sport1 DE (casting)",
+          "url": "https://dlhd.pk/casting/stream-641.php"
+        }
+      ],
+      "stream_count": 6,
+      "has_stream": true,
+      "source": "DaddyLiveHD",
+      "thumbnail": "https://streamed.pk/api/images/badge/football.webp"
+    },
+    {
+      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_switzerland_national",
+      "title": "Switzerland National League : HC Davos vs. EV Zug",
+      "sport": "Hockey",
+      "sport_icon": "sports_hockey",
+      "sport_color": "#1565C0",
+      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_switzerland_national",
+      "start_time": "2026-07-08T19:00:00Z",
+      "end_time": "2026-07-08T22:00:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "3 Schweiz (cast)",
+          "url": "https://dlhd.pk/cast/stream-29.php"
+        },
+        {
+          "name": "SD-7584552",
+          "url": "https://dlhd.pk/stream/stream-7584552.php"
+        },
+        {
+          "name": "SD-7584552 (plus)",
+          "url": "https://dlhd.pk/plus/stream-7584552.php"
+        },
+        {
+          "name": "SD-7584552 (watch)",
+          "url": "https://dlhd.pk/watch/stream-7584552.php"
+        },
+        {
+          "name": "SD-7584552 (cast)",
+          "url": "https://dlhd.pk/cast/stream-7584552.php"
+        },
+        {
+          "name": "3 Schweiz (player)",
+          "url": "https://dlhd.pk/player/stream-29.php"
+        }
+      ],
+      "stream_count": 6,
+      "has_stream": true,
+      "source": "DaddyLiveHD",
+      "thumbnail": "https://streamed.pk/api/images/badge/ice-hockey.webp"
+    },
+    {
+      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_hungary_extraliga_wo",
+      "title": "Hungary Extraliga Women : Volleyball BRSE vs. Knrc",
+      "sport": "Other",
+      "sport_icon": "live_tv",
+      "sport_color": "#E53935",
+      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_hungary_extraliga_wo",
+      "start_time": "2026-07-08T19:00:00Z",
+      "end_time": "2026-07-08T22:00:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "M4 Sport Hungary (casting)",
+          "url": "https://dlhd.pk/casting/stream-265.php"
+        },
+        {
+          "name": "M4 Sport Hungary (plus)",
+          "url": "https://dlhd.pk/plus/stream-265.php"
+        },
+        {
+          "name": "M4 Sport Hungary (watch)",
+          "url": "https://dlhd.pk/watch/stream-265.php"
+        },
+        {
+          "name": "M4 Sport Hungary",
+          "url": "https://dlhd.pk/stream/stream-265.php"
+        },
+        {
+          "name": "M4 Sport Hungary (player)",
+          "url": "https://dlhd.pk/player/stream-265.php"
+        },
+        {
+          "name": "M4 Sport Hungary (cast)",
+          "url": "https://dlhd.pk/cast/stream-265.php"
+        }
+      ],
+      "stream_count": 6,
+      "has_stream": true,
+      "source": "DaddyLiveHD",
+      "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
+    },
+    {
+      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_live_players_champio",
+      "title": "Live Players Championship - Telford, England",
+      "sport": "Other",
+      "sport_icon": "live_tv",
+      "sport_color": "#E53935",
+      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_live_players_champio",
+      "start_time": "2026-07-08T19:00:00Z",
+      "end_time": "2026-07-08T22:00:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "EuroSport 1 Poland (cast)",
+          "url": "https://dlhd.pk/cast/stream-57.php"
+        },
+        {
+          "name": "EuroSport 1 Spain (casting)",
+          "url": "https://dlhd.pk/casting/stream-524.php"
+        },
+        {
+          "name": "EuroSport 1 Spain (player)",
+          "url": "https://dlhd.pk/player/stream-524.php"
+        },
+        {
+          "name": "EuroSport 1 Poland",
+          "url": "https://dlhd.pk/stream/stream-57.php"
+        },
+        {
+          "name": "EuroSport 1 France",
+          "url": "https://dlhd.pk/stream/stream-772.php"
+        },
+        {
+          "name": "ITV 4 UK (watch)",
+          "url": "https://dlhd.pk/watch/stream-353.php"
+        }
+      ],
+      "stream_count": 6,
+      "has_stream": true,
+      "source": "DaddyLiveHD",
+      "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
+    },
+    {
+      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_world_cup_qualifying",
+      "title": "World Cup Qualifying : Libya vs Angola",
+      "sport": "Football",
+      "sport_icon": "sports_soccer",
+      "sport_color": "#2962FF",
+      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_world_cup_qualifying",
+      "start_time": "2026-07-08T19:00:00Z",
+      "end_time": "2026-07-08T22:00:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "Sport TV6 Portugal (plus)",
+          "url": "https://dlhd.pk/plus/stream-291.php"
+        },
+        {
+          "name": "Sport TV6 Portugal (casting)",
+          "url": "https://dlhd.pk/casting/stream-291.php"
+        },
+        {
+          "name": "Sport TV6 Portugal (player)",
+          "url": "https://dlhd.pk/player/stream-291.php"
+        },
+        {
+          "name": "Sport TV6 Portugal (watch)",
+          "url": "https://dlhd.pk/watch/stream-291.php"
+        },
+        {
+          "name": "Sport TV6 Portugal",
+          "url": "https://dlhd.pk/stream/stream-291.php"
+        },
+        {
+          "name": "Sport TV6 Portugal (cast)",
+          "url": "https://dlhd.pk/cast/stream-291.php"
+        }
+      ],
+      "stream_count": 6,
+      "has_stream": true,
+      "source": "DaddyLiveHD",
+      "thumbnail": "https://streamed.pk/api/images/badge/football.webp"
+    },
+    {
+      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_2025_ncaa_men_s_bask",
+      "title": "2025 NCAA Men's Basketball Tournament First Round: McNeese State vs Clemson",
+      "sport": "Basketball",
+      "sport_icon": "sports_basketball",
+      "sport_color": "#FF6D00",
+      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_2025_ncaa_men_s_bask",
+      "start_time": "2026-07-08T19:00:00Z",
+      "end_time": "2026-07-08T22:00:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "truTV USA (casting)",
+          "url": "https://dlhd.pk/casting/stream-341.php"
+        },
+        {
+          "name": "truTV USA (plus)",
+          "url": "https://dlhd.pk/plus/stream-341.php"
+        },
+        {
+          "name": "truTV USA (player)",
+          "url": "https://dlhd.pk/player/stream-341.php"
+        },
+        {
+          "name": "truTV USA (cast)",
+          "url": "https://dlhd.pk/cast/stream-341.php"
+        },
+        {
+          "name": "truTV USA (watch)",
+          "url": "https://dlhd.pk/watch/stream-341.php"
+        },
+        {
+          "name": "truTV USA",
+          "url": "https://dlhd.pk/stream/stream-341.php"
+        }
+      ],
+      "stream_count": 6,
+      "has_stream": true,
+      "source": "DaddyLiveHD",
+      "thumbnail": "https://streamed.pk/api/images/badge/basketball.webp"
     },
     {
       "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_brazil__lbf_women___",
@@ -4230,6 +3891,36 @@
       "source": "StreamedPK",
       "thumbnail": "https://streamed.pk/api/images/badge/baseball.webp",
       "league": "baseball"
+    },
+    {
+      "event_id": "spk_ppv-sacramento-kings-vs-la-clippers",
+      "title": "Sacramento Kings vs. LA Clippers",
+      "sport": "Basketball",
+      "sport_icon": "sports_basketball",
+      "sport_color": "#FF6D00",
+      "tvg_id": "spk_ppv-sacramento-kings-vs-la-clippers",
+      "start_time": "2026-07-10T03:00:00Z",
+      "end_time": "2026-07-10T06:00:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "StreamedPK Admin HD #1 (English - ESPN)",
+          "url": "https://embed.st/embed/admin/ppv-sacramento-kings-vs-la-clippers/1"
+        },
+        {
+          "name": "StreamedPK Golf HD #1 (English)",
+          "url": "https://embed.st/embed/golf/23663/1"
+        },
+        {
+          "name": "StreamedPK Admin SD #2 (English - ESPN)",
+          "url": "https://embed.st/embed/admin/ppv-sacramento-kings-vs-la-clippers/2"
+        }
+      ],
+      "stream_count": 3,
+      "has_stream": true,
+      "source": "StreamedPK",
+      "thumbnail": "https://streamed.pk/api/images/proxy//api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEESHjYQMYBBBYFEgMYgUIKmpAhgNYVtXC5u0iFWJxU-ePmaUwXuXEChIptnphCwJLmX2hMG5OcSMyewIHciDjMgggA.webp.webp",
+      "league": "basketball"
     }
   ]
 }
