@@ -475,7 +475,7 @@
     {
       "id": "DanceTVAlgorhythm.ee",
       "name": "DanceTV Algorhythm",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=dancetv.net",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TodrickHall-byPhilipRomano.jpg/330px-TodrickHall-byPhilipRomano.jpg",
       "streamUrls": [
         "https://m2b2.worldcast.tv:7443/dancetelevisionfour/dancetelevisionfour.m3u8"
       ],
@@ -495,7 +495,7 @@
     {
       "id": "DanceTVEDMMainstage.ee",
       "name": "DanceTV EDM Mainstage",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=dancetv.net",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Headhunterz14.jpg/330px-Headhunterz14.jpg",
       "streamUrls": [
         "https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8"
       ],
@@ -738,8 +738,8 @@
       "name": "First Music Channel",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/by/FirstMusicChannel.by.png",
       "streamUrls": [
-        "http://hz1.teleport.cc/HLS/SD.m3u8",
         "http://hz1.teleport.cc/HLS/HD.m3u8",
+        "http://hz1.teleport.cc/HLS/SD.m3u8",
         "http://rtmp.one.by:1300"
       ],
       "category": "Music",
@@ -751,8 +751,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/by/FirstMusicChannelRussia.by.png",
       "streamUrls": [
         "http://rtmp.one.by:2300",
-        "http://rtmp.one.by:2200",
-        "http://hls127.freeott.top:8080/1muz_HD/video.m3u8"
+        "http://hls127.freeott.top:8080/1muz_HD/video.m3u8",
+        "http://rtmp.one.by:2200"
       ],
       "category": "Music",
       "genre": "Music"
@@ -1331,9 +1331,9 @@
       "name": "NOW Rock",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/NOWRock.uk.png",
       "streamUrls": [
-        "https://lightning-now90s-rakuten.amagi.tv/playlist.m3u8",
         "https://lightning-now90s-samsungse.amagi.tv/playlist.m3u8",
-        "https://lightningnow90-samsungau.amagi.tv/playlist.m3u8"
+        "https://lightningnow90-samsungau.amagi.tv/playlist.m3u8",
+        "https://lightning-now90s-rakuten.amagi.tv/playlist.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -1363,8 +1363,8 @@
       "name": "Now 70s",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/Now70s.uk.png",
       "streamUrls": [
-        "https://amg01076-amg01076c1-samsung-gb-6682.playouts.now.amagi.tv/playlist.m3u8",
         "https://lightningnow70-samsungau.amagi.tv/playlist.m3u8",
+        "https://amg01076-amg01076c1-samsung-gb-6682.playouts.now.amagi.tv/playlist.m3u8",
         "https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8"
       ],
       "category": "Music",
@@ -1376,8 +1376,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/Now80s.uk.png",
       "streamUrls": [
         "https://samsunguk-lightning-now80s-samsunguk-n908q.amagi.tv/playlist/samsunguk-lightning-now80s-samsunguk/playlist.m3u8",
-        "https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8",
-        "https://lightningnow80-samsungau.amagi.tv/playlist.m3u8"
+        "https://lightningnow80-samsungau.amagi.tv/playlist.m3u8",
+        "https://lightning-now80s-samsungse.amagi.tv/playlist.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -1459,8 +1459,8 @@
       "name": "Ocko",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cz/Ocko.cz.png",
       "streamUrls": [
-        "https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8",
-        "https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8"
+        "https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8",
+        "https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -2212,8 +2212,8 @@
       "name": "Sky Folk TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mk/SkyFolkTV.mk.png",
       "streamUrls": [
-        "https://skyfolk.mk/live.m3u8",
-        "https://eu.live.skyfolk.mk/live.m3u8"
+        "https://eu.live.skyfolk.mk/live.m3u8",
+        "https://skyfolk.mk/live.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -4681,6 +4681,36 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gr/PanikTV.gr.png",
       "streamUrls": [
         "https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8"
+      ],
+      "category": "Music",
+      "languages": []
+    },
+    {
+      "id": "BandamaxUSA.us",
+      "name": "Bandamax USA",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/BandamaxUSA.us.png",
+      "streamUrls": [
+        "http://177.234.249.135:8888/Bandamax/index.m3u8"
+      ],
+      "category": "Music",
+      "languages": []
+    },
+    {
+      "id": "TeleHitEstadosUnidos.us",
+      "name": "TeleHit Estados Unidos",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/TeleHitEstadosUnidos.us.png",
+      "streamUrls": [
+        "http://177.234.249.135:8888/Telehit/index.m3u8"
+      ],
+      "category": "Music",
+      "languages": []
+    },
+    {
+      "id": "TelehitMusicaEstadosUnidos.us",
+      "name": "Telehit Musica Estados Unidos",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/TelehitMusicaEstadosUnidos.us.png",
+      "streamUrls": [
+        "http://177.234.249.135:8888/TelehitMusica/index.m3u8"
       ],
       "category": "Music",
       "languages": []
