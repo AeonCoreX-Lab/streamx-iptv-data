@@ -1124,17 +1124,6 @@
       "languages": []
     },
     {
-      "id": "NickOnline.br",
-      "name": "NickOnline",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/NickOnline.br.png",
-      "streamUrls": [
-        "https://x1colegal.com/hls/stream.m3u8"
-      ],
-      "country": "BR",
-      "category": "Brazil",
-      "languages": []
-    },
-    {
       "id": "TVPantanalMS.br",
       "name": "TV Pantanal MS",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/TVPantanalMS.br.png",
@@ -1529,7 +1518,8 @@
       "name": "SBT Interior",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/SBTInterior.br.png",
       "streamUrls": [
-        "http://167.250.126.140:7777/COMEDYCENTRAL-HD/index.m3u8"
+        "http://167.250.126.140:7777/COMEDYCENTRAL-HD/index.m3u8",
+        "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8"
       ],
       "country": "BR",
       "category": "Brazil",
@@ -1562,7 +1552,8 @@
       "name": "Megapix",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/Megapix.br.png",
       "streamUrls": [
-        "http://45.162.231.38:7779/MegaPix/index.m3u8"
+        "http://45.162.231.38:7779/MegaPix/index.m3u8",
+        "http://167.250.126.140:7777/MEGAPIX-HD/index.m3u8"
       ],
       "country": "BR",
       "category": "Brazil",
@@ -1573,7 +1564,8 @@
       "name": "Canal Brasil",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/CanalBrasil.br.png",
       "streamUrls": [
-        "http://45.162.231.38:7779/Canal_Brasil/index.m3u8"
+        "http://45.162.231.38:7779/Canal_Brasil/index.m3u8",
+        "http://167.250.126.140:7777/CANALBRASIL-HD/index.m3u8"
       ],
       "country": "BR",
       "category": "Brazil",
@@ -1584,7 +1576,8 @@
       "name": "Bis",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/Bis.br.png",
       "streamUrls": [
-        "http://45.162.231.38:7779/BIS/index.m3u8"
+        "http://45.162.231.38:7779/BIS/index.m3u8",
+        "http://167.250.126.140:7777/BIS-HD/index.m3u8"
       ],
       "country": "BR",
       "category": "Brazil",
@@ -1619,8 +1612,18 @@
       ],
       "category": "Brazil",
       "languages": []
+    },
+    {
+      "id": "TVUFOP.br",
+      "name": "TV UFOP",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/TVUFOP.br.png",
+      "streamUrls": [
+        "https://app.tvufop.com.br/hls/tvufop.m3u8"
+      ],
+      "category": "Brazil",
+      "languages": []
     }
   ],
   "count": 158,
-  "generated_at": "2026-07-08T21:07:33.554599"
+  "generated_at": "2026-07-09T02:54:49.112230"
 }
