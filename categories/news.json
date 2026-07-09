@@ -1797,8 +1797,7 @@
       "name": "ETV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/ETV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/ETV/DASH-FTA/ETV.mpd",
-        "https://cdn4.skygo.mn/live/disk1/ETV/HLSv3-FTA/ETV.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/ETV/DASH-FTA/ETV.mpd"
       ],
       "category": "News",
       "languages": []
@@ -6088,16 +6087,6 @@
       "languages": []
     },
     {
-      "id": "IndependentTV.bd",
-      "name": "Independent TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bd/IndependentTV.bd.png",
-      "streamUrls": [
-        "https://bozztv.com/rongo/rongo-IndependentTV/index.m3u8"
-      ],
-      "category": "News",
-      "languages": []
-    },
-    {
       "id": "JamunaTV.bd",
       "name": "Jamuna TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bd/JamunaTV.bd.png",
@@ -6451,7 +6440,7 @@
     {
       "id": "Argentina12.ar",
       "name": "Argentina/12",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/UNIFE.jpg/330px-UNIFE.jpg",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pagina12.com.ar",
       "streamUrls": [
         "http://45.6.4.35/IP_NOTICIAS/index.m3u8"
       ],
@@ -6464,6 +6453,16 @@
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=noticias16.com.do",
       "streamUrls": [
         "https://edge.essastream.com/noticias16/playlist.m3u8"
+      ],
+      "category": "News",
+      "languages": []
+    },
+    {
+      "id": "MetroTV.id",
+      "name": "Metro TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/MetroTV.id.png",
+      "streamUrls": [
+        "https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8"
       ],
       "category": "News",
       "languages": []

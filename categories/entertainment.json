@@ -400,16 +400,6 @@
       "languages": []
     },
     {
-      "id": "ATMRozrywkaREWORK.pl",
-      "name": "ATM Rozrywka REWORK",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/ATMRozrywkaREWORK.pl.png",
-      "streamUrls": [
-        "https://grupaatmrr.org.pl:8888/fallback/index.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "ATV.be",
       "name": "ATV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/be/ATV.be.png",
@@ -445,7 +435,6 @@
       "name": "ATV Sur",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pe/ATVSur.pe.png",
       "streamUrls": [
-        "https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8",
         "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/atvsur.stream/playlist.m3u8"
       ],
       "category": "News",
@@ -1883,7 +1872,6 @@
       "name": "C1",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/C1.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/C1/DASH-FTA/C1.mpd",
         "https://cdn4.skygo.mn/live/disk1/C1/HLSv3-FTA/C1.m3u8"
       ],
       "category": "Entertainment",
@@ -2554,16 +2542,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/CanalTaronjaOsonaiMoianes.es.png",
       "streamUrls": [
         "https://ingest1-video.streaming-pro.com/canaltaronja/osona/playlist.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
-      "id": "CanalTerresdelEbre.es",
-      "name": "Canal Terres de l'Ebre",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/CanalTerresdelEbre.es.png",
-      "streamUrls": [
-        "https://ingest1-video.streaming-pro.com/canalteABR/ctestream/playlist.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -13456,7 +13434,6 @@
       "name": "UBS",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/UBS.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/UBSHD/HLSv3-FTA/UBSHD.m3u8",
         "https://cdn4.skygo.mn/live/disk1/UBSHD/DASH-FTA/UBSHD.mpd"
       ],
       "category": "Other",
@@ -17273,16 +17250,6 @@
       "languages": []
     },
     {
-      "id": "BigBrother.us",
-      "name": "Big Brother",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
-      "streamUrls": [
-        "https://jmp2.uk/plu-6661f11a41af6400080e90d8.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "Boligjakten.se",
       "name": "Boligjakten",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
@@ -19689,21 +19656,12 @@
       "languages": []
     },
     {
-      "id": "dTVi.id",
-      "name": "dTVi",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/dTVi.id.png",
-      "streamUrls": [
-        "https://e.siar.us/live/dtvi.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "Nativa.pe",
       "name": "Nativa",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pe/Nativa.pe.png",
       "streamUrls": [
-        "http://187.102.210.46/NATIVATV/index.m3u8"
+        "http://187.102.210.46/NATIVATV/index.m3u8",
+        "https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8"
       ],
       "country": "PE",
       "category": "Entertainment",
@@ -19714,7 +19672,9 @@
       "name": "RTS",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ec/RTS.ec.png",
       "streamUrls": [
-        "http://177.234.249.178:8888/RTS/index.m3u8"
+        "https://d2w3o8zn50cs1k.cloudfront.net/ts:abr.m3u8",
+        "http://177.234.249.178:8888/RTS/index.m3u8",
+        "http://45.224.97.181:9999/RTS/index.m3u8"
       ],
       "country": "EC",
       "category": "Entertainment",
@@ -19879,6 +19839,158 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/hn/TelevisionMetropolis191.hn.png",
       "streamUrls": [
         "https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "Antena7.do",
+      "name": "Antena 7",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/Antena7.do.png",
+      "streamUrls": [
+        "https://d3gie3ig6argu.cloudfront.net/ts:abr.m3u8"
+      ],
+      "country": "DO",
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "Antena21.do",
+      "name": "Antena 21",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/Antena21.do.png",
+      "streamUrls": [
+        "https://d1ypfac91iuc9g.cloudfront.net/ts:abr.m3u8"
+      ],
+      "country": "DO",
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "AlmayaTV.py",
+      "name": "Almaya TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/py/AlmayaTV.py.png",
+      "streamUrls": [
+        "https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "AmazoniaTV.pe",
+      "name": "Amazonia TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pe/AmazoniaTV.pe.png",
+      "streamUrls": [
+        "https://servilive.com:3199/live/amazoniatvlive.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "AutonomaTV.cl",
+      "name": "Autonoma TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cl/AutonomaTV.cl.png",
+      "streamUrls": [
+        "https://wifispeed.trapemn.tv:1936/comunales/autonoma-tv/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "AyazTV.az",
+      "name": "Ayaz TV",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=ayaztv.com",
+      "streamUrls": [
+        "https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "BBSTV.ug",
+      "name": "BBS TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ug/BBSTV.ug.png",
+      "streamUrls": [
+        "https://bbstv.ug/hls/ch01/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "BEATTV.nl",
+      "name": "BEATTV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/nl/BEATTV.nl.png",
+      "streamUrls": [
+        "https://tv.beatfm.nl/live.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "Canal2deUshuaia.ar",
+      "name": "Canal 2 de Ushuaia",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/Canal2deUshuaia.ar.png",
+      "streamUrls": [
+        "https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "TVCanal72.ar",
+      "name": "TV Canal 72",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=tvcanal72.com.ar",
+      "streamUrls": [
+        "https://stmv1.voxtvhd.com.br/canal72tv2/canal72tv2/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "TayariWestTV.ug",
+      "name": "Tayari West TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ug/TayariWestTV.ug.png",
+      "streamUrls": [
+        "https://stream.hydeinnovations.com/tarari-west/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "TropojaTelevizion.al",
+      "name": "Tropoja Televizion",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/al/TropojaTelevizion.al.png",
+      "streamUrls": [
+        "https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "Van65TV.tr",
+      "name": "Van 65 TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://live.artidijitalmedya.com/artidijital_van65/van65/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "VilayetTV.az",
+      "name": "Vilayet TV",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=vilayet.tv",
+      "streamUrls": [
+        "https://nl.livekadeh.com/hls2/vilayet.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "ZitataTV.mq",
+      "name": "Zitata TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mq/ZitataTV.mq.png",
+      "streamUrls": [
+        "https://live.zitata.tv/direct-hls/playlist.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
