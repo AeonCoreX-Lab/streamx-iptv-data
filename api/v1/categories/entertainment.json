@@ -10790,16 +10790,6 @@
       "languages": []
     },
     {
-      "id": "SIPSETVCUN81.mx",
-      "name": "SIPSE TVCUN 8.1",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/SIPSETVCUN81.mx.png",
-      "streamUrls": [
-        "https://webprod.sipse.com.mx:8080/show/tvcun.m3u8"
-      ],
-      "category": "Other",
-      "languages": []
-    },
-    {
       "id": "SIXOTV.hu",
       "name": "SIXO TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/hu/SIXOTV.hu.png",
@@ -13316,7 +13306,7 @@
       "name": "UBS",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/UBS.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/UBSHD/HLSv3-FTA/UBSHD.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/UBSHD/DASH-FTA/UBSHD.mpd"
       ],
       "category": "Other",
       "languages": []
@@ -18511,7 +18501,8 @@
       "name": "TV9",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/TV9.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/TV9HD/DASH-FTA/TV9HD.mpd"
+        "https://cdn4.skygo.mn/live/disk1/TV9HD/DASH-FTA/TV9HD.mpd",
+        "https://cdn4.skygo.mn/live/disk1/TV9HD/HLSv3-FTA/TV9HD.m3u8"
       ],
       "country": "MN",
       "category": "Entertainment",
@@ -19992,8 +19983,28 @@
       ],
       "category": "Entertainment",
       "languages": []
+    },
+    {
+      "id": "FRATATV.do",
+      "name": "FRATA TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/FRATATV.do.png",
+      "streamUrls": [
+        "https://vdopanel.jlahozconsulting.com:3706/hybrid/play.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "PuntoTV.do",
+      "name": "Punto TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/PuntoTV.do.png",
+      "streamUrls": [
+        "https://fox.hostlagarto.com:8081/puntotv/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
     }
   ],
-  "count": 1958,
-  "generated_at": "2026-07-10T17:47:28.664988"
+  "count": 1959,
+  "generated_at": "2026-07-10T21:05:15.824189"
 }
