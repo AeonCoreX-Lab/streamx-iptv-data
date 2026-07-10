@@ -112,9 +112,9 @@
       "name": "BBC Earth",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/BBCEarth.uk.png",
       "streamUrls": [
+        "https://pb-zjy36qhp8e8cz.akamaized.net/BBC_Earth_US.m3u8",
         "http://185.102.171.218/BBCEarth/index.m3u8",
-        "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8",
-        "https://jmp2.uk/plu-656535fc2c46f30008870fae.m3u8"
+        "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -1295,9 +1295,9 @@
       "name": "CNA Originals",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/sg/CNAOriginals.sg.png",
       "streamUrls": [
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cna-originals/playlist.m3u8?ads.vf=P3eUYyWBR74",
         "https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8",
-        "https://amg01082-cna-amg01082c1-vidaa-gb-7580.playouts.now.amagi.tv/playlist.m3u8",
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cna-originals/playlist.m3u8?ads.vf=P3eUYyWBR74"
+        "https://amg01082-cna-amg01082c1-vidaa-gb-7580.playouts.now.amagi.tv/playlist.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -1546,9 +1546,9 @@
       "name": "Wonder",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/Wonder.uk.png",
       "streamUrls": [
-        "https://lds-wonder-rakuten.amagi.tv/playlist.m3u8",
-        "https://lds-wonder-plex.amagi.tv/playlist.m3u8",
-        "https://lds-wonder-samsungau.amagi.tv/playlist.m3u8"
+        "https://wonder-samsung-uk.amagi.tv/playlist.m3u8",
+        "https://lds-wonder-samsungau.amagi.tv/playlist.m3u8",
+        "https://lds-wonder-rakuten.amagi.tv/playlist.m3u8"
       ],
       "category": "Informative",
       "languages": [],
@@ -1842,16 +1842,6 @@
       "languages": []
     },
     {
-      "id": "GVision.cl",
-      "name": "GVision",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cl/GVision.cl.png",
-      "streamUrls": [
-        "https://videostream.chileservidores.com:8081/tome/index.m3u8"
-      ],
-      "category": "Informative",
-      "languages": []
-    },
-    {
       "id": "PlutoTVAlienInvasion.de",
       "name": "Pluto TV Alien Invasion",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Nicktoons_Logo_2023.svg/330px-Nicktoons_Logo_2023.svg.png",
@@ -1945,10 +1935,10 @@
     {
       "id": "PlutoTVFood.de",
       "name": "Pluto TV Food",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/330px-Pluto_TV_logo_2024.svg.png",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-5ddf930548ff9b00090d5686.m3u8",
-        "https://jmp2.uk/plu-5dc280c9aa218c0009724b4b.m3u8"
+        "https://jmp2.uk/plu-5dc280c9aa218c0009724b4b.m3u8",
+        "https://jmp2.uk/plu-5ddf930548ff9b00090d5686.m3u8"
       ],
       "category": "Informative",
       "languages": []
@@ -2092,8 +2082,8 @@
       "name": "Pluto TV Verdenskrigene",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-677d3a424bd63600082f7baf.m3u8",
-        "https://jmp2.uk/plu-677d397b60fbeb00084b0bff.m3u8"
+        "https://jmp2.uk/plu-677d397b60fbeb00084b0bff.m3u8",
+        "https://jmp2.uk/plu-677d3a424bd63600082f7baf.m3u8"
       ],
       "category": "Informative",
       "languages": []
@@ -2352,7 +2342,7 @@
     {
       "id": "BondiRescue.de",
       "name": "Bondi Rescue",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bondi_rescue_lifeguard_-_Paris_hilton_bondi_beach_31_december_2008_%287%29.jpg/330px-Bondi_rescue_lifeguard_-_Paris_hilton_bondi_beach_31_december_2008_%287%29.jpg",
       "streamUrls": [
         "https://jmp2.uk/plu-660be37e7bcd860008793a6a.m3u8"
       ],
@@ -2560,8 +2550,18 @@
       ],
       "category": "Informative",
       "languages": []
+    },
+    {
+      "id": "BTBInfo.pl",
+      "name": "BTB Info",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/BTBInfo.pl.png",
+      "streamUrls": [
+        "https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8"
+      ],
+      "category": "Informative",
+      "languages": []
     }
   ],
   "count": 246,
-  "generated_at": "2026-07-10T14:24:51.261212"
+  "generated_at": "2026-07-10T17:47:28.721613"
 }
