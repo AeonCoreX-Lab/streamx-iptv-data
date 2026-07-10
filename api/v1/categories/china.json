@@ -56,9 +56,9 @@
       "name": "CCTV-1",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cn/CCTV1.cn.png",
       "streamUrls": [
+        "http://74.91.26.218:82/live/cctv1hd.m3u8",
         "http://69.30.245.50/live/cctv1.m3u8",
-        "http://198.204.240.250:82/live/cctv1.m3u8",
-        "http://74.91.26.218:82/live/cctv1hd.m3u8"
+        "http://198.204.240.250:82/live/cctv1.m3u8"
       ],
       "category": "China",
       "languages": []
@@ -68,7 +68,8 @@
       "name": "CCTV-10",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cn/CCTV10.cn.png",
       "streamUrls": [
-        "http://74.91.26.218:82/live/cctv10hd.m3u8"
+        "http://74.91.26.218:82/live/cctv10hd.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8"
       ],
       "category": "China",
       "languages": []
@@ -352,8 +353,8 @@
       "name": "CGTN",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cn/CGTN.cn.png",
       "streamUrls": [
-        "https://0472.org/hls/cgtn.m3u8",
         "http://217.20.112.199:8080/cgtn/index.m3u8",
+        "https://0472.org/hls/cgtn.m3u8",
         "https://global.cgtn.cicc.media.caton.cloud/master/cgtn.m3u8"
       ],
       "category": "China",
@@ -377,8 +378,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cn/CGTNDocumentary.cn.png",
       "streamUrls": [
         "https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8",
-        "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8",
-        "https://dash3.antik.sk/live/test_cgtn_doc/playlist.m3u8"
+        "https://dash3.antik.sk/live/test_cgtn_doc/playlist.m3u8",
+        "https://global.cgtn.cicc.media.caton.cloud/master/cgtn-documentary.m3u8"
       ],
       "category": "China",
       "languages": []
@@ -390,7 +391,7 @@
       "streamUrls": [
         "https://news.cgtn.com/resource/live/french/cgtn-f.m3u8",
         "https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8",
-        "https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8"
+        "https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-rakuten/playlist.m3u8"
       ],
       "category": "China",
       "languages": []
@@ -422,8 +423,8 @@
       "name": "CGTN Spanish",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cn/CGTNSpanish.cn.png",
       "streamUrls": [
-        "https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8",
         "https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8",
+        "https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8",
         "https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8"
       ],
       "category": "China",
@@ -705,5 +706,5 @@
     }
   ],
   "count": 68,
-  "generated_at": "2026-07-10T02:57:13.668924"
+  "generated_at": "2026-07-10T07:34:20.638012"
 }
