@@ -14514,7 +14514,7 @@
       "name": "ONTV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/ONTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/ONTV/HLSv3-FTA/ONTV.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd"
       ],
       "country": "MN",
       "category": "Entertainment",
@@ -18534,16 +18534,6 @@
       "languages": []
     },
     {
-      "id": "CiudadanoRadio.cl",
-      "name": "Ciudadano Radio",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Abc_color.PNG/330px-Abc_color.PNG",
-      "streamUrls": [
-        "https://oracle.streaminghd.cl:443/ciudadanoradiotv/ciudadanoradiotv/playlist.m3u8"
-      ],
-      "category": "News",
-      "languages": []
-    },
-    {
       "id": "CoyhaiqueTV.cl",
       "name": "Coyhaique TV",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=coyhaique-tv.cl",
@@ -18596,7 +18586,7 @@
     {
       "id": "JuntosTV.pe",
       "name": "Juntos TV",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/ATV_Peru_2025.svg/330px-ATV_Peru_2025.svg.png",
       "streamUrls": [
         "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/juntos_tv.stream/playlist.m3u8"
       ],
@@ -19136,16 +19126,6 @@
         "https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8"
       ],
       "category": "News",
-      "languages": []
-    },
-    {
-      "id": "AtabalTV.do",
-      "name": "Atabal TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/AtabalTV.do.png",
-      "streamUrls": [
-        "https://vdopanel.jlahozconsulting.com:3648/live/atabaltvlive.m3u8"
-      ],
-      "category": "Entertainment",
       "languages": []
     },
     {
@@ -20142,8 +20122,48 @@
       ],
       "category": "Entertainment",
       "languages": []
+    },
+    {
+      "id": "CANTV19.us",
+      "name": "CAN TV19",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/CANTV19.us.png",
+      "streamUrls": [
+        "https://cantv.streamguys1.com/cantv/cantv19hls/playlist.m3u8"
+      ],
+      "category": "Other",
+      "languages": []
+    },
+    {
+      "id": "CANTV27.us",
+      "name": "CAN TV27",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/CANTV27.us.png",
+      "streamUrls": [
+        "https://cantv.streamguys1.com/cantv/cantv27hls/playlist.m3u8"
+      ],
+      "category": "Other",
+      "languages": []
+    },
+    {
+      "id": "HLAJDTV.kr",
+      "name": "HLAJ-DTV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/kr/HLAJDTV.kr.png",
+      "streamUrls": [
+        "https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8"
+      ],
+      "category": "Other",
+      "languages": []
+    },
+    {
+      "id": "HLCGDTV.kr",
+      "name": "HLCG-DTV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/kr/HLCGDTV.kr.png",
+      "streamUrls": [
+        "http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8"
+      ],
+      "category": "Other",
+      "languages": []
     }
   ],
-  "count": 1973,
-  "generated_at": "2026-07-11T16:57:41.077066"
+  "count": 1975,
+  "generated_at": "2026-07-11T20:45:28.999560"
 }
