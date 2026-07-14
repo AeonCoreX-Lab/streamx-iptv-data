@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/bd.xml" url-tvg="https://iptv-org.github.io/epg/guides/in.xml" url-tvg="https://iptv-org.github.io/epg/guides/us.xml" url-tvg="https://iptv-org.github.io/epg/guides/gb.xml" url-tvg="https://iptv-org.github.io/epg/guides/ae.xml" url-tvg="https://iptv-org.github.io/epg/guides/pk.xml" url-tvg="https://iptv-org.github.io/epg/guides/au.xml" url-tvg="https://iptv-org.github.io/epg/guides/de.xml" url-tvg="https://iptv-org.github.io/epg/guides/fr.xml" url-tvg="https://iptv-org.github.io/epg/guides/it.xml" url-tvg="https://iptv-org.github.io/epg/guides/es.xml" url-tvg="https://iptv-org.github.io/epg/guides/br.xml" url-tvg="https://iptv-org.github.io/epg/guides/tr.xml" url-tvg="https://iptv-org.github.io/epg/guides/sa.xml" refresh="3600"
 #EXTINF:-1 tvg-id="ArmyTV.ua" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/ArmyTV.ua.png" group-title="Ukraine [FHD]",Army TV [FHD]
-http://195.54.52.40:80/test/index.m3u8
+http://195.54.52.40/test/index.m3u8
 #EXTINF:-1 tvg-id="BaltaTV.ua" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/BaltaTV.ua.png" group-title="Ukraine",Balta TV
 http://194.50.51.34/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel24.ua" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/Channel24.ua.png" group-title="Ukraine [SD]",Channel 24 [SD]
@@ -92,7 +92,7 @@ https://dash2.antik.sk/live/test_kuskus_tv_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="KvartalTVInternational.ua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/1%2B1_logo.svg/330px-1%2B1_logo.svg.png" group-title="Ukraine",Kvartal TV International
 https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVA.ua" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/TVA.ua.png" group-title="Ukraine [HD]",TVA [HD]
-http://hls.cdn.ua/tva.ua_live/livestream/chunklist_w396178779.m3u8
+http://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="KvartalTV.ua" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/KvartalTV.ua.png" group-title="Ukraine [SD]",Kvartal TV [SD]
 http://158.101.222.193:88/georgia_play.php?id=kvartal95
 #EXTINF:-1 tvg-id="RadaTV.ua" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/RadaTV.ua.png" group-title="Ukraine [FHD]",Rada TV [FHD]
@@ -137,3 +137,5 @@ http://176.122.125.10:8080/starcinema/index.m3u8
 http://176.122.125.10:8080/unian/index.m3u8
 #EXTINF:-1 tvg-id="Zoom.ua" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/Zoom.ua.png" group-title="Ukraine [FHD]",Zoom [FHD]
 http://176.122.125.10:8080/zoom/index.m3u8
+#EXTINF:-1 tvg-id="24Kanal.ua" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/24Kanal.ua.png" group-title="Ukraine [SD]",24 Kanal [SD]
+http://176.122.125.10:8080/news24/index.m3u8
