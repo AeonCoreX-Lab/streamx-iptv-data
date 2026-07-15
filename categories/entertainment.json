@@ -2651,8 +2651,7 @@
       "name": "Central TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/CentralTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/Ekh_Oron/DASH-FTA/Ekh_Oron.mpd",
-        "https://cdn4.skygo.mn/live/disk1/Ekh_Oron/HLSv3-FTA/Ekh_Oron.m3u8"
+        "https://cdn1.skygo.mn/live/disk1/Ekh_Oron/HLS-FTA/Ekh_Oron.m3u8"
       ],
       "category": "Other",
       "languages": []
@@ -13947,16 +13946,6 @@
       "languages": []
     },
     {
-      "id": "ICTV.ua",
-      "name": "ICTV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/ICTV.ua.png",
-      "streamUrls": [
-        "https://iptv.prosto.tv/ch2/tracks-v2a1/mono.m3u8?live=1&ip=178.136.40.86&id=921233&secret=9szoe89y&21yo=0&e=1783247829&st=byV6tMWpzsojzIhKV89Ndw"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "RTViUS.us",
       "name": "RTVi US",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/RTVI_Logo_magenta_fill_2021.png/330px-RTVI_Logo_magenta_fill_2021.png",
@@ -16230,8 +16219,8 @@
       "name": "Canal 10",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/sv/Canal10.sv.png",
       "streamUrls": [
-        "https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8",
-        "http://45.167.2.101:8000/play/a0r8/index.m3u8"
+        "http://45.167.2.101:8000/play/a0r8/index.m3u8",
+        "https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8"
       ],
       "country": "SV",
       "category": "Entertainment",
@@ -19135,16 +19124,6 @@
       "languages": []
     },
     {
-      "id": "Three.nz",
-      "name": "Three",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/nz/Three.nz.png",
-      "streamUrls": [
-        "https://i.mjh.nz/.r/three-plus1.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "VivaxTV.br",
       "name": "Vivax TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/VivaxTV.br.png",
@@ -19335,16 +19314,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/CANTV27.us.png",
       "streamUrls": [
         "https://cantv.streamguys1.com/cantv/cantv27hls/playlist.m3u8"
-      ],
-      "category": "Other",
-      "languages": []
-    },
-    {
-      "id": "HLAJDTV.kr",
-      "name": "HLAJ-DTV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/kr/HLAJDTV.kr.png",
-      "streamUrls": [
-        "https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8"
       ],
       "category": "Other",
       "languages": []
@@ -20328,6 +20297,36 @@
         "https://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlist.m3u8"
       ],
       "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "CANTV21.us",
+      "name": "CAN TV21",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/CANTV21.us.png",
+      "streamUrls": [
+        "https://cantv.streamguys1.com/cantv/cantv21hls/playlist.m3u8"
+      ],
+      "category": "News",
+      "languages": []
+    },
+    {
+      "id": "JOEXDTV.jp",
+      "name": "JOEX-DTV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/jp/JOEXDTV.jp.png",
+      "streamUrls": [
+        "https://tvasahi.mov3.co/hls/tvasahi.m3u8"
+      ],
+      "category": "Informative",
+      "languages": []
+    },
+    {
+      "id": "SurTV.do",
+      "name": "Sur TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/SurTV.do.png",
+      "streamUrls": [
+        "https://ss2.tvrdomi.com:1936/eradiofonicas/eradiofonicas/playlist.m3u8"
+      ],
+      "category": "Lifestyle",
       "languages": []
     }
   ]
