@@ -485,7 +485,7 @@
     {
       "id": "DanceTVEDMMainstage.ee",
       "name": "DanceTV EDM Mainstage",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Defqon.1_Logo.svg/330px-Defqon.1_Logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Headhunterz14.jpg/330px-Headhunterz14.jpg",
       "streamUrls": [
         "https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8"
       ],
@@ -728,8 +728,8 @@
       "name": "First Music Channel",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/by/FirstMusicChannel.by.png",
       "streamUrls": [
-        "http://hz1.teleport.cc/HLS/SD.m3u8",
         "http://hz1.teleport.cc/HLS/HD.m3u8",
+        "http://hz1.teleport.cc/HLS/SD.m3u8",
         "http://rtmp.one.by:1200"
       ],
       "category": "Music",
@@ -792,8 +792,8 @@
       "name": "Hitradio O3",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/at/HitradioO3.at.png",
       "streamUrls": [
-        "https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/master.m3u8",
         "https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8",
+        "https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/master.m3u8",
         "https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/manifest.mpd"
       ],
       "category": "Music",
@@ -1291,8 +1291,8 @@
       "name": "NOW Rock",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/NOWRock.uk.png",
       "streamUrls": [
+        "https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8",
         "https://lightning-now90s-samsungse.amagi.tv/playlist.m3u8",
-        "https://lightningnow90-samsungau.amagi.tv/playlist.m3u8",
         "https://lightning-now90s-rakuten.amagi.tv/playlist.m3u8"
       ],
       "category": "Music",
@@ -1323,9 +1323,9 @@
       "name": "Now 70s",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/Now70s.uk.png",
       "streamUrls": [
+        "https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8",
         "https://amg01076-amg01076c1-samsung-gb-6682.playouts.now.amagi.tv/playlist.m3u8",
-        "https://lightningnow70-samsungau.amagi.tv/playlist.m3u8",
-        "https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8"
+        "https://lightning-now70s-rakuten.amagi.tv/playlist.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -1335,9 +1335,9 @@
       "name": "Now 80s",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/Now80s.uk.png",
       "streamUrls": [
-        "https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8",
         "https://samsunguk-lightning-now80s-samsunguk-n908q.amagi.tv/playlist/samsunguk-lightning-now80s-samsunguk/playlist.m3u8",
-        "https://lightningnow80-samsungau.amagi.tv/playlist.m3u8"
+        "https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8",
+        "https://lightning-now80s-samsungse.amagi.tv/playlist.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -2152,8 +2152,8 @@
       "name": "Sky Folk TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mk/SkyFolkTV.mk.png",
       "streamUrls": [
-        "https://eu.live.skyfolk.mk/live.m3u8",
-        "https://skyfolk.mk/live.m3u8"
+        "https://skyfolk.mk/live.m3u8",
+        "https://eu.live.skyfolk.mk/live.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -2730,7 +2730,8 @@
       "name": "Turkmen Owazy",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tm/TurkmenOwazy.tm.png",
       "streamUrls": [
-        "https://alpha.tv.online.tm/hls/ch005.m3u8"
+        "https://alpha.tv.online.tm/hls/ch005.m3u8",
+        "https://alpha.tv.online.tm/legacyhls/ch005.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -4791,6 +4792,16 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gr/RedMusic.gr.png",
       "streamUrls": [
         "https://fr.crystalweb.net:1936/redmusic/redmusic/playlist.m3u8"
+      ],
+      "category": "Music",
+      "languages": []
+    },
+    {
+      "id": "KpopTVPlay.br",
+      "name": "KpopTV Play",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/KpopTVPlay.br.png",
+      "streamUrls": [
+        "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8"
       ],
       "category": "Music",
       "languages": []
