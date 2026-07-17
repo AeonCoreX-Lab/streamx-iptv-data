@@ -1835,7 +1835,8 @@
       "name": "Eagle News",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/EagleNews.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/Eagle/HLSv3-FTA/Eagle.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/Eagle/HLSv3-FTA/Eagle.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/Eagle/DASH-FTA/Eagle.mpd"
       ],
       "category": "News",
       "languages": []
@@ -6494,8 +6495,28 @@
       ],
       "category": "News",
       "languages": []
+    },
+    {
+      "id": "100NEWS.ua",
+      "name": "100% NEWS",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/100NEWS.ua.png",
+      "streamUrls": [
+        "http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8"
+      ],
+      "category": "News",
+      "languages": []
+    },
+    {
+      "id": "ObshchestvennoeNezavisimoeTelevidenie.ua",
+      "name": "Obshchestvennoe Nezavisimoe Televidenie",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/ObshchestvennoeNezavisimoeTelevidenie.ua.png",
+      "streamUrls": [
+        "http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8"
+      ],
+      "category": "News",
+      "languages": []
     }
   ],
-  "count": 628,
-  "generated_at": "2026-07-17T17:10:32.299686"
+  "count": 630,
+  "generated_at": "2026-07-17T20:54:23.373928"
 }
