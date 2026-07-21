@@ -976,8 +976,8 @@
       "name": "NG Federal",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/NGFederal.ar.png",
       "streamUrls": [
-        "http://www.coninfo.net:1935/tvlink/live/playlist.m3u8",
-        "https://617c5175c970b.streamlock.net:4444/tvlink/live/playlist.m3u8"
+        "https://617c5175c970b.streamlock.net:4444/tvlink/live/playlist.m3u8",
+        "http://www.coninfo.net:1935/tvlink/live/playlist.m3u8"
       ],
       "country": "AR",
       "category": "Argentina",
@@ -1035,8 +1035,29 @@
       ],
       "category": "Argentina",
       "languages": []
+    },
+    {
+      "id": "TeleFederal.ar",
+      "name": "Tele Federal",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Logo_KARUSEL_2023.png/330px-Logo_KARUSEL_2023.png",
+      "streamUrls": [
+        "https://183.bozztv.com/giatv/giatv-federaltv/federaltv/playlist.m3u8"
+      ],
+      "country": "AR",
+      "category": "Argentina",
+      "languages": []
+    },
+    {
+      "id": "TelefeInterior.ar",
+      "name": "Telefe Interior",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=telefe.com",
+      "streamUrls": [
+        "http://200.91.32.158:8080/telefehdvalle/index.m3u8"
+      ],
+      "category": "Argentina",
+      "languages": []
     }
   ],
-  "count": 101,
-  "generated_at": "2026-07-20T21:11:46.736841"
+  "count": 103,
+  "generated_at": "2026-07-21T02:35:05.077386"
 }
