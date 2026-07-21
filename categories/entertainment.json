@@ -1252,7 +1252,7 @@
       "name": "AsianBox",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/AsianBox.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/AsianBOX/DASH-FTA/AsianBOX.mpd"
+        "https://cdn4.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -7453,16 +7453,6 @@
       "languages": []
     },
     {
-      "id": "MamerTV.lu",
-      "name": "Mamer TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/lu/MamerTV.lu.png",
-      "streamUrls": [
-        "https://streamer20.multimedia.blue/Eltrona/MamerTV/playlist.m3u8"
-      ],
-      "category": "Other",
-      "languages": []
-    },
-    {
       "id": "MangoMobileTV.in",
       "name": "Mango Mobile TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/MangoMobileTV.in.png",
@@ -10170,7 +10160,7 @@
       "name": "SBN",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/SBN.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/SBN/DASH-FTA/SBN.mpd"
+        "https://cdn4.skygo.mn/live/disk1/SBN/HLSv3-FTA/SBN.m3u8"
       ],
       "category": "Other",
       "languages": []
@@ -13711,7 +13701,8 @@
       "name": "ONTV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/ONTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/ONTV/HLSv3-FTA/ONTV.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/ONTV/HLSv3-FTA/ONTV.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd"
       ],
       "country": "MN",
       "category": "Entertainment",
@@ -15144,8 +15135,8 @@
       "name": "NTV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/NTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/NTVHD/DASH-FTA/NTVHD.mpd",
-        "https://cdn4.skygo.mn/live/disk1/NTVHD/HLSv3-FTA/NTVHD.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/NTVHD/HLSv3-FTA/NTVHD.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/NTVHD/DASH-FTA/NTVHD.mpd"
       ],
       "country": "MN",
       "category": "Entertainment",
@@ -15876,8 +15867,7 @@
       "name": "Star TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/StarTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/Star/HLSv3-FTA/Star.m3u8",
-        "https://cdn4.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd"
+        "https://cdn4.skygo.mn/live/disk1/Star/HLSv3-FTA/Star.m3u8"
       ],
       "country": "MN",
       "category": "Entertainment",
@@ -18129,16 +18119,6 @@
       "languages": []
     },
     {
-      "id": "TayariWestTV.ug",
-      "name": "Tayari West TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ug/TayariWestTV.ug.png",
-      "streamUrls": [
-        "https://stream.hydeinnovations.com/tarari-west/index.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "TropojaTelevizion.al",
       "name": "Tropoja Televizion",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/al/TropojaTelevizion.al.png",
@@ -20216,6 +20196,200 @@
       "streamUrls": [
         "https://live20.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8",
         "https://lbgo.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "Antena1.ro",
+      "name": "Antena 1",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ro/Antena1.ro.png",
+      "streamUrls": [
+        "https://aes.m3u8simplu.workers.dev/antena1/index.m3u8"
+      ],
+      "country": "RO",
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "PrimaTV.ro",
+      "name": "Prima TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ro/PrimaTV.ro.png",
+      "streamUrls": [
+        "https://aes.m3u8simplu.workers.dev/primatv/index.m3u8"
+      ],
+      "country": "RO",
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "Diva.ro",
+      "name": "Diva",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ro/Diva.ro.png",
+      "streamUrls": [
+        "https://aes.m3u8simplu.workers.dev/diva/index.m3u8"
+      ],
+      "country": "RO",
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "red.ru",
+      "name": ".red",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/red.ru.png",
+      "streamUrls": [
+        "http://5.188.159.128:8070/RED/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "AMCPlus.us",
+      "name": "AMC+",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/AMCPlus.us.png",
+      "streamUrls": [
+        "https://gpuserver3.tier1streams.com/AMC_PLUS/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "Acasa.ro",
+      "name": "Acasa",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ro/Acasa.ro.png",
+      "streamUrls": [
+        "https://aes.m3u8simplu.workers.dev/acasa/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "AcasaGold.ro",
+      "name": "Acasa Gold",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ro/AcasaGold.ro.png",
+      "streamUrls": [
+        "https://aes.m3u8simplu.workers.dev/acasagold/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "AntenaInternational.ro",
+      "name": "Antena International",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ro/AntenaInternational.ro.png",
+      "streamUrls": [
+        "https://aes.m3u8simplu.workers.dev/antenaint/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "AntenaStars.ro",
+      "name": "Antena Stars",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ro/AntenaStars.ro.png",
+      "streamUrls": [
+        "https://aes.m3u8simplu.workers.dev/antenastars/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "CW.us",
+      "name": "CW",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/CW.us.png",
+      "streamUrls": [
+        "https://gpuserver3.tier1streams.com/CW/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "DRTVInternational.cg",
+      "name": "DRTV International",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cg/DRTVInternational.cg.png",
+      "streamUrls": [
+        "https://vps122407.serveur-vps.net/hls/drtv.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "DigiWorld.ro",
+      "name": "Digi World",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ro/DigiWorld.ro.png",
+      "streamUrls": [
+        "https://aes.m3u8simplu.workers.dev/digiworld/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "HappyChannel.ro",
+      "name": "Happy Channel",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ro/HappyChannel.ro.png",
+      "streamUrls": [
+        "https://aes.m3u8simplu.workers.dev/happy/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "PrimaTVMoldova.md",
+      "name": "Prima TV Moldova",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/md/PrimaTVMoldova.md.png",
+      "streamUrls": [
+        "https://aes.m3u8simplu.workers.dev/primatvmd/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "Prime.sy",
+      "name": "Prime",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/sy/Prime.sy.png",
+      "streamUrls": [
+        "https://mn-nl.mncdn.com/primetv/live/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "SciFi.fr",
+      "name": "SciFi",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=scifi.fr",
+      "streamUrls": [
+        "http://41.205.93.154/SYFY/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "TeleFederal.ar",
+      "name": "Tele Federal",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Logo_KARUSEL_2023.png/330px-Logo_KARUSEL_2023.png",
+      "streamUrls": [
+        "https://183.bozztv.com/giatv/giatv-federaltv/federaltv/playlist.m3u8",
+        "https://lbgo.bozztv.com/giatv/giatv-federaltv/federaltv/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "TelefeInterior.ar",
+      "name": "Telefe Interior",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Televisi%C3%B3n_Federal_Logo.svg/330px-Televisi%C3%B3n_Federal_Logo.svg.png",
+      "streamUrls": [
+        "http://200.91.32.158:8080/telefehdvalle/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "TvOro.ec",
+      "name": "TvOro",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ec/TvOro.ec.png",
+      "streamUrls": [
+        "http://45.187.0.19:9090/tvusa/index.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
