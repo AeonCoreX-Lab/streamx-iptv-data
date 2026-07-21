@@ -1250,6 +1250,7 @@
       "name": "AsianBox",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/AsianBox.mn.png",
       "streamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/AsianBOX/DASH-FTA/AsianBOX.mpd",
         "https://cdn4.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX.m3u8"
       ],
       "category": "Entertainment",
@@ -10157,7 +10158,8 @@
       "name": "SBN",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/SBN.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/SBN/HLSv3-FTA/SBN.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/SBN/HLSv3-FTA/SBN.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/SBN/DASH-FTA/SBN.mpd"
       ],
       "category": "Other",
       "languages": []
@@ -13695,7 +13697,6 @@
       "name": "ONTV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/ONTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/ONTV/HLSv3-FTA/ONTV.m3u8",
         "https://cdn4.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd"
       ],
       "country": "MN",
@@ -13962,16 +13963,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uz/NurafshonTV.uz.png",
       "streamUrls": [
         "https://stream8.cinerama.uz/1220/tracks-v1a1/mono.m3u8"
-      ],
-      "category": "Other",
-      "languages": []
-    },
-    {
-      "id": "RedAmericaTV.bo",
-      "name": "Red America TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bo/RedAmericaTV.bo.png",
-      "streamUrls": [
-        "https://edge.enhdtv.com/redamerica/index.m3u8"
       ],
       "category": "Other",
       "languages": []
@@ -15126,8 +15117,8 @@
       "name": "NTV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/NTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/NTVHD/HLSv3-FTA/NTVHD.m3u8",
-        "https://cdn4.skygo.mn/live/disk1/NTVHD/DASH-FTA/NTVHD.mpd"
+        "https://cdn4.skygo.mn/live/disk1/NTVHD/DASH-FTA/NTVHD.mpd",
+        "https://cdn4.skygo.mn/live/disk1/NTVHD/HLSv3-FTA/NTVHD.m3u8"
       ],
       "country": "MN",
       "category": "Entertainment",
@@ -16178,16 +16169,6 @@
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
         "https://jmp2.uk/plu-69c290eeed1b1f1acb446dd8.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
-      "id": "Hogspanning.se",
-      "name": "Hogspanning",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
-      "streamUrls": [
-        "https://jmp2.uk/plu-6537abf42cf1310008441686.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -17820,16 +17801,6 @@
       "languages": []
     },
     {
-      "id": "FX.cl",
-      "name": "FX",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cl/FX.cl.png",
-      "streamUrls": [
-        "http://138.121.15.230:9002/FX/index.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "IVC.ve",
       "name": "IVC",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ve/IVC.ve.png",
@@ -19364,16 +19335,6 @@
       "languages": []
     },
     {
-      "id": "BPlusTV.rw",
-      "name": "B+ TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/rw/BPlusTV.rw.png",
-      "streamUrls": [
-        "https://tv.btnrwanda.com:3432/live/bpluslive.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "KDVR311.us",
       "name": "KDVR 31.1",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/KDVR311.us.png",
@@ -20436,6 +20397,47 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/TVPublicaMarcosPaz.ar.png",
       "streamUrls": [
         "https://online.radiomelody.com.ar:2443/hls/mediospublicos.m3u8"
+      ],
+      "category": "Other",
+      "languages": []
+    },
+    {
+      "id": "IgniteTelevision.gy",
+      "name": "Ignite Television",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gy/IgniteTelevision.gy.png",
+      "streamUrls": [
+        "https://rpn.bozztv.com/ignitelive/ignitetv/ignitetv/playlist.m3u8"
+      ],
+      "country": "GY",
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "ATMRozrywkaREWORK.pl",
+      "name": "ATM Rozrywka REWORK",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/ATMRozrywkaREWORK.pl.png",
+      "streamUrls": [
+        "https://grupaatmrr.org.pl:8888/fallback/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "JOCXDTV.jp",
+      "name": "JOCX-DTV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/jp/JOCXDTV.jp.png",
+      "streamUrls": [
+        "https://fujitv4.mov3.co/hls/fujitv.m3u8"
+      ],
+      "category": "Other",
+      "languages": []
+    },
+    {
+      "id": "RocavisionTV.do",
+      "name": "Rocavision TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/RocavisionTV.do.png",
+      "streamUrls": [
+        "https://streamunoapp.com:3331/live/rocavisiontvlive.m3u8"
       ],
       "category": "Other",
       "languages": []
