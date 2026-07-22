@@ -211,8 +211,8 @@
       "name": "Pervyy gorodskoy. Odessa",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/PervyygorodskoyOdessa.ua.png",
       "streamUrls": [
-        "http://91.194.79.46:8081/stream2/channel2/playlist.m3u8",
-        "http://91.194.79.46:8081/stream1/channel1/playlist.m3u8"
+        "http://91.194.79.46:8081/stream1/channel1/playlist.m3u8",
+        "http://91.194.79.46:8081/stream2/channel2/playlist.m3u8"
       ],
       "category": "Ukraine",
       "languages": []
@@ -252,8 +252,8 @@
       "name": "SK 1",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/SK1.ua.png",
       "streamUrls": [
-        "http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8",
-        "http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8"
+        "http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8",
+        "http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8"
       ],
       "category": "Ukraine",
       "languages": []
@@ -458,8 +458,8 @@
       "name": "TVA",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/TVA.ua.png",
       "streamUrls": [
-        "http://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8",
         "http://hls.cdn.ua/tva.ua_live/livestream/chunklist_w396178779.m3u8",
+        "http://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8",
         "http://rtsp.cdn.ua/tva.ua_live/livestream/playlist.m3u8"
       ],
       "country": "UA",
@@ -912,8 +912,100 @@
       "country": "UA",
       "category": "Ukraine",
       "languages": []
+    },
+    {
+      "id": "ICTV.ua",
+      "name": "ICTV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/ICTV.ua.png",
+      "streamUrls": [
+        "http://stream.mcquack.net/158/index.m3u8"
+      ],
+      "country": "UA",
+      "category": "Ukraine",
+      "languages": []
+    },
+    {
+      "id": "2Plus2.ua",
+      "name": "2+2",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/2Plus2.ua.png",
+      "streamUrls": [
+        "http://stream.mcquack.net/173/index.m3u8"
+      ],
+      "country": "UA",
+      "category": "Ukraine",
+      "languages": []
+    },
+    {
+      "id": "ChemodanTV.ua",
+      "name": "Chemodan TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/ChemodanTV.ua.png",
+      "streamUrls": [
+        "http://stream.mcquack.net/399/index.m3u8"
+      ],
+      "category": "Ukraine",
+      "languages": []
+    },
+    {
+      "id": "Inter.ua",
+      "name": "Inter",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/Inter.ua.png",
+      "streamUrls": [
+        "http://stream.mcquack.net/174/index.m3u8"
+      ],
+      "category": "Ukraine",
+      "languages": []
+    },
+    {
+      "id": "Kino2.ua",
+      "name": "Kino 2",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2%2B2_logo_2017.svg/330px-2%2B2_logo_2017.svg.png",
+      "streamUrls": [
+        "http://stream.mcquack.net/465/index.m3u8"
+      ],
+      "category": "Ukraine",
+      "languages": []
+    },
+    {
+      "id": "NasheLubimoeKinoUkraine.ua",
+      "name": "Nashe Lubimoe Kino Ukraine",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/330px-REN_TV_logo_2017.svg.png",
+      "streamUrls": [
+        "http://stream.mcquack.net/456/index.m3u8"
+      ],
+      "category": "Ukraine",
+      "languages": []
+    },
+    {
+      "id": "QuizTV.ua",
+      "name": "Quiz TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/QuizTV.ua.png",
+      "streamUrls": [
+        "http://stream.mcquack.net/397/index.m3u8"
+      ],
+      "category": "Ukraine",
+      "languages": []
+    },
+    {
+      "id": "SaltTV.ua",
+      "name": "Salt TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/SaltTV.ua.png",
+      "streamUrls": [
+        "http://stream.mcquack.net/398/index.m3u8"
+      ],
+      "category": "Ukraine",
+      "languages": []
+    },
+    {
+      "id": "Sport5.ua",
+      "name": "Sport 5",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/View_of_the_MTV_Studios_building_from_Hawley_Crescent_-_geograph.org.uk_-_5425610.jpg/330px-View_of_the_MTV_Studios_building_from_Hawley_Crescent_-_geograph.org.uk_-_5425610.jpg",
+      "streamUrls": [
+        "http://stream.mcquack.net/212/index.m3u8"
+      ],
+      "category": "Ukraine",
+      "languages": []
     }
   ],
-  "count": 88,
-  "generated_at": "2026-07-22T02:34:17.186302"
+  "count": 97,
+  "generated_at": "2026-07-22T06:27:18.663108"
 }
