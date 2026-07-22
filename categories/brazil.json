@@ -35,8 +35,8 @@
       "name": "CINDIE TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/CINDIETV.br.png",
       "streamUrls": [
-        "https://d20xuwbyc4yoag.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-CINDIE/387.m3u8?ads.vf=grWTpG3NQNi",
-        "https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8"
+        "https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8",
+        "https://d20xuwbyc4yoag.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-CINDIE/387.m3u8?ads.vf=grWTpG3NQNi"
       ],
       "category": "Brazil",
       "languages": []
@@ -58,7 +58,7 @@
       "streamUrls": [
         "http://138.255.2.6:8084/TVESCOLA/index.m3u8",
         "http://45.177.114.115:80/CANAL_EDUCACAO/index.m3u8",
-        "http://45.162.64.114/CANAL_EDUCACAO/index.m3u8"
+        "http://168.197.104.22:80/CANAL_EDUCACAO/index.m3u8"
       ],
       "category": "Brazil",
       "languages": []
@@ -68,9 +68,9 @@
       "name": "Canal Gov",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/CanalGov.br.png",
       "streamUrls": [
+        "http://45.177.114.115:80/TV_BRASIL_2/index.m3u8",
         "http://138.255.2.6:8084/TVBRASIL2/index.m3u8",
-        "http://168.197.104.22:80/TV_BRASIL_2/index.m3u8",
-        "http://45.177.114.115:80/TV_BRASIL_2/index.m3u8"
+        "http://168.197.104.22:80/TV_BRASIL_2/index.m3u8"
       ],
       "category": "Brazil",
       "languages": []
@@ -275,8 +275,8 @@
       "name": "Play TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/PlayTV.br.png",
       "streamUrls": [
-        "http://168.197.104.22:80/PLAY_TV/index.m3u8",
         "http://45.177.114.115:80/PLAY_TV/index.m3u8",
+        "http://168.197.104.22:80/PLAY_TV/index.m3u8",
         "http://45.162.64.114/PLAY_TV/index.m3u8"
       ],
       "category": "Brazil",
@@ -297,8 +297,8 @@
       "name": "Record",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/Record.br.png",
       "streamUrls": [
-        "http://45.190.28.50/RECORD/index.m3u8",
         "http://138.255.2.6:8084/RECORD/index.m3u8",
+        "http://45.190.28.50/RECORD/index.m3u8",
         "http://170.84.165.204:80/Record_HD/index.m3u8"
       ],
       "category": "Brazil",
@@ -309,7 +309,7 @@
       "name": "Record News",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/RecordNews.br.png",
       "streamUrls": [
-        "http://45.190.28.50/RECORD_NEWS_HD/index.m3u8",
+        "https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8",
         "http://138.255.2.6:8084/RECORDNEWS/index.m3u8",
         "http://168.197.104.22:80/RECORD_NEWS/index.m3u8"
       ],
@@ -331,8 +331,8 @@
       "name": "Rede Gospel",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/RedeGospel.br.png",
       "streamUrls": [
-        "http://45.190.28.50/REDE_GOSPEL_HD/index.m3u8",
         "http://45.177.114.115:80/REDE_GOSPEL/index.m3u8",
+        "http://45.190.28.50/REDE_GOSPEL_HD/index.m3u8",
         "http://170.83.49.66:8083/REDEGOSPELHD/index.m3u8"
       ],
       "category": "Brazil",
@@ -455,8 +455,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/TVAparecida.br.png",
       "streamUrls": [
         "http://138.255.2.6:8084/TVAPARECIDA/index.m3u8",
-        "http://168.197.104.22:80/TV_APARECIDA/index.m3u8",
-        "http://45.177.114.115:80/TV_APARECIDA_HD/index.m3u8"
+        "http://45.177.114.115:80/TV_APARECIDA_HD/index.m3u8",
+        "http://168.197.104.22:80/TV_APARECIDA/index.m3u8"
       ],
       "category": "Brazil",
       "languages": []
@@ -486,8 +486,8 @@
       "name": "TV Brasil",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/TVBrasil.br.png",
       "streamUrls": [
+        "http://45.177.114.115:80/TV_BRASIL/index.m3u8",
         "https://lbgo.bozztv.com/ssh101/ssh101/unitvms/playlist.m3u8",
-        "http://45.190.28.50/TV_BRASIL/index.m3u8",
         "http://138.255.2.6:8084/TVBRASIL/index.m3u8"
       ],
       "category": "Brazil",
@@ -540,9 +540,9 @@
       "name": "TV Cultura",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/TVCultura.br.png",
       "streamUrls": [
-        "http://45.190.28.50/TV_CULTURA_HD/index.m3u8",
         "http://138.255.2.6:8084/CULTURA/index.m3u8",
-        "http://168.197.104.22:80/TV_CULTURA/index.m3u8"
+        "http://168.197.104.22:80/TV_CULTURA/index.m3u8",
+        "http://45.190.28.50/TV_CULTURA_HD/index.m3u8"
       ],
       "category": "Brazil",
       "languages": []
@@ -815,9 +815,9 @@
       "name": "RIT TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/RITTV.br.png",
       "streamUrls": [
+        "http://138.255.2.6:8084/RIT/index.m3u8",
         "http://170.84.165.204:80/RIT_TV/index.m3u8",
-        "http://45.190.28.50/RIT/index.m3u8",
-        "http://138.255.2.6:8084/RIT/index.m3u8"
+        "http://45.177.114.115:80/RIT_TV/index.m3u8"
       ],
       "category": "Brazil",
       "languages": []
@@ -897,8 +897,8 @@
       "name": "Rede Brasil",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/RedeBrasil.br.png",
       "streamUrls": [
-        "http://138.255.2.6:8084/REDEBRASIL/index.m3u8",
         "http://170.84.165.204:80/REDEBRASIL/index.m3u8",
+        "http://138.255.2.6:8084/REDEBRASIL/index.m3u8",
         "http://45.190.28.50/REDE_BRASIL_HD/index.m3u8"
       ],
       "category": "Brazil",
@@ -909,9 +909,9 @@
       "name": "Band Sports",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/BandSports.br.png",
       "streamUrls": [
+        "http://138.255.2.6:8084/BANDSPORTS/index.m3u8",
         "http://45.190.28.50/BAND_SPORTS_HD/index.m3u8",
-        "http://170.83.16.50:80/BAND_SPORTS/index.m3u8",
-        "http://138.255.2.6:8084/BANDSPORTS/index.m3u8"
+        "http://170.83.16.50:80/BAND_SPORTS/index.m3u8"
       ],
       "category": "Brazil",
       "languages": []
@@ -941,7 +941,7 @@
       "name": "BandNews",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/BandNews.br.png",
       "streamUrls": [
-        "http://45.190.28.50/BAND_NEWS_HD/index.m3u8",
+        "http://45.177.114.115:80/BAND_NEWS/index.m3u8",
         "http://177.52.24.163/BAND-NEWS-HD/index.m3u8",
         "http://168.197.104.22:80/BAND_NEWS/index.m3u8"
       ],
@@ -953,9 +953,9 @@
       "name": "Arte 1",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/Arte1.br.png",
       "streamUrls": [
-        "http://45.190.28.50/ARTE_1/index.m3u8",
+        "http://45.177.114.115:80/ARTE1/index.m3u8",
         "http://168.197.104.22:80/ARTE1/index.m3u8",
-        "http://45.177.114.115:80/ARTE1/index.m3u8"
+        "http://45.190.28.50/ARTE_1/index.m3u8"
       ],
       "category": "Brazil",
       "languages": []
@@ -976,9 +976,9 @@
       "name": "WooHoo",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/WooHoo.br.png",
       "streamUrls": [
-        "http://45.190.28.50/WOOHOO/index.m3u8",
         "http://138.255.2.6:8084/WOOHOO/index.m3u8",
-        "http://168.197.104.22:80/WOOHOO/index.m3u8"
+        "http://168.197.104.22:80/WOOHOO/index.m3u8",
+        "http://45.190.28.50/WOOHOO/index.m3u8"
       ],
       "category": "Brazil",
       "languages": []
@@ -998,9 +998,9 @@
       "name": "SBT Nacional",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/SBTNacional.br.png",
       "streamUrls": [
-        "http://138.255.2.6:8084/SBT/index.m3u8",
+        "https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8",
         "http://170.84.165.204:80/SBT_HD/index.m3u8",
-        "http://45.190.28.50/SBT_HD/index.m3u8"
+        "http://138.255.2.6:8084/SBT/index.m3u8"
       ],
       "category": "Brazil",
       "languages": []
@@ -1028,7 +1028,7 @@
     {
       "id": "PlenitudeTV.br",
       "name": "Plenitude TV",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_Futura_2022.svg/330px-Canal_Futura_2022.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/PlayTV20062020.png",
       "streamUrls": [
         "https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8"
       ],
@@ -1100,8 +1100,8 @@
       "name": "AgroCanal",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/AgroCanal.br.png",
       "streamUrls": [
-        "http://45.190.28.50/AGRO_CANAL/index.m3u8",
         "http://168.197.104.22:80/AGRO_CANAL/index.m3u8",
+        "http://45.190.28.50/AGRO_CANAL/index.m3u8",
         "http://45.162.64.114/AGRO_CANAL/index.m3u8"
       ],
       "category": "Brazil",
@@ -1112,9 +1112,9 @@
       "name": "AgroMais",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/AgroMais.br.png",
       "streamUrls": [
-        "http://45.190.28.50/AGROMAIS_HD/index.m3u8",
         "http://138.255.2.6:8084/AGROMAIS/index.m3u8",
-        "http://45.177.114.115:80/agromais/index.m3u8"
+        "http://45.177.114.115:80/agromais/index.m3u8",
+        "http://45.177.114.115:80/AGROMAIS_HD/index.m3u8"
       ],
       "category": "Brazil",
       "languages": []
@@ -1136,8 +1136,8 @@
       "name": "Canal do Boi",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/CanaldoBoi.br.png",
       "streamUrls": [
-        "http://45.190.28.50/CANAL_DO_BOI/index.m3u8",
         "http://168.197.104.22:80/CANAL_DO_BOI/index.m3u8",
+        "http://45.190.28.50/CANAL_DO_BOI/index.m3u8",
         "http://170.83.16.50:80/CANAL_DO_BOI/index.m3u8"
       ],
       "category": "Brazil",
@@ -1148,8 +1148,8 @@
       "name": "DumDum",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=canaldumdum.com.br",
       "streamUrls": [
-        "http://138.255.2.6:8084/ZOOMOO/index.m3u8",
         "http://45.190.156.152/ZOOMOO/index.m3u8",
+        "http://138.255.2.6:8084/ZOOMOO/index.m3u8",
         "http://168.197.104.22:80/ZOOMOO/index.m3u8"
       ],
       "category": "Brazil",
@@ -1160,8 +1160,8 @@
       "name": "Fish TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/FishTV.br.png",
       "streamUrls": [
-        "http://45.190.28.50/FISH_TV_HD/index.m3u8",
         "http://168.197.104.22:80/FISH_TV/index.m3u8",
+        "http://45.190.28.50/FISH_TV_HD/index.m3u8",
         "http://170.83.16.50:80/FISH_TV/index.m3u8"
       ],
       "category": "Brazil",
@@ -1172,8 +1172,8 @@
       "name": "History",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/History.br.png",
       "streamUrls": [
-        "http://45.190.28.50/HISTORY_HD/index.m3u8",
         "http://138.255.2.6:8084/HISTORY/index.m3u8",
+        "http://45.177.114.114:80/HISTORY/index.m3u8",
         "http://177.52.24.163/HISTORY-HD/index.m3u8"
       ],
       "category": "Brazil",
@@ -1185,8 +1185,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/RedeCNTRiodeJaneiro.br.png",
       "streamUrls": [
         "http://170.84.165.204:80/CNT_HD/index.m3u8",
-        "http://45.190.28.50/CNT_HD/index.m3u8",
-        "http://168.197.104.22:80/CNT/index.m3u8"
+        "http://168.197.104.22:80/CNT/index.m3u8",
+        "http://45.190.28.50/CNT_HD/index.m3u8"
       ],
       "category": "Brazil",
       "languages": []
@@ -1196,9 +1196,9 @@
       "name": "TV Gazeta",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/TVGazeta.br.png",
       "streamUrls": [
-        "http://45.190.28.50/GAZETA_HD/index.m3u8",
         "http://45.190.156.152/GAZETA/index.m3u8",
-        "http://138.255.2.6:8084/GAZETA/index.m3u8"
+        "http://138.255.2.6:8084/GAZETA/index.m3u8",
+        "http://168.197.104.22:80/GAZETA/index.m3u8"
       ],
       "category": "Brazil",
       "languages": []
@@ -1208,9 +1208,9 @@
       "name": "TV Justica",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/TVJustica.br.png",
       "streamUrls": [
-        "http://45.190.28.50/TV_JUSTICA/index.m3u8",
         "http://138.255.2.6:8084/TVJUSTICA/index.m3u8",
-        "http://168.197.104.22:80/TV_JUSTICA/index.m3u8"
+        "http://168.197.104.22:80/TV_JUSTICA/index.m3u8",
+        "http://45.190.28.50/TV_JUSTICA/index.m3u8"
       ],
       "category": "Brazil",
       "languages": []
@@ -1220,8 +1220,8 @@
       "name": "TV Pai Eterno",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/TVPaiEterno.br.png",
       "streamUrls": [
-        "http://45.190.28.50/PAI_ETERNO/index.m3u8",
         "http://168.197.104.22:80/TV_PAI_ETERNO/index.m3u8",
+        "http://45.190.28.50/PAI_ETERNO/index.m3u8",
         "http://45.162.64.114/TV_PAI_ETERNO/index.m3u8"
       ],
       "category": "Brazil",
@@ -1232,9 +1232,9 @@
       "name": "TV Ra Tim Bum",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/TVRaTimBum.br.png",
       "streamUrls": [
-        "http://45.190.28.50/RATIMBUM/index.m3u8",
+        "http://45.177.114.115:80/TV_RA_TIM_BUM/index.m3u8",
         "http://168.197.104.22:80/RA_TIM_BUM/index.m3u8",
-        "http://45.177.114.115:80/TV_RA_TIM_BUM/index.m3u8"
+        "http://45.190.28.50/RATIMBUM/index.m3u8"
       ],
       "category": "Brazil",
       "languages": []
@@ -1244,8 +1244,8 @@
       "name": "Terra Viva",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/TerraViva.br.png",
       "streamUrls": [
-        "http://45.190.28.50/TERRA_VIVA_HD/index.m3u8",
         "http://138.255.2.6:8084/TERRAVIVA/index.m3u8",
+        "http://45.177.114.115:80/TERRAVIVA/index.m3u8",
         "http://168.197.104.22:80/TERRAVIVA/index.m3u8"
       ],
       "category": "Brazil",
@@ -1352,8 +1352,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/TVSenado.br.png",
       "streamUrls": [
         "http://138.255.2.6:8084/TVSENADO/index.m3u8",
-        "http://45.190.28.50/TV_SENADO/index.m3u8",
-        "http://168.197.104.22:80/TV_SENADO/index.m3u8"
+        "http://168.197.104.22:80/TV_SENADO/index.m3u8",
+        "http://170.83.16.50:80/TV_SENADO/index.m3u8"
       ],
       "category": "Brazil",
       "languages": []
@@ -1384,7 +1384,7 @@
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/330px-Sony_Movies_Logo.svg.png",
       "streamUrls": [
         "http://138.255.2.6:8084/SONYMOVIES/index.m3u8",
-        "http://45.190.28.50/SONY_MOVIES/index.m3u8",
+        "http://45.177.114.115:80/SONY_MOVIES/index.m3u8",
         "http://168.197.104.22:80/SONY_MOVIES/index.m3u8"
       ],
       "category": "Brazil",
@@ -1396,8 +1396,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/RedeVida.br.png",
       "streamUrls": [
         "http://138.255.2.6:8084/REDEVIDA/index.m3u8",
-        "http://45.190.28.50/REDE_VIDA_HD/index.m3u8",
-        "http://170.84.165.204:80/REDEVIDA_HD/index.m3u8"
+        "http://170.84.165.204:80/REDEVIDA_HD/index.m3u8",
+        "http://168.197.104.22:80/REDE_VIDA/index.m3u8"
       ],
       "country": "BR",
       "category": "Brazil",
@@ -1408,8 +1408,8 @@
       "name": "Sony Channel",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/SonyChannel.br.png",
       "streamUrls": [
-        "http://45.190.28.50/SONY_HD/index.m3u8",
         "http://138.255.2.6:8084/SONY/index.m3u8",
+        "http://45.190.28.50/SONY_HD/index.m3u8",
         "http://170.83.16.50:80/SONY_CHANNEL/index.m3u8"
       ],
       "country": "BR",
@@ -1433,8 +1433,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/MusicBoxBrazil.br.png",
       "streamUrls": [
         "http://138.255.2.6:8084/MUSICBOXBRASIL/index.m3u8",
-        "http://45.190.28.50/MUSIC_BOX_HD/index.m3u8",
-        "http://168.197.104.22:80/MUSIC/index.m3u8"
+        "http://168.197.104.22:80/MUSIC/index.m3u8",
+        "http://45.190.28.50/MUSIC_BOX_HD/index.m3u8"
       ],
       "country": "BR",
       "category": "Brazil",
@@ -1445,8 +1445,8 @@
       "name": "AXN",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/AXN.br.png",
       "streamUrls": [
-        "http://45.190.28.50/AXN_HD/index.m3u8",
         "http://138.255.2.6:8084/AXN/index.m3u8",
+        "http://45.190.28.50/AXN_HD/index.m3u8",
         "http://170.83.16.50:80/AXN/index.m3u8"
       ],
       "country": "BR",
@@ -1515,9 +1515,9 @@
       "name": "Travel Box Brazil",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/TravelBoxBrazil.br.png",
       "streamUrls": [
-        "http://45.190.28.50/TRAVEL_BOX_HD/index.m3u8",
         "http://138.255.2.6:8084/TRAVELBOXBRASIL/index.m3u8",
-        "http://168.197.104.22:80/TRAVEL_BOX_BRASIL/index.m3u8"
+        "http://168.197.104.22:80/TRAVEL_BOX_BRASIL/index.m3u8",
+        "http://45.190.28.50/TRAVEL_BOX_HD/index.m3u8"
       ],
       "country": "BR",
       "category": "Brazil",
@@ -1550,9 +1550,9 @@
       "name": "Band",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/Band.br.png",
       "streamUrls": [
-        "http://45.190.28.50/BAND_HD/index.m3u8",
+        "http://170.84.165.204:80/BAND_HD/index.m3u8",
         "http://138.255.2.6:8084/BAND/index.m3u8",
-        "http://170.84.165.204:80/BAND_HD/index.m3u8"
+        "http://45.190.28.50/BAND_HD/index.m3u8"
       ],
       "category": "Brazil",
       "languages": []
@@ -1562,8 +1562,8 @@
       "name": "Chef TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/ChefTV.br.png",
       "streamUrls": [
-        "http://45.190.28.50/CHEF_TV/index.m3u8",
-        "http://168.197.104.22:80/CHEF_TV/index.m3u8"
+        "http://168.197.104.22:80/CHEF_TV/index.m3u8",
+        "http://45.190.28.50/CHEF_TV/index.m3u8"
       ],
       "category": "Brazil",
       "languages": []
@@ -1702,7 +1702,7 @@
     {
       "id": "NSports.br",
       "name": "N Sports",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/330px-Logo_tvN.svg.png",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=nsports.com.br",
       "streamUrls": [
         "https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8"
       ],
@@ -1774,8 +1774,8 @@
       "name": "VEJA+ TV",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=veja.abril.com.br",
       "streamUrls": [
-        "https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8",
-        "https://gpa-vja-samsungtvplus-br.otteravision.com/gpa/vja/vja.m3u8"
+        "https://gpa-vja-samsungtvplus-br.otteravision.com/gpa/vja/vja.m3u8",
+        "https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8"
       ],
       "category": "Brazil",
       "languages": []
@@ -1837,7 +1837,8 @@
       "name": "Rede Seculo 21",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/RedeSeculo21.br.png",
       "streamUrls": [
-        "http://138.255.2.6:8084/REDESECULO21/index.m3u8"
+        "http://138.255.2.6:8084/REDESECULO21/index.m3u8",
+        "http://45.162.64.114/REDE_SECULO_21/index.m3u8"
       ],
       "country": "BR",
       "category": "Brazil",
@@ -1848,7 +1849,8 @@
       "name": "Futura",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/Futura.br.png",
       "streamUrls": [
-        "http://168.197.104.22:80/FUTURA/index.m3u8"
+        "http://168.197.104.22:80/FUTURA/index.m3u8",
+        "http://170.83.49.66:8083/FUTURAHD/index.m3u8"
       ],
       "country": "BR",
       "category": "Brazil",
