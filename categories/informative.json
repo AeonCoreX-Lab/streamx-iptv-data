@@ -111,9 +111,9 @@
       "name": "BBC Earth",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/BBCEarth.uk.png",
       "streamUrls": [
-        "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8",
-        "https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8",
-        "https://pb-zjy36qhp8e8cz.akamaized.net/BBC_Earth_US.m3u8"
+        "http://185.102.171.218/BBCEarth/index.m3u8",
+        "https://pb-zjy36qhp8e8cz.akamaized.net/BBC_Earth_US.m3u8",
+        "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -1505,7 +1505,7 @@
       "streamUrls": [
         "https://lds-wonder-rakuten.amagi.tv/playlist.m3u8",
         "https://lds-wonder-samsungau.amagi.tv/playlist.m3u8",
-        "https://lds-wonder-plex.amagi.tv/playlist.m3u8"
+        "https://wonder-samsung-uk.amagi.tv/playlist.m3u8"
       ],
       "category": "Informative",
       "languages": [],
@@ -1517,8 +1517,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/HistoryHit.uk.png",
       "streamUrls": [
         "https://lds-timeline-rakuten.amagi.tv/playlist.m3u8",
-        "https://timeline-samsung-uk.amagi.tv/playlist.m3u8",
-        "https://lds-timeline-plex.amagi.tv/playlist.m3u8"
+        "https://lds-timeline-plex.amagi.tv/playlist.m3u8",
+        "https://timeline-samsung-uk.amagi.tv/playlist.m3u8"
       ],
       "category": "Informative",
       "languages": [],
@@ -1752,8 +1752,8 @@
       "name": "Cazador de Homicidas",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/CazadordeHomicidas.us.png",
       "streamUrls": [
-        "https://jmp2.uk/plu-60ed5fb9c4716d0007d180c5.m3u8",
-        "https://jmp2.uk/plu-6109a9f5531b840007a4a187.m3u8"
+        "https://jmp2.uk/plu-6109a9f5531b840007a4a187.m3u8",
+        "https://jmp2.uk/plu-60ed5fb9c4716d0007d180c5.m3u8"
       ],
       "category": "Informative",
       "languages": []
@@ -1998,7 +1998,8 @@
       "name": "Pluto TV True Crime",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/330px-Pluto_TV_logo_2024.svg.png",
       "streamUrls": [
-        "https://jmp2.uk/plu-61c0b438244e50000758083b.m3u8"
+        "https://jmp2.uk/plu-61c0b438244e50000758083b.m3u8",
+        "https://jmp2.uk/plu-61c1e51354d923000731bf78.m3u8"
       ],
       "category": "Informative",
       "languages": []
@@ -2567,6 +2568,27 @@
         "https://aes.m3u8simplu.workers.dev/natgeowild/index.m3u8"
       ],
       "country": "RO",
+      "category": "Informative",
+      "languages": []
+    },
+    {
+      "id": "ChemodanTV.ua",
+      "name": "Chemodan TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/ChemodanTV.ua.png",
+      "streamUrls": [
+        "http://stream.mcquack.net/399/index.m3u8"
+      ],
+      "category": "Informative",
+      "languages": []
+    },
+    {
+      "id": "Futura.br",
+      "name": "Futura",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/Futura.br.png",
+      "streamUrls": [
+        "http://168.197.104.22:80/FUTURA/index.m3u8",
+        "http://170.83.49.66:8083/FUTURAHD/index.m3u8"
+      ],
       "category": "Informative",
       "languages": []
     }
