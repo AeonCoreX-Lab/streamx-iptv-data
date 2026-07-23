@@ -1764,8 +1764,7 @@
       "name": "ETV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/ETV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/ETV/HLSv3-FTA/ETV.m3u8",
-        "https://cdn4.skygo.mn/live/disk1/ETV/DASH-FTA/ETV.mpd"
+        "https://cdn4.skygo.mn/live/disk1/ETV/HLSv3-FTA/ETV.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -1805,7 +1804,8 @@
       "name": "Eagle News",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/EagleNews.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/Eagle/HLSv3-FTA/Eagle.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/Eagle/HLSv3-FTA/Eagle.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/Eagle/DASH-FTA/Eagle.mpd"
       ],
       "category": "News",
       "languages": []
@@ -2456,16 +2456,6 @@
         "https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8",
         "https://live.livetvstream.co.uk/LS-63503-4/index.m3u8",
         "https://hlspackager.akamaized.net/live/DB/IRAN_INTERNATIONAL/HLS/IRAN_INTERNATIONAL.m3u8"
-      ],
-      "category": "News",
-      "languages": []
-    },
-    {
-      "id": "IranPress.ir",
-      "name": "Iran Press",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ir/IranPress.ir.png",
-      "streamUrls": [
-        "https://live.presstv.ir/hls/presstv_5_482/index.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -3730,16 +3720,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cu/PrensaLatinaTV.cu.png",
       "streamUrls": [
         "https://eu1.servers10.com:8081/8192/index.m3u8"
-      ],
-      "category": "News",
-      "languages": []
-    },
-    {
-      "id": "PressTV.ir",
-      "name": "Press TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ir/PressTV.ir.png",
-      "streamUrls": [
-        "https://live.presstv.ir/hls/presstv.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -5805,36 +5785,6 @@
       "languages": []
     },
     {
-      "id": "ATNNews.bd",
-      "name": "ATN News",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bd/ATNNews.bd.png",
-      "streamUrls": [
-        "https://bozztv.com/rongo/rongo-ATNNews/index.m3u8"
-      ],
-      "category": "News",
-      "languages": []
-    },
-    {
-      "id": "DeshTV.bd",
-      "name": "Desh TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bd/DeshTV.bd.png",
-      "streamUrls": [
-        "https://bozztv.com/rongo/rongo-DeshTV/index.m3u8"
-      ],
-      "category": "News",
-      "languages": []
-    },
-    {
-      "id": "JamunaTV.bd",
-      "name": "Jamuna TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bd/JamunaTV.bd.png",
-      "streamUrls": [
-        "https://bozztv.com/rongo/rongo-JamunaTelevision/index.m3u8"
-      ],
-      "category": "News",
-      "languages": []
-    },
-    {
       "id": "ADNTV.cl",
       "name": "ADN TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cl/ADNTV.cl.png",
@@ -6586,8 +6536,18 @@
       ],
       "category": "News",
       "languages": []
+    },
+    {
+      "id": "AstraTV.gr",
+      "name": "Astra TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gr/AstraTV.gr.png",
+      "streamUrls": [
+        "https://server.gointernet.gr/live/livestream.m3u8"
+      ],
+      "category": "News",
+      "languages": []
     }
   ],
-  "count": 637,
-  "generated_at": "2026-07-22T21:06:11.714228"
+  "count": 633,
+  "generated_at": "2026-07-23T02:39:19.384787"
 }
