@@ -210,8 +210,8 @@
       "name": "Pervyy gorodskoy. Odessa",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/PervyygorodskoyOdessa.ua.png",
       "streamUrls": [
-        "http://91.194.79.46:8081/stream2/channel2/playlist.m3u8",
-        "http://91.194.79.46:8081/stream1/channel1/playlist.m3u8"
+        "http://91.194.79.46:8081/stream1/channel1/playlist.m3u8",
+        "http://91.194.79.46:8081/stream2/channel2/playlist.m3u8"
       ],
       "category": "Ukraine",
       "languages": []
@@ -251,8 +251,8 @@
       "name": "SK 1",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/SK1.ua.png",
       "streamUrls": [
-        "http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8",
-        "http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8"
+        "http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8",
+        "http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8"
       ],
       "category": "Ukraine",
       "languages": []
@@ -335,8 +335,8 @@
       "name": "TET",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/TET.ua.png",
       "streamUrls": [
-        "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6377/index.m3u8",
-        "http://stream.mcquack.net/338/index.m3u8"
+        "http://stream.mcquack.net/338/index.m3u8",
+        "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6377/index.m3u8"
       ],
       "category": "Ukraine",
       "languages": []
@@ -346,6 +346,7 @@
       "name": "M1",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/M1.ua.png",
       "streamUrls": [
+        "http://stream.mcquack.net/218/index.m3u8",
         "http://158.101.222.193:88/georgia_play.php?id=m1"
       ],
       "category": "Ukraine",
@@ -457,9 +458,9 @@
       "name": "TVA",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/TVA.ua.png",
       "streamUrls": [
-        "http://hls.cdn.ua/tva.ua_live/livestream/chunklist_w396178779.m3u8",
         "http://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8",
-        "http://rtsp.cdn.ua/tva.ua_live/livestream/playlist.m3u8"
+        "http://rtsp.cdn.ua/tva.ua_live/livestream/playlist.m3u8",
+        "http://hls.cdn.ua/tva.ua_live/livestream/chunklist_w396178779.m3u8"
       ],
       "country": "UA",
       "category": "Ukraine",
@@ -1019,7 +1020,7 @@
       "name": "1+1 Ukraina",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/1Plus1Ukraina.ua.png",
       "streamUrls": [
-        "https://uys1g01.s.gy/1PLUS1_UKRAINE"
+        "http://stream.mcquack.net/219/index.m3u8"
       ],
       "category": "Ukraine",
       "languages": []
@@ -1040,6 +1041,59 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://stream.mcquack.net/464/index.m3u8"
+      ],
+      "category": "Ukraine",
+      "languages": []
+    },
+    {
+      "id": "PLUSPLUS.ua",
+      "name": "PLUSPLUS",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/PLUSPLUS.ua.png",
+      "streamUrls": [
+        "http://stream.mcquack.net/339/index.m3u8"
+      ],
+      "country": "UA",
+      "category": "Ukraine",
+      "languages": []
+    },
+    {
+      "id": "Bigudi.ua",
+      "name": "Bigudi",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/Bigudi.ua.png",
+      "streamUrls": [
+        "http://stream.mcquack.net/340/index.m3u8"
+      ],
+      "country": "UA",
+      "category": "Ukraine",
+      "languages": []
+    },
+    {
+      "id": "UNIANSerial.ua",
+      "name": "UNIAN Serial",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%A3%D0%9D%D0%86%D0%90%D0%9D._%D0%A1%D0%B5%D1%80%D1%96%D0%B0%D0%BB.svg/330px-%D0%A3%D0%9D%D0%86%D0%90%D0%9D._%D0%A1%D0%B5%D1%80%D1%96%D0%B0%D0%BB.svg.png",
+      "streamUrls": [
+        "http://stream.mcquack.net/341/index.m3u8"
+      ],
+      "country": "UA",
+      "category": "Ukraine",
+      "languages": []
+    },
+    {
+      "id": "Islandia.ua",
+      "name": "Islandia",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/Islandia.ua.png",
+      "streamUrls": [
+        "https://cdn15.live-tv.cloud/ua_infinitas_tv/islandiya-abr/playlist.m3u8"
+      ],
+      "category": "Ukraine",
+      "languages": []
+    },
+    {
+      "id": "OnePlanet.ua",
+      "name": "One Planet",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/OnePlanet.ua.png",
+      "streamUrls": [
+        "http://stream.mcquack.net/448/index.m3u8"
       ],
       "category": "Ukraine",
       "languages": []
