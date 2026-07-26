@@ -1221,6 +1221,7 @@
       "name": "AsianBox",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/AsianBox.mn.png",
       "streamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/AsianBOX/DASH-FTA/AsianBOX.mpd",
         "https://cdn4.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX.m3u8"
       ],
       "category": "Entertainment",
@@ -2526,6 +2527,8 @@
       "name": "Central TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/CentralTV.mn.png",
       "streamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/Ekh_Oron/DASH-FTA/Ekh_Oron.mpd",
+        "https://cdn4.skygo.mn/live/disk1/Ekh_Oron/HLSv3-FTA/Ekh_Oron.m3u8",
         "https://cdn1.skygo.mn/live/disk1/Ekh_Oron/HLS-FTA/Ekh_Oron.m3u8"
       ],
       "category": "Other",
@@ -12227,16 +12230,6 @@
       "languages": []
     },
     {
-      "id": "TheBurbankChannel.us",
-      "name": "The Burbank Channel",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/TheBurbankChannel.us.png",
-      "streamUrls": [
-        "https://cdn3.wowza.com/5/djRwZmQvTEJidmZD/burbank/G0240_009/playlist.m3u8"
-      ],
-      "category": "Movies",
-      "languages": []
-    },
-    {
       "id": "TheGrahamNortonShow.uk",
       "name": "The Graham Norton Show",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/TheGrahamNortonShow.uk.png",
@@ -12430,7 +12423,6 @@
       "name": "UBS",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/UBS.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/UBSHD/DASH-FTA/UBSHD.mpd",
         "https://cdn4.skygo.mn/live/disk1/UBSHD/HLSv3-FTA/UBSHD.m3u8"
       ],
       "category": "Other",
@@ -14856,8 +14848,7 @@
       "name": "NTV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/NTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/NTVHD/HLSv3-FTA/NTVHD.m3u8",
-        "https://cdn4.skygo.mn/live/disk1/NTVHD/DASH-FTA/NTVHD.mpd"
+        "https://cdn4.skygo.mn/live/disk1/NTVHD/HLSv3-FTA/NTVHD.m3u8"
       ],
       "country": "MN",
       "category": "Entertainment",
@@ -15310,8 +15301,8 @@
       "name": "Grande TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ve/GrandeTV.ve.png",
       "streamUrls": [
-        "https://live20.bozztv.com/akamaissh101/ssh101/grandetv2240/playlist.m3u8",
-        "https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8"
+        "https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8",
+        "https://live20.bozztv.com/akamaissh101/ssh101/grandetv2240/playlist.m3u8"
       ],
       "country": "VE",
       "category": "Entertainment",
@@ -15768,7 +15759,7 @@
     {
       "id": "FamilienfraBryggen.se",
       "name": "Familien fra Bryggen",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Linse_Kessler_in_Kolding_Storcenter.2013.JPG/330px-Linse_Kessler_in_Kolding_Storcenter.2013.JPG",
       "streamUrls": [
         "https://jmp2.uk/plu-61c19c8c9863900007acaa57.m3u8"
       ],
@@ -15820,7 +15811,7 @@
       "name": "Geordie Shore",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Geordie_shore.png/330px-Geordie_shore.png",
       "streamUrls": [
-        "https://jmp2.uk/plu-64424a1d5a0cd500083ed27c.m3u8",
+        "https://jmp2.uk/plu-6442512cee6a2f0008d3351f.m3u8",
         "https://jmp2.uk/plu-64424be3e94c380008d0a66d.m3u8"
       ],
       "category": "Entertainment",
@@ -15944,7 +15935,6 @@
       "name": "MTV Catfish",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-6177fe76691b2e000702c7fc.m3u8",
         "https://jmp2.uk/plu-61781a52a3638a00078fa57e.m3u8",
         "https://jmp2.uk/plu-61780d4267bf4d00077ddd73.m3u8"
       ],
@@ -16306,8 +16296,9 @@
       "name": "The Daily Show",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-65c0978360eb870008bc9d5b.m3u8",
-        "https://jmp2.uk/plu-65c0973311ced7000808d255.m3u8"
+        "https://jmp2.uk/plu-65c0973311ced7000808d255.m3u8",
+        "https://jmp2.uk/plu-65c096d23ba51e0008305a75.m3u8",
+        "https://jmp2.uk/plu-65c0978360eb870008bc9d5b.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -17557,7 +17548,6 @@
       "name": "SBT Interior",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/SBTInterior.br.png",
       "streamUrls": [
-        "http://167.250.126.140:7777/COMEDYCENTRAL-HD/index.m3u8",
         "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8"
       ],
       "category": "Entertainment",
@@ -19712,16 +19702,6 @@
       "languages": []
     },
     {
-      "id": "SciFi.fr",
-      "name": "SciFi",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=scifi.fr",
-      "streamUrls": [
-        "http://41.205.93.154/SYFY/index.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "TelefeInterior.ar",
       "name": "Telefe Interior",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=telefe.com",
@@ -19978,16 +19958,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/it/DellaTV.it.png",
       "streamUrls": [
         "https://live20.bozztv.com/giatvplayout7/giatv-211474/playlist.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
-      "id": "DiferenciaRadioTV.cl",
-      "name": "Diferencia Radio TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cl/DiferenciaRadioTV.cl.png",
-      "streamUrls": [
-        "https://s1.radiumcast.top/memfs/674b2d4f-7d6e-49be-9c6c-3094868259d9.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -20428,16 +20398,6 @@
       "languages": []
     },
     {
-      "id": "HumSitaray.pk",
-      "name": "Hum Sitaray",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pk/HumSitaray.pk.png",
-      "streamUrls": [
-        "http://103.86.135.164:9981/stream/channelid/2007922618?ticket=A568146B33A8AC741F94DA1630EDF7590877F305&profile=pass"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "PeretzInternational.ru",
       "name": "Peretz International",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/PeretzInternational.ru.png",
@@ -20665,6 +20625,27 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ve/VepacoTV.ve.png",
       "streamUrls": [
         "https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "Canal7Neuquen.ar",
+      "name": "Canal 7 Neuquen",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/Canal7Neuquen.ar.png",
+      "streamUrls": [
+        "https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "TelePosadas.ar",
+      "name": "Tele Posadas",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/TelePosadas.ar.png",
+      "streamUrls": [
+        "https://live20.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8",
+        "https://lbgo.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
