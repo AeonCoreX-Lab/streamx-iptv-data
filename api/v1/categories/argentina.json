@@ -271,7 +271,7 @@
       "streamUrls": [
         "http://190.11.225.124:5000/live/disney_jr_hd/playlist.m3u8",
         "http://190.14.10.19:16000/play/a02d/index.m3u8",
-        "http://177.234.249.178:8888/DISNEY-JR/index.m3u8"
+        "http://181.78.14.26:4000/play/a073/index.m3u8"
       ],
       "category": "Argentina",
       "languages": []
@@ -434,7 +434,6 @@
       "name": "Unife TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/UnifeTV.ar.png",
       "streamUrls": [
-        "https://5dcabf026b188.streamlock.net/StreamUnife/livestream/playlist.m3u8",
         "https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8"
       ],
       "category": "Argentina",
@@ -818,7 +817,7 @@
     {
       "id": "TVCanal72.ar",
       "name": "TV Canal 72",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/TV_P%C3%BAblica_Argentina_-_Estudios_02.jpg/330px-TV_P%C3%BAblica_Argentina_-_Estudios_02.jpg",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Canal3Guatemala%282022Logo%29.webp/330px-Canal3Guatemala%282022Logo%29.webp.png",
       "streamUrls": [
         "https://stmv1.voxtvhd.com.br/canal72tv2/canal72tv2/playlist.m3u8"
       ],
@@ -944,8 +943,8 @@
       "name": "5tv",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/5tv.ar.png",
       "streamUrls": [
-        "http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8",
-        "https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8"
+        "https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8",
+        "http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8"
       ],
       "country": "AR",
       "category": "Argentina",
@@ -981,18 +980,6 @@
       "streamUrls": [
         "https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8"
       ],
-      "category": "Argentina",
-      "languages": []
-    },
-    {
-      "id": "TelePosadas.ar",
-      "name": "Tele Posadas",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/TelePosadas.ar.png",
-      "streamUrls": [
-        "https://live20.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8",
-        "https://lbgo.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8"
-      ],
-      "country": "AR",
       "category": "Argentina",
       "languages": []
     },
@@ -1093,8 +1080,8 @@
       "name": "Telenord",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/Telenord.ar.png",
       "streamUrls": [
-        "https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8",
-        "http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8"
+        "http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8",
+        "https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8"
       ],
       "country": "AR",
       "category": "Argentina",
@@ -1129,8 +1116,19 @@
       ],
       "category": "Argentina",
       "languages": []
+    },
+    {
+      "id": "TeleFederal.ar",
+      "name": "Tele Federal",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://lbgo.bozztv.com/giatv/giatv-federaltv/federaltv/playlist.m3u8"
+      ],
+      "country": "AR",
+      "category": "Argentina",
+      "languages": []
     }
   ],
   "count": 110,
-  "generated_at": "2026-07-26T02:41:33.824474"
+  "generated_at": "2026-07-26T06:35:45.690842"
 }
