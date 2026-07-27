@@ -1735,8 +1735,8 @@
       "name": "C1",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/C1.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/C1/DASH-FTA/C1.mpd",
-        "https://cdn4.skygo.mn/live/disk1/C1/HLSv3-FTA/C1.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/C1/HLSv3-FTA/C1.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/C1/DASH-FTA/C1.mpd"
       ],
       "category": "Entertainment",
       "languages": []
@@ -19479,26 +19479,6 @@
       "languages": []
     },
     {
-      "id": "HappyChannel.ro",
-      "name": "Happy Channel",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ro/HappyChannel.ro.png",
-      "streamUrls": [
-        "https://aes.m3u8simplu.workers.dev/happy/index.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
-      "id": "PrimaTVMoldova.md",
-      "name": "Prima TV Moldova",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/md/PrimaTVMoldova.md.png",
-      "streamUrls": [
-        "https://aes.m3u8simplu.workers.dev/primatvmd/index.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "TelefeInterior.ar",
       "name": "Telefe Interior",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=telefe.com",
@@ -19797,16 +19777,6 @@
         "https://aes.m3u8simplu.workers.dev/nationalplus/index.m3u8"
       ],
       "category": "Informative",
-      "languages": []
-    },
-    {
-      "id": "ShamshadTV.af",
-      "name": "Shamshad TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/af/ShamshadTV.af.png",
-      "streamUrls": [
-        "https://5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8"
-      ],
-      "category": "Entertainment",
       "languages": []
     },
     {
@@ -20387,17 +20357,6 @@
       "languages": []
     },
     {
-      "id": "TelePosadas.ar",
-      "name": "Tele Posadas",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/TelePosadas.ar.png",
-      "streamUrls": [
-        "https://live20.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8",
-        "https://lbgo.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "PlutoTVCanalUOL.us",
       "name": "Pluto TV Canal UOL",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
@@ -20520,8 +20479,39 @@
       ],
       "category": "Entertainment",
       "languages": []
+    },
+    {
+      "id": "BanglaVision.bd",
+      "name": "Bangla Vision",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bd/BanglaVision.bd.png",
+      "streamUrls": [
+        "https://tvsen5.aynaott.com/banglavision/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "MaasrangaTV.bd",
+      "name": "Maasranga TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bd/MaasrangaTV.bd.png",
+      "streamUrls": [
+        "http://tvsen5.aynascope.net/maasrangatv/index.m3u8",
+        "https://tvsen5.aynaott.com/maasrangatv/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "NTV.bd",
+      "name": "NTV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bd/NTV.bd.png",
+      "streamUrls": [
+        "https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8"
+      ],
+      "category": "News",
+      "languages": []
     }
   ],
-  "count": 2007,
-  "generated_at": "2026-07-27T17:41:42.550501"
+  "count": 2006,
+  "generated_at": "2026-07-27T21:10:14.718352"
 }
