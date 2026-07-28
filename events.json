@@ -1,552 +1,46 @@
 {
-  "last_updated": "2026-07-28T02:35:16Z",
+  "last_updated": "2026-07-28T05:35:11Z",
   "strict_mode": true,
   "requires_stream": true,
   "requires_thumbnail": true,
-  "total_live": 52,
-  "total_upcoming": 146,
-  "total_streamed": 198,
+  "total_live": 3,
+  "total_upcoming": 157,
+  "total_streamed": 160,
   "active_events": [
     {
-      "event_id": "spk_chicago-white-sox-vs-new-york-yankees-2388477",
-      "title": "Chicago White Sox vs New York Yankees",
-      "sport": "Baseball",
-      "sport_icon": "sports_baseball",
-      "sport_color": "#FF6F00",
-      "tvg_id": "spk_chicago-white-sox-vs-new-york-yankees-2388477",
-      "start_time": "2026-07-27T23:40:00Z",
-      "end_time": "2026-07-28T02:40:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "StreamedPK Golf HD #1 (English)",
-          "url": "https://embed.st/embed/golf/23998/1"
-        },
-        {
-          "name": "StreamedPK Echo #1",
-          "url": "https://embed.st/embed/echo/chicago-white-sox-vs-new-york-yankees-baseball-179613/1"
-        }
-      ],
-      "stream_count": 2,
-      "has_stream": true,
-      "source": "StreamedPK",
-      "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRhVSEKPogQ3Tfoi6QhmDrMQCFJnxRcwZeEXmjbTWmHtitQA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYVavAgQ3EBFwhEBvjpCmAJiAsEKTPii5gy8IvNGOmtMM7GiIQA.webp",
-      "league": "baseball"
-    },
-    {
-      "event_id": "spk_st--louis-cardinals-vs-chicago-cubs-2388470",
-      "title": "St. Louis Cardinals vs Chicago Cubs",
-      "sport": "Baseball",
-      "sport_icon": "sports_baseball",
-      "sport_color": "#FF6F00",
-      "tvg_id": "spk_st--louis-cardinals-vs-chicago-cubs-2388470",
-      "start_time": "2026-07-27T23:45:00Z",
-      "end_time": "2026-07-28T02:45:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "StreamedPK Golf HD #1 (English)",
-          "url": "https://embed.st/embed/golf/23999/1"
-        },
-        {
-          "name": "StreamedPK Echo #1",
-          "url": "https://embed.st/embed/echo/stlouis-cardinals-vs-chicago-cubs-baseball-179606/1"
-        }
-      ],
-      "stream_count": 2,
-      "has_stream": true,
-      "source": "StreamedPK",
-      "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjIATMCjDrNObiAi59IGMZCIcfMwQpM+KLmDLwi80faa0wjsaIhA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5gQDUiBgg+IbiBK49IEyiOIzEwjGBM+KLmDLwi80Q6a0wTsaIhA.webp",
-      "league": "baseball"
-    },
-    {
-      "event_id": "spk_ppv-event-03-usac-indiana-sprint-week-circle-city-ppv-03",
-      "title": "USAC Indiana Sprint Week Circle City ⭐",
-      "sport": "Other",
-      "sport_icon": "live_tv",
-      "sport_color": "#E53935",
-      "tvg_id": "spk_ppv-event-03-usac-indiana-sprint-week-circle-city-ppv-03",
-      "start_time": "2026-07-27T23:45:00Z",
-      "end_time": "2026-07-28T02:45:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "StreamedPK Echo #1",
-          "url": "https://embed.st/embed/echo/ppv-event-03-usac-indiana-sprint-week-circle-city-ppv-03/1"
-        }
-      ],
-      "stream_count": 1,
-      "has_stream": true,
-      "source": "StreamedPK",
-      "thumbnail": "https://streamed.pk/api/images/badge/live.webp",
-      "league": "other"
-    },
-    {
-      "event_id": "spk_ppv-wwe-monday-night-raw",
-      "title": "WWE: Monday Night RAW",
-      "sport": "WWE",
-      "sport_icon": "sports_kabaddi",
-      "sport_color": "#D50000",
-      "tvg_id": "spk_ppv-wwe-monday-night-raw",
-      "start_time": "2026-07-28T00:00:00Z",
-      "end_time": "2026-07-28T03:00:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "StreamedPK Admin #1",
-          "url": "https://embed.st/embed/admin/ppv-wwe-monday-night-raw/1"
-        }
-      ],
-      "stream_count": 1,
-      "has_stream": true,
-      "source": "StreamedPK",
-      "thumbnail": "https://streamed.pk/api/images/proxy//api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiCohEiGlJTAIIYcuCIJWNSCVZJpEJt0SammsMUGQIYFMS6IC-mEEim2emELAkuAMYKhZ1YIVzIFAjVyZ0VSRSA.webp.webp",
-      "league": "fight"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_beyond_the_gates_sea",
-      "title": "Beyond the Gates Season 1, Episode 9",
-      "sport": "Other",
-      "sport_icon": "live_tv",
-      "sport_color": "#E53935",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_beyond_the_gates_sea",
-      "start_time": "2026-07-28T00:00:00Z",
-      "end_time": "2026-07-28T03:00:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "BET USA (player)",
-          "url": "https://dlhd.pk/player/stream-306.php"
-        },
-        {
-          "name": "BET USA (cast)",
-          "url": "https://dlhd.pk/cast/stream-306.php"
-        },
-        {
-          "name": "BET USA (plus)",
-          "url": "https://dlhd.pk/plus/stream-306.php"
-        },
-        {
-          "name": "BET USA",
-          "url": "https://dlhd.pk/stream/stream-306.php"
-        },
-        {
-          "name": "BET USA (casting)",
-          "url": "https://dlhd.pk/casting/stream-306.php"
-        },
-        {
-          "name": "BET USA (watch)",
-          "url": "https://dlhd.pk/watch/stream-306.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_swamp_people_season_",
-      "title": "Swamp People Season 16, Episode 12",
-      "sport": "Other",
-      "sport_icon": "live_tv",
-      "sport_color": "#E53935",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_swamp_people_season_",
-      "start_time": "2026-07-28T00:00:00Z",
-      "end_time": "2026-07-28T03:00:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "History USA",
-          "url": "https://dlhd.pk/stream/stream-322.php"
-        },
-        {
-          "name": "History USA (watch)",
-          "url": "https://dlhd.pk/watch/stream-322.php"
-        },
-        {
-          "name": "History USA (player)",
-          "url": "https://dlhd.pk/player/stream-322.php"
-        },
-        {
-          "name": "History USA (plus)",
-          "url": "https://dlhd.pk/plus/stream-322.php"
-        },
-        {
-          "name": "History USA (casting)",
-          "url": "https://dlhd.pk/casting/stream-322.php"
-        },
-        {
-          "name": "History USA (cast)",
-          "url": "https://dlhd.pk/cast/stream-322.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_the_first_48_season_",
-      "title": "The First 48 Season 27, Episode 10",
-      "sport": "Other",
-      "sport_icon": "live_tv",
-      "sport_color": "#E53935",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_the_first_48_season_",
-      "start_time": "2026-07-28T00:00:00Z",
-      "end_time": "2026-07-28T03:00:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "A&amp;E TV USA (watch)",
-          "url": "https://dlhd.pk/watch/stream-302.php"
-        },
-        {
-          "name": "A&amp;E TV USA",
-          "url": "https://dlhd.pk/stream/stream-302.php"
-        },
-        {
-          "name": "A&amp;E TV USA (casting)",
-          "url": "https://dlhd.pk/casting/stream-302.php"
-        },
-        {
-          "name": "A&amp;E TV USA (plus)",
-          "url": "https://dlhd.pk/plus/stream-302.php"
-        },
-        {
-          "name": "A&amp;E TV USA (player)",
-          "url": "https://dlhd.pk/player/stream-302.php"
-        },
-        {
-          "name": "A&amp;E TV USA (cast)",
-          "url": "https://dlhd.pk/cast/stream-302.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_southern_charm_seaso",
-      "title": "Southern Charm Season 10, Episode 15",
-      "sport": "Other",
-      "sport_icon": "live_tv",
-      "sport_color": "#E53935",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_southern_charm_seaso",
-      "start_time": "2026-07-28T00:00:00Z",
-      "end_time": "2026-07-28T03:00:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "Bravo USA (casting)",
-          "url": "https://dlhd.pk/casting/stream-307.php"
-        },
-        {
-          "name": "Bravo USA (player)",
-          "url": "https://dlhd.pk/player/stream-307.php"
-        },
-        {
-          "name": "Bravo USA",
-          "url": "https://dlhd.pk/stream/stream-307.php"
-        },
-        {
-          "name": "Bravo USA (cast)",
-          "url": "https://dlhd.pk/cast/stream-307.php"
-        },
-        {
-          "name": "Bravo USA (plus)",
-          "url": "https://dlhd.pk/plus/stream-307.php"
-        },
-        {
-          "name": "Bravo USA (watch)",
-          "url": "https://dlhd.pk/watch/stream-307.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_police_24_7_season_2",
-      "title": "Police 24/7 Season 2, Episode 9",
-      "sport": "Other",
-      "sport_icon": "live_tv",
-      "sport_color": "#E53935",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_police_24_7_season_2",
-      "start_time": "2026-07-28T00:00:00Z",
-      "end_time": "2026-07-28T03:00:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "CW USA (plus)",
-          "url": "https://dlhd.pk/plus/stream-300.php"
-        },
-        {
-          "name": "CW PIX 11 USA (plus)",
-          "url": "https://dlhd.pk/plus/stream-280.php"
-        },
-        {
-          "name": "CW USA (cast)",
-          "url": "https://dlhd.pk/cast/stream-300.php"
-        },
-        {
-          "name": "CW USA",
-          "url": "https://dlhd.pk/stream/stream-300.php"
-        },
-        {
-          "name": "CW USA (watch)",
-          "url": "https://dlhd.pk/watch/stream-300.php"
-        },
-        {
-          "name": "CW USA (player)",
-          "url": "https://dlhd.pk/player/stream-300.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_9_1_1_season_8__epis",
-      "title": "9-1-1 Season 8, Episode 11",
-      "sport": "Other",
-      "sport_icon": "live_tv",
-      "sport_color": "#E53935",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_9_1_1_season_8__epis",
-      "start_time": "2026-07-28T00:00:00Z",
-      "end_time": "2026-07-28T03:00:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "ABC NY USA (cast)",
-          "url": "https://dlhd.pk/cast/stream-766.php"
-        },
-        {
-          "name": "ABC NY USA (plus)",
-          "url": "https://dlhd.pk/plus/stream-766.php"
-        },
-        {
-          "name": "ABC NY USA (watch)",
-          "url": "https://dlhd.pk/watch/stream-766.php"
-        },
-        {
-          "name": "ABC NY USA",
-          "url": "https://dlhd.pk/stream/stream-766.php"
-        },
-        {
-          "name": "ABC NY USA (player)",
-          "url": "https://dlhd.pk/player/stream-766.php"
-        },
-        {
-          "name": "ABC NY USA (casting)",
-          "url": "https://dlhd.pk/casting/stream-766.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_next_level_chef_seas",
-      "title": "Next Level Chef Season 4, Episode 6",
-      "sport": "Other",
-      "sport_icon": "live_tv",
-      "sport_color": "#E53935",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_next_level_chef_seas",
-      "start_time": "2026-07-28T00:00:00Z",
-      "end_time": "2026-07-28T03:00:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "FOXNY USA (player)",
-          "url": "https://dlhd.pk/player/stream-768.php"
-        },
-        {
-          "name": "FOX USA (cast)",
-          "url": "https://dlhd.pk/cast/stream-54.php"
-        },
-        {
-          "name": "FOX USA (plus)",
-          "url": "https://dlhd.pk/plus/stream-54.php"
-        },
-        {
-          "name": "FOX USA",
-          "url": "https://dlhd.pk/stream/stream-54.php"
-        },
-        {
-          "name": "FOXNY USA (watch)",
-          "url": "https://dlhd.pk/watch/stream-768.php"
-        },
-        {
-          "name": "FOXNY USA",
-          "url": "https://dlhd.pk/stream/stream-768.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_law__amp__order_seas",
-      "title": "Law &amp; Order Season 24, Episode 16",
-      "sport": "Other",
-      "sport_icon": "live_tv",
-      "sport_color": "#E53935",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_law__amp__order_seas",
-      "start_time": "2026-07-28T00:00:00Z",
-      "end_time": "2026-07-28T03:00:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "NBC USA",
-          "url": "https://dlhd.pk/stream/stream-53.php"
-        },
-        {
-          "name": "NBCNY USA (plus)",
-          "url": "https://dlhd.pk/plus/stream-769.php"
-        },
-        {
-          "name": "NBC USA (watch)",
-          "url": "https://dlhd.pk/watch/stream-53.php"
-        },
-        {
-          "name": "NBCNY USA (cast)",
-          "url": "https://dlhd.pk/cast/stream-769.php"
-        },
-        {
-          "name": "NBCNY USA (casting)",
-          "url": "https://dlhd.pk/casting/stream-769.php"
-        },
-        {
-          "name": "NBC USA (plus)",
-          "url": "https://dlhd.pk/plus/stream-53.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_teen_mom__the_next_c",
-      "title": "Teen Mom: The Next Chapter Season 2, Episode 23",
-      "sport": "Other",
-      "sport_icon": "live_tv",
-      "sport_color": "#E53935",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_teen_mom__the_next_c",
-      "start_time": "2026-07-28T00:00:00Z",
-      "end_time": "2026-07-28T03:00:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "MTV USA (casting)",
-          "url": "https://dlhd.pk/casting/stream-371.php"
-        },
-        {
-          "name": "MTV USA (watch)",
-          "url": "https://dlhd.pk/watch/stream-371.php"
-        },
-        {
-          "name": "MTV USA",
-          "url": "https://dlhd.pk/stream/stream-371.php"
-        },
-        {
-          "name": "MTV USA (player)",
-          "url": "https://dlhd.pk/player/stream-371.php"
-        },
-        {
-          "name": "MTV USA (plus)",
-          "url": "https://dlhd.pk/plus/stream-371.php"
-        },
-        {
-          "name": "MTV USA (cast)",
-          "url": "https://dlhd.pk/cast/stream-371.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_rodeo_rodeohouston_l",
-      "title": "Rodeo RODEOHOUSTON Live",
-      "sport": "Other",
-      "sport_icon": "live_tv",
-      "sport_color": "#E53935",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_rodeo_rodeohouston_l",
-      "start_time": "2026-07-28T00:00:00Z",
-      "end_time": "2026-07-28T03:00:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "Space City Home Network (plus)",
-          "url": "https://dlhd.pk/plus/stream-921.php"
-        },
-        {
-          "name": "Space City Home Network",
-          "url": "https://dlhd.pk/stream/stream-921.php"
-        },
-        {
-          "name": "Space City Home Network (watch)",
-          "url": "https://dlhd.pk/watch/stream-921.php"
-        },
-        {
-          "name": "Space City Home Network (cast)",
-          "url": "https://dlhd.pk/cast/stream-921.php"
-        },
-        {
-          "name": "Space City Home Network (player)",
-          "url": "https://dlhd.pk/player/stream-921.php"
-        },
-        {
-          "name": "Space City Home Network (casting)",
-          "url": "https://dlhd.pk/casting/stream-921.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_argentina___primera_",
-      "title": "Argentina - Primera División : Unión Santa Fe vs Racing Club",
+      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_club_friendly___guad",
+      "title": "Club Friendly : Guadalajara vs Atlas",
       "sport": "Football",
       "sport_icon": "sports_soccer",
       "sport_color": "#2962FF",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_argentina___primera_",
-      "start_time": "2026-07-28T00:00:00Z",
-      "end_time": "2026-07-28T03:00:00Z",
+      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_club_friendly___guad",
+      "start_time": "2026-07-28T03:00:00Z",
+      "end_time": "2026-07-28T06:00:00Z",
       "is_live": true,
       "streams": [
         {
-          "name": "TNT Sports Argentina (cast)",
-          "url": "https://dlhd.pk/cast/stream-388.php"
+          "name": "FOX Deportes (cast)",
+          "url": "https://dlhd.pk/cast/stream-643.php"
         },
         {
-          "name": "TNT Sports Argentina",
-          "url": "https://dlhd.pk/stream/stream-388.php"
+          "name": "FOX Deportes",
+          "url": "https://dlhd.pk/stream/stream-643.php"
         },
         {
-          "name": "TNT Sports Argentina (plus)",
-          "url": "https://dlhd.pk/plus/stream-388.php"
+          "name": "FOX Deportes (player)",
+          "url": "https://dlhd.pk/player/stream-643.php"
         },
         {
-          "name": "TNT Sports Argentina (watch)",
-          "url": "https://dlhd.pk/watch/stream-388.php"
+          "name": "FOX Deportes (casting)",
+          "url": "https://dlhd.pk/casting/stream-643.php"
         },
         {
-          "name": "TNT Sports Argentina (player)",
-          "url": "https://dlhd.pk/player/stream-388.php"
+          "name": "FOX Deportes (watch)",
+          "url": "https://dlhd.pk/watch/stream-643.php"
         },
         {
-          "name": "TNT Sports Argentina (casting)",
-          "url": "https://dlhd.pk/casting/stream-388.php"
+          "name": "FOX Deportes (plus)",
+          "url": "https://dlhd.pk/plus/stream-643.php"
         }
       ],
       "stream_count": 6,
@@ -555,80 +49,39 @@
       "thumbnail": "https://streamed.pk/api/images/badge/football.webp"
     },
     {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_tna_impact_",
-      "title": "TNA iMPACT!",
-      "sport": "Other",
-      "sport_icon": "live_tv",
-      "sport_color": "#E53935",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_tna_impact_",
-      "start_time": "2026-07-28T00:00:00Z",
-      "end_time": "2026-07-28T03:00:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "Sportsnet 360 (watch)",
-          "url": "https://dlhd.pk/watch/stream-409.php"
-        },
-        {
-          "name": "Sportsnet 360",
-          "url": "https://dlhd.pk/stream/stream-409.php"
-        },
-        {
-          "name": "AXS TV USA (watch)",
-          "url": "https://dlhd.pk/watch/stream-742.php"
-        },
-        {
-          "name": "AXS TV USA (cast)",
-          "url": "https://dlhd.pk/cast/stream-742.php"
-        },
-        {
-          "name": "AXS TV USA (plus)",
-          "url": "https://dlhd.pk/plus/stream-742.php"
-        },
-        {
-          "name": "Sportsnet 360 (plus)",
-          "url": "https://dlhd.pk/plus/stream-409.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_nba_g_league___austi",
-      "title": "NBA G-League : Austin Toros Spurs vs Iowa Wolves",
+      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_mexico___liga_de_exp",
+      "title": "Mexico - Liga de Expansión MX : Leones Negros UdeG vs Atlético Morelia",
       "sport": "Football",
       "sport_icon": "sports_soccer",
       "sport_color": "#2962FF",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_nba_g_league___austi",
-      "start_time": "2026-07-28T00:00:00Z",
-      "end_time": "2026-07-28T03:00:00Z",
+      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_mexico___liga_de_exp",
+      "start_time": "2026-07-28T03:00:00Z",
+      "end_time": "2026-07-28T06:00:00Z",
       "is_live": true,
       "streams": [
         {
-          "name": "ESPN+ USA",
-          "url": "https://dlhd.pk/stream/stream-152.php"
+          "name": "ESPN4 Mexico (watch)",
+          "url": "https://dlhd.pk/watch/stream-928.php"
         },
         {
-          "name": "ESPN+ USA (watch)",
-          "url": "https://dlhd.pk/watch/stream-152.php"
+          "name": "ESPN4 Mexico",
+          "url": "https://dlhd.pk/stream/stream-928.php"
         },
         {
-          "name": "ESPN+ USA (player)",
-          "url": "https://dlhd.pk/player/stream-152.php"
+          "name": "ESPN4 Mexico (plus)",
+          "url": "https://dlhd.pk/plus/stream-928.php"
         },
         {
-          "name": "ESPN+ USA (cast)",
-          "url": "https://dlhd.pk/cast/stream-152.php"
+          "name": "ESPN4 Mexico (casting)",
+          "url": "https://dlhd.pk/casting/stream-928.php"
         },
         {
-          "name": "ESPN+ USA (casting)",
-          "url": "https://dlhd.pk/casting/stream-152.php"
+          "name": "ESPN4 Mexico (player)",
+          "url": "https://dlhd.pk/player/stream-928.php"
         },
         {
-          "name": "ESPN+ USA (plus)",
-          "url": "https://dlhd.pk/plus/stream-152.php"
+          "name": "ESPN4 Mexico (cast)",
+          "url": "https://dlhd.pk/cast/stream-928.php"
         }
       ],
       "stream_count": 6,
@@ -637,1179 +90,45 @@
       "thumbnail": "https://streamed.pk/api/images/badge/football.webp"
     },
     {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_nba_g_league___texas",
-      "title": "NBA G-League : Texas Legends vs Santa Cruz Warriors",
-      "sport": "Basketball",
-      "sport_icon": "sports_basketball",
-      "sport_color": "#FF6D00",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_nba_g_league___texas",
-      "start_time": "2026-07-28T00:00:00Z",
-      "end_time": "2026-07-28T03:00:00Z",
+      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_dp_world_tour_porsch",
+      "title": "DP World Tour Porsche Singapore Classic",
+      "sport": "Golf",
+      "sport_icon": "golf_course",
+      "sport_color": "#388E3C",
+      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_dp_world_tour_porsch",
+      "start_time": "2026-07-28T04:00:00Z",
+      "end_time": "2026-07-28T07:00:00Z",
       "is_live": true,
       "streams": [
         {
-          "name": "ESPN+ USA (cast)",
-          "url": "https://dlhd.pk/cast/stream-153.php"
+          "name": "GOLF Channel USA (plus)",
+          "url": "https://dlhd.pk/plus/stream-318.php"
         },
         {
-          "name": "ESPN+ USA (watch)",
-          "url": "https://dlhd.pk/watch/stream-153.php"
+          "name": "Sky Sports Golf UK",
+          "url": "https://dlhd.pk/stream/stream-70.php"
         },
         {
-          "name": "ESPN+ USA (plus)",
-          "url": "https://dlhd.pk/plus/stream-153.php"
+          "name": "Sky Sports Golf UK (player)",
+          "url": "https://dlhd.pk/player/stream-70.php"
         },
         {
-          "name": "ESPN+ USA",
-          "url": "https://dlhd.pk/stream/stream-153.php"
+          "name": "Movistar Golf (player)",
+          "url": "https://dlhd.pk/player/stream-528.php"
         },
         {
-          "name": "ESPN+ USA (player)",
-          "url": "https://dlhd.pk/player/stream-153.php"
+          "name": "Sky Sports Golf UK (cast)",
+          "url": "https://dlhd.pk/cast/stream-70.php"
         },
         {
-          "name": "ESPN+ USA (casting)",
-          "url": "https://dlhd.pk/casting/stream-153.php"
+          "name": "Movistar Golf (watch)",
+          "url": "https://dlhd.pk/watch/stream-528.php"
         }
       ],
       "stream_count": 6,
       "has_stream": true,
       "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/basketball.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_nhl___anaheim_ducks_",
-      "title": "NHL : Anaheim Ducks vs Nashville Predators",
-      "sport": "Hockey",
-      "sport_icon": "sports_hockey",
-      "sport_color": "#1565C0",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_nhl___anaheim_ducks_",
-      "start_time": "2026-07-28T00:00:00Z",
-      "end_time": "2026-07-28T03:00:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "Away Feed (cast)",
-          "url": "https://dlhd.pk/cast/stream-21.php"
-        },
-        {
-          "name": "SD-7520429 (cast)",
-          "url": "https://dlhd.pk/cast/stream-7520429.php"
-        },
-        {
-          "name": "Home Feed",
-          "url": "https://dlhd.pk/stream/stream-20.php"
-        },
-        {
-          "name": "Away Feed (plus)",
-          "url": "https://dlhd.pk/plus/stream-21.php"
-        },
-        {
-          "name": "Home Feed (casting)",
-          "url": "https://dlhd.pk/casting/stream-20.php"
-        },
-        {
-          "name": "Away Feed",
-          "url": "https://dlhd.pk/stream/stream-21.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/ice-hockey.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_nhl___tampa_bay_ligh",
-      "title": "NHL : Tampa Bay Lightning vs Dallas Stars",
-      "sport": "Hockey",
-      "sport_icon": "sports_hockey",
-      "sport_color": "#1565C0",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_nhl___tampa_bay_ligh",
-      "start_time": "2026-07-28T00:00:00Z",
-      "end_time": "2026-07-28T03:00:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "Home Feed (plus)",
-          "url": "https://dlhd.pk/plus/stream-22.php"
-        },
-        {
-          "name": "Bally Sports Sun (watch)",
-          "url": "https://dlhd.pk/watch/stream-905.php"
-        },
-        {
-          "name": "Away Feed (cast)",
-          "url": "https://dlhd.pk/cast/stream-23.php"
-        },
-        {
-          "name": "SD-7520400 (cast)",
-          "url": "https://dlhd.pk/cast/stream-7520400.php"
-        },
-        {
-          "name": "Bally Sports Sun (plus)",
-          "url": "https://dlhd.pk/plus/stream-905.php"
-        },
-        {
-          "name": "SD-7520400 (watch)",
-          "url": "https://dlhd.pk/watch/stream-7520400.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/ice-hockey.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_men_s_college_volley",
-      "title": "Men's College Volleyball : Ohio State vs. Loyola-Chicago",
-      "sport": "Other",
-      "sport_icon": "live_tv",
-      "sport_color": "#E53935",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_men_s_college_volley",
-      "start_time": "2026-07-28T00:00:00Z",
-      "end_time": "2026-07-28T03:00:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "Marquee Sports Network (player)",
-          "url": "https://dlhd.pk/player/stream-770.php"
-        },
-        {
-          "name": "Marquee Sports Network (plus)",
-          "url": "https://dlhd.pk/plus/stream-770.php"
-        },
-        {
-          "name": "Marquee Sports Network (cast)",
-          "url": "https://dlhd.pk/cast/stream-770.php"
-        },
-        {
-          "name": "Marquee Sports Network",
-          "url": "https://dlhd.pk/stream/stream-770.php"
-        },
-        {
-          "name": "Marquee Sports Network (watch)",
-          "url": "https://dlhd.pk/watch/stream-770.php"
-        },
-        {
-          "name": "Marquee Sports Network (casting)",
-          "url": "https://dlhd.pk/casting/stream-770.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_nhl___los_angeles_ki",
-      "title": "NHL : Los Angeles Kings vs Chicago Blackhawks",
-      "sport": "Hockey",
-      "sport_icon": "sports_hockey",
-      "sport_color": "#1565C0",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_nhl___los_angeles_ki",
-      "start_time": "2026-07-28T00:30:00Z",
-      "end_time": "2026-07-28T03:30:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "Away Feed (watch)",
-          "url": "https://dlhd.pk/watch/stream-25.php"
-        },
-        {
-          "name": "Home Feed (cast)",
-          "url": "https://dlhd.pk/cast/stream-24.php"
-        },
-        {
-          "name": "Home Feed (player)",
-          "url": "https://dlhd.pk/player/stream-24.php"
-        },
-        {
-          "name": "SD-7520387",
-          "url": "https://dlhd.pk/stream/stream-7520387.php"
-        },
-        {
-          "name": "Away Feed (plus)",
-          "url": "https://dlhd.pk/plus/stream-25.php"
-        },
-        {
-          "name": "Home Feed (plus)",
-          "url": "https://dlhd.pk/plus/stream-24.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/ice-hockey.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_crime_nation_season_",
-      "title": "Crime Nation Season 2, Episode 9",
-      "sport": "Other",
-      "sport_icon": "live_tv",
-      "sport_color": "#E53935",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_crime_nation_season_",
-      "start_time": "2026-07-28T01:00:00Z",
-      "end_time": "2026-07-28T04:00:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "CW USA (plus)",
-          "url": "https://dlhd.pk/plus/stream-300.php"
-        },
-        {
-          "name": "CW USA (casting)",
-          "url": "https://dlhd.pk/casting/stream-300.php"
-        },
-        {
-          "name": "CW USA (watch)",
-          "url": "https://dlhd.pk/watch/stream-300.php"
-        },
-        {
-          "name": "CW PIX 11 USA (cast)",
-          "url": "https://dlhd.pk/cast/stream-280.php"
-        },
-        {
-          "name": "CW PIX 11 USA (watch)",
-          "url": "https://dlhd.pk/watch/stream-280.php"
-        },
-        {
-          "name": "CW USA (player)",
-          "url": "https://dlhd.pk/player/stream-300.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_farmer_wants_a_wife_",
-      "title": "Farmer Wants a Wife Season 3, Episode 1 • Premiere",
-      "sport": "Other",
-      "sport_icon": "live_tv",
-      "sport_color": "#E53935",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_farmer_wants_a_wife_",
-      "start_time": "2026-07-28T01:00:00Z",
-      "end_time": "2026-07-28T04:00:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "FOXNY USA (plus)",
-          "url": "https://dlhd.pk/plus/stream-768.php"
-        },
-        {
-          "name": "FOX USA (cast)",
-          "url": "https://dlhd.pk/cast/stream-54.php"
-        },
-        {
-          "name": "FOX USA (plus)",
-          "url": "https://dlhd.pk/plus/stream-54.php"
-        },
-        {
-          "name": "FOX USA (watch)",
-          "url": "https://dlhd.pk/watch/stream-54.php"
-        },
-        {
-          "name": "FOXNY USA (player)",
-          "url": "https://dlhd.pk/player/stream-768.php"
-        },
-        {
-          "name": "FOXNY USA",
-          "url": "https://dlhd.pk/stream/stream-768.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_law__amp__order__spe",
-      "title": "Law &amp; Order: Special Victims Unit Season 26, Episode 16",
-      "sport": "Other",
-      "sport_icon": "live_tv",
-      "sport_color": "#E53935",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_law__amp__order__spe",
-      "start_time": "2026-07-28T01:00:00Z",
-      "end_time": "2026-07-28T04:00:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "NBCNY USA",
-          "url": "https://dlhd.pk/stream/stream-769.php"
-        },
-        {
-          "name": "NBC USA",
-          "url": "https://dlhd.pk/stream/stream-53.php"
-        },
-        {
-          "name": "NBCNY USA (plus)",
-          "url": "https://dlhd.pk/plus/stream-769.php"
-        },
-        {
-          "name": "NBC USA (watch)",
-          "url": "https://dlhd.pk/watch/stream-53.php"
-        },
-        {
-          "name": "NBC USA (cast)",
-          "url": "https://dlhd.pk/cast/stream-53.php"
-        },
-        {
-          "name": "NBCNY USA (casting)",
-          "url": "https://dlhd.pk/casting/stream-769.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_doctor_odyssey_seaso",
-      "title": "Doctor Odyssey Season 1, Episode 11",
-      "sport": "Other",
-      "sport_icon": "live_tv",
-      "sport_color": "#E53935",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_doctor_odyssey_seaso",
-      "start_time": "2026-07-28T01:00:00Z",
-      "end_time": "2026-07-28T04:00:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "ABC NY USA",
-          "url": "https://dlhd.pk/stream/stream-766.php"
-        },
-        {
-          "name": "ABC NY USA (casting)",
-          "url": "https://dlhd.pk/casting/stream-766.php"
-        },
-        {
-          "name": "ABC NY USA (cast)",
-          "url": "https://dlhd.pk/cast/stream-766.php"
-        },
-        {
-          "name": "ABC NY USA (player)",
-          "url": "https://dlhd.pk/player/stream-766.php"
-        },
-        {
-          "name": "ABC NY USA (plus)",
-          "url": "https://dlhd.pk/plus/stream-766.php"
-        },
-        {
-          "name": "ABC NY USA (watch)",
-          "url": "https://dlhd.pk/watch/stream-766.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_top_chef_season_22__",
-      "title": "Top Chef Season 22, Episode 2",
-      "sport": "Other",
-      "sport_icon": "live_tv",
-      "sport_color": "#E53935",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_top_chef_season_22__",
-      "start_time": "2026-07-28T01:00:00Z",
-      "end_time": "2026-07-28T04:00:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "Bravo USA",
-          "url": "https://dlhd.pk/stream/stream-307.php"
-        },
-        {
-          "name": "Bravo USA (plus)",
-          "url": "https://dlhd.pk/plus/stream-307.php"
-        },
-        {
-          "name": "Bravo USA (player)",
-          "url": "https://dlhd.pk/player/stream-307.php"
-        },
-        {
-          "name": "Bravo USA (cast)",
-          "url": "https://dlhd.pk/cast/stream-307.php"
-        },
-        {
-          "name": "Bravo USA (casting)",
-          "url": "https://dlhd.pk/casting/stream-307.php"
-        },
-        {
-          "name": "Bravo USA (watch)",
-          "url": "https://dlhd.pk/watch/stream-307.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_accused__guilty_or_i",
-      "title": "Accused: Guilty or Innocent? Season 7, Episode 1",
-      "sport": "Other",
-      "sport_icon": "live_tv",
-      "sport_color": "#E53935",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_accused__guilty_or_i",
-      "start_time": "2026-07-28T01:00:00Z",
-      "end_time": "2026-07-28T04:00:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "A&amp;E TV USA",
-          "url": "https://dlhd.pk/stream/stream-302.php"
-        },
-        {
-          "name": "A&amp;E TV USA (cast)",
-          "url": "https://dlhd.pk/cast/stream-302.php"
-        },
-        {
-          "name": "A&amp;E TV USA (watch)",
-          "url": "https://dlhd.pk/watch/stream-302.php"
-        },
-        {
-          "name": "A&amp;E TV USA (player)",
-          "url": "https://dlhd.pk/player/stream-302.php"
-        },
-        {
-          "name": "A&amp;E TV USA (casting)",
-          "url": "https://dlhd.pk/casting/stream-302.php"
-        },
-        {
-          "name": "A&amp;E TV USA (plus)",
-          "url": "https://dlhd.pk/plus/stream-302.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_nhl___winnipeg_jets_",
-      "title": "NHL : Winnipeg Jets vs Edmonton Oilers",
-      "sport": "Hockey",
-      "sport_icon": "sports_hockey",
-      "sport_color": "#1565C0",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_nhl___winnipeg_jets_",
-      "start_time": "2026-07-28T01:00:00Z",
-      "end_time": "2026-07-28T04:00:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "TV3+ Denmark HD (cast)",
-          "url": "https://dlhd.pk/cast/stream-819.php"
-        },
-        {
-          "name": "Away Feed",
-          "url": "https://dlhd.pk/stream/stream-27.php"
-        },
-        {
-          "name": "Away Feed (player)",
-          "url": "https://dlhd.pk/player/stream-27.php"
-        },
-        {
-          "name": "Home Feed (plus)",
-          "url": "https://dlhd.pk/plus/stream-26.php"
-        },
-        {
-          "name": "Away Feed (cast)",
-          "url": "https://dlhd.pk/cast/stream-27.php"
-        },
-        {
-          "name": "Home Feed (casting)",
-          "url": "https://dlhd.pk/casting/stream-26.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/ice-hockey.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_nhl___buffalo_sabres",
-      "title": "NHL : Buffalo Sabres vs Utah Hockey Club",
-      "sport": "Hockey",
-      "sport_icon": "sports_hockey",
-      "sport_color": "#1565C0",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_nhl___buffalo_sabres",
-      "start_time": "2026-07-28T01:00:00Z",
-      "end_time": "2026-07-28T04:00:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "Home Feed (plus)",
-          "url": "https://dlhd.pk/plus/stream-28.php"
-        },
-        {
-          "name": "Away Feed (player)",
-          "url": "https://dlhd.pk/player/stream-29.php"
-        },
-        {
-          "name": "Home Feed (cast)",
-          "url": "https://dlhd.pk/cast/stream-28.php"
-        },
-        {
-          "name": "SD-7520560 (watch)",
-          "url": "https://dlhd.pk/watch/stream-7520560.php"
-        },
-        {
-          "name": "Away Feed",
-          "url": "https://dlhd.pk/stream/stream-29.php"
-        },
-        {
-          "name": "SD-7520560 (cast)",
-          "url": "https://dlhd.pk/cast/stream-7520560.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/ice-hockey.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_swamp_mysteries_seas",
-      "title": "Swamp Mysteries Season 3, Episode 4",
-      "sport": "Other",
-      "sport_icon": "live_tv",
-      "sport_color": "#E53935",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_swamp_mysteries_seas",
-      "start_time": "2026-07-28T01:30:00Z",
-      "end_time": "2026-07-28T04:30:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "History USA",
-          "url": "https://dlhd.pk/stream/stream-322.php"
-        },
-        {
-          "name": "History USA (casting)",
-          "url": "https://dlhd.pk/casting/stream-322.php"
-        },
-        {
-          "name": "History USA (player)",
-          "url": "https://dlhd.pk/player/stream-322.php"
-        },
-        {
-          "name": "History USA (plus)",
-          "url": "https://dlhd.pk/plus/stream-322.php"
-        },
-        {
-          "name": "History USA (cast)",
-          "url": "https://dlhd.pk/cast/stream-322.php"
-        },
-        {
-          "name": "History USA (watch)",
-          "url": "https://dlhd.pk/watch/stream-322.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_1st_women_s_t20___ne",
-      "title": "1st Women's T20 : New Zealand W vs Australia W",
-      "sport": "Cricket",
-      "sport_icon": "sports_cricket",
-      "sport_color": "#00C853",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_1st_women_s_t20___ne",
-      "start_time": "2026-07-28T01:30:00Z",
-      "end_time": "2026-07-28T04:30:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "TNT Sports 1 UK (casting)",
-          "url": "https://dlhd.pk/casting/stream-31.php"
-        },
-        {
-          "name": "TNT Sports 1 UK (plus)",
-          "url": "https://dlhd.pk/plus/stream-31.php"
-        },
-        {
-          "name": "TNT Sports 1 UK",
-          "url": "https://dlhd.pk/stream/stream-31.php"
-        },
-        {
-          "name": "TNT Sports 1 UK (cast)",
-          "url": "https://dlhd.pk/cast/stream-31.php"
-        },
-        {
-          "name": "TNT Sports 1 UK (watch)",
-          "url": "https://dlhd.pk/watch/stream-31.php"
-        },
-        {
-          "name": "TNT Sports 1 UK (player)",
-          "url": "https://dlhd.pk/player/stream-31.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/cricket.webp"
-    },
-    {
-      "event_id": "spk_24000",
-      "title": "Los Angeles Angels - Houston Astros",
-      "sport": "Baseball",
-      "sport_icon": "sports_baseball",
-      "sport_color": "#FF6F00",
-      "tvg_id": "spk_24000",
-      "start_time": "2026-07-28T01:38:00Z",
-      "end_time": "2026-07-28T04:38:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "StreamedPK Golf HD #1 (English)",
-          "url": "https://embed.st/embed/golf/24000/1"
-        },
-        {
-          "name": "StreamedPK Echo #1",
-          "url": "https://embed.st/embed/echo/los-angeles-angels-vs-houston-astros-baseball-179615/1"
-        },
-        {
-          "name": "StreamedPK Admin HD #1 (English - KCOP)",
-          "url": "https://embed.st/embed/admin/ppv-houston-astros-vs-los-angeles-angels/1"
-        },
-        {
-          "name": "StreamedPK Admin SD #2 (English - KCOP)",
-          "url": "https://embed.st/embed/admin/ppv-houston-astros-vs-los-angeles-angels/2"
-        },
-        {
-          "name": "StreamedPK Delta #1",
-          "url": "https://embed.st/embed/delta/live_mlb_angels-astros-live-streaming-590987664/1"
-        },
-        {
-          "name": "StreamedPK Golf HD #1 (English)",
-          "url": "https://embed.st/embed/golf/24014/1"
-        },
-        {
-          "name": "StreamedPK Echo HD #2",
-          "url": "https://embed.st/embed/echo/los-angeles-angels-vs-houston-astros-baseball-179615/2"
-        },
-        {
-          "name": "StreamedPK Delta HD #2 (English)",
-          "url": "https://embed.st/embed/delta/live_mlb_angels-astros-live-streaming-590987664/2"
-        }
-      ],
-      "stream_count": 1,
-      "has_stream": true,
-      "source": "StreamedPK",
-      "thumbnail": "https://streamed.pk/api/images/badge/baseball.webp",
-      "league": "baseball"
-    },
-    {
-      "event_id": "spk_24001",
-      "title": "Athletics - Boston Red Sox",
-      "sport": "Baseball",
-      "sport_icon": "sports_baseball",
-      "sport_color": "#FF6F00",
-      "tvg_id": "spk_24001",
-      "start_time": "2026-07-28T01:40:00Z",
-      "end_time": "2026-07-28T04:40:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "StreamedPK Golf HD #1 (English)",
-          "url": "https://embed.st/embed/golf/24001/1"
-        },
-        {
-          "name": "StreamedPK Echo #1",
-          "url": "https://embed.st/embed/echo/athletics-vs-boston-red-sox-baseball-179614/1"
-        },
-        {
-          "name": "StreamedPK Admin HD #1 (English - NBC Sports CA)",
-          "url": "https://embed.st/embed/admin/ppv-boston-red-sox-vs-athletics/1"
-        },
-        {
-          "name": "StreamedPK Admin SD #2 (English - NBC Sports CA)",
-          "url": "https://embed.st/embed/admin/ppv-boston-red-sox-vs-athletics/2"
-        },
-        {
-          "name": "StreamedPK Delta #1",
-          "url": "https://embed.st/embed/delta/live_mlb_athletics-red-sox-live-streaming-590988096/1"
-        },
-        {
-          "name": "StreamedPK Golf HD #1 (English)",
-          "url": "https://embed.st/embed/golf/24015/1"
-        },
-        {
-          "name": "StreamedPK Echo HD #2",
-          "url": "https://embed.st/embed/echo/athletics-vs-boston-red-sox-baseball-179614/2"
-        },
-        {
-          "name": "StreamedPK Delta HD #2 (English)",
-          "url": "https://embed.st/embed/delta/live_mlb_athletics-red-sox-live-streaming-590988096/2"
-        }
-      ],
-      "stream_count": 1,
-      "has_stream": true,
-      "source": "StreamedPK",
-      "thumbnail": "https://streamed.pk/api/images/badge/baseball.webp",
-      "league": "baseball"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_mlb___texas_rangers_",
-      "title": "MLB : Texas Rangers vs San Diego Padres",
-      "sport": "Football",
-      "sport_icon": "sports_soccer",
-      "sport_color": "#2962FF",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_mlb___texas_rangers_",
-      "start_time": "2026-07-28T01:40:00Z",
-      "end_time": "2026-07-28T04:40:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "MLB Network (watch)",
-          "url": "https://dlhd.pk/watch/stream-399.php"
-        },
-        {
-          "name": "MLB Network (casting)",
-          "url": "https://dlhd.pk/casting/stream-399.php"
-        },
-        {
-          "name": "MLB Network (cast)",
-          "url": "https://dlhd.pk/cast/stream-399.php"
-        },
-        {
-          "name": "MLB Network (plus)",
-          "url": "https://dlhd.pk/plus/stream-399.php"
-        },
-        {
-          "name": "MLB Network",
-          "url": "https://dlhd.pk/stream/stream-399.php"
-        },
-        {
-          "name": "MLB Network (player)",
-          "url": "https://dlhd.pk/player/stream-399.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/football.webp"
-    },
-    {
-      "event_id": "spk_24002",
-      "title": "San Francisco Giants - Milwaukee Brewers",
-      "sport": "Baseball",
-      "sport_icon": "sports_baseball",
-      "sport_color": "#FF6F00",
-      "tvg_id": "spk_24002",
-      "start_time": "2026-07-28T01:45:00Z",
-      "end_time": "2026-07-28T04:45:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "StreamedPK Golf HD #1 (English)",
-          "url": "https://embed.st/embed/golf/24002/1"
-        },
-        {
-          "name": "StreamedPK Echo #1",
-          "url": "https://embed.st/embed/echo/san-francisco-giants-vs-milwaukee-brewers-baseball-179607/1"
-        },
-        {
-          "name": "StreamedPK Admin HD #1 (English - NBC Sports BA)",
-          "url": "https://embed.st/embed/admin/ppv-milwaukee-brewers-vs-san-francisco-giants/1"
-        },
-        {
-          "name": "StreamedPK Admin SD #2 (English - NBC Sports BA)",
-          "url": "https://embed.st/embed/admin/ppv-milwaukee-brewers-vs-san-francisco-giants/2"
-        },
-        {
-          "name": "StreamedPK Delta #1",
-          "url": "https://embed.st/embed/delta/live_mlb_giants-brewers-live-streaming-590988528/1"
-        },
-        {
-          "name": "StreamedPK Golf HD #1 (English)",
-          "url": "https://embed.st/embed/golf/24017/1"
-        },
-        {
-          "name": "StreamedPK Echo HD #2",
-          "url": "https://embed.st/embed/echo/san-francisco-giants-vs-milwaukee-brewers-baseball-179607/2"
-        },
-        {
-          "name": "StreamedPK Delta HD #2 (English)",
-          "url": "https://embed.st/embed/delta/live_mlb_giants-brewers-live-streaming-590988528/2"
-        }
-      ],
-      "stream_count": 1,
-      "has_stream": true,
-      "source": "StreamedPK",
-      "thumbnail": "https://streamed.pk/api/images/badge/baseball.webp",
-      "league": "baseball"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_ncaa_march_madness_3",
-      "title": "NCAA March Madness 360 Live",
-      "sport": "Basketball",
-      "sport_icon": "sports_basketball",
-      "sport_color": "#FF6D00",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_ncaa_march_madness_3",
-      "start_time": "2026-07-28T02:00:00Z",
-      "end_time": "2026-07-28T05:00:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "CBS Sports Network USA",
-          "url": "https://dlhd.pk/stream/stream-308.php"
-        },
-        {
-          "name": "CBS Sports Network USA (cast)",
-          "url": "https://dlhd.pk/cast/stream-308.php"
-        },
-        {
-          "name": "CBS Sports Network USA (watch)",
-          "url": "https://dlhd.pk/watch/stream-308.php"
-        },
-        {
-          "name": "CBS Sports Network USA (player)",
-          "url": "https://dlhd.pk/player/stream-308.php"
-        },
-        {
-          "name": "CBS Sports Network USA (casting)",
-          "url": "https://dlhd.pk/casting/stream-308.php"
-        },
-        {
-          "name": "CBS Sports Network USA (plus)",
-          "url": "https://dlhd.pk/plus/stream-308.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/basketball.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_how_i_escaped_my_cul",
-      "title": "How I Escaped My Cult Season 1, Episode 3",
-      "sport": "Other",
-      "sport_icon": "live_tv",
-      "sport_color": "#E53935",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_how_i_escaped_my_cul",
-      "start_time": "2026-07-28T02:00:00Z",
-      "end_time": "2026-07-28T05:00:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "Freeform USA (cast)",
-          "url": "https://dlhd.pk/cast/stream-301.php"
-        },
-        {
-          "name": "Freeform USA (watch)",
-          "url": "https://dlhd.pk/watch/stream-301.php"
-        },
-        {
-          "name": "Freeform USA (player)",
-          "url": "https://dlhd.pk/player/stream-301.php"
-        },
-        {
-          "name": "Freeform USA (plus)",
-          "url": "https://dlhd.pk/plus/stream-301.php"
-        },
-        {
-          "name": "Freeform USA (casting)",
-          "url": "https://dlhd.pk/casting/stream-301.php"
-        },
-        {
-          "name": "Freeform USA",
-          "url": "https://dlhd.pk/stream/stream-301.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_house_hunters_intern",
-      "title": "House Hunters International Season 195, Episode 8",
-      "sport": "Football",
-      "sport_icon": "sports_soccer",
-      "sport_color": "#2962FF",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_house_hunters_intern",
-      "start_time": "2026-07-28T02:00:00Z",
-      "end_time": "2026-07-28T05:00:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "HGTV USA (cast)",
-          "url": "https://dlhd.pk/cast/stream-382.php"
-        },
-        {
-          "name": "HGTV USA",
-          "url": "https://dlhd.pk/stream/stream-382.php"
-        },
-        {
-          "name": "HGTV USA (casting)",
-          "url": "https://dlhd.pk/casting/stream-382.php"
-        },
-        {
-          "name": "HGTV USA (plus)",
-          "url": "https://dlhd.pk/plus/stream-382.php"
-        },
-        {
-          "name": "HGTV USA (watch)",
-          "url": "https://dlhd.pk/watch/stream-382.php"
-        },
-        {
-          "name": "HGTV USA (player)",
-          "url": "https://dlhd.pk/player/stream-382.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/football.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_my_hero_academia_sea",
-      "title": "My Hero Academia Season 1, Episode 5",
-      "sport": "Other",
-      "sport_icon": "live_tv",
-      "sport_color": "#E53935",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_my_hero_academia_sea",
-      "start_time": "2026-07-28T02:00:00Z",
-      "end_time": "2026-07-28T05:00:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "AXS TV USA",
-          "url": "https://dlhd.pk/stream/stream-742.php"
-        },
-        {
-          "name": "AXS TV USA (cast)",
-          "url": "https://dlhd.pk/cast/stream-742.php"
-        },
-        {
-          "name": "AXS TV USA (casting)",
-          "url": "https://dlhd.pk/casting/stream-742.php"
-        },
-        {
-          "name": "AXS TV USA (plus)",
-          "url": "https://dlhd.pk/plus/stream-742.php"
-        },
-        {
-          "name": "AXS TV USA (watch)",
-          "url": "https://dlhd.pk/watch/stream-742.php"
-        },
-        {
-          "name": "AXS TV USA (player)",
-          "url": "https://dlhd.pk/player/stream-742.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_found_season_2__epis",
-      "title": "Found Season 2, Episode 16",
-      "sport": "Other",
-      "sport_icon": "live_tv",
-      "sport_color": "#E53935",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_found_season_2__epis",
-      "start_time": "2026-07-28T02:00:00Z",
-      "end_time": "2026-07-28T05:00:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "NBC USA (plus)",
-          "url": "https://dlhd.pk/plus/stream-53.php"
-        },
-        {
-          "name": "NBC USA",
-          "url": "https://dlhd.pk/stream/stream-53.php"
-        },
-        {
-          "name": "NBCNY USA (cast)",
-          "url": "https://dlhd.pk/cast/stream-769.php"
-        },
-        {
-          "name": "NBCNY USA (plus)",
-          "url": "https://dlhd.pk/plus/stream-769.php"
-        },
-        {
-          "name": "NBCNY USA (casting)",
-          "url": "https://dlhd.pk/casting/stream-769.php"
-        },
-        {
-          "name": "NBC USA (cast)",
-          "url": "https://dlhd.pk/cast/stream-53.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_nba_g_league___agua_",
-      "title": "NBA G-League : Agua Caliente Clippers vs Rio Grande Valley Vipers",
-      "sport": "Basketball",
-      "sport_icon": "sports_basketball",
-      "sport_color": "#FF6D00",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_nba_g_league___agua_",
-      "start_time": "2026-07-28T02:00:00Z",
-      "end_time": "2026-07-28T05:00:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "ESPN+ USA (watch)",
-          "url": "https://dlhd.pk/watch/stream-154.php"
-        },
-        {
-          "name": "ESPN+ USA (player)",
-          "url": "https://dlhd.pk/player/stream-154.php"
-        },
-        {
-          "name": "ESPN+ USA",
-          "url": "https://dlhd.pk/stream/stream-154.php"
-        },
-        {
-          "name": "ESPN+ USA (casting)",
-          "url": "https://dlhd.pk/casting/stream-154.php"
-        },
-        {
-          "name": "ESPN+ USA (cast)",
-          "url": "https://dlhd.pk/cast/stream-154.php"
-        },
-        {
-          "name": "ESPN+ USA (plus)",
-          "url": "https://dlhd.pk/plus/stream-154.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/basketball.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_nba___toronto_raptor",
-      "title": "NBA : Toronto Raptors vs Golden State Warriors",
-      "sport": "Basketball",
-      "sport_icon": "sports_basketball",
-      "sport_color": "#FF6D00",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_nba___toronto_raptor",
-      "start_time": "2026-07-28T02:00:00Z",
-      "end_time": "2026-07-28T05:00:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "Sportsnet One (watch)",
-          "url": "https://dlhd.pk/watch/stream-411.php"
-        },
-        {
-          "name": "NBCS Bay Area (cast)",
-          "url": "https://dlhd.pk/cast/stream-753.php"
-        },
-        {
-          "name": "NBCS Bay Area (watch)",
-          "url": "https://dlhd.pk/watch/stream-753.php"
-        },
-        {
-          "name": "Away Feed",
-          "url": "https://dlhd.pk/stream/stream-106.php"
-        },
-        {
-          "name": "NBCS Bay Area (casting)",
-          "url": "https://dlhd.pk/casting/stream-753.php"
-        },
-        {
-          "name": "NBCS Bay Area (plus)",
-          "url": "https://dlhd.pk/plus/stream-753.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/basketball.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_nba___chicago_bulls_",
-      "title": "NBA : Chicago Bulls vs Sacramento Kings",
-      "sport": "Basketball",
-      "sport_icon": "sports_basketball",
-      "sport_color": "#FF6D00",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_nba___chicago_bulls_",
-      "start_time": "2026-07-28T02:00:00Z",
-      "end_time": "2026-07-28T05:00:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "NBCS California (casting)",
-          "url": "https://dlhd.pk/casting/stream-755.php"
-        },
-        {
-          "name": "NBCS California (watch)",
-          "url": "https://dlhd.pk/watch/stream-755.php"
-        },
-        {
-          "name": "NBCS California",
-          "url": "https://dlhd.pk/stream/stream-755.php"
-        },
-        {
-          "name": "NBA TV USA (watch)",
-          "url": "https://dlhd.pk/watch/stream-404.php"
-        },
-        {
-          "name": "NBCS California (player)",
-          "url": "https://dlhd.pk/player/stream-755.php"
-        },
-        {
-          "name": "Away Feed (watch)",
-          "url": "https://dlhd.pk/watch/stream-108.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/basketball.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_nhl___boston_bruins_",
-      "title": "NHL : Boston Bruins vs Vegas Golden Knights",
-      "sport": "Hockey",
-      "sport_icon": "sports_hockey",
-      "sport_color": "#1565C0",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_nhl___boston_bruins_",
-      "start_time": "2026-07-28T02:00:00Z",
-      "end_time": "2026-07-28T05:00:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "NESN USA (cast)",
-          "url": "https://dlhd.pk/cast/stream-762.php"
-        },
-        {
-          "name": "NESN USA (player)",
-          "url": "https://dlhd.pk/player/stream-762.php"
-        },
-        {
-          "name": "Home Feed (casting)",
-          "url": "https://dlhd.pk/casting/stream-30.php"
-        },
-        {
-          "name": "Home Feed",
-          "url": "https://dlhd.pk/stream/stream-30.php"
-        },
-        {
-          "name": "Away Feed",
-          "url": "https://dlhd.pk/stream/stream-55.php"
-        },
-        {
-          "name": "Viaplay Sports 1 UK (cast)",
-          "url": "https://dlhd.pk/cast/stream-451.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/ice-hockey.webp"
+      "thumbnail": "https://streamed.pk/api/images/badge/golf.webp"
     },
     {
       "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_ncaa___nc_wilmington",
@@ -1820,7 +139,7 @@
       "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_ncaa___nc_wilmington",
       "start_time": "2026-07-28T02:10:00Z",
       "end_time": "2026-07-28T05:10:00Z",
-      "is_live": true,
+      "is_live": false,
       "streams": [
         {
           "name": "TSN2",
@@ -1861,7 +180,7 @@
       "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_nba___milwaukee_buck",
       "start_time": "2026-07-28T02:30:00Z",
       "end_time": "2026-07-28T05:30:00Z",
-      "is_live": true,
+      "is_live": false,
       "streams": [
         {
           "name": "Away Feed (plus)",
@@ -1902,7 +221,7 @@
       "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_nhl___carolina_hurri",
       "start_time": "2026-07-28T02:30:00Z",
       "end_time": "2026-07-28T05:30:00Z",
-      "is_live": true,
+      "is_live": false,
       "streams": [
         {
           "name": "Home Feed (casting)",
@@ -1943,7 +262,7 @@
       "tvg_id": "spk_admin-tennis-channel",
       "start_time": "2026-07-28T02:33:50Z",
       "end_time": "2026-07-28T05:33:50Z",
-      "is_live": true,
+      "is_live": false,
       "streams": [
         {
           "name": "StreamedPK Admin HD #1 (English)",
@@ -1969,7 +288,7 @@
       "tvg_id": "spk_admin-willow-cricket",
       "start_time": "2026-07-28T02:33:50Z",
       "end_time": "2026-07-28T05:33:50Z",
-      "is_live": true,
+      "is_live": false,
       "streams": [
         {
           "name": "StreamedPK Admin HD #1 (English)",
@@ -2011,7 +330,7 @@
       "tvg_id": "spk_admin-rally-tv",
       "start_time": "2026-07-28T02:33:50Z",
       "end_time": "2026-07-28T05:33:50Z",
-      "is_live": true,
+      "is_live": false,
       "streams": [
         {
           "name": "StreamedPK Admin HD #1 (English)",
@@ -2033,7 +352,7 @@
       "tvg_id": "spk_nflstreams_live",
       "start_time": "2026-07-28T02:33:50Z",
       "end_time": "2026-07-28T05:33:50Z",
-      "is_live": true,
+      "is_live": false,
       "streams": [
         {
           "name": "StreamedPK Delta #1",
@@ -2045,375 +364,6 @@
       "source": "StreamedPK",
       "thumbnail": "https://streamed.pk/api/images/badge/basketball.webp",
       "league": "basketball"
-    },
-    {
-      "event_id": "spk_cincinnati-reds-vs-cleveland-guardians-2388476",
-      "title": "Cincinnati Reds vs Cleveland Guardians",
-      "sport": "Baseball",
-      "sport_icon": "sports_baseball",
-      "sport_color": "#FF6F00",
-      "tvg_id": "spk_cincinnati-reds-vs-cleveland-guardians-2388476",
-      "start_time": "2026-07-27T23:10:00Z",
-      "end_time": "2026-07-28T02:10:00Z",
-      "is_live": false,
-      "streams": [
-        {
-          "name": "StreamedPK Golf HD #1 (English)",
-          "url": "https://embed.st/embed/golf/23996/1"
-        },
-        {
-          "name": "StreamedPK Echo #1",
-          "url": "https://embed.st/embed/echo/cincinnati-reds-vs-cleveland-guardians-baseball-179612/1"
-        },
-        {
-          "name": "StreamedPK Golf HD #1 (English)",
-          "url": "https://embed.st/embed/golf/24010/1"
-        },
-        {
-          "name": "StreamedPK Echo #1",
-          "url": "https://embed.st/embed/echo/cincinnati-reds-vs-cleveland-guardians-baseball-179627/1"
-        }
-      ],
-      "stream_count": 2,
-      "has_stream": true,
-      "source": "StreamedPK",
-      "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj7k4ZeNhDcQEEIh0l9IEycSMKTPii5gNReaJtNaYO2NEQgA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwwSMABN1CtCG4hNICCBggUh4yBLnTBCkz4ouYMmvrzRzprTCuxohBAA.webp",
-      "league": "baseball"
-    },
-    {
-      "event_id": "spk_new-york-mets-vs-atlanta-braves-2388468",
-      "title": "New York Mets vs Atlanta Braves",
-      "sport": "Baseball",
-      "sport_icon": "sports_baseball",
-      "sport_color": "#FF6F00",
-      "tvg_id": "spk_new-york-mets-vs-atlanta-braves-2388468",
-      "start_time": "2026-07-27T23:10:00Z",
-      "end_time": "2026-07-28T02:10:00Z",
-      "is_live": false,
-      "streams": [
-        {
-          "name": "StreamedPK Golf HD #1 (English)",
-          "url": "https://embed.st/embed/golf/23997/1"
-        },
-        {
-          "name": "StreamedPK Echo #1",
-          "url": "https://embed.st/embed/echo/new-york-mets-vs-atlanta-braves-baseball-179604/1"
-        }
-      ],
-      "stream_count": 2,
-      "has_stream": true,
-      "source": "StreamedPK",
-      "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixhw3cnG4htEEIm0kQemPrN8CFJha5gy8IvNEpgTWmDtjREIA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTAkCEHxAATUiG479mkCYMGIIFDoIUmfVWzBl4ReaNVNaYJ2NEQgA.webp",
-      "league": "baseball"
-    },
-    {
-      "event_id": "spk_ppv-event-02-wild-thing-kart-series-stafford-ppv-02",
-      "title": "Wild Thing Kart Series Stafford 🔥",
-      "sport": "Other",
-      "sport_icon": "live_tv",
-      "sport_color": "#E53935",
-      "tvg_id": "spk_ppv-event-02-wild-thing-kart-series-stafford-ppv-02",
-      "start_time": "2026-07-27T23:15:00Z",
-      "end_time": "2026-07-28T02:15:00Z",
-      "is_live": false,
-      "streams": [
-        {
-          "name": "StreamedPK Echo #1",
-          "url": "https://embed.st/embed/echo/ppv-event-02-wild-thing-kart-series-stafford-ppv-02/1"
-        }
-      ],
-      "stream_count": 1,
-      "has_stream": true,
-      "source": "StreamedPK",
-      "thumbnail": "https://streamed.pk/api/images/badge/live.webp",
-      "league": "other"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_2025_ncaa_men_s_bask",
-      "title": "2025 NCAA Men's Basketball Tournament First Round: Yale vs Texas A&amp;M",
-      "sport": "Basketball",
-      "sport_icon": "sports_basketball",
-      "sport_color": "#FF6D00",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_2025_ncaa_men_s_bask",
-      "start_time": "2026-07-27T23:15:00Z",
-      "end_time": "2026-07-28T02:15:00Z",
-      "is_live": false,
-      "streams": [
-        {
-          "name": "TBS USA",
-          "url": "https://dlhd.pk/stream/stream-336.php"
-        },
-        {
-          "name": "TBS USA (cast)",
-          "url": "https://dlhd.pk/cast/stream-336.php"
-        },
-        {
-          "name": "TBS USA (casting)",
-          "url": "https://dlhd.pk/casting/stream-336.php"
-        },
-        {
-          "name": "TBS USA (player)",
-          "url": "https://dlhd.pk/player/stream-336.php"
-        },
-        {
-          "name": "TBS USA (plus)",
-          "url": "https://dlhd.pk/plus/stream-336.php"
-        },
-        {
-          "name": "TBS USA (watch)",
-          "url": "https://dlhd.pk/watch/stream-336.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/basketball.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_college_softball___m",
-      "title": "College Softball : Michigan vs Maryland (College Park)",
-      "sport": "Baseball",
-      "sport_icon": "sports_baseball",
-      "sport_color": "#FF6F00",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_college_softball___m",
-      "start_time": "2026-07-27T23:30:00Z",
-      "end_time": "2026-07-28T02:30:00Z",
-      "is_live": false,
-      "streams": [
-        {
-          "name": "BTN USA (cast)",
-          "url": "https://dlhd.pk/cast/stream-397.php"
-        },
-        {
-          "name": "BTN USA (player)",
-          "url": "https://dlhd.pk/player/stream-397.php"
-        },
-        {
-          "name": "BTN USA (watch)",
-          "url": "https://dlhd.pk/watch/stream-397.php"
-        },
-        {
-          "name": "BTN USA (casting)",
-          "url": "https://dlhd.pk/casting/stream-397.php"
-        },
-        {
-          "name": "BTN USA (plus)",
-          "url": "https://dlhd.pk/plus/stream-397.php"
-        },
-        {
-          "name": "BTN USA",
-          "url": "https://dlhd.pk/stream/stream-397.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/baseball.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_nhl___montr_al_canad",
-      "title": "NHL : Montréal Canadiens vs New York Islanders",
-      "sport": "Hockey",
-      "sport_icon": "sports_hockey",
-      "sport_color": "#1565C0",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_nhl___montr_al_canad",
-      "start_time": "2026-07-27T23:30:00Z",
-      "end_time": "2026-07-28T02:30:00Z",
-      "is_live": false,
-      "streams": [
-        {
-          "name": "TSN2 (cast)",
-          "url": "https://dlhd.pk/cast/stream-112.php"
-        },
-        {
-          "name": "RDS CA (cast)",
-          "url": "https://dlhd.pk/cast/stream-839.php"
-        },
-        {
-          "name": "Home Feed (watch)",
-          "url": "https://dlhd.pk/watch/stream-16.php"
-        },
-        {
-          "name": "Home Feed (casting)",
-          "url": "https://dlhd.pk/casting/stream-16.php"
-        },
-        {
-          "name": "Home Feed (plus)",
-          "url": "https://dlhd.pk/plus/stream-16.php"
-        },
-        {
-          "name": "TSN2",
-          "url": "https://dlhd.pk/stream/stream-112.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/ice-hockey.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_nhl___vancouver_canu",
-      "title": "NHL : Vancouver Canucks vs St. Louis Blues",
-      "sport": "Hockey",
-      "sport_icon": "sports_hockey",
-      "sport_color": "#1565C0",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_nhl___vancouver_canu",
-      "start_time": "2026-07-27T23:30:00Z",
-      "end_time": "2026-07-28T02:30:00Z",
-      "is_live": false,
-      "streams": [
-        {
-          "name": "Home Feed (watch)",
-          "url": "https://dlhd.pk/watch/stream-18.php"
-        },
-        {
-          "name": "Home Feed",
-          "url": "https://dlhd.pk/stream/stream-18.php"
-        },
-        {
-          "name": "Away Feed (player)",
-          "url": "https://dlhd.pk/player/stream-19.php"
-        },
-        {
-          "name": "Home Feed (casting)",
-          "url": "https://dlhd.pk/casting/stream-18.php"
-        },
-        {
-          "name": "Home Feed (cast)",
-          "url": "https://dlhd.pk/cast/stream-18.php"
-        },
-        {
-          "name": "SD-7520559 (cast)",
-          "url": "https://dlhd.pk/cast/stream-7520559.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/ice-hockey.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_club_friendly___guad",
-      "title": "Club Friendly : Guadalajara vs Atlas",
-      "sport": "Football",
-      "sport_icon": "sports_soccer",
-      "sport_color": "#2962FF",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_club_friendly___guad",
-      "start_time": "2026-07-28T03:00:00Z",
-      "end_time": "2026-07-28T06:00:00Z",
-      "is_live": false,
-      "streams": [
-        {
-          "name": "FOX Deportes (cast)",
-          "url": "https://dlhd.pk/cast/stream-643.php"
-        },
-        {
-          "name": "FOX Deportes",
-          "url": "https://dlhd.pk/stream/stream-643.php"
-        },
-        {
-          "name": "FOX Deportes (player)",
-          "url": "https://dlhd.pk/player/stream-643.php"
-        },
-        {
-          "name": "FOX Deportes (casting)",
-          "url": "https://dlhd.pk/casting/stream-643.php"
-        },
-        {
-          "name": "FOX Deportes (watch)",
-          "url": "https://dlhd.pk/watch/stream-643.php"
-        },
-        {
-          "name": "FOX Deportes (plus)",
-          "url": "https://dlhd.pk/plus/stream-643.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/football.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_mexico___liga_de_exp",
-      "title": "Mexico - Liga de Expansión MX : Leones Negros UdeG vs Atlético Morelia",
-      "sport": "Football",
-      "sport_icon": "sports_soccer",
-      "sport_color": "#2962FF",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_mexico___liga_de_exp",
-      "start_time": "2026-07-28T03:00:00Z",
-      "end_time": "2026-07-28T06:00:00Z",
-      "is_live": false,
-      "streams": [
-        {
-          "name": "ESPN4 Mexico (watch)",
-          "url": "https://dlhd.pk/watch/stream-928.php"
-        },
-        {
-          "name": "ESPN4 Mexico",
-          "url": "https://dlhd.pk/stream/stream-928.php"
-        },
-        {
-          "name": "ESPN4 Mexico (plus)",
-          "url": "https://dlhd.pk/plus/stream-928.php"
-        },
-        {
-          "name": "ESPN4 Mexico (casting)",
-          "url": "https://dlhd.pk/casting/stream-928.php"
-        },
-        {
-          "name": "ESPN4 Mexico (player)",
-          "url": "https://dlhd.pk/player/stream-928.php"
-        },
-        {
-          "name": "ESPN4 Mexico (cast)",
-          "url": "https://dlhd.pk/cast/stream-928.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/football.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_dp_world_tour_porsch",
-      "title": "DP World Tour Porsche Singapore Classic",
-      "sport": "Golf",
-      "sport_icon": "golf_course",
-      "sport_color": "#388E3C",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_dp_world_tour_porsch",
-      "start_time": "2026-07-28T04:00:00Z",
-      "end_time": "2026-07-28T07:00:00Z",
-      "is_live": false,
-      "streams": [
-        {
-          "name": "GOLF Channel USA (plus)",
-          "url": "https://dlhd.pk/plus/stream-318.php"
-        },
-        {
-          "name": "Sky Sports Golf UK",
-          "url": "https://dlhd.pk/stream/stream-70.php"
-        },
-        {
-          "name": "Sky Sports Golf UK (player)",
-          "url": "https://dlhd.pk/player/stream-70.php"
-        },
-        {
-          "name": "Movistar Golf (player)",
-          "url": "https://dlhd.pk/player/stream-528.php"
-        },
-        {
-          "name": "Sky Sports Golf UK (cast)",
-          "url": "https://dlhd.pk/cast/stream-70.php"
-        },
-        {
-          "name": "Movistar Golf (watch)",
-          "url": "https://dlhd.pk/watch/stream-528.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/golf.webp"
     },
     {
       "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_world_surf_league__2",
@@ -4692,6 +2642,47 @@
       "thumbnail": "https://streamed.pk/api/images/badge/ice-hockey.webp"
     },
     {
+      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_2025_ncaa_men_s_bask",
+      "title": "2025 NCAA Men's Basketball Tournament First Round: Southern Illinois-Edwardsville vs Houston",
+      "sport": "Basketball",
+      "sport_icon": "sports_basketball",
+      "sport_color": "#FF6D00",
+      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_2025_ncaa_men_s_bask",
+      "start_time": "2026-07-28T18:00:00Z",
+      "end_time": "2026-07-28T21:00:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "TBS USA (cast)",
+          "url": "https://dlhd.pk/cast/stream-336.php"
+        },
+        {
+          "name": "TBS USA (casting)",
+          "url": "https://dlhd.pk/casting/stream-336.php"
+        },
+        {
+          "name": "TBS USA (watch)",
+          "url": "https://dlhd.pk/watch/stream-336.php"
+        },
+        {
+          "name": "TBS USA",
+          "url": "https://dlhd.pk/stream/stream-336.php"
+        },
+        {
+          "name": "TBS USA (player)",
+          "url": "https://dlhd.pk/player/stream-336.php"
+        },
+        {
+          "name": "TBS USA (plus)",
+          "url": "https://dlhd.pk/plus/stream-336.php"
+        }
+      ],
+      "stream_count": 6,
+      "has_stream": true,
+      "source": "DaddyLiveHD",
+      "thumbnail": "https://streamed.pk/api/images/badge/basketball.webp"
+    },
+    {
       "event_id": "spk_celje-vs-egnatia-2536538",
       "title": "Celje vs Egnatia",
       "sport": "Football",
@@ -6508,6 +4499,86 @@
       "thumbnail": "https://streamed.pk/api/images/badge/ice-hockey.webp"
     },
     {
+      "event_id": "spk_new-york-mets-vs-atlanta-braves-2388480",
+      "title": "New York Mets vs Atlanta Braves",
+      "sport": "Baseball",
+      "sport_icon": "sports_baseball",
+      "sport_color": "#FF6F00",
+      "tvg_id": "spk_new-york-mets-vs-atlanta-braves-2388480",
+      "start_time": "2026-07-28T23:10:00Z",
+      "end_time": "2026-07-29T02:10:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "StreamedPK Admin HD #1 (English - SNY)",
+          "url": "https://embed.st/embed/admin/ppv-atlanta-braves-vs-new-york-mets/1"
+        },
+        {
+          "name": "StreamedPK Golf HD #1 (English)",
+          "url": "https://embed.st/embed/golf/24009/1"
+        },
+        {
+          "name": "StreamedPK Admin SD #2 (English - SNY)",
+          "url": "https://embed.st/embed/admin/ppv-atlanta-braves-vs-new-york-mets/2"
+        },
+        {
+          "name": "StreamedPK Echo #1",
+          "url": "https://embed.st/embed/echo/new-york-mets-vs-atlanta-braves-baseball-179631/1"
+        },
+        {
+          "name": "StreamedPK Delta #1",
+          "url": "https://embed.st/embed/delta/live_mlb_mets-braves-live-streaming-591010560/1"
+        },
+        {
+          "name": "StreamedPK Echo #1",
+          "url": "https://embed.st/embed/echo/new-york-mets-vs-atlanta-braves-baseball-179616/1"
+        }
+      ],
+      "stream_count": 6,
+      "has_stream": true,
+      "source": "StreamedPK",
+      "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixhw3cnG4htEEIm0kQemPrN8CFJha5gy8IvNEpgTWmDtjREIA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTAkCEHxAATUiG479mkCYMGIIFDoIUmfVWzBl4ReaNVNaYJ2NEQgA.webp",
+      "league": "baseball"
+    },
+    {
+      "event_id": "spk_cincinnati-reds-vs-cleveland-guardians-2388476",
+      "title": "Cincinnati Reds vs Cleveland Guardians",
+      "sport": "Baseball",
+      "sport_icon": "sports_baseball",
+      "sport_color": "#FF6F00",
+      "tvg_id": "spk_cincinnati-reds-vs-cleveland-guardians-2388476",
+      "start_time": "2026-07-28T23:10:00Z",
+      "end_time": "2026-07-29T02:10:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "StreamedPK Delta #1",
+          "url": "https://embed.st/embed/delta/live_mlb_reds-guardians-live-streaming-597204144/1"
+        },
+        {
+          "name": "StreamedPK Golf HD #1 (English)",
+          "url": "https://embed.st/embed/golf/24010/1"
+        },
+        {
+          "name": "StreamedPK Admin HD #1 (English - Reds.TV)",
+          "url": "https://embed.st/embed/admin/ppv-cleveland-guardians-vs-cincinnati-reds/1"
+        },
+        {
+          "name": "StreamedPK Admin SD #2 (English - Reds.TV)",
+          "url": "https://embed.st/embed/admin/ppv-cleveland-guardians-vs-cincinnati-reds/2"
+        },
+        {
+          "name": "StreamedPK Echo #1",
+          "url": "https://embed.st/embed/echo/cincinnati-reds-vs-cleveland-guardians-baseball-179627/1"
+        }
+      ],
+      "stream_count": 5,
+      "has_stream": true,
+      "source": "StreamedPK",
+      "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj7k4ZeNhDcQEEIh0l9IEycSMKTPii5gNReaJtNaYO2NEQgA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwwSMABN1CtCG4hNICCBggUh4yBLnTBCkz4ouYMmvrzRzprTCuxohBAA.webp",
+      "league": "baseball"
+    },
+    {
       "event_id": "spk_washington-mystics-w-vs-connecticut-sun-w-basketball-494976",
       "title": "Washington Mystics W vs Connecticut Sun W",
       "sport": "Basketball",
@@ -6534,6 +4605,129 @@
       "league": "basketball"
     },
     {
+      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_college_softball___m",
+      "title": "College Softball : Michigan vs Maryland (College Park)",
+      "sport": "Baseball",
+      "sport_icon": "sports_baseball",
+      "sport_color": "#FF6F00",
+      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_college_softball___m",
+      "start_time": "2026-07-28T23:30:00Z",
+      "end_time": "2026-07-29T02:30:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "BTN USA (watch)",
+          "url": "https://dlhd.pk/watch/stream-397.php"
+        },
+        {
+          "name": "BTN USA (player)",
+          "url": "https://dlhd.pk/player/stream-397.php"
+        },
+        {
+          "name": "BTN USA (plus)",
+          "url": "https://dlhd.pk/plus/stream-397.php"
+        },
+        {
+          "name": "BTN USA",
+          "url": "https://dlhd.pk/stream/stream-397.php"
+        },
+        {
+          "name": "BTN USA (casting)",
+          "url": "https://dlhd.pk/casting/stream-397.php"
+        },
+        {
+          "name": "BTN USA (cast)",
+          "url": "https://dlhd.pk/cast/stream-397.php"
+        }
+      ],
+      "stream_count": 6,
+      "has_stream": true,
+      "source": "DaddyLiveHD",
+      "thumbnail": "https://streamed.pk/api/images/badge/baseball.webp"
+    },
+    {
+      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_nhl___montr_al_canad",
+      "title": "NHL : Montréal Canadiens vs New York Islanders",
+      "sport": "Hockey",
+      "sport_icon": "sports_hockey",
+      "sport_color": "#1565C0",
+      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_nhl___montr_al_canad",
+      "start_time": "2026-07-28T23:30:00Z",
+      "end_time": "2026-07-29T02:30:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "TSN2 (player)",
+          "url": "https://dlhd.pk/player/stream-112.php"
+        },
+        {
+          "name": "Away Feed",
+          "url": "https://dlhd.pk/stream/stream-17.php"
+        },
+        {
+          "name": "TSN2 (plus)",
+          "url": "https://dlhd.pk/plus/stream-112.php"
+        },
+        {
+          "name": "Home Feed (watch)",
+          "url": "https://dlhd.pk/watch/stream-16.php"
+        },
+        {
+          "name": "Away Feed (cast)",
+          "url": "https://dlhd.pk/cast/stream-17.php"
+        },
+        {
+          "name": "TSN2 (casting)",
+          "url": "https://dlhd.pk/casting/stream-112.php"
+        }
+      ],
+      "stream_count": 6,
+      "has_stream": true,
+      "source": "DaddyLiveHD",
+      "thumbnail": "https://streamed.pk/api/images/badge/ice-hockey.webp"
+    },
+    {
+      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_nhl___vancouver_canu",
+      "title": "NHL : Vancouver Canucks vs St. Louis Blues",
+      "sport": "Hockey",
+      "sport_icon": "sports_hockey",
+      "sport_color": "#1565C0",
+      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_nhl___vancouver_canu",
+      "start_time": "2026-07-28T23:30:00Z",
+      "end_time": "2026-07-29T02:30:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "Home Feed (player)",
+          "url": "https://dlhd.pk/player/stream-18.php"
+        },
+        {
+          "name": "SD-7520559 (cast)",
+          "url": "https://dlhd.pk/cast/stream-7520559.php"
+        },
+        {
+          "name": "SD-7520559",
+          "url": "https://dlhd.pk/stream/stream-7520559.php"
+        },
+        {
+          "name": "Home Feed (watch)",
+          "url": "https://dlhd.pk/watch/stream-18.php"
+        },
+        {
+          "name": "Away Feed (player)",
+          "url": "https://dlhd.pk/player/stream-19.php"
+        },
+        {
+          "name": "Away Feed (cast)",
+          "url": "https://dlhd.pk/cast/stream-19.php"
+        }
+      ],
+      "stream_count": 6,
+      "has_stream": true,
+      "source": "DaddyLiveHD",
+      "thumbnail": "https://streamed.pk/api/images/badge/ice-hockey.webp"
+    },
+    {
       "event_id": "spk_minnesota-twins-vs-kansas-city-royals-2388487",
       "title": "Minnesota Twins vs Kansas City Royals",
       "sport": "Baseball",
@@ -6556,6 +4750,82 @@
       "league": "baseball"
     },
     {
+      "event_id": "spk_chicago-white-sox-vs-new-york-yankees-2388492",
+      "title": "Chicago White Sox vs New York Yankees",
+      "sport": "Baseball",
+      "sport_icon": "sports_baseball",
+      "sport_color": "#FF6F00",
+      "tvg_id": "spk_chicago-white-sox-vs-new-york-yankees-2388492",
+      "start_time": "2026-07-28T23:40:00Z",
+      "end_time": "2026-07-29T02:40:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "StreamedPK Golf HD #1 (English)",
+          "url": "https://embed.st/embed/golf/24012/1"
+        },
+        {
+          "name": "StreamedPK Admin HD #1 (English - CHSN)",
+          "url": "https://embed.st/embed/admin/ppv-new-york-yankees-vs-chicago-white-sox/1"
+        },
+        {
+          "name": "StreamedPK Admin SD #2 (English - CHSN)",
+          "url": "https://embed.st/embed/admin/ppv-new-york-yankees-vs-chicago-white-sox/2"
+        },
+        {
+          "name": "StreamedPK Delta #1",
+          "url": "https://embed.st/embed/delta/live_mlb_white-sox-yankees-live-streaming-591010992/1"
+        },
+        {
+          "name": "StreamedPK Echo #1",
+          "url": "https://embed.st/embed/echo/chicago-white-sox-vs-new-york-yankees-baseball-179628/1"
+        }
+      ],
+      "stream_count": 5,
+      "has_stream": true,
+      "source": "StreamedPK",
+      "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRhVSEKPogQ3Tfoi6QhmDrMQCFJnxRcwZeEXmjbTWmHtitQA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYVavAgQ3EBFwhEBvjpCmAJiAsEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+      "league": "baseball"
+    },
+    {
+      "event_id": "spk_st--louis-cardinals-vs-chicago-cubs-2388482",
+      "title": "St. Louis Cardinals vs Chicago Cubs",
+      "sport": "Baseball",
+      "sport_icon": "sports_baseball",
+      "sport_color": "#FF6F00",
+      "tvg_id": "spk_st--louis-cardinals-vs-chicago-cubs-2388482",
+      "start_time": "2026-07-28T23:45:00Z",
+      "end_time": "2026-07-29T02:45:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "StreamedPK Admin HD #1 (English - Cardinals.TV)",
+          "url": "https://embed.st/embed/admin/ppv-chicago-cubs-vs-st-louis-cardinals/1"
+        },
+        {
+          "name": "StreamedPK Golf HD #1 (English)",
+          "url": "https://embed.st/embed/golf/24013/1"
+        },
+        {
+          "name": "StreamedPK Admin SD #2 (English - Cardinals.TV)",
+          "url": "https://embed.st/embed/admin/ppv-chicago-cubs-vs-st-louis-cardinals/2"
+        },
+        {
+          "name": "StreamedPK Delta #1",
+          "url": "https://embed.st/embed/delta/live_mlb_cardinals-cubs-live-streaming-591011856/1"
+        },
+        {
+          "name": "StreamedPK Echo #1",
+          "url": "https://embed.st/embed/echo/stlouis-cardinals-vs-chicago-cubs-baseball-179618/1"
+        }
+      ],
+      "stream_count": 5,
+      "has_stream": true,
+      "source": "StreamedPK",
+      "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjIATMCjDrNObiAi59IGMZCIcfMwQpM+KLmDLwi80faa0wjsaIhA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5gQDUiBgg+IbiBK49IEyiOIzEwjGBM+KLmDLwi80Q6a0wTsaIhA.webp",
+      "league": "baseball"
+    },
+    {
       "event_id": "spk_live_wnba_lynx-tempo-live-streaming-524050992",
       "title": "Minnesota Lynx vs Toronto Tempo",
       "sport": "Basketball",
@@ -6573,6 +4843,14 @@
         {
           "name": "StreamedPK Echo #1",
           "url": "https://embed.st/embed/echo/minnesota-lynx-w-vs-toronto-tempo-w-basketball-494977/1"
+        },
+        {
+          "name": "StreamedPK Admin HD #1 (English - Victory+ MIN)",
+          "url": "https://embed.st/embed/admin/ppv-toronto-tempo-vs-minnesota-lynx/1"
+        },
+        {
+          "name": "StreamedPK Admin SD #2 (English - Victory+ MIN)",
+          "url": "https://embed.st/embed/admin/ppv-toronto-tempo-vs-minnesota-lynx/2"
         }
       ],
       "stream_count": 1,
@@ -6731,6 +5009,14 @@
         {
           "name": "StreamedPK Echo #1",
           "url": "https://embed.st/embed/echo/seattle-storm-w-vs-indiana-fever-w-basketball-494978/1"
+        },
+        {
+          "name": "StreamedPK Admin HD #1 (English - ESPN)",
+          "url": "https://embed.st/embed/admin/ppv-indiana-fever-vs-seattle-storm/1"
+        },
+        {
+          "name": "StreamedPK Admin SD #2 (English - ESPN)",
+          "url": "https://embed.st/embed/admin/ppv-indiana-fever-vs-seattle-storm/2"
         }
       ],
       "stream_count": 1,
@@ -6738,6 +5024,44 @@
       "source": "StreamedPK",
       "thumbnail": "https://streamed.pk/api/images/badge/basketball.webp",
       "league": "basketball"
+    },
+    {
+      "event_id": "spk_los-angeles-angels-vs-houston-astros-2388489",
+      "title": "Los Angeles Angels vs Houston Astros",
+      "sport": "Baseball",
+      "sport_icon": "sports_baseball",
+      "sport_color": "#FF6F00",
+      "tvg_id": "spk_los-angeles-angels-vs-houston-astros-2388489",
+      "start_time": "2026-07-29T01:38:00Z",
+      "end_time": "2026-07-29T04:38:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "StreamedPK Admin HD #1 (English - Space City Home Network)",
+          "url": "https://embed.st/embed/admin/ppv-houston-astros-vs-los-angeles-angels/1"
+        },
+        {
+          "name": "StreamedPK Golf HD #1 (English)",
+          "url": "https://embed.st/embed/golf/24014/1"
+        },
+        {
+          "name": "StreamedPK Admin SD #2 (English - Space City Home Network)",
+          "url": "https://embed.st/embed/admin/ppv-houston-astros-vs-los-angeles-angels/2"
+        },
+        {
+          "name": "StreamedPK Delta #1",
+          "url": "https://embed.st/embed/delta/live_mlb_angels-astros-live-streaming-591012288/1"
+        },
+        {
+          "name": "StreamedPK Echo #1",
+          "url": "https://embed.st/embed/echo/los-angeles-angels-vs-houston-astros-baseball-179625/1"
+        }
+      ],
+      "stream_count": 5,
+      "has_stream": true,
+      "source": "StreamedPK",
+      "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAm5PuTUgQ3EBBCIcJEHxN6zKghSZ8UXMGXhF5ou01pgHY0RCA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksPZgBKfmBAhuIErh3aQKEIn3b4BCkz4a2YMvCLzRGprTAOxoiEA.webp",
+      "league": "baseball"
     },
     {
       "event_id": "spk_24016",
@@ -6757,12 +5081,100 @@
         {
           "name": "StreamedPK Echo #1",
           "url": "https://embed.st/embed/echo/san-diego-padres-vs-colorado-rockies-baseball-179620/1"
+        },
+        {
+          "name": "StreamedPK Admin HD #1 (English - Padres.TV)",
+          "url": "https://embed.st/embed/admin/ppv-colorado-rockies-vs-san-diego-padres/1"
+        },
+        {
+          "name": "StreamedPK Admin SD #2 (English - Padres.TV)",
+          "url": "https://embed.st/embed/admin/ppv-colorado-rockies-vs-san-diego-padres/2"
+        },
+        {
+          "name": "StreamedPK Delta #1",
+          "url": "https://embed.st/embed/delta/live_mlb_padres-rockies-live-streaming-591013152/1"
         }
       ],
       "stream_count": 1,
       "has_stream": true,
       "source": "StreamedPK",
       "thumbnail": "https://streamed.pk/api/images/badge/baseball.webp",
+      "league": "baseball"
+    },
+    {
+      "event_id": "spk_athletics-vs-boston-red-sox-2388493",
+      "title": "Athletics vs Boston Red Sox",
+      "sport": "Baseball",
+      "sport_icon": "sports_baseball",
+      "sport_color": "#FF6F00",
+      "tvg_id": "spk_athletics-vs-boston-red-sox-2388493",
+      "start_time": "2026-07-29T01:40:00Z",
+      "end_time": "2026-07-29T04:40:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "StreamedPK Golf HD #1 (English)",
+          "url": "https://embed.st/embed/golf/24015/1"
+        },
+        {
+          "name": "StreamedPK Delta #1",
+          "url": "https://embed.st/embed/delta/live_mlb_athletics-red-sox-live-streaming-591012720/1"
+        },
+        {
+          "name": "StreamedPK Admin HD #1 (English - NBC Sports CA)",
+          "url": "https://embed.st/embed/admin/ppv-boston-red-sox-vs-athletics/1"
+        },
+        {
+          "name": "StreamedPK Admin SD #2 (English - NBC Sports CA)",
+          "url": "https://embed.st/embed/admin/ppv-boston-red-sox-vs-athletics/2"
+        },
+        {
+          "name": "StreamedPK Echo #1",
+          "url": "https://embed.st/embed/echo/athletics-vs-boston-red-sox-baseball-179629/1"
+        }
+      ],
+      "stream_count": 5,
+      "has_stream": true,
+      "source": "StreamedPK",
+      "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3hgUYACbUNIRNxB8QEEPp3GYBy3wIUm1rmDKr680SmBNaYR2NEQgA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnjQ4qsom4gIuECRDacMPduWEYwJnxRcwmovNG2mtMPbGiIQA.webp",
+      "league": "baseball"
+    },
+    {
+      "event_id": "spk_san-francisco-giants-vs-milwaukee-brewers-2388483",
+      "title": "San Francisco Giants vs Milwaukee Brewers",
+      "sport": "Baseball",
+      "sport_icon": "sports_baseball",
+      "sport_color": "#FF6F00",
+      "tvg_id": "spk_san-francisco-giants-vs-milwaukee-brewers-2388483",
+      "start_time": "2026-07-29T01:45:00Z",
+      "end_time": "2026-07-29T04:45:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "StreamedPK Admin HD #1 (English - NBC Sports BA)",
+          "url": "https://embed.st/embed/admin/ppv-milwaukee-brewers-vs-san-francisco-giants/1"
+        },
+        {
+          "name": "StreamedPK Golf HD #1 (English)",
+          "url": "https://embed.st/embed/golf/24017/1"
+        },
+        {
+          "name": "StreamedPK Admin SD #2 (English - NBC Sports BA)",
+          "url": "https://embed.st/embed/admin/ppv-milwaukee-brewers-vs-san-francisco-giants/2"
+        },
+        {
+          "name": "StreamedPK Delta #1",
+          "url": "https://embed.st/embed/delta/live_mlb_giants-brewers-live-streaming-591013584/1"
+        },
+        {
+          "name": "StreamedPK Echo #1",
+          "url": "https://embed.st/embed/echo/san-francisco-giants-vs-milwaukee-brewers-baseball-179619/1"
+        }
+      ],
+      "stream_count": 5,
+      "has_stream": true,
+      "source": "StreamedPK",
+      "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyoATEPDC8UICCG4g+hkCYOIcOEroIUmfFFzBlN9eaIdNaYJ2NEQgA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQIYAAZQuHiG4gSIFIZB8zpgyfgEKTPii5gy8IvNGOmtMM7GiIQA.webp",
       "league": "baseball"
     },
     {
@@ -6783,6 +5195,14 @@
         {
           "name": "StreamedPK Echo #1",
           "url": "https://embed.st/embed/echo/los-angeles-sparks-w-vs-new-york-liberty-w-basketball-494980/1"
+        },
+        {
+          "name": "StreamedPK Admin HD #1 (English - Spectrum Sports Net)",
+          "url": "https://embed.st/embed/admin/ppv-new-york-liberty-vs-los-angeles-sparks/1"
+        },
+        {
+          "name": "StreamedPK Admin SD #2 (English - Spectrum Sports Net)",
+          "url": "https://embed.st/embed/admin/ppv-new-york-liberty-vs-los-angeles-sparks/2"
         }
       ],
       "stream_count": 1,
@@ -6809,6 +5229,14 @@
         {
           "name": "StreamedPK Echo #1",
           "url": "https://embed.st/embed/echo/las-vegas-aces-w-vs-portland-fire-w-basketball-494979/1"
+        },
+        {
+          "name": "StreamedPK Admin HD #1 (English - Vegas 34)",
+          "url": "https://embed.st/embed/admin/ppv-portland-fire-vs-las-vegas-aces/1"
+        },
+        {
+          "name": "StreamedPK Admin SD #2 (English - Vegas 34)",
+          "url": "https://embed.st/embed/admin/ppv-portland-fire-vs-las-vegas-aces/2"
         }
       ],
       "stream_count": 1,
@@ -6879,6 +5307,18 @@
         {
           "name": "StreamedPK Echo #1",
           "url": "https://embed.st/embed/echo/los-angeles-dodgers-vs-seattle-mariners-baseball-179624/1"
+        },
+        {
+          "name": "StreamedPK Admin HD #1 (English - Sportsnet LA)",
+          "url": "https://embed.st/embed/admin/ppv-seattle-mariners-vs-los-angeles-dodgers/1"
+        },
+        {
+          "name": "StreamedPK Admin SD #2 (English - Sportsnet LA)",
+          "url": "https://embed.st/embed/admin/ppv-seattle-mariners-vs-los-angeles-dodgers/2"
+        },
+        {
+          "name": "StreamedPK Delta #1",
+          "url": "https://embed.st/embed/delta/live_mlb_dodgers-mariners-live-streaming-591014016/1"
         }
       ],
       "stream_count": 1,
@@ -6905,6 +5345,10 @@
         {
           "name": "StreamedPK Admin SD #2 (English - SPURSPLAY)",
           "url": "https://embed.st/embed/admin/ppv-tottenham-hotspur-vs-sydney-fc/2"
+        },
+        {
+          "name": "StreamedPK Echo #1",
+          "url": "https://embed.st/embed/echo/tottenham-hotspur-vs-sydney-fc-game-3151515/1"
         }
       ],
       "stream_count": 2,
@@ -7157,6 +5601,72 @@
       "has_stream": true,
       "source": "StreamedPK",
       "thumbnail": "https://streamed.pk/api/images/proxy//api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiYSBggsIeMAggUIAMYgFqucNIgJSuTQkRtmtYuA0Dk7RJDyU5IwKEim2emELAkuZfaFhuTiMtMnsCYDkwAPlSeSA.webp.webp",
+      "league": "football"
+    },
+    {
+      "event_id": "spk_lech-pozna--vs-agf-aarhus-2492401",
+      "title": "Lech Poznań vs AGF Aarhus",
+      "sport": "Football",
+      "sport_icon": "sports_soccer",
+      "sport_color": "#2962FF",
+      "tvg_id": "spk_lech-pozna--vs-agf-aarhus-2492401",
+      "start_time": "2026-07-29T17:00:00Z",
+      "end_time": "2026-07-29T20:00:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "StreamedPK Echo #1",
+          "url": "https://embed.st/embed/echo/lech-poznan-vs-aarhus-football-1556508/1"
+        }
+      ],
+      "stream_count": 1,
+      "has_stream": true,
+      "source": "StreamedPK",
+      "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDgkwACZhwKbSG4gNqkCRMgUIPiAjWQMAhSZ8UXMGXhF5ol01pg3YqIQQA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmYcGTJRE3EBBB8QiEkZAn9IAwQpM+KLmDLwi80faa0wjsaIhA.webp",
+      "league": "football"
+    },
+    {
+      "event_id": "spk_hapoel-beer-sheva-vs-vikingur-reykjavik-football-1589422",
+      "title": "Hapoel Beer Sheva vs Vikingur Reykjavik",
+      "sport": "Football",
+      "sport_icon": "sports_soccer",
+      "sport_color": "#2962FF",
+      "tvg_id": "spk_hapoel-beer-sheva-vs-vikingur-reykjavik-football-1589422",
+      "start_time": "2026-07-29T17:30:00Z",
+      "end_time": "2026-07-29T20:30:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "StreamedPK Echo #1",
+          "url": "https://embed.st/embed/echo/hapoel-beer-sheva-vs-vikingur-reykjavik-football-1589422/1"
+        }
+      ],
+      "stream_count": 1,
+      "has_stream": true,
+      "source": "StreamedPK",
+      "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsIfiHj1yDAMbNxPeCKrcCXVmDC58FoA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIAMYgQ9cg2XNxPeCKrcCXVmDC58FoA.webp",
+      "league": "football"
+    },
+    {
+      "event_id": "spk_universitatea-craiova-vs-levski-sofia-2536535",
+      "title": "Universitatea Craiova vs Levski Sofia",
+      "sport": "Football",
+      "sport_icon": "sports_soccer",
+      "sport_color": "#2962FF",
+      "tvg_id": "spk_universitatea-craiova-vs-levski-sofia-2536535",
+      "start_time": "2026-07-29T17:30:00Z",
+      "end_time": "2026-07-29T20:30:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "StreamedPK Echo #1",
+          "url": "https://embed.st/embed/echo/universitatea-craiova-vs-levski-sofia-football-1591940/1"
+        }
+      ],
+      "stream_count": 1,
+      "has_stream": true,
+      "source": "StreamedPK",
+      "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC8kdMElxgUqkCRB8Quo7sRHuIGAQpM+KLmDLwi80Q6a0wTsaIhA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhApgABmz8wIEHxDc9ugyYiqTulAQpM+atmDLwi80Wqa0wjsaIhA.webp",
       "league": "football"
     }
   ]
