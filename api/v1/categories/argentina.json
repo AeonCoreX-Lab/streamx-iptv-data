@@ -159,8 +159,8 @@
       "name": "Canal 7 Salta",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/Canal7Salta.ar.png",
       "streamUrls": [
-        "https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8",
-        "https://vivo.solumedia.com:19360/canal7salta/canal7salta.m3u8"
+        "https://vivo.solumedia.com:19360/canal7salta/canal7salta.m3u8",
+        "https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8"
       ],
       "category": "Argentina",
       "languages": []
@@ -738,8 +738,8 @@
       "name": "El Gourmet",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/ElGourmet.ar.png",
       "streamUrls": [
-        "http://177.245.131.133:8080/GOURMET/index.m3u8",
         "http://15.204.246.24:8080/ElGourmetHD/index.m3u8",
+        "http://177.245.131.133:8080/GOURMET/index.m3u8",
         "http://177.234.249.178:8888/EL-GOURMET/index.m3u8"
       ],
       "category": "Argentina",
@@ -778,7 +778,7 @@
     {
       "id": "TVCanal72.ar",
       "name": "TV Canal 72",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Canal_7_Argentina.JPG/330px-Canal_7_Argentina.JPG",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Canal3Guatemala%282022Logo%29.webp/330px-Canal3Guatemala%282022Logo%29.webp.png",
       "streamUrls": [
         "https://stmv1.voxtvhd.com.br/canal72tv2/canal72tv2/playlist.m3u8"
       ],
@@ -1025,7 +1025,7 @@
     {
       "id": "TeleFederal.ar",
       "name": "Tele Federal",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Logo_Azteca_Uno_2023.webp/330px-Logo_Azteca_Uno_2023.webp.png",
       "streamUrls": [
         "https://lbgo.bozztv.com/giatv/giatv-federaltv/federaltv/playlist.m3u8",
         "https://183.bozztv.com/giatv/giatv-federaltv/federaltv/playlist.m3u8"
@@ -1049,7 +1049,8 @@
       "name": "NG Federal",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/NGFederal.ar.png",
       "streamUrls": [
-        "https://617c5175c970b.streamlock.net:4444/tvlink/live/playlist.m3u8"
+        "https://617c5175c970b.streamlock.net:4444/tvlink/live/playlist.m3u8",
+        "http://www.coninfo.net:1935/tvlink/live/playlist.m3u8"
       ],
       "country": "AR",
       "category": "Argentina",
@@ -1060,13 +1061,36 @@
       "name": "5tv",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/5tv.ar.png",
       "streamUrls": [
-        "https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8"
+        "https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8",
+        "http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8"
+      ],
+      "country": "AR",
+      "category": "Argentina",
+      "languages": []
+    },
+    {
+      "id": "Telenord.ar",
+      "name": "Telenord",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/Telenord.ar.png",
+      "streamUrls": [
+        "https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8"
+      ],
+      "country": "AR",
+      "category": "Argentina",
+      "languages": []
+    },
+    {
+      "id": "TelePosadas.ar",
+      "name": "Tele Posadas",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/TelePosadas.ar.png",
+      "streamUrls": [
+        "https://lbgo.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8"
       ],
       "country": "AR",
       "category": "Argentina",
       "languages": []
     }
   ],
-  "count": 104,
-  "generated_at": "2026-07-28T02:28:10.360859"
+  "count": 106,
+  "generated_at": "2026-07-28T06:26:18.240286"
 }
