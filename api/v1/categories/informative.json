@@ -166,9 +166,9 @@
       "name": "CGTN Documentary",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cn/CGTNDocumentary.cn.png",
       "streamUrls": [
+        "https://h5cul1yar48um3t.wcetv.com/hls/cgtnd.m3u8",
         "https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8",
-        "https://dash3.antik.sk/live/test_cgtn_doc/playlist.m3u8",
-        "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8"
+        "https://global.cgtn.cicc.media.caton.cloud/master/cgtn-documentary.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -1459,8 +1459,7 @@
       "name": "CCTV-10",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cn/CCTV10.cn.png",
       "streamUrls": [
-        "http://74.91.26.218:82/live/cctv10hd.m3u8",
-        "https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8"
+        "http://74.91.26.218:82/live/cctv10hd.m3u8"
       ],
       "category": "Informative",
       "languages": [],
@@ -2409,28 +2408,6 @@
       "languages": []
     },
     {
-      "id": "NationalGeographic.ro",
-      "name": "National Geographic",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ro/NationalGeographic.ro.png",
-      "streamUrls": [
-        "https://aes.m3u8simplu.workers.dev/natgeo/index.m3u8"
-      ],
-      "country": "RO",
-      "category": "Informative",
-      "languages": []
-    },
-    {
-      "id": "NationalGeographicWild.ro",
-      "name": "National Geographic Wild",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ro/NationalGeographicWild.ro.png",
-      "streamUrls": [
-        "https://aes.m3u8simplu.workers.dev/natgeowild/index.m3u8"
-      ],
-      "country": "RO",
-      "category": "Informative",
-      "languages": []
-    },
-    {
       "id": "ChemodanTV.ua",
       "name": "Chemodan TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/ChemodanTV.ua.png",
@@ -2550,8 +2527,18 @@
       ],
       "category": "Informative",
       "languages": []
+    },
+    {
+      "id": "CanalFDR.br",
+      "name": "Canal FDR",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/CanalFDR.br.png",
+      "streamUrls": [
+        "https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8"
+      ],
+      "category": "Informative",
+      "languages": []
     }
   ],
-  "count": 245,
-  "generated_at": "2026-07-28T10:33:49.210382"
+  "count": 244,
+  "generated_at": "2026-07-28T14:04:30.153990"
 }
