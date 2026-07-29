@@ -263,6 +263,7 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/ABPNews.in.png",
       "streamUrls": [
         "https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-472500/abpnews/master.m3u8",
+        "http://103.175.73.12:8080/live/595/master.m3u8",
         "https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8"
       ],
       "category": "News",
@@ -326,8 +327,8 @@
       "name": "Aaj Tak",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/AajTak.in.png",
       "streamUrls": [
-        "https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-791258/master.m3u8",
         "https://livehub-voidnet.onrender.com/cluster/streamcore/in/AAJTAK_REDIS.m3u8",
+        "https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-791258/master.m3u8",
         "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8"
       ],
       "category": "News",
@@ -772,8 +773,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/AsianetNews.in.png",
       "streamUrls": [
         "https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8",
-        "https://asianetnews.vgcdn.net/vglive-sk-917600/playlist.m3u8",
-        "https://asianet-samsung.vgcdn.net/ptnr-monitoring/vglive-sk-906908/playlist.m3u8"
+        "https://asianet-samsung.vgcdn.net/ptnr-monitoring/vglive-sk-906908/playlist.m3u8",
+        "https://asianetnews.vgcdn.net/vglive-sk-917600/playlist.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -781,7 +782,7 @@
     {
       "id": "AsianetSuvarnaNews.in",
       "name": "Asianet Suvarna News",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=kannada.asianetnews.com",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Asianet_News_New_logo.jpg/330px-Asianet_News_New_logo.jpg",
       "streamUrls": [
         "https://asianetnews.vgcdn.net/vglive-sk-335835/playlist.m3u8"
       ],
@@ -971,6 +972,7 @@
       "name": "Bharat Express",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/BharatExpress.in.png",
       "streamUrls": [
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bharat-express/index.m3u8?ads.vf=rc4w_mtwL4W",
         "https://cdn-2.pishow.tv/live/1139/master.m3u8",
         "https://stream1.livebox.co.in/VCAREhls/live.m3u8"
       ],
@@ -993,6 +995,7 @@
       "name": "Bharat24",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/Bharat24.in.png",
       "streamUrls": [
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bharat-24/index.m3u8?ads.vf=FQLn2P7KyXm",
         "https://cdn.ottlive.co.in/bharat24/index.fmp4.m3u8"
       ],
       "category": "News",
@@ -2887,8 +2890,7 @@
       "name": "Mongolian News Channel",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/MongolianNewsChannel.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/MNCTV/DASH-FTA/MNCTV.mpd",
-        "https://cdn4.skygo.mn/live/disk1/MNCTV/HLSv3-FTA/MNCTV.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/MNCTV/DASH-FTA/MNCTV.mpd"
       ],
       "category": "News",
       "languages": []
@@ -6544,8 +6546,18 @@
       ],
       "category": "News",
       "languages": []
+    },
+    {
+      "id": "LencaTV.hn",
+      "name": "Lenca TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/hn/LencaTV.hn.png",
+      "streamUrls": [
+        "https://lencatelevision.com/hls/stream.m3u8"
+      ],
+      "category": "News",
+      "languages": []
     }
   ],
-  "count": 632,
-  "generated_at": "2026-07-28T21:12:48.044369"
+  "count": 633,
+  "generated_at": "2026-07-29T02:32:26.831107"
 }

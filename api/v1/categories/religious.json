@@ -198,6 +198,7 @@
       "name": "Aastha",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/Aastha.in.png",
       "streamUrls": [
+        "http://103.175.73.12:8080/live/338/master.m3u8",
         "https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8",
         "https://cdn-1.pishow.tv/live/1454/master.m3u8"
       ],
@@ -210,6 +211,7 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/AasthaBhajan.in.png",
       "streamUrls": [
         "https://aasthaott.akamaized.net/110923/smil:bhajan.smil/playlist.m3u8",
+        "http://103.175.73.12:8080/live/339/master.m3u8",
         "https://mumt05.tangotv.in/87NeALx2AASTHABHAJAN/index.m3u8"
       ],
       "category": "Religious",
@@ -598,11 +600,11 @@
     {
       "id": "AngelTV.in",
       "name": "Angel TV",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/NBC_Puerto_Rico_2015.webp/330px-NBC_Puerto_Rico_2015.webp.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/WCIU_the_U_logo_2024.png/330px-WCIU_the_U_logo_2024.png",
       "streamUrls": [
-        "https://janya-digimix.akamaized.net/vglive-sk-213167/arabia/ngrp:angelarabia_all/playlist.m3u8",
-        "https://janya-digimix.akamaized.net/vglive-sk-904559/africa/ngrp:angelafrica_all/playlist.m3u8",
-        "https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8"
+        "https://janya-digimix.akamaized.net/vglive-sk-438760/fareast/ngrp:angelfareast_all/playlist.m3u8",
+        "https://janya-digimix.akamaized.net/vglive-sk-150533/hebrew/ngrp:angelhebrew_all/playlist.m3u8",
+        "https://janya-digimix.akamaized.net/vglive-sk-904559/africa/ngrp:angelafrica_all/playlist.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -2345,16 +2347,6 @@
       "streamUrls": [
         "http://lifetv.bitflip.ee/live/stream1_1/index.m3u8",
         "https://lifetv.bitflip.ee/live/stream1.m3u8"
-      ],
-      "category": "Religious",
-      "languages": []
-    },
-    {
-      "id": "LifeTV.in",
-      "name": "Life TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/LifeTV.in.png",
-      "streamUrls": [
-        "https://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -4621,16 +4613,6 @@
       "languages": []
     },
     {
-      "id": "RadioMariaTV.ar",
-      "name": "Radio Maria TV",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=radiomaria.org.ar",
-      "streamUrls": [
-        "https://radiomaria.inovanex.stream/stream.m3u8"
-      ],
-      "category": "Religious",
-      "languages": []
-    },
-    {
       "id": "WATCDT573.us",
       "name": "WATC-DT 57.3",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/WATCDT573.us.png",
@@ -5103,8 +5085,28 @@
       ],
       "category": "Religious",
       "languages": []
+    },
+    {
+      "id": "ExploitsTV.ci",
+      "name": "Exploits TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ci/ExploitsTV.ci.png",
+      "streamUrls": [
+        "https://stream.berosat.live/hls/exploits-tv/exploits-tv.m3u8"
+      ],
+      "category": "Religious",
+      "languages": []
+    },
+    {
+      "id": "NaajiyaTV.id",
+      "name": "Naajiya TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/NaajiyaTV.id.png",
+      "streamUrls": [
+        "https://www.naajiyatv.com/live/livestream.m3u8"
+      ],
+      "category": "Religious",
+      "languages": []
     }
   ],
   "count": 504,
-  "generated_at": "2026-07-28T21:12:48.057841"
+  "generated_at": "2026-07-29T02:32:26.845819"
 }
