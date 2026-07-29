@@ -102,9 +102,9 @@
       "name": "ABP News",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/ABPNews.in.png",
       "streamUrls": [
+        "https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-472500/abpnews/master.m3u8",
         "https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8",
-        "http://103.175.73.12:8080/live/595/master.m3u8",
-        "https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-472500/abpnews/master.m3u8"
+        "http://103.175.73.12:8080/live/595/master.m3u8"
       ],
       "category": "India"
     },
@@ -124,7 +124,7 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/AajTak.in.png",
       "streamUrls": [
         "https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-791258/master.m3u8",
-        "https://livehub-voidnet.onrender.com/cluster/streamcore/in/AAJTAK_REDIS.m3u8",
+        "https://feeds.intoday.in/aajtak/api/master.m3u8",
         "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8"
       ],
       "category": "India"
@@ -134,8 +134,8 @@
       "name": "Aastha",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/Aastha.in.png",
       "streamUrls": [
-        "http://103.175.73.12:8080/live/338/master.m3u8",
         "https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8",
+        "http://103.175.73.12:8080/live/338/master.m3u8",
         "https://cdn-1.pishow.tv/live/1454/master.m3u8"
       ],
       "category": "India"
@@ -195,9 +195,9 @@
       "name": "Angel TV",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/NBC_Puerto_Rico_2015.webp/330px-NBC_Puerto_Rico_2015.webp.png",
       "streamUrls": [
-        "https://janya-digimix.akamaized.net/vglive-sk-512011/europe/ngrp:angeleurope_all/playlist.m3u8",
-        "https://janya-digimix.akamaized.net/vglive-sk-150533/hebrew/ngrp:angelhebrew_all/playlist.m3u8",
-        "https://janya-digimix.akamaized.net/vglive-sk-904559/africa/ngrp:angelafrica_all/playlist.m3u8"
+        "https://janya-digimix.akamaized.net/vglive-sk-213167/arabia/ngrp:angelarabia_all/playlist.m3u8",
+        "https://janya-digimix.akamaized.net/vglive-sk-310787/australia/ngrp:angelaustralia_all/playlist.m3u8",
+        "https://janya-digimix.akamaized.net/vglive-sk-374850/america/ngrp:angelamerica_all/playlist.m3u8"
       ],
       "category": "India"
     },
@@ -483,8 +483,8 @@
       "name": "DD Arun Prabha",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/DDArunPrabha.in.png",
       "streamUrls": [
-        "https://cdn-4.pishow.tv/live/32/master.m3u8",
-        "https://d2lk5u59tns74c.cloudfront.net/out/v1/308556d9fd1246adb479ef012a39bbfe/index.m3u8"
+        "https://d2lk5u59tns74c.cloudfront.net/out/v1/308556d9fd1246adb479ef012a39bbfe/index.m3u8",
+        "https://cdn-4.pishow.tv/live/32/master.m3u8"
       ],
       "category": "India"
     },
@@ -834,8 +834,8 @@
       "name": "Dangal TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/DangalTV.in.png",
       "streamUrls": [
-        "http://103.175.73.12:8080/live/17/17_0.m3u8",
-        "https://live-dangal.akamaized.net/liveabr/playlist.m3u8"
+        "https://live-dangal.akamaized.net/liveabr/playlist.m3u8",
+        "http://103.175.73.12:8080/live/17/17_0.m3u8"
       ],
       "category": "India"
     },
@@ -934,8 +934,8 @@
       "name": "Enterr 10 Bangla",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/Enterr10Bangla.in.png",
       "streamUrls": [
-        "https://live-bangla.akamaized.net/liveabr/playlist.m3u8",
         "http://103.175.73.12:8080/live/658/master.m3u8",
+        "https://live-bangla.akamaized.net/liveabr/playlist.m3u8",
         "https://cdn-4.pishow.tv/live/241/master.m3u8"
       ],
       "category": "India"
@@ -954,6 +954,7 @@
       "name": "Fakt Marathi",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/FaktMarathi.in.png",
       "streamUrls": [
+        "http://103.175.73.12:8080/live/188/master.m3u8",
         "https://cdn-6.pishow.tv/live/10002/master.m3u8"
       ],
       "category": "India"
@@ -1184,7 +1185,8 @@
       "name": "Isai Aruvi",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/IsaiAruvi.in.png",
       "streamUrls": [
-        "https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8"
+        "https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8",
+        "http://ptuf.ridsys.in/riptv/live/KALAIGNAR_ISAI_ARUVI/index.m3u8"
       ],
       "category": "India"
     },
@@ -1193,8 +1195,8 @@
       "name": "Ishwar Bhakti TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/IshwarBhaktiTV.in.png",
       "streamUrls": [
-        "https://6n3yow8pl9ok-hls-live.5centscdn.com/ishwartvlive/tv.stream/playlist.m3u8",
-        "https://cdn-2.pishow.tv/live/1464/master.m3u8"
+        "https://cdn-2.pishow.tv/live/1464/master.m3u8",
+        "https://6n3yow8pl9ok-hls-live.5centscdn.com/ishwartvlive/tv.stream/playlist.m3u8"
       ],
       "category": "India"
     },
@@ -1504,8 +1506,8 @@
       "name": "NDTV Good Times",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/NDTVGoodTimes.in.png",
       "streamUrls": [
-        "https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8",
-        "https://d2gvyg6lvauoko.cloudfront.net/230226/ndtvgoodtimes/chunks.m3u8"
+        "https://d2gvyg6lvauoko.cloudfront.net/230226/ndtvgoodtimes/chunks.m3u8",
+        "https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8"
       ],
       "category": "India"
     },
