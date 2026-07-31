@@ -458,8 +458,8 @@
       "name": "Alkarma TV Australia",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/AlkarmaTVAustralia.us.png",
       "streamUrls": [
-        "https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8",
-        "https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8"
+        "https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8",
+        "https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -1249,9 +1249,9 @@
       "name": "EWTN",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/EWTN.us.png",
       "streamUrls": [
-        "https://cdn3.wowza.com/1/QjRzVXJtVml5SUVx/WGJRSWxz/hls/live/playlist.m3u8",
-        "https://cdn3.wowza.com/1/TUI5dU5ucnUxdGFD/ZFlVeGRl/hls/live/playlist.m3u8",
-        "https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8"
+        "http://138.186.23.7:8082/EWTN/index.m3u8",
+        "http://177.234.249.135:8888/EWTN/index.m3u8",
+        "https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -2079,16 +2079,6 @@
       "languages": []
     },
     {
-      "id": "KKTV.ao",
-      "name": "KK TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ao/KKTV.ao.png",
-      "streamUrls": [
-        "https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8"
-      ],
-      "category": "Religious",
-      "languages": []
-    },
-    {
       "id": "KPCBDT171.us",
       "name": "KPCB-DT 17.1",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/KPCBDT171.us.png",
@@ -2354,8 +2344,8 @@
       "name": "Logos TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/LogosTV.us.png",
       "streamUrls": [
-        "https://597f64b67707a.streamlock.net/logoschannel.com/logostv.smil/playlist.m3u8",
-        "https://5a8308add0b31.streamlock.net/logoschannel.com/logostv.smil/playlist.m3u8"
+        "https://5a8308add0b31.streamlock.net/logoschannel.com/logostv.smil/playlist.m3u8",
+        "https://597f64b67707a.streamlock.net/logoschannel.com/logostv.smil/playlist.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -2729,7 +2719,9 @@
       "name": "NRBTV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/NRBTV.us.png",
       "streamUrls": [
-        "https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8"
+        "http://145.239.5.177/215/index.m3u8",
+        "https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8",
+        "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=15811"
       ],
       "category": "Religious",
       "languages": []
@@ -4950,6 +4942,16 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/at/KTV.at.png",
       "streamUrls": [
         "https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8"
+      ],
+      "category": "Religious",
+      "languages": []
+    },
+    {
+      "id": "CCPVTelevision.cd",
+      "name": "CCPV Television",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cd/CCPVTelevision.cd.png",
+      "streamUrls": [
+        "https://tnt-television.com/CCPV-TV/index.m3u8"
       ],
       "category": "Religious",
       "languages": []

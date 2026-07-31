@@ -1695,8 +1695,9 @@
       "name": "Buzzr",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/Buzzr.us.png",
       "streamUrls": [
+        "http://206.212.244.63/27/index.m3u8",
         "https://aegis-cloudfront-1.tubi.video/d4038326-a3e3-4aba-b1f1-f0526c912c74/playlist.m3u8",
-        "https://buzzrota-ono.amagi.tv/playlist.m3u8"
+        "http://23.237.104.106:8080/USA_BUZZR/index.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -2563,7 +2564,7 @@
       "name": "Channel 5 International",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Channel5International.ru.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/Channel_5/HLSv3-FTA/Channel_5.m3u8"
+        "http://178.134.1.158:8081/5channel/index.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -11594,16 +11595,6 @@
       "languages": []
     },
     {
-      "id": "TelePoderTV.do",
-      "name": "Tele Poder TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/TelePoderTV.do.png",
-      "streamUrls": [
-        "https://cdn.telepoder.online:3229/dash/stream.m3u8"
-      ],
-      "category": "Other",
-      "languages": []
-    },
-    {
       "id": "TeleProyectoTV.do",
       "name": "Tele Proyecto TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/TeleProyectoTV.do.png",
@@ -11981,6 +11972,7 @@
       "name": "TenGer TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/TenGerTV.mn.png",
       "streamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/VTV/HLSv3-FTA/VTV.m3u8",
         "https://cdn4.skygo.mn/live/disk1/VTV/DASH-FTA/VTV.mpd"
       ],
       "category": "Entertainment",
@@ -12462,8 +12454,8 @@
       "name": "Vostok 24",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Vostok24.ru.png",
       "streamUrls": [
-        "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/vostok24-hd/index.m3u8",
-        "http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8"
+        "http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8",
+        "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/vostok24-hd/index.m3u8"
       ],
       "category": "Other",
       "languages": []
@@ -12888,7 +12880,7 @@
       "streamUrls": [
         "http://31.148.48.15/Zvezda/index.m3u8",
         "https://streaming.televizor-24-tochka.ru/live/748.m3u8",
-        "https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8"
+        "https://stream8.cinerama.uz/1050/tracks-v1a1/mono.m3u8"
       ],
       "category": "Sports",
       "languages": []
@@ -15012,7 +15004,9 @@
       "name": "Channel 8",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Channel8.ru.png",
       "streamUrls": [
-        "http://45.11.139.43:8555/8kanal/index.m3u8"
+        "http://hls127.freeott.top:8080/8_KANAL/video.m3u8",
+        "http://45.11.139.43:8555/8kanal/index.m3u8",
+        "http://v4.proofix.ru/okino-tv/index.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -15508,7 +15502,7 @@
     {
       "id": "JudgeJudy.de",
       "name": "Judge Judy",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Judge_Judy_Sheindlin_VF_2012_Shankbone.JPG/330px-Judge_Judy_Sheindlin_VF_2012_Shankbone.JPG",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
         "https://jmp2.uk/plu-622f498d119b4c000719c0b7.m3u8"
       ],
@@ -16508,6 +16502,7 @@
       "name": "TV9",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/TV9.mn.png",
       "streamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/TV9HD/DASH-FTA/TV9HD.mpd",
         "https://cdn4.skygo.mn/live/disk1/TV9HD/HLSv3-FTA/TV9HD.m3u8"
       ],
       "country": "MN",
@@ -16777,7 +16772,7 @@
     {
       "id": "Istoki.ru",
       "name": "Istoki",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/330px-REN_TV_logo_2017.svg.png",
       "streamUrls": [
         "https://istoki.tv/live/stream1/playlist.m3u8"
       ],
@@ -17888,7 +17883,7 @@
       "name": "OTSE",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/OTSE.ua.png",
       "streamUrls": [
-        "http://176.122.125.10:8080/oce/index.m3u8"
+        "http://stream.mcquack.net/329/index.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -18311,9 +18306,10 @@
     {
       "id": "KongressTV.ru",
       "name": "Kongress TV",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=tvcongress.ru",
       "streamUrls": [
-        "https://stitch.teletarget.ru/api/v1/hls/504/158/index.m3u8"
+        "https://stitch.teletarget.ru/api/v1/hls/504/158/index.m3u8",
+        "https://live-3.otcnet.ru/congresstv/index.m3u8"
       ],
       "category": "Informative",
       "languages": []
@@ -19571,7 +19567,7 @@
       "name": "1+1 Ukraina",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/1Plus1Ukraina.ua.png",
       "streamUrls": [
-        "https://uys1g01.s.gy/1PLUS1_UKRAINE"
+        "http://stream.mcquack.net/219/index.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -19752,7 +19748,7 @@
     {
       "id": "UNIANSerial.ua",
       "name": "UNIAN Serial",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%A3%D0%9D%D0%86%D0%90%D0%9D._%D0%A1%D0%B5%D1%80%D1%96%D0%B0%D0%BB.svg/330px-%D0%A3%D0%9D%D0%86%D0%90%D0%9D._%D0%A1%D0%B5%D1%80%D1%96%D0%B0%D0%BB.svg.png",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=unian.tv",
       "streamUrls": [
         "http://stream.mcquack.net/341/index.m3u8"
       ],
@@ -20348,6 +20344,36 @@
         "https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/playlist.m3u8"
       ],
       "category": "Informative",
+      "languages": []
+    },
+    {
+      "id": "BCNGospelTV.es",
+      "name": "BCN Gospel TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/BCNGospelTV.es.png",
+      "streamUrls": [
+        "https://live1.ovalcast.com:3916/live/bcngospeltvlive.m3u8"
+      ],
+      "category": "Religious",
+      "languages": []
+    },
+    {
+      "id": "MorroTV.do",
+      "name": "MorroTV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/MorroTV.do.png",
+      "streamUrls": [
+        "https://fox.hostlagarto.com:8081/morrotv/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "StudioPlusTV.ec",
+      "name": "Studio + TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cloudvideo.servers10.com:8081/8184/index.m3u8"
+      ],
+      "category": "Entertainment",
       "languages": []
     }
   ]
