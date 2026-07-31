@@ -176,7 +176,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 #EXTINF:-1 tvg-id="ZooMoo.sg" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/sg/ZooMoo.sg.png" group-title="Kids [SD]",ZooMoo [SD]
 https://d1bpufuvfayfg8.cloudfront.net/ZooMoo.m3u8
 #EXTINF:-1 tvg-id="ducktv.sk" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/sk/ducktv.sk.png" group-title="Kids [HD]",ducktv [HD]
-https://mmm-dk.otteravision.com/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/playlist.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13168
 #EXTINF:-1 tvg-id="Nickelodeon.de" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/de/Nickelodeon.de.png" group-title="Kids",Nickelodeon
 https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
 #EXTINF:-1 tvg-id="Tamyr.ru" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Tamyr.ru.png" group-title="Kids [SD]",Tamyr [SD]
@@ -186,7 +186,7 @@ https://amg01753-narrativeuk-amg01753c1-rakuten-uk-2339.playouts.now.amagi.tv/ts
 #EXTINF:-1 tvg-id="Teletubbies.uk" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/Teletubbies.uk.png" group-title="Kids [SD]",Teletubbies [SD]
 https://dv8lsrd8fecw9.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="MrBeanAnimated.uk" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/MrBeanAnimated.uk.png" group-title="Kids [SD]",Mr Bean Animated [SD]
-https://d2t1w90tnft92.cloudfront.net/Mr_Bean_Animated.m3u8
+https://amg00627-amg00627c23-samsung-gb-3927.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FAN.ru" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/FAN.ru.png" group-title="Kids [FHD]",FAN [FHD]
 http://31.148.48.15/Fan/index.m3u8
 #EXTINF:-1 tvg-id="Multilandia.ru" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Multilandia.ru.png" group-title="Kids [SD]",Multilandia [SD]
@@ -229,8 +229,6 @@ https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/2334/index.m3u8
 #EXTINF:-1 tvg-id="Crunchyroll.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/Crunchyroll.us.png" group-title="Kids [HD]",Crunchyroll [HD]
 https://jmp2.uk/plu-65652f7fc0fc88000883537a.m3u8
-#EXTINF:-1 tvg-id="LasTortugasNinja.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/LasTortugasNinja.us.png" group-title="Kids",Las Tortugas Ninja
-https://jmp2.uk/plu-63dd5d7a4e83e700088fbca8.m3u8
 #EXTINF:-1 tvg-id="NickJrClub.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/NickJrClub.us.png" group-title="Kids [HD]",Nick Jr. Club [HD]
 https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8
 #EXTINF:-1 tvg-id="PixelTV.pl" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/PixelTV.pl.png" group-title="Kids [HD]",Pixel TV [HD]
@@ -247,6 +245,8 @@ https://jmp2.uk/plu-62f3e8ad2a8e8000077b013d.m3u8
 https://vd01.streaminghd.net.ar:3349/live/bzuctkgnlive.m3u8
 #EXTINF:-1 tvg-id="SuperGeroi.ru" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/SuperGeroi.ru.png" group-title="Kids [FHD]",SuperGeroi [FHD]
 http://109.94.1.3:8080/132/index.m3u8
+#EXTINF:-1 tvg-id="NickelodeonPlutoTV.us" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids [HD]",Nickelodeon Pluto TV [HD]
+https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAnimation.de" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids",Pluto TV Animation
 https://jmp2.uk/plu-612f761008a9e50007984ba0.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAnime.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/330px-Pluto_TV_logo_2024.svg.png" group-title="Kids",Pluto TV Anime
@@ -254,15 +254,13 @@ https://jmp2.uk/plu-608035b8d8705f0007260287.m3u8
 #EXTINF:-1 tvg-id="PlutoTVJunior.de" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids [HD]",Pluto TV Junior [HD]
 https://jmp2.uk/plu-5f8ecb336537e8000764a17f.m3u8
 #EXTINF:-1 tvg-id="PlutoTVJuniorklubben.se" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids [HD]",Pluto TV Juniorklubben [HD]
-https://jmp2.uk/plu-61c09a78bd194c0008decc28.m3u8
+https://jmp2.uk/plu-61c1d459fbb4b50007d24647.m3u8
 #EXTINF:-1 tvg-id="PlutoTVKids.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/330px-Pluto_TV_logo_2024.svg.png" group-title="Kids [HD]",Pluto TV Kids [HD]
 https://jmp2.uk/plu-5ad8d54be738977e2c310940.m3u8
 #EXTINF:-1 tvg-id="PlutoTVKidsClassics.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/330px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="Kids [HD]",Pluto TV Kids Classics [HD]
 https://jmp2.uk/plu-609e7e423e9173000706a681.m3u8
 #EXTINF:-1 tvg-id="PlutoTVKidsClub.us" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids",Pluto TV Kids Club
 https://jmp2.uk/plu-66c8cae7fed35b0008580ec0.m3u8
-#EXTINF:-1 tvg-id="PlutoTVTecknat.se" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids [HD]",Pluto TV Tecknat [HD]
-https://jmp2.uk/plu-61c0b6f028e94c000782684a.m3u8
 #EXTINF:-1 tvg-id="PlutoTVTeen.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/330px-Pluto_TV_logo_2024.svg.png" group-title="Kids [HD]",Pluto TV Teen [HD]
 https://jmp2.uk/plu-63eb573ba99571000897135b.m3u8
 #EXTINF:-1 tvg-id="PlutoTVTegnefilm.se" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids [HD]",Pluto TV Tegnefilm [HD]
@@ -270,7 +268,7 @@ https://jmp2.uk/plu-61c09938e0d3a700072b68b1.m3u8
 #EXTINF:-1 tvg-id="PlutoTVToons.de" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids [HD]",Pluto TV Toons [HD]
 https://jmp2.uk/plu-5f8eba14a4ffb8000764e950.m3u8
 #EXTINF:-1 tvg-id="PlutoTVUngdomsserier.se" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids [HD]",Pluto TV Ungdomsserier [HD]
-https://jmp2.uk/plu-67f3fc1707d2ba4121bd34a8.m3u8
+https://jmp2.uk/plu-67f3fb1cdea1c5e0d588ac1b.m3u8
 #EXTINF:-1 tvg-id="PlutoTVRetroToons.de" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids",Pluto TV Retro Toons
 https://jmp2.uk/plu-5c5c2b9d8002db3c3e0b1c6d.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.nl" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/nl/DisneyChannel.nl.png" group-title="Kids",Disney Channel
@@ -311,6 +309,8 @@ https://jmp2.uk/plu-65a67c494a10d800085cab06.m3u8
 https://jmp2.uk/plu-66c79221b1a34600087e264d.m3u8
 #EXTINF:-1 tvg-id="NickelodeonClasico.us" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids",Nickelodeon Clasico
 https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
+#EXTINF:-1 tvg-id="NickelodeonTeen.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/330px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="Kids [HD]",Nickelodeon Teen [HD]
+https://jmp2.uk/plu-5f0d668b872e4400073acc68.m3u8
 #EXTINF:-1 tvg-id="NickelodeonTeen.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/330px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="Kids [HD]",Nickelodeon Teen [HD]
 https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8
 #EXTINF:-1 tvg-id="NickelodeonToons.us" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids",Nickelodeon Toons
@@ -322,61 +322,63 @@ https://jmp2.uk/plu-5d14fb6c84dd37df3b4290c5.m3u8
 #EXTINF:-1 tvg-id="SouthPark.de" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids",South Park
 https://jmp2.uk/plu-628751bb7154a40007168843.m3u8
 #EXTINF:-1 tvg-id="SouthPark.se" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids",South Park
-https://jmp2.uk/plu-61c098df897b9d00070375c8.m3u8
+https://jmp2.uk/plu-61c0b627e3ed94000793c18a.m3u8
 #EXTINF:-1 tvg-id="SouthParkArmageddon.se" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids",South Park Armageddon
-https://jmp2.uk/plu-660bff5724e1d000085b7c07.m3u8
-#EXTINF:-1 tvg-id="SouthParkRockinOut.se" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids",South Park Rockin' Out
-https://jmp2.uk/plu-664f132c8ea5560008ce4d86.m3u8
+https://jmp2.uk/plu-660bff28516d260008479e23.m3u8
+#EXTINF:-1 tvg-id="SouthParkRockinOut.se" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/330px-ABC-2021-LOGO.svg.png" group-title="Kids",South Park Rockin' Out
+https://jmp2.uk/plu-664f13aff9992200084a3532.m3u8
 #EXTINF:-1 tvg-id="SouthParkRocks.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MTV_Rocks_2017_logo.svg/330px-MTV_Rocks_2017_logo.svg.png" group-title="Kids",South Park Rocks!
 https://jmp2.uk/plu-664f12bb3d173b0008168c1f.m3u8
 #EXTINF:-1 tvg-id="SouthParkButtersCollection.de" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids",South Park: Butters Collection
 https://jmp2.uk/plu-646b14a0e94c3800082a8d3a.m3u8
 #EXTINF:-1 tvg-id="SouthParkButtersCollection.se" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids",South Park: Butters Collection
-https://jmp2.uk/plu-65d87a66ec9fda0008a5ac11.m3u8
+https://jmp2.uk/plu-65d881d566eec8000887f6bb.m3u8
 #EXTINF:-1 tvg-id="SouthParkCartmanCollection.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/South_park_sign.svg/330px-South_park_sign.svg.png" group-title="Kids",South Park: Cartman Collection
 https://jmp2.uk/plu-646b14747cb4b1000875724d.m3u8
 #EXTINF:-1 tvg-id="SouthParkCartmanCollection.us" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids",South Park: Cartman Collection
 https://jmp2.uk/plu-65df4934f7f0af0008c32545.m3u8
-#EXTINF:-1 tvg-id="SouthParkCartmanCollection.se" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids",South Park: Cartman Collection
-https://jmp2.uk/plu-65d87a058145cb0008265c2e.m3u8
+#EXTINF:-1 tvg-id="SouthParkCartmanCollection.se" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/South_park_sign.svg/330px-South_park_sign.svg.png" group-title="Kids",South Park: Cartman Collection
+https://jmp2.uk/plu-65d881b1332fec000833a122.m3u8
 #EXTINF:-1 tvg-id="SouthParkColecaoKenny.us" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids",South Park: Colecao Kenny
 https://jmp2.uk/plu-65df704366eec8000898e32f.m3u8
 #EXTINF:-1 tvg-id="SouthParkColeccionCartman.us" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids",South Park: Coleccion Cartman
 https://jmp2.uk/plu-65df731cec9fda0008b7aa8d.m3u8
 #EXTINF:-1 tvg-id="SouthParkColeccionKenny.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Top_Cat_%28Hanna-Barbera_Production%29_logo.svg/330px-Top_Cat_%28Hanna-Barbera_Production%29_logo.svg.png" group-title="Kids",South Park: Coleccion Kenny
 https://jmp2.uk/plu-65df7272ec9fda0008b7a970.m3u8
-#EXTINF:-1 tvg-id="SouthParkIntotheStars.se" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Michael_Buffer_Fight_For_Children_Washington_DC_Nov_2007.JPG/330px-Michael_Buffer_Fight_For_Children_Washington_DC_Nov_2007.JPG" group-title="Kids",South Park: Into the Stars
-https://jmp2.uk/plu-664f0eea0120f40008bf97d6.m3u8
-#EXTINF:-1 tvg-id="SouthParkKennyCollection.se" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Kenny_Hotz_photo_for_Wikipedia.jpg/330px-Kenny_Hotz_photo_for_Wikipedia.jpg" group-title="Kids",South Park: Kenny Collection
-https://jmp2.uk/plu-65d880cea25d5e0008315b0a.m3u8
-#EXTINF:-1 tvg-id="SouthParkKyleCollection.se" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Kyle_Mooney_by_Gage_Skidmore.jpg/330px-Kyle_Mooney_by_Gage_Skidmore.jpg" group-title="Kids",South Park: Kyle Collection
+#EXTINF:-1 tvg-id="SouthParkColeccionStan.us" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids",South Park: Coleccion Stan
+https://jmp2.uk/plu-65df72db18036500081a8292.m3u8
+#EXTINF:-1 tvg-id="SouthParkIntotheStars.se" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids",South Park: Into the Stars
+https://jmp2.uk/plu-664f0eaa8ce31100088036bd.m3u8
+#EXTINF:-1 tvg-id="SouthParkKennyCollection.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Kenny_Hotz_photo_for_Wikipedia.jpg/330px-Kenny_Hotz_photo_for_Wikipedia.jpg" group-title="Kids",South Park: Kenny Collection
+https://jmp2.uk/plu-646b1404ee6a2f00082b5d66.m3u8
+#EXTINF:-1 tvg-id="SouthParkKennyCollection.se" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids",South Park: Kenny Collection
+https://jmp2.uk/plu-65d87f53ec9fda0008a5b810.m3u8
+#EXTINF:-1 tvg-id="SouthParkKyleCollection.se" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids",South Park: Kyle Collection
 https://jmp2.uk/plu-65d882394e01740008a36768.m3u8
 #EXTINF:-1 tvg-id="SouthParkKyleCollection.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Kyle_Mooney_by_Gage_Skidmore.jpg/330px-Kyle_Mooney_by_Gage_Skidmore.jpg" group-title="Kids",South Park: Kyle Collection
 https://jmp2.uk/plu-65df49b30d45610008172c5b.m3u8
 #EXTINF:-1 tvg-id="SouthParkStanCollection.se" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids",South Park: Stan Collection
-https://jmp2.uk/plu-65d879e266eec8000887e91b.m3u8
-#EXTINF:-1 tvg-id="SouthParkStanCollection.us" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids [SD]",South Park: Stan Collection [SD]
-https://jmp2.uk/plu-65df48ba28730900089f8480.m3u8
-#EXTINF:-1 tvg-id="SpongeBobSchwammkopf.de" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids [HD]",SpongeBob Schwammkopf [HD]
-https://jmp2.uk/plu-5d00e8adaab96b5635b2a005.m3u8
+https://jmp2.uk/plu-65d87f7a28730900088e7fbf.m3u8
+#EXTINF:-1 tvg-id="SouthParkStarsSternchen.de" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids",South Park: Stars & Sternchen
+https://jmp2.uk/plu-664f0d373d173b0008164948.m3u8
 #EXTINF:-1 tvg-id="SpongeBobSquarePants.us" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids [HD]",SpongeBob SquarePants [HD]
 https://jmp2.uk/plu-63f87d057533d80008ab9549.m3u8
-#EXTINF:-1 tvg-id="SvampBobFyrkant.se" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids [HD]",SvampBob Fyrkant [HD]
-https://jmp2.uk/plu-61c0ba0816e2fd00086cb6b1.m3u8
 #EXTINF:-1 tvg-id="SvampeBobFirkant.se" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids [HD]",SvampeBob Firkant [HD]
-https://jmp2.uk/plu-61c09ac98a80a4000703f992.m3u8
+https://jmp2.uk/plu-61c1d59a244e500007581861.m3u8
 #EXTINF:-1 tvg-id="TortuesNinjaTV.de" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids",Tortues Ninja TV
 https://jmp2.uk/plu-5f8ecc1b37867f00071469e9.m3u8
 #EXTINF:-1 tvg-id="TotallyTurtles.de" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids",Totally Turtles
 https://jmp2.uk/plu-656ef4af4261ca00083c8f37.m3u8
 #EXTINF:-1 tvg-id="TotallyTurtles.se" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids",Totally Turtles
-https://jmp2.uk/plu-61c1da718a80a4000704013e.m3u8
+https://jmp2.uk/plu-61c185e36faf920007f04b6e.m3u8
 #EXTINF:-1 tvg-id="TransformersTV.us" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids",Transformers TV
 https://jmp2.uk/plu-60fb053712f22a0007ff14d2.m3u8
 #EXTINF:-1 tvg-id="iCarly.de" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids",iCarly
 https://jmp2.uk/plu-6181404ef48321000797bc41.m3u8
 #EXTINF:-1 tvg-id="iCarly.se" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids",iCarly
-https://jmp2.uk/plu-61c185049e0bde0007820039.m3u8
+https://jmp2.uk/plu-61c0b9aab7facb0007913908.m3u8
+#EXTINF:-1 tvg-id="NickJrClub.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Nick_Jr._logo_2023.svg/330px-Nick_Jr._logo_2023.svg.png" group-title="Kids",Nick Jr. Club
+https://jmp2.uk/plu-67f3eb1c443f0671bc03ece8.m3u8
 #EXTINF:-1 tvg-id="SouthParkVersionOriginal.de" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids",South Park Version Original
 https://jmp2.uk/plu-63d7a8e5a9957100086bfc23.m3u8
 #EXTINF:-1 tvg-id="SouthParkColecaoStan.us" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids",South Park: Colecao Stan
@@ -387,8 +389,6 @@ https://jmp2.uk/plu-646b1438e94c3800082a8cff.m3u8
 https://jmp2.uk/plu-663115d923e24f000843b49c.m3u8
 #EXTINF:-1 tvg-id="HasbroLegends.us" tvg-logo="https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png" group-title="Kids [SD]",Hasbro Legends [SD]
 https://amg02713-amg02713c11-amgplt0852.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg02713-amg02713c11-amgplt0852/playlist.m3u8
-#EXTINF:-1 tvg-id="OggyeasBaratasTontas.us" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids",Oggy e as Baratas Tontas
-https://jmp2.uk/plu-63221bafdc6e110007b50270.m3u8
 #EXTINF:-1 tvg-id="MeTVToons.us" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=metvtoons.com" group-title="Kids [HD]",MeTV Toons [HD]
 http://206.212.244.63/112/index.m3u8
 #EXTINF:-1 tvg-id="AkiliKids.ke" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ke/AkiliKids.ke.png" group-title="Kids [HD]",Akili Kids! [HD]
@@ -433,8 +433,12 @@ https://cdn15.live-tv.cloud/ua_infinitas_tv/pixel-abr/playlist.m3u8
 http://stream.mcquack.net/167/index.m3u8
 #EXTINF:-1 tvg-id="Keedoo.gr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gr/Keedoo.gr.png" group-title="Kids [SD]",Keedoo [SD]
 http://185.102.171.218/Nickelodeon/index.m3u8
+#EXTINF:-1 tvg-id="ZBCartoon.in" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/ZBCartoon.in.png" group-title="Kids [FHD]",ZB Cartoon [FHD]
+https://server.zillarbarta.com/zbcatun/video.m3u8
 #EXTINF:-1 tvg-id="BalapanInternational.kz" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=balapan.tv" group-title="Kids [FHD]",Balapan International [FHD]
 https://live-3.otcnet.ru/Balapan/index.m3u8
+#EXTINF:-1 tvg-id="PlutoTVKlassisketegnefilmer.se" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids",Pluto TV Klassiske tegnefilmer
+https://jmp2.uk/plu-67f508f68ddd60c57dc44766.m3u8
 #EXTINF:-1 tvg-id="SBTKids.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Portaria_do_CDT_Anhanguera_-_SBT.jpg/330px-Portaria_do_CDT_Anhanguera_-_SBT.jpg" group-title="Kids [HD]",SBT Kids [HD]
 https://8994803e454548319ffc0775bc04e0c1.mediatailor.us-east-1.amazonaws.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI-TVZyn/index.m3u8
 #EXTINF:-1 tvg-id="Hop.il" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/il/Hop.il.png" group-title="Kids [SD]",Hop! [SD]
@@ -445,12 +449,8 @@ http://stream.mcquack.net/144/index.m3u8
 http://stream.mcquack.net/339/index.m3u8
 #EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=godstands.tv" group-title="Kids",God Stands Kids Club TV
 https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8
-#EXTINF:-1 tvg-id="SuperSpongeBob.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/SuperSpongeBob.us.png" group-title="Kids",Super! SpongeBob
-https://jmp2.uk/plu-6093f9281db477000759fce0.m3u8
 #EXTINF:-1 tvg-id="NickJr.hu" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/hu/NickJr.hu.png" group-title="Kids",Nick Jr.
 http://88.212.15.19/live/nick_junior_hun/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.cz" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cz/Nickelodeon.cz.png" group-title="Kids",Nickelodeon
-http://88.212.15.19/live/test_nickelodeon_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.hu" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/hu/Nicktoons.hu.png" group-title="Kids",Nicktoons
 http://88.212.15.19/live/nicktoons_hungary/index.m3u8
 #EXTINF:-1 tvg-id="Minimax.hu" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/hu/Minimax.hu.png" group-title="Kids",Minimax
@@ -459,31 +459,31 @@ http://88.212.15.19/live/minimax_hun/index.m3u8
 http://nmk.ioapk.com:5050/4gtv-live105/index.m3u8
 #EXTINF:-1 tvg-id="NickJrAsia.sg" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/sg/NickJrAsia.sg.png" group-title="Kids",Nick Jr. Asia
 http://nmk.ioapk.com:5050/4gtv-live032/index.m3u8
-#EXTINF:-1 tvg-id="NickelodeonPlutoTV.us" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids [HD]",Nickelodeon Pluto TV [HD]
-https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
-#EXTINF:-1 tvg-id="NickelodeonTeen.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/330px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="Kids [HD]",Nickelodeon Teen [HD]
-https://jmp2.uk/plu-5f0d668b872e4400073acc68.m3u8
-#EXTINF:-1 tvg-id="SouthParkColeccionStan.us" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids",South Park: Coleccion Stan
-https://jmp2.uk/plu-65df72db18036500081a8292.m3u8
-#EXTINF:-1 tvg-id="SouthParkKennyCollection.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Kenny_Hotz_photo_for_Wikipedia.jpg/330px-Kenny_Hotz_photo_for_Wikipedia.jpg" group-title="Kids",South Park: Kenny Collection
-https://jmp2.uk/plu-646b1404ee6a2f00082b5d66.m3u8
+#EXTINF:-1 tvg-id="LasTortugasNinja.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/LasTortugasNinja.us.png" group-title="Kids",Las Tortugas Ninja
+https://jmp2.uk/plu-63dd5d7a4e83e700088fbca8.m3u8
+#EXTINF:-1 tvg-id="PlutoTVTecknat.se" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids [HD]",Pluto TV Tecknat [HD]
+https://jmp2.uk/plu-61c0b6f028e94c000782684a.m3u8
 #EXTINF:-1 tvg-id="SouthParkOriginalVersion.de" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids",South Park: Original Version
 https://jmp2.uk/plu-646b150a15939400089e2702.m3u8
-#EXTINF:-1 tvg-id="NickJrClub.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Nick_Jr._logo_2023.svg/330px-Nick_Jr._logo_2023.svg.png" group-title="Kids",Nick Jr. Club
-https://jmp2.uk/plu-67f3eb1c443f0671bc03ece8.m3u8
+#EXTINF:-1 tvg-id="SvampBobFyrkant.se" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids [HD]",SvampBob Fyrkant [HD]
+https://jmp2.uk/plu-61c0ba0816e2fd00086cb6b1.m3u8
+#EXTINF:-1 tvg-id="OggyeasBaratasTontas.us" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids",Oggy e as Baratas Tontas
+https://jmp2.uk/plu-63221bafdc6e110007b50270.m3u8
 #EXTINF:-1 tvg-id="TeenageMutantNinjaTurtles.de" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids",Teenage Mutant Ninja Turtles
 https://jmp2.uk/plu-62619405c733e8000732d1fe.m3u8
-#EXTINF:-1 tvg-id="SouthParkStarsSternchen.de" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids",South Park: Stars & Sternchen
-https://jmp2.uk/plu-664f0d373d173b0008164948.m3u8
+#EXTINF:-1 tvg-id="SpongeBobSchwammkopf.de" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids [HD]",SpongeBob Schwammkopf [HD]
+https://jmp2.uk/plu-5d00e8adaab96b5635b2a005.m3u8
 #EXTINF:-1 tvg-id="PlutoTVRetroKid.us" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids",Pluto TV Retro Kid
 https://jmp2.uk/plu-6408b41b83f58900081d91ad.m3u8
 #EXTINF:-1 tvg-id="Daria.de" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids",Daria
 https://jmp2.uk/plu-6683b680efa2a10008e8a393.m3u8
-#EXTINF:-1 tvg-id="PlutoTVKlassisketegnefilmer.se" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids",Pluto TV Klassiske tegnefilmer
-https://jmp2.uk/plu-67f508f68ddd60c57dc44766.m3u8
+#EXTINF:-1 tvg-id="SouthParkStanCollection.us" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids [SD]",South Park: Stan Collection [SD]
+https://jmp2.uk/plu-65df48ba28730900089f8480.m3u8
 #EXTINF:-1 tvg-id="PlutoTVKlassisketegnefilm.se" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids",Pluto TV Klassiske tegnefilm
 https://jmp2.uk/plu-67f508992ebe80e2929b5c98.m3u8
-#EXTINF:-1 tvg-id="ZBCartoon.in" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/ZBCartoon.in.png" group-title="Kids [FHD]",ZB Cartoon [FHD]
-https://server.zillarbarta.com/zbcatun/video.m3u8
-#EXTINF:-1 tvg-id="SouthParkColeccionKyle.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Paris_Hilton_at_WWD_Style_Awards_2026_%28cropped%29.jpg/330px-Paris_Hilton_at_WWD_Style_Awards_2026_%28cropped%29.jpg" group-title="Kids",South Park: Coleccion Kyle
+#EXTINF:-1 tvg-id="SouthParkColeccionKyle.us" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids",South Park: Coleccion Kyle
 https://jmp2.uk/plu-65df73520d4561000817c29b.m3u8
+#EXTINF:-1 tvg-id="SuperSpongeBob.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/SuperSpongeBob.us.png" group-title="Kids",Super! SpongeBob
+https://jmp2.uk/plu-6093f9281db477000759fce0.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.cz" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cz/Nickelodeon.cz.png" group-title="Kids",Nickelodeon
+http://88.212.15.19/live/test_nickelodeon_hevc_25p/playlist.m3u8
