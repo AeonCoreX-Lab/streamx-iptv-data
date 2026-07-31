@@ -2469,7 +2469,6 @@
       "name": "Central TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/CentralTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/Ekh_Oron/DASH-FTA/Ekh_Oron.mpd",
         "https://cdn4.skygo.mn/live/disk1/Ekh_Oron/HLSv3-FTA/Ekh_Oron.m3u8"
       ],
       "category": "Other",
@@ -9647,16 +9646,6 @@
       "languages": []
     },
     {
-      "id": "RedeTVES.br",
-      "name": "Rede TV! ES",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/RedeTVES.br.png",
-      "streamUrls": [
-        "https://streaming.cloudecast.com/hls/redetves/index.m3u8"
-      ],
-      "category": "News",
-      "languages": []
-    },
-    {
       "id": "RegioTV.sk",
       "name": "Regio TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/sk/RegioTV.sk.png",
@@ -11103,7 +11092,8 @@
       "name": "TV8",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/TV8.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/TV8HD/HLSv3-FTA/TV8HD.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/TV8HD/HLSv3-FTA/TV8HD.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/TV8HD/DASH-FTA/TV8HD.mpd"
       ],
       "category": "News",
       "languages": []
@@ -15471,6 +15461,7 @@
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
         "https://jmp2.uk/plu-6728c87cc7626f0008b28149.m3u8",
+        "https://jmp2.uk/plu-6728c831c7626f0008b28127.m3u8",
         "https://jmp2.uk/plu-6728c8b45534bb0008b31f35.m3u8"
       ],
       "category": "Entertainment",
@@ -15900,8 +15891,9 @@
       "name": "The Daily Show",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-65c0973311ced7000808d255.m3u8",
-        "https://jmp2.uk/plu-65c0978360eb870008bc9d5b.m3u8"
+        "https://jmp2.uk/plu-65c0978360eb870008bc9d5b.m3u8",
+        "https://jmp2.uk/plu-65c096d23ba51e0008305a75.m3u8",
+        "https://jmp2.uk/plu-65c0973311ced7000808d255.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -19780,8 +19772,7 @@
       "name": "Amazonica TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pe/AmazonicaTV.pe.png",
       "streamUrls": [
-        "https://videoserver.tmcreativos.com:19360/amazonicatv/amazonicatv.m3u8",
-        "https://live-evg8.tv360.bitel.com.pe/bitel/amazonicatvSRT/playlist.m3u8"
+        "https://videoserver.tmcreativos.com:19360/amazonicatv/amazonicatv.m3u8"
       ],
       "country": "PE",
       "category": "Entertainment",
@@ -20365,8 +20356,58 @@
       ],
       "category": "Entertainment",
       "languages": []
+    },
+    {
+      "id": "CEACOMTV.bo",
+      "name": "CEACOM TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bo/CEACOMTV.bo.png",
+      "streamUrls": [
+        "https://eu1.servers10.com:8081/ceacom/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "MohonaTV.bd",
+      "name": "Mohona TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bd/MohonaTV.bd.png",
+      "streamUrls": [
+        "https://bozztv.com/rongo/rongo-MohonaTV/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "Telecolor.ve",
+      "name": "Telecolor",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ve/Telecolor.ve.png",
+      "streamUrls": [
+        "https://cloud.livescast.com:19360/telecolor/telecolor.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "TelecomercioTV.do",
+      "name": "Telecomercio TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/TelecomercioTV.do.png",
+      "streamUrls": [
+        "https://streaming.grupomediosdelnorte.com:19360/telecomerciotv/telecomerciotv.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "Telemantova.it",
+      "name": "Telemantova",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/it/Telemantova.it.png",
+      "streamUrls": [
+        "https://5ce9406b73c33.streamlock.net/TeleMantova/livestream/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
     }
   ],
-  "count": 1991,
-  "generated_at": "2026-07-31T10:37:59.089481"
+  "count": 1995,
+  "generated_at": "2026-07-31T14:03:27.717121"
 }

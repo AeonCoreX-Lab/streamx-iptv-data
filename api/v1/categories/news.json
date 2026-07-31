@@ -1768,6 +1768,7 @@
       "name": "Eagle News",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/EagleNews.mn.png",
       "streamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/Eagle/DASH-FTA/Eagle.mpd",
         "https://cdn4.skygo.mn/live/disk1/Eagle/HLSv3-FTA/Eagle.m3u8"
       ],
       "category": "News",
@@ -6360,16 +6361,6 @@
       "languages": []
     },
     {
-      "id": "News12HudsonValley.us",
-      "name": "News12 Hudson Valley",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/News12HudsonValley.us.png",
-      "streamUrls": [
-        "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8?omap=https"
-      ],
-      "category": "News",
-      "languages": []
-    },
-    {
       "id": "News12Westchester.us",
       "name": "News12 Westchester",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/News12Westchester.us.png",
@@ -6450,16 +6441,6 @@
       "languages": []
     },
     {
-      "id": "MegaTV.py",
-      "name": "Mega TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/py/MegaTV.py.png",
-      "streamUrls": [
-        "https://www.desde-paraguay.com/mega.m3u8"
-      ],
-      "category": "News",
-      "languages": []
-    },
-    {
       "id": "News12NewJersey.us",
       "name": "News12 New Jersey",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/News12NewJersey.us.png",
@@ -6498,8 +6479,38 @@
       ],
       "category": "News",
       "languages": []
+    },
+    {
+      "id": "CEACOMTV.bo",
+      "name": "CEACOM TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bo/CEACOMTV.bo.png",
+      "streamUrls": [
+        "https://eu1.servers10.com:8081/ceacom/index.m3u8"
+      ],
+      "category": "News",
+      "languages": []
+    },
+    {
+      "id": "Channel24.bd",
+      "name": "Channel 24",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bd/Channel24.bd.png",
+      "streamUrls": [
+        "https://bozztv.com/rongo/rongo-Channel24HD/index.m3u8"
+      ],
+      "category": "News",
+      "languages": []
+    },
+    {
+      "id": "HermanasMirabalTV.do",
+      "name": "Hermanas Mirabal TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/HermanasMirabalTV.do.png",
+      "streamUrls": [
+        "https://fox.hostlagarto.com:8081/hmtv/index.m3u8"
+      ],
+      "category": "News",
+      "languages": []
     }
   ],
-  "count": 627,
-  "generated_at": "2026-07-31T10:37:59.151223"
+  "count": 628,
+  "generated_at": "2026-07-31T14:03:28.157514"
 }
