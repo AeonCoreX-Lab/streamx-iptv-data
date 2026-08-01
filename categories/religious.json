@@ -1352,9 +1352,9 @@
       "name": "Enlace",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cr/Enlace.cr.png",
       "streamUrls": [
-        "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8",
+        "http://177.234.249.178:8888/ENLACE/index.m3u8",
         "http://177.234.247.66:9975/Enlace/index.m3u8",
-        "http://177.234.249.178:8888/ENLACE/index.m3u8"
+        "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -2000,8 +2000,8 @@
       "name": "JN 19",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pe/JN19.pe.png",
       "streamUrls": [
-        "https://servilive.com:3028/live/jntv19live.m3u8",
-        "http://187.102.210.46/JN19/index.m3u8"
+        "http://187.102.210.46/JN19/index.m3u8",
+        "https://servilive.com:3028/live/jntv19live.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -3621,7 +3621,8 @@
       "name": "TV Mana Mocambique",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mz/TVManaMocambique.mz.png",
       "streamUrls": [
-        "http://145.239.5.177/141/index.m3u8"
+        "http://145.239.5.177/141/index.m3u8",
+        "https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -4962,6 +4963,26 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://5d2733224ac48.streamlock.net/taroteame/tarot_web/playlist.m3u8"
+      ],
+      "category": "Religious",
+      "languages": []
+    },
+    {
+      "id": "ItsSupernaturalNetwork.us",
+      "name": "It's Supernatural! Network",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/ItsSupernaturalNetwork.us.png",
+      "streamUrls": [
+        "https://content.uplynk.com/channel/b880a791bf95426d917a509e0c44796a.m3u8"
+      ],
+      "category": "Religious",
+      "languages": []
+    },
+    {
+      "id": "JTBSClassic.in",
+      "name": "JTBS Classic",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/JA02WJ_JFK_Landing_22L_JL_A350_1041_Small_%2853548157200%29.png/330px-JA02WJ_JFK_Landing_22L_JL_A350_1041_Small_%2853548157200%29.png",
+      "streamUrls": [
+        "https://jtbsclassic.dpdns.org/live.m3u8"
       ],
       "category": "Religious",
       "languages": []
