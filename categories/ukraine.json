@@ -77,8 +77,8 @@
       "name": "Espreso TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/EspresoTV.ua.png",
       "streamUrls": [
-        "https://dash4.antik.sk/live/test_espresso/playlist.m3u8",
         "https://dash2.antik.sk/live/test_espresso/playlist.m3u8",
+        "https://dash4.antik.sk/live/test_espresso/playlist.m3u8",
         "https://api-tv.ipnet.ua/api/v1/manifest/2118742594.m3u8"
       ],
       "category": "Ukraine",
@@ -89,6 +89,7 @@
       "name": "FREEDOM",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/FREEDOM.ua.png",
       "streamUrls": [
+        "https://dash4.antik.sk/live/test_uatv/playlist.m3u8",
         "https://dash2.antik.sk/live/test_uatv/playlist.m3u8"
       ],
       "category": "Ukraine",
@@ -210,8 +211,8 @@
       "name": "Pervyy gorodskoy. Odessa",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/PervyygorodskoyOdessa.ua.png",
       "streamUrls": [
-        "http://91.194.79.46:8081/stream2/channel2/playlist.m3u8",
-        "http://91.194.79.46:8081/stream1/channel1/playlist.m3u8"
+        "http://91.194.79.46:8081/stream1/channel1/playlist.m3u8",
+        "http://91.194.79.46:8081/stream2/channel2/playlist.m3u8"
       ],
       "category": "Ukraine",
       "languages": []
@@ -1049,7 +1050,7 @@
     {
       "id": "UNIANSerial.ua",
       "name": "UNIAN Serial",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=unian.tv",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%A3%D0%9D%D0%86%D0%90%D0%9D._%D0%A1%D0%B5%D1%80%D1%96%D0%B0%D0%BB.svg/330px-%D0%A3%D0%9D%D0%86%D0%90%D0%9D._%D0%A1%D0%B5%D1%80%D1%96%D0%B0%D0%BB.svg.png",
       "streamUrls": [
         "http://stream.mcquack.net/341/index.m3u8"
       ],
@@ -1083,6 +1084,26 @@
       "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/UTV_logo_ITV.svg/330px-UTV_logo_ITV.svg.png",
       "streamUrls": [
         "http://stream.mcquack.net/457/index.m3u8"
+      ],
+      "category": "Ukraine",
+      "languages": []
+    },
+    {
+      "id": "MaincastCybersport.ua",
+      "name": "Maincast Cybersport",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://stream.mcquack.net/487/index.m3u8"
+      ],
+      "category": "Ukraine",
+      "languages": []
+    },
+    {
+      "id": "MaincastSport.ua",
+      "name": "Maincast Sport",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://stream.mcquack.net/490/index.m3u8"
       ],
       "category": "Ukraine",
       "languages": []
