@@ -5408,16 +5408,6 @@
       "languages": []
     },
     {
-      "id": "KMCTTV391.us",
-      "name": "KMCT-TV 39.1",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/KMCTTV391.us.png",
-      "streamUrls": [
-        "https://cdn-unified-hls.streamspot.com/ingest1/4b4d895dd6/playlist.m3u8?origin=1"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "KMEXDT341.us",
       "name": "KMEX-DT 34.1",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/KMEXDT341.us.png",
@@ -13066,7 +13056,8 @@
       "name": "ONTV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/ONTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd"
+        "https://cdn4.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd",
+        "https://cdn4.skygo.mn/live/disk1/ONTV/HLSv3-FTA/ONTV.m3u8"
       ],
       "country": "MN",
       "category": "Entertainment",
@@ -15859,36 +15850,6 @@
         "https://unlimited2-cl-isp.dps.live/radiointeractiva/radiointeractiva.smil/playlist.m3u8"
       ],
       "category": "Movies",
-      "languages": []
-    },
-    {
-      "id": "KADNTV151.us",
-      "name": "KADN-TV 15.1",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/KADNTV151.us.png",
-      "streamUrls": [
-        "http://206.212.244.63/65/index.m3u8"
-      ],
-      "category": "Movies",
-      "languages": []
-    },
-    {
-      "id": "KLFYTV101.us",
-      "name": "KLFY-TV 10.1",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/KLFYTV101.us.png",
-      "streamUrls": [
-        "http://206.212.244.63/33/index.m3u8"
-      ],
-      "category": "Movies",
-      "languages": []
-    },
-    {
-      "id": "MTVU.us",
-      "name": "MTVU",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/MTVU.us.png",
-      "streamUrls": [
-        "http://206.212.244.63/119/index.m3u8"
-      ],
-      "category": "Entertainment",
       "languages": []
     },
     {
@@ -19396,16 +19357,6 @@
       "languages": []
     },
     {
-      "id": "BanglaVision.bd",
-      "name": "Bangla Vision",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bd/BanglaVision.bd.png",
-      "streamUrls": [
-        "https://tvsen5.aynaott.com/banglavision/index.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "MaasrangaTV.bd",
       "name": "Maasranga TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bd/MaasrangaTV.bd.png",
@@ -20173,16 +20124,6 @@
       "languages": []
     },
     {
-      "id": "GaviotaTV.ec",
-      "name": "Gaviota TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ec/GaviotaTV.ec.png",
-      "streamUrls": [
-        "https://gaviotatv.streamseguro.com:3195/live/gaviotatvlive.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "DienBienTV.vn",
       "name": "Dien Bien TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/vn/DienBienTV.vn.png",
@@ -20330,6 +20271,17 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pe/YurimaguasTV.pe.png",
       "streamUrls": [
         "https://live-evg7.tv360.bitel.com.pe/bitel/yurimaguastvSRT/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "CanalMundoVision.co",
+      "name": "Canal Mundo Vision",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/CanalMundoVision.co.png",
+      "streamUrls": [
+        "https://movil.ejeserver.com/live/mundovisiontv.m3u8",
+        "https://video.ejeserver.com/live/mundovisiontv.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
