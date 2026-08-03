@@ -238,8 +238,8 @@
       "name": "JTV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/JTV.id.png",
       "streamUrls": [
-        "http://122.248.43.242:1935/JTVMADIUN/_definst_/myStream/playlist.m3u8",
         "http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8",
+        "http://122.248.43.242:1935/JTVMADIUN/_definst_/myStream/playlist.m3u8",
         "http://122.248.43.242:1935/JTVMALANG/_definst_/myStream/playlist.m3u8"
       ],
       "category": "Indonesia",
@@ -350,8 +350,8 @@
       "name": "Salira TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/SaliraTV.id.png",
       "streamUrls": [
-        "https://live.salira.tv/p/3870/hybrid/play.m3u8",
-        "https://live.salira.tv:3870/stream/play.m3u8"
+        "https://live.salira.tv:3870/stream/play.m3u8",
+        "https://live.salira.tv/p/3870/hybrid/play.m3u8"
       ],
       "category": "Indonesia",
       "languages": []
@@ -371,9 +371,9 @@
       "name": "Stara TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/StaraTV.id.png",
       "streamUrls": [
-        "https://cianjur.staratv.id/hls/0/stream.m3u8",
+        "https://jakarta.staratv.id/hls/0/stream.m3u8",
         "https://malang.staratv.id/hls/0/stream.m3u8",
-        "https://parahyangan.staratv.id/hls/0/stream.m3u8"
+        "https://stream.staratv.id/hls/0/stream.m3u8"
       ],
       "category": "Indonesia",
       "languages": []
@@ -413,9 +413,9 @@
       "name": "TVRI",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/TVRI.id.png",
       "streamUrls": [
+        "https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8",
         "https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8",
-        "https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8",
-        "https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8"
+        "https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8"
       ],
       "category": "Indonesia",
       "languages": []
@@ -663,8 +663,18 @@
       ],
       "category": "Indonesia",
       "languages": []
+    },
+    {
+      "id": "KawanuaTV.id",
+      "name": "Kawanua TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/KawanuaTV.id.png",
+      "streamUrls": [
+        "http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8"
+      ],
+      "category": "Indonesia",
+      "languages": []
     }
   ],
-  "count": 65,
-  "generated_at": "2026-08-03T07:25:17.523610"
+  "count": 66,
+  "generated_at": "2026-08-03T11:24:03.222790"
 }
