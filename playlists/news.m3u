@@ -309,8 +309,10 @@ http://118.107.85.4:1935/live/smil:DNTV1.smil/chunklist.m3u8
 https://live.dottotv.ro/index.m3u8
 #EXTINF:-1 tvg-id="DunyaNews.pk" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pk/DunyaNews.pk.png" group-title="News [HD]",Dunya News [HD]
 https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
+#EXTINF:-1 tvg-id="ERTNews.gr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gr/ERTNews.gr.png" group-title="News [SD]",ERT News [SD]
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8
 #EXTINF:-1 tvg-id="ETV.mn" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/ETV.mn.png" group-title="News [SD]",ETV [SD]
-https://cdn4.skygo.mn/live/disk1/ETV/DASH-FTA/ETV.mpd
+https://cdn4.skygo.mn/live/disk1/ETV/HLSv3-FTA/ETV.m3u8
 #EXTINF:-1 tvg-id="ETVAndhraPradesh.in" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/ETVAndhraPradesh.in.png" group-title="News [SD]",ETV Andhra Pradesh [SD]
 https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8
 #EXTINF:-1 tvg-id="ETVNews.in" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/ETVNews.in.png" group-title="News [FHD]",ETV News [FHD]
@@ -318,7 +320,7 @@ https://cc-3448kp65yhc5w.akamaized.net/WWBI/Amagi/ETV_News_IN/playlist.m3u8
 #EXTINF:-1 tvg-id="ETVTelangana.in" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/ETVTelangana.in.png" group-title="News [SD]",ETV Telangana [SD]
 https://d37d7pfp7vjqhh.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_TS_H264_cloud_in/index.m3u8
 #EXTINF:-1 tvg-id="EagleNews.mn" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/EagleNews.mn.png" group-title="News [SD]",Eagle News [SD]
-https://cdn4.skygo.mn/live/disk1/Eagle/HLSv3-FTA/Eagle.m3u8
+https://cdn4.skygo.mn/live/disk1/Eagle/DASH-FTA/Eagle.mpd
 #EXTINF:-1 tvg-id="EcotelTV.ec" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ec/EcotelTV.ec.png" group-title="News",Ecotel TV
 https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 #EXTINF:-1 tvg-id="EgnatiaTV.gr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gr/EgnatiaTV.gr.png" group-title="News [SD]",Egnatia TV [SD]
@@ -403,8 +405,6 @@ https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594
 #EXTINF:-1 tvg-id="HindiKhabar.in" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/HindiKhabar.in.png" group-title="News [SD]",Hindi Khabar [SD]
 https://d1msejlow1t3l4.cloudfront.net/fta/hindikhabar/playlist.m3u8
-#EXTINF:-1 tvg-id="HirTV.hu" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/hu/HirTV.hu.png" group-title="News",Hir TV
-https://video11.videa.hu/static/live/8.2966061.2530409.1.5.590.590/index.m3u8
 #EXTINF:-1 tvg-id="HollyWire.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/HollyWire.us.png" group-title="News [HD]",HollyWire [HD]
 https://di1slo8304ver.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="HornbillTV.in" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/HornbillTV.in.png" group-title="News [SD]",Hornbill TV [SD]
@@ -528,7 +528,7 @@ http://31.148.48.15/Mir_24/index.m3u8
 #EXTINF:-1 tvg-id="MirrorNow.in" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/MirrorNow.in.png" group-title="News [SD]",Mirror Now [SD]
 https://pubads.g.doubleclick.net/ssai/event/DXkHhH2QSnma-HnE3QJqlA/master.m3u8
 #EXTINF:-1 tvg-id="MongolianNewsChannel.mn" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/MongolianNewsChannel.mn.png" group-title="News [SD]",Mongolian News Channel [SD]
-https://cdn4.skygo.mn/live/disk1/MNCTV/HLSv3-FTA/MNCTV.m3u8
+https://cdn4.skygo.mn/live/disk1/MNCTV/DASH-FTA/MNCTV.mpd
 #EXTINF:-1 tvg-id="MoonTV.in" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/MoonTV.in.png" group-title="News [SD]",Moon TV [SD]
 https://cdn-4.pishow.tv/live/1121/master.m3u8
 #EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/NBCNewsNOW.us.png" group-title="News [SD]",NBC News NOW [SD]
@@ -1129,8 +1129,6 @@ https://amg00732-salemmediagroup-snc-ono-ekp8j.amagi.tv/playlist/amg00732-salemm
 https://59d39900ebfb8.streamlock.net/untv-720/untv-720/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv.al" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/al/ntv.al.png" group-title="News [HD]",ntv [HD]
 https://protokolldns.xyz/ntv.l.i.v.e5547892023/index.m3u8
-#EXTINF:-1 tvg-id="SamayNational.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Samay_raina_%28cropped%29.jpg/330px-Samay_raina_%28cropped%29.jpg" group-title="News [SD]",Samay National [SD]
-http://206.212.244.63/674/index.m3u8
 #EXTINF:-1 tvg-id="PalestineAlYawm.lb" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/lb/PalestineAlYawm.lb.png" group-title="News [HD]",Palestine Al Yawm [HD]
 https://live.paltodaytv.com/paltv/live/playlist_sfm4s.m3u8
 #EXTINF:-1 tvg-id="PalestineToday.ps" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ps/PalestineToday.ps.png" group-title="News [HD]",Palestine Today [HD]
@@ -1203,6 +1201,8 @@ https://yayin30.haber100.com/live/finansturk/playlist.m3u8
 https://lencatelevision.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AwaazIndiaTV.in" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/AwaazIndiaTV.in.png" group-title="News",Awaaz India TV
 https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
+#EXTINF:-1 tvg-id="News12NewJersey.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/News12NewJersey.us.png" group-title="News [SD]",News12 New Jersey [SD]
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12JH_CENT_A1/index_new.m3u8?omap=https
 #EXTINF:-1 tvg-id="News24.au" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=news24.com.au" group-title="News [FHD]",News24 [FHD]
 https://skynewsau-live-premium.akamaized.net/hls/live/2105299/skynews/live.m3u8
 #EXTINF:-1 tvg-id="ICNDigital.hn" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/hn/ICNDigital.hn.png" group-title="News",ICN Digital
@@ -1221,8 +1221,8 @@ https://bozztv.com/rongo/rongo-somoy/index.m3u8
 https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlalamNewsChannelSyria.sy" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/sy/AlalamNewsChannelSyria.sy.png" group-title="News",Alalam News Channel Syria
 https://live2.alalam.ir/live/Alalam/index.m3u8
-#EXTINF:-1 tvg-id="ERTNews.gr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gr/ERTNews.gr.png" group-title="News [SD]",ERT News [SD]
-https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8
+#EXTINF:-1 tvg-id="HirTV.hu" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/hu/HirTV.hu.png" group-title="News",Hir TV
+https://video11.videa.hu/static/live/8.2966061.2530409.1.5.590.590/index.m3u8
 #EXTINF:-1 tvg-id="NewsCentral.ng" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ng/NewsCentral.ng.png" group-title="News [HD]",News Central [HD]
 https://wf.newscentral.ng:8443/hls/stream.m3u8
 #EXTINF:-1 tvg-id="24HorasCatalunya.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/24HorasCatalunya.es.png" group-title="News [HD]",24 Horas Catalunya [HD]
@@ -1233,13 +1233,13 @@ https://live2.alalam.ir/alalam.m3u8
 https://edge.essastream.com/rdntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="UNETV.hn" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/hn/UNETV.hn.png" group-title="News",UNE TV
 https://amixtv.com:8081/unetvhn/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="SamayNational.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Samay_raina_%28cropped%29.jpg/330px-Samay_raina_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail" group-title="News [SD]",Samay National [SD]
+http://206.212.244.63/674/index.m3u8
 #EXTINF:-1 tvg-id="News12PlusLongIsland.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/News12PlusLongIsland.us.png" group-title="News [SD]",News12+ Long Island [SD]
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_LI_A1/index_new.m3u8
 #EXTINF:-1 tvg-id="News12Westchester.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/News12Westchester.us.png" group-title="News [SD]",News12 Westchester [SD]
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8?omap=https
 #EXTINF:-1 tvg-id="RadioUnoTacna.pe" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pe/RadioUnoTacna.pe.png" group-title="News [HD]",Radio Uno Tacna [HD]
 https://live-evg7.tv360.bitel.com.pe/bitel/radiounotv/playlist.m3u8
-#EXTINF:-1 tvg-id="News12NewJersey.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/News12NewJersey.us.png" group-title="News [SD]",News12 New Jersey [SD]
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12JH_CENT_A1/index_new.m3u8?omap=https
 #EXTINF:-1 tvg-id="News12PlusHudsonValley.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/News12PlusHudsonValley.us.png" group-title="News [SD]",News12+ Hudson Valley [SD]
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_WC_A1/index_new.m3u8
