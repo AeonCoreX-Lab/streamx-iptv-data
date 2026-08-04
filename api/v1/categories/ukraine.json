@@ -78,8 +78,8 @@
       "name": "Espreso TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/EspresoTV.ua.png",
       "streamUrls": [
-        "https://dash4.antik.sk/live/test_espresso/playlist.m3u8",
         "https://dash2.antik.sk/live/test_espresso/playlist.m3u8",
+        "https://dash4.antik.sk/live/test_espresso/playlist.m3u8",
         "https://api-tv.ipnet.ua/api/v1/manifest/2118742594.m3u8"
       ],
       "category": "Ukraine",
@@ -253,8 +253,8 @@
       "name": "SK 1",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/SK1.ua.png",
       "streamUrls": [
-        "http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8",
-        "http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8"
+        "http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8",
+        "http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8"
       ],
       "category": "Ukraine",
       "languages": []
@@ -438,7 +438,7 @@
     {
       "id": "KvartalTVInternational.ua",
       "name": "Kvartal TV International",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/1%2B1_logo.svg/330px-1%2B1_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/1%2B1_logo.svg/330px-1%2B1_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8"
       ],
@@ -979,7 +979,7 @@
     {
       "id": "Sport5.ua",
       "name": "Sport 5",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/View_of_the_MTV_Studios_building_from_Hawley_Crescent_-_geograph.org.uk_-_5425610.jpg/330px-View_of_the_MTV_Studios_building_from_Hawley_Crescent_-_geograph.org.uk_-_5425610.jpg",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/View_of_the_MTV_Studios_building_from_Hawley_Crescent_-_geograph.org.uk_-_5425610.jpg/330px-View_of_the_MTV_Studios_building_from_Hawley_Crescent_-_geograph.org.uk_-_5425610.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "http://stream.mcquack.net/212/index.m3u8"
       ],
@@ -1108,8 +1108,19 @@
       ],
       "category": "Ukraine",
       "languages": []
+    },
+    {
+      "id": "Svarozhychy.ua",
+      "name": "Svarozhychy",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/Svarozhychy.ua.png",
+      "streamUrls": [
+        "http://svarozhichi.cdn-04.cosmonova.net.ua/mobile-app/main/svarozhichi/master.m3u8"
+      ],
+      "country": "UA",
+      "category": "Ukraine",
+      "languages": []
     }
   ],
-  "count": 107,
-  "generated_at": "2026-08-03T21:01:13.701970"
+  "count": 108,
+  "generated_at": "2026-08-04T02:26:18.929268"
 }
