@@ -1191,21 +1191,11 @@
       "languages": []
     },
     {
-      "id": "AsianCultureTV.us",
-      "name": "Asian Culture TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/AsianCultureTV.us.png",
-      "streamUrls": [
-        "https://cdn.vegasplus.us/vegas/actv/playlist.m3u8"
-      ],
-      "category": "Informative",
-      "languages": []
-    },
-    {
       "id": "AsianBox.mn",
       "name": "AsianBox",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/AsianBox.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/AsianBOX/DASH-FTA/AsianBOX.mpd"
+        "https://cdn4.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -6588,16 +6578,6 @@
       "languages": []
     },
     {
-      "id": "LatinoChannelTV.us",
-      "name": "Latino Channel TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/LatinoChannelTV.us.png",
-      "streamUrls": [
-        "https://cdn.vegasplus.us/vegas/latch/playlist.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "LauraDaveMediaTV.cm",
       "name": "Laura Dave Media TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cm/LauraDaveMediaTV.cm.png",
@@ -7428,7 +7408,6 @@
       "name": "Mindanow Network TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ph/MindanowNetworkTV.ph.png",
       "streamUrls": [
-        "https://cdn.vegasplus.us/vegas/mmn01/playlist.m3u8",
         "https://streams.comclark.com/overlay/mindanow/playlist.m3u8"
       ],
       "category": "Movies",
@@ -8664,16 +8643,6 @@
         "https://cdn-7.pishow.tv/live/450/master.m3u8"
       ],
       "category": "Entertainment",
-      "languages": []
-    },
-    {
-      "id": "PacificIslandNetwork.us",
-      "name": "Pacific Island Network",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/PacificIslandNetwork.us.png",
-      "streamUrls": [
-        "https://cdn.vegasplus.us/vegas/mpin/playlist.m3u8"
-      ],
-      "category": "Other",
       "languages": []
     },
     {
@@ -11960,7 +11929,8 @@
       "name": "UBS",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/UBS.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/UBSHD/HLSv3-FTA/UBSHD.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/UBSHD/HLSv3-FTA/UBSHD.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/UBSHD/DASH-FTA/UBSHD.mpd"
       ],
       "category": "Other",
       "languages": []
@@ -14208,6 +14178,7 @@
       "name": "NTV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/NTV.mn.png",
       "streamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/NTVHD/DASH-FTA/NTVHD.mpd",
         "https://cdn4.skygo.mn/live/disk1/NTVHD/HLSv3-FTA/NTVHD.m3u8"
       ],
       "country": "MN",
@@ -14805,7 +14776,6 @@
       "name": "Star TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/StarTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/Star/HLSv3-FTA/Star.m3u8",
         "https://cdn4.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd"
       ],
       "country": "MN",
@@ -15095,7 +15065,9 @@
       "name": "Jersey Shore",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-64424b21e1979c0008379681.m3u8"
+        "https://jmp2.uk/plu-64424b21e1979c0008379681.m3u8",
+        "https://jmp2.uk/plu-6442508e5a0cd500083edd3c.m3u8",
+        "https://jmp2.uk/plu-64424c1be94c380008d0a98c.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -15115,7 +15087,7 @@
     {
       "id": "JudgeJudy.de",
       "name": "Judge Judy",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Judge_Judy_Sheindlin_VF_2012_Shankbone.JPG/330px-Judge_Judy_Sheindlin_VF_2012_Shankbone.JPG",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Judge_Judy_Sheindlin_VF_2012_Shankbone.JPG/330px-Judge_Judy_Sheindlin_VF_2012_Shankbone.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "https://jmp2.uk/plu-622f498d119b4c000719c0b7.m3u8"
       ],
@@ -15329,9 +15301,9 @@
       "name": "MTV Ridiculousness",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-62cd9641393d8400076f34db.m3u8",
         "https://jmp2.uk/plu-62cd9e0d10bb020007005628.m3u8",
-        "https://jmp2.uk/plu-62cda0dfddc1040008fccacc.m3u8"
+        "https://jmp2.uk/plu-62cda0dfddc1040008fccacc.m3u8",
+        "https://jmp2.uk/plu-62cd9641393d8400076f34db.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -16060,7 +16032,8 @@
       "name": "TV9",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/TV9.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/TV9HD/DASH-FTA/TV9HD.mpd"
+        "https://cdn4.skygo.mn/live/disk1/TV9HD/DASH-FTA/TV9HD.mpd",
+        "https://cdn4.skygo.mn/live/disk1/TV9HD/HLSv3-FTA/TV9HD.m3u8"
       ],
       "country": "MN",
       "category": "Entertainment",
@@ -19094,9 +19067,9 @@
       "name": "Korean Central Television",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/kp/KoreanCentralTelevision.kp.png",
       "streamUrls": [
-        "https://kctv.koryofront.org/stream/index.m3u8",
         "https://stream.intchoson.com/kctv/main_stream.m3u8",
-        "https://stream.intchoson.com/kctv/index.m3u8"
+        "https://stream.intchoson.com/kctv/index.m3u8",
+        "https://kctv.koryofront.org/stream/index.m3u8"
       ],
       "country": "KP",
       "category": "Entertainment",
@@ -19300,7 +19273,7 @@
     {
       "id": "Sorozatklub.hu",
       "name": "Sorozatklub",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/330px-Logo_M6_%282020%2C_fond_clair%29.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/330px-Logo_M6_%282020%2C_fond_clair%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "http://88.212.15.19/live/sorozatklub_atk/index.m3u8"
       ],
@@ -19793,7 +19766,7 @@
     {
       "id": "Frasier.se",
       "name": "Frasier",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Frasier_title_logo.svg/330px-Frasier_title_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "https://jmp2.uk/plu-6400c095498393000878a634.m3u8"
       ],
@@ -20285,6 +20258,7 @@
       "name": "Ignite Television",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gy/IgniteTelevision.gy.png",
       "streamUrls": [
+        "https://rpn.bozztv.com/ignitelive/ignitetv/ignitetv/playlist.m3u8",
         "https://rpn.bozztv.com/ignitelive/ignitetv/ignitetv/tracks-v1a1/mono.m3u8"
       ],
       "country": "GY",
