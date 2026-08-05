@@ -315,9 +315,9 @@
       "name": "Al Quran Al Kareem TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/sa/AlQuranAlKareemTV.sa.png",
       "streamUrls": [
-        "http://m.live.net.sa:1935/live/quran/playlist.m3u8",
         "http://m.live.net.sa:1935/live/quran/gmswf.m3u8",
-        "https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8"
+        "http://m.live.net.sa:1935/live/quran/playlist.m3u8",
+        "https://aloula-redirect.vercel.app/7/playlist.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -327,8 +327,8 @@
       "name": "Al Sunnah Al Nabawiyah TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/sa/AlSunnahAlNabawiyahTV.sa.png",
       "streamUrls": [
-        "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8",
         "http://m.live.net.sa:1935/live/sunnah/gmswf.m3u8",
+        "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8",
         "https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8"
       ],
       "category": "Religious",
@@ -580,8 +580,7 @@
       "name": "Anand TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/AnandTV.in.png",
       "streamUrls": [
-        "https://live.legitpro.co.in/anandtv/index.m3u8",
-        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/anand-tv/index.m3u8?ads.vf=OKNb9KN8NqS"
+        "https://live.legitpro.co.in/anandtv/index.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -599,11 +598,11 @@
     {
       "id": "AngelTV.in",
       "name": "Angel TV",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=angeltv.org",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/WCIU_the_U_logo_2024.png/330px-WCIU_the_U_logo_2024.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
-        "https://janya-digimix.akamaized.net/vglive-sk-150533/hebrew/ngrp:angelhebrew_all/playlist.m3u8",
         "https://janya-digimix.akamaized.net/vglive-sk-213167/arabia/ngrp:angelarabia_all/playlist.m3u8",
-        "https://janya-digimix.akamaized.net/vglive-sk-438760/fareast/ngrp:angelfareast_all/playlist.m3u8"
+        "https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8",
+        "https://janya-digimix.akamaized.net/vglive-sk-150533/hebrew/ngrp:angelhebrew_all/playlist.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -1353,8 +1352,8 @@
       "name": "Enlace",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cr/Enlace.cr.png",
       "streamUrls": [
-        "http://177.234.247.66:9975/Enlace/index.m3u8",
         "http://177.234.249.178:8888/ENLACE/index.m3u8",
+        "http://177.234.247.66:9975/Enlace/index.m3u8",
         "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8"
       ],
       "category": "Religious",
@@ -1534,7 +1533,7 @@
     {
       "id": "GiovanniPaoloTV.it",
       "name": "Giovanni Paolo TV",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Paolo_Nutini_-_2015.jpg/330px-Paolo_Nutini_-_2015.jpg",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Paolo_Nutini_-_2015.jpg/330px-Paolo_Nutini_-_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "https://media2021.rtvweb.com/giovannipaolotv/web/playlist.m3u8"
       ],
@@ -1900,7 +1899,8 @@
       "name": "Imam Hussein TV 1",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/iq/ImamHusseinTV1.iq.png",
       "streamUrls": [
-        "https://live.imamhossaintv.com/live/ih1.m3u8"
+        "https://live.imamhossaintv.com/live/ih1.m3u8",
+        "http://fa.imamhossaintv.com/live/ih1.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -1910,7 +1910,8 @@
       "name": "Imam Hussein TV 2",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/iq/ImamHusseinTV2.iq.png",
       "streamUrls": [
-        "https://live.imamhossaintv.com/live/ih2.m3u8"
+        "https://live.imamhossaintv.com/live/ih2.m3u8",
+        "http://ar.imamhossaintv.com/live/ih2.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -1920,7 +1921,8 @@
       "name": "Imam Hussein TV 3",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/iq/ImamHusseinTV3.iq.png",
       "streamUrls": [
-        "https://live.imamhossaintv.com/live/ih3.m3u8"
+        "https://live.imamhossaintv.com/live/ih3.m3u8",
+        "http://en.imamhossaintv.com/live/ih3.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -1930,7 +1932,8 @@
       "name": "Imam Hussein TV 4",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/iq/ImamHusseinTV4.iq.png",
       "streamUrls": [
-        "https://live.imamhossaintv.com/live/ih4.m3u8"
+        "https://live.imamhossaintv.com/live/ih4.m3u8",
+        "http://ur.imamhossaintv.com/live/ih4.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -2616,7 +2619,7 @@
     {
       "id": "MedjugorjeItaliaTV.it",
       "name": "Medjugorje Italia TV",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/2025_Andrea_Bocelli_in_the_White_House_Oval_Office_on_October_17_%28cropped%29.jpg/330px-2025_Andrea_Bocelli_in_the_White_House_Oval_Office_on_October_17_%28cropped%29.jpg",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=medjugorjeitaliatv.net",
       "streamUrls": [
         "https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8"
       ],
@@ -2882,8 +2885,8 @@
       "name": "PTC Simran",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/PTCSimran.in.png",
       "streamUrls": [
-        "https://cdn-6.pishow.tv/live/1503/master.m3u8",
-        "http://103.175.73.12:8080/live/183/master.m3u8"
+        "http://103.175.73.12:8080/live/183/master.m3u8",
+        "https://cdn-6.pishow.tv/live/1503/master.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -3256,6 +3259,7 @@
       "name": "SVBC 4",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/SVBC4.in.png",
       "streamUrls": [
+        "https://cdn-2.pishow.tv/live/1607/master.m3u8",
         "https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8"
       ],
       "category": "Religious",
@@ -3419,7 +3423,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ae/SharjahTV.ae.png",
       "streamUrls": [
         "https://cdn-globecast.akamaized.net/live/eds/sharjah_tv/hls_roku/index.m3u8",
-        "https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8",
         "https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8"
       ],
       "category": "Religious",
@@ -3673,7 +3676,8 @@
       "name": "TV2000",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/it/TV2000.it.png",
       "streamUrls": [
-        "https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8"
+        "https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8",
+        "http://mi1.wz.tv2000.it/tv2000_alfa.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -3935,7 +3939,8 @@
       "name": "Holy Quran Radio",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=radioplus.sba.sa",
       "streamUrls": [
-        "https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8"
+        "https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8",
+        "https://aloula-redirect.vercel.app/13/playlist.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -4087,6 +4092,7 @@
       "name": "Andes Television",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pe/AndesTelevision.pe.png",
       "streamUrls": [
+        "https://stmv2.srvif.com/tvsicuani/tvsicuani/playlist.m3u8",
         "https://live-evg7.tv360.bitel.com.pe/bitel/andestvSRT/playlist.m3u8"
       ],
       "category": "Religious",
@@ -4797,18 +4803,6 @@
       "languages": []
     },
     {
-      "id": "GodStandsKidsClubTV.pk",
-      "name": "God Stands Kids Club TV",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=godstands.tv",
-      "streamUrls": [
-        "https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8",
-        "https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8",
-        "https://online.godstands.tv:5443/WebRTCApp/streams/KidsUrdu.m3u8"
-      ],
-      "category": "Religious",
-      "languages": []
-    },
-    {
       "id": "AlcanceTV.mx",
       "name": "Alcance TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/AlcanceTV.mx.png",
@@ -4909,18 +4903,6 @@
       "languages": []
     },
     {
-      "id": "DivyaDarshanTV.np",
-      "name": "Divya Darshan TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/np/DivyaDarshanTV.np.png",
-      "streamUrls": [
-        "https://live.divyadarshantv.com/hls/0/stream.m3u8",
-        "http://live.divyadarshantv.com/hls/stream.m3u8"
-      ],
-      "country": "NP",
-      "category": "Religious",
-      "languages": []
-    },
-    {
       "id": "TVGracia.co",
       "name": "TVGracia",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/TVGracia.co.png",
@@ -5011,6 +4993,6 @@
       "languages": []
     }
   ],
-  "count": 494,
-  "generated_at": "2026-08-04T21:11:56.525723"
+  "count": 492,
+  "generated_at": "2026-08-05T02:25:50.912616"
 }

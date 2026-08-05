@@ -38,8 +38,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/sa/AsharqNews.sa.png",
       "streamUrls": [
         "https://live-news.asharq.com/asharq.m3u8",
-        "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-asharq/10ae30c64e21402c8116a7fb1e5aa789/index.m3u8",
-        "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/manifest.mpd"
+        "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/manifest.mpd",
+        "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8"
       ],
       "category": "Business",
       "languages": []
@@ -90,8 +90,7 @@
       "name": "Bloomberg HT",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/BloombergHT.tr.png",
       "streamUrls": [
-        "https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8",
-        "https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8"
+        "https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8"
       ],
       "category": "Business",
       "languages": []
@@ -297,8 +296,8 @@
       "name": "NDTV Profit",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/NDTVProfit.in.png",
       "streamUrls": [
-        "https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_5.m3u8",
-        "https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8"
+        "https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8",
+        "https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_5.m3u8"
       ],
       "category": "Business",
       "languages": []
@@ -308,9 +307,9 @@
       "name": "RBK-TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/RBKTV.ru.png",
       "streamUrls": [
+        "http://hls127.freeott.top:8080/RBK/video.m3u8",
         "http://92.50.128.180/utv/1358/index.m3u8",
-        "http://31.148.48.15/RBK/index.m3u8",
-        "http://online-video.rbc.ru/online2/rbctv.m3u8"
+        "http://31.148.48.15/RBK/index.m3u8"
       ],
       "category": "Business",
       "languages": []
@@ -535,5 +534,5 @@
     }
   ],
   "count": 51,
-  "generated_at": "2026-08-04T21:11:56.500616"
+  "generated_at": "2026-08-05T02:25:50.652009"
 }
