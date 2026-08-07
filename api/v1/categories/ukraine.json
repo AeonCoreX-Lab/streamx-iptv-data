@@ -78,8 +78,8 @@
       "name": "Espreso TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/EspresoTV.ua.png",
       "streamUrls": [
-        "https://dash4.antik.sk/live/test_espresso/playlist.m3u8",
         "https://dash2.antik.sk/live/test_espresso/playlist.m3u8",
+        "https://dash4.antik.sk/live/test_espresso/playlist.m3u8",
         "https://api-tv.ipnet.ua/api/v1/manifest/2118742594.m3u8"
       ],
       "category": "Ukraine",
@@ -212,8 +212,8 @@
       "name": "Pervyy gorodskoy. Odessa",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/PervyygorodskoyOdessa.ua.png",
       "streamUrls": [
-        "http://91.194.79.46:8081/stream1/channel1/playlist.m3u8",
-        "http://91.194.79.46:8081/stream2/channel2/playlist.m3u8"
+        "http://91.194.79.46:8081/stream2/channel2/playlist.m3u8",
+        "http://91.194.79.46:8081/stream1/channel1/playlist.m3u8"
       ],
       "category": "Ukraine",
       "languages": []
@@ -253,8 +253,8 @@
       "name": "SK 1",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/SK1.ua.png",
       "streamUrls": [
-        "http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8",
-        "http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8"
+        "http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8",
+        "http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8"
       ],
       "category": "Ukraine",
       "languages": []
@@ -316,7 +316,8 @@
       "name": "1+1 International",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/1Plus1International.ua.png",
       "streamUrls": [
-        "https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8"
+        "https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8",
+        "http://158.101.222.193:88/georgia_play.php?id=1plus1international"
       ],
       "category": "Ukraine",
       "languages": []
@@ -347,7 +348,8 @@
       "name": "M1",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/M1.ua.png",
       "streamUrls": [
-        "http://stream.mcquack.net/218/index.m3u8"
+        "http://stream.mcquack.net/218/index.m3u8",
+        "http://158.101.222.193:88/georgia_play.php?id=m1"
       ],
       "category": "Ukraine",
       "languages": []
@@ -440,19 +442,6 @@
       "streamUrls": [
         "https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8"
       ],
-      "category": "Ukraine",
-      "languages": []
-    },
-    {
-      "id": "TVA.ua",
-      "name": "TVA",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/TVA.ua.png",
-      "streamUrls": [
-        "http://hls.cdn.ua/tva.ua_live/livestream/chunklist_w396178779.m3u8",
-        "http://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8",
-        "http://rtsp.cdn.ua/tva.ua_live/livestream/playlist.m3u8"
-      ],
-      "country": "UA",
       "category": "Ukraine",
       "languages": []
     },
@@ -1119,6 +1108,6 @@
       "languages": []
     }
   ],
-  "count": 108,
-  "generated_at": "2026-08-06T14:05:52.875320"
+  "count": 107,
+  "generated_at": "2026-08-07T00:52:29.519119"
 }
