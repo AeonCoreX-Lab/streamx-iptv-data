@@ -1196,7 +1196,6 @@
       "name": "AsianBox",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/AsianBox.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/AsianBOX/DASH-FTA/AsianBOX.mpd",
         "https://cdn4.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX.m3u8"
       ],
       "category": "Entertainment",
@@ -9148,7 +9147,7 @@
       "name": "RTP Acores",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pt/RTPAcores.pt.png",
       "streamUrls": [
-        "https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8"
+        "https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -11321,7 +11320,7 @@
     {
       "id": "TeleOne16.it",
       "name": "Tele One 16",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/DZMM_TeleRadyo.svg/330px-DZMM_TeleRadyo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/DZMM_TeleRadyo.svg/330px-DZMM_TeleRadyo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8"
       ],
@@ -11946,7 +11945,8 @@
       "name": "Ulzii TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/UlziiTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/UlziiTV/HLSv3-FTA/UlziiTV.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/UlziiTV/HLSv3-FTA/UlziiTV.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/UlziiTV/DASH-FTA/UlziiTV.mpd"
       ],
       "category": "Other",
       "languages": []
@@ -13227,16 +13227,6 @@
       "languages": []
     },
     {
-      "id": "CableSurTV.co",
-      "name": "Cable Sur TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/CableSurTV.co.png",
-      "streamUrls": [
-        "https://tvlatina.live:1936/8025/8025/playlist.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "CanalDos.co",
       "name": "Canal Dos",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/CanalDos.co.png",
@@ -13488,7 +13478,7 @@
     {
       "id": "PlutoTVInside.de",
       "name": "Pluto TV Inside",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/330px-Nickelodeon_2023_logo_%28outline%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "https://jmp2.uk/plu-5f8ed3892ed7bb000741a1d2.m3u8"
       ],
@@ -13985,16 +13975,6 @@
       "streamUrls": [
         "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/antenauno.stream/playlist.m3u8",
         "https://live-evg8.tv360.bitel.com.pe/bitel/aunoSRT/playlist.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
-      "id": "AupurTelevision.co",
-      "name": "Aupur Television",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/AupurTelevision.co.png",
-      "streamUrls": [
-        "https://canal.aupurtv.co/live/stream/index.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -15012,6 +14992,7 @@
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
         "https://jmp2.uk/plu-64424c1be94c380008d0a98c.m3u8",
+        "https://jmp2.uk/plu-64424b21e1979c0008379681.m3u8",
         "https://jmp2.uk/plu-6442508e5a0cd500083edd3c.m3u8"
       ],
       "category": "Entertainment",
@@ -15148,7 +15129,7 @@
     {
       "id": "MTVGeordies.de",
       "name": "MTV Geordies",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Nathan_Henry_%28TV_personality%29.jpg/330px-Nathan_Henry_%28TV_personality%29.jpg",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Nathan_Henry_%28TV_personality%29.jpg/330px-Nathan_Henry_%28TV_personality%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "https://jmp2.uk/plu-627d3176d7dfa500077042f1.m3u8"
       ],
@@ -15188,9 +15169,8 @@
     {
       "id": "MTVReality.de",
       "name": "MTV Reality",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/330px-MTV_2021_%28brand_version%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
-        "https://jmp2.uk/plu-685136fb33a52de120bbb086.m3u8",
         "https://jmp2.uk/plu-6130d8dc943001000708548d.m3u8"
       ],
       "category": "Entertainment",
@@ -19623,16 +19603,6 @@
       "languages": []
     },
     {
-      "id": "Canal9Cosespu.co",
-      "name": "Canal 9 Cosespu",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/Canal9Cosespu.co.png",
-      "streamUrls": [
-        "https://video2.lhdserver.es/canal9cosespu/live.m3u8"
-      ],
-      "category": "Other",
-      "languages": []
-    },
-    {
       "id": "Telenord10.do",
       "name": "Telenord 10",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/Telenord10.do.png",
@@ -20332,6 +20302,36 @@
         "https://lbgo.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8"
       ],
       "category": "Other",
+      "languages": []
+    },
+    {
+      "id": "AIONTV.do",
+      "name": "AION TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/AIONTV.do.png",
+      "streamUrls": [
+        "https://edge.essastream.com/aiontelevision/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "Canal25Ayacucho.pe",
+      "name": "Canal 25 Ayacucho",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pe/Canal25Ayacucho.pe.png",
+      "streamUrls": [
+        "https://live-evg10.tv360.bitel.com.pe/bitel/canal25ayacucho/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "RobinsonEkspeditionen.se",
+      "name": "Robinson Ekspeditionen",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
+      "streamUrls": [
+        "https://jmp2.uk/plu-63a42df60cc44a0007dd47f8.m3u8"
+      ],
+      "category": "Entertainment",
       "languages": []
     }
   ]
