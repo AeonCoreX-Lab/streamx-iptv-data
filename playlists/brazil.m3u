@@ -50,7 +50,7 @@ http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 #EXTINF:-1 tvg-id="PlayTV.br" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/PlayTV.br.png" group-title="Brazil [FHD]",Play TV [FHD]
 http://45.177.114.115:80/PLAY_TV/index.m3u8
 #EXTINF:-1 tvg-id="Record.br" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/Record.br.png" group-title="Brazil [SD]",Record [SD]
-http://170.84.165.204:80/Record_HD/index.m3u8
+http://138.255.2.6:8084/RECORD/index.m3u8
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/RecordNews.br.png" group-title="Brazil [HD]",Record News [HD]
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 #EXTINF:-1 tvg-id="RecordTVInteriorSP.br" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/RecordTVInteriorSP.br.png" group-title="Brazil",RecordTV Interior SP
@@ -136,7 +136,7 @@ https://umatv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="geFast.br" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/geFast.br.png" group-title="Brazil [SD]",ge Fast [SD]
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
 #EXTINF:-1 tvg-id="RITTV.br" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/RITTV.br.png" group-title="Brazil [SD]",RIT TV [SD]
-http://170.84.165.204:80/RIT_TV/index.m3u8
+http://138.255.2.6:8084/RIT/index.m3u8
 #EXTINF:-1 tvg-id="TVGRANDENATALHDTVBRASIL.br" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/TVGRANDENATALHDTVBRASIL.br.png" group-title="Brazil [HD]",TV GRANDE NATAL HDTV BRASIL [HD]
 http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
 #EXTINF:-1 tvg-id="CanalMetropolitanodeNoticias.br" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/CanalMetropolitanodeNoticias.br.png" group-title="Brazil",Canal Metropolitano de Noticias
@@ -205,6 +205,8 @@ http://45.190.28.50/PAI_ETERNO/index.m3u8
 http://45.177.114.115:80/TV_RA_TIM_BUM/index.m3u8
 #EXTINF:-1 tvg-id="TerraViva.br" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/TerraViva.br.png" group-title="Brazil [SD]",Terra Viva [SD]
 http://45.190.28.50/TERRA_VIVA_HD/index.m3u8
+#EXTINF:-1 tvg-id="PrimerTV.br" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/PrimerTV.br.png" group-title="Brazil [FHD]",Primer TV [FHD]
+http://200.194.238.229:8383/live/primer/playlist.m3u8
 #EXTINF:-1 tvg-id="TVUFOP.br" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/TVUFOP.br.png" group-title="Brazil",TV UFOP
 https://app.tvufop.com.br/hls/tvufop.m3u8
 #EXTINF:-1 tvg-id="Canal25Jundiai.br" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/Canal25Jundiai.br.png" group-title="Brazil",Canal 25 Jundiai
@@ -236,9 +238,9 @@ http://138.255.2.6:8084/AXN/index.m3u8
 #EXTINF:-1 tvg-id="FashionTV.br" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/FashionTV.br.png" group-title="Brazil [HD]",FashionTV [HD]
 http://45.190.28.50/FASHION_TV_HD/index.m3u8
 #EXTINF:-1 tvg-id="BoxKidsTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Sky_Kids_2026.svg/330px-Sky_Kids_2026.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail" group-title="Brazil [HD]",Box Kids TV [HD]
-http://45.190.28.50/BOX_KIDS_HD/index.m3u8
+http://138.255.2.6:8084/BOXKIDS/index.m3u8
 #EXTINF:-1 tvg-id="TravelBoxBrazil.br" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/TravelBoxBrazil.br.png" group-title="Brazil [HD]",Travel Box Brazil [HD]
-http://45.190.28.50/TRAVEL_BOX_HD/index.m3u8
+http://138.255.2.6:8084/TRAVELBOXBRASIL/index.m3u8
 #EXTINF:-1 tvg-id="TVECultura.br" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/TVECultura.br.png" group-title="Brazil [FHD]",TVE Cultura [FHD]
 http://45.190.28.50/TVE/index.m3u8
 #EXTINF:-1 tvg-id="Band.br" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/Band.br.png" group-title="Brazil [HD]",Band [HD]
@@ -283,14 +285,12 @@ https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8
 https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8
 #EXTINF:-1 tvg-id="TCM10HD.br" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/TCM10HD.br.png" group-title="Brazil [HD]",TCM 10 HD [HD]
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
-#EXTINF:-1 tvg-id="TVPampa.br" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/TVPampa.br.png" group-title="Brazil [FHD]",TV Pampa [FHD]
-https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
 #EXTINF:-1 tvg-id="CulturaPara.br" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/CulturaPara.br.png" group-title="Brazil [HD]",Cultura Para [HD]
 http://170.84.165.204:80/CANAL_21_HD/index.m3u8
 #EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/TVGloboSaoPaulo.br.png" group-title="Brazil [SD]",TV Globo Sao Paulo [SD]
 http://170.84.165.204:80/Globo_HD/index.m3u8
 #EXTINF:-1 tvg-id="RedeSeculo21.br" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/RedeSeculo21.br.png" group-title="Brazil [HD]",Rede Seculo 21 [HD]
-http://138.255.2.6:8084/REDESECULO21/index.m3u8
+http://186.219.52.187:80/seculo21/index.m3u8
 #EXTINF:-1 tvg-id="Futura.br" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/Futura.br.png" group-title="Brazil [HD]",Futura [HD]
 http://168.197.104.22:80/FUTURA/index.m3u8
 #EXTINF:-1 tvg-id="RedeFamilia.br" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/RedeFamilia.br.png" group-title="Brazil [HD]",Rede Familia [HD]
@@ -313,5 +313,5 @@ http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8
 https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8
 #EXTINF:-1 tvg-id="TVComunitaria.br" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/TVComunitaria.br.png" group-title="Brazil",TV Comunitaria
 https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
-#EXTINF:-1 tvg-id="PrimerTV.br" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/PrimerTV.br.png" group-title="Brazil [FHD]",Primer TV [FHD]
-http://200.194.238.229:8383/live/primer/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPampa.br" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/TVPampa.br.png" group-title="Brazil [FHD]",TV Pampa [FHD]
+https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
