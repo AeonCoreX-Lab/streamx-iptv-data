@@ -1,64 +1,12 @@
 {
-  "last_updated": "2026-08-08T07:34:48Z",
+  "last_updated": "2026-08-08T08:21:28Z",
   "strict_mode": true,
   "requires_stream": true,
   "requires_thumbnail": true,
-  "total_live": 22,
-  "total_upcoming": 144,
-  "total_streamed": 166,
+  "total_live": 21,
+  "total_upcoming": 148,
+  "total_streamed": 169,
   "active_events": [
-    {
-      "event_id": "spk_melbourne-storm-vs-manly-sea-eagles-2417338",
-      "title": "Melbourne Storm vs Manly Sea Eagles",
-      "sport": "Rugby",
-      "sport_icon": "sports_rugby",
-      "sport_color": "#00BFA5",
-      "tvg_id": "spk_melbourne-storm-vs-manly-sea-eagles-2417338",
-      "start_time": "2026-08-08T05:00:00Z",
-      "end_time": "2026-08-08T08:00:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "StreamedPK Admin HD #1 (English - Fox League)",
-          "url": "https://embed.st/embed/admin/ppv-storm-vs-sea-eagles/1"
-        },
-        {
-          "name": "StreamedPK Admin SD #2 (English - Fox League)",
-          "url": "https://embed.st/embed/admin/ppv-storm-vs-sea-eagles/2"
-        }
-      ],
-      "stream_count": 2,
-      "has_stream": true,
-      "source": "StreamedPK",
-      "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3Awx+EBBAwQ3EABNNBkIi18Q5kroIUmfFFzBl4ReaIdNaYJ2NEQgA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC9WABhCIAJiF3c9ICIcTG+Ic8ZgEKTPii5gy8IvNEOmtME7GiIQA.webp",
-      "league": "rugby"
-    },
-    {
-      "event_id": "spk_ppv-storm-vs-sea-eagles",
-      "title": "Storm vs. Sea Eagles",
-      "sport": "Rugby",
-      "sport_icon": "sports_rugby",
-      "sport_color": "#00BFA5",
-      "tvg_id": "spk_ppv-storm-vs-sea-eagles",
-      "start_time": "2026-08-08T05:00:00Z",
-      "end_time": "2026-08-08T08:00:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "StreamedPK Admin HD #1 (English - Fox League)",
-          "url": "https://embed.st/embed/admin/ppv-storm-vs-sea-eagles/1"
-        },
-        {
-          "name": "StreamedPK Admin SD #2 (English - Fox League)",
-          "url": "https://embed.st/embed/admin/ppv-storm-vs-sea-eagles/2"
-        }
-      ],
-      "stream_count": 2,
-      "has_stream": true,
-      "source": "StreamedPK",
-      "thumbnail": "https://streamed.pk/api/images/proxy//api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRChAQQMsmSzAqIGCBJSQSmSpkz42DSGHBpkycOXj9ERRuPKU5awKEim2emELAkuAMYOhMG5OayMyBwJgPTAg41JjIA.webp.webp",
-      "league": "rugby"
-    },
     {
       "event_id": "spk_678fd8508d98ade1299c32c8",
       "title": "Marquee Sports Network",
@@ -559,7 +507,7 @@
       "tvg_id": "spk_karlovac-1919-vs-lucko-football-1607282",
       "start_time": "2026-08-08T08:00:00Z",
       "end_time": "2026-08-08T11:00:00Z",
-      "is_live": false,
+      "is_live": true,
       "streams": [
         {
           "name": "StreamedPK Echo #1",
@@ -571,6 +519,58 @@
       "source": "StreamedPK",
       "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIbCCogUy+uQYBjZuJ7wRVbgS6swYXPmtA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiICCADGa+uQarm4nvBFVuBLqzBhc+S0A.webp",
       "league": "football"
+    },
+    {
+      "event_id": "spk_melbourne-storm-vs-manly-sea-eagles-2417338",
+      "title": "Melbourne Storm vs Manly Sea Eagles",
+      "sport": "Rugby",
+      "sport_icon": "sports_rugby",
+      "sport_color": "#00BFA5",
+      "tvg_id": "spk_melbourne-storm-vs-manly-sea-eagles-2417338",
+      "start_time": "2026-08-08T05:00:00Z",
+      "end_time": "2026-08-08T08:00:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "StreamedPK Admin HD #1 (English - Fox League)",
+          "url": "https://embed.st/embed/admin/ppv-storm-vs-sea-eagles/1"
+        },
+        {
+          "name": "StreamedPK Admin SD #2 (English - Fox League)",
+          "url": "https://embed.st/embed/admin/ppv-storm-vs-sea-eagles/2"
+        }
+      ],
+      "stream_count": 2,
+      "has_stream": true,
+      "source": "StreamedPK",
+      "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3Awx+EBBAwQ3EABNNBkIi18Q5kroIUmfFFzBl4ReaIdNaYJ2NEQgA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC9WABhCIAJiF3c9ICIcTG+Ic8ZgEKTPii5gy8IvNEOmtME7GiIQA.webp",
+      "league": "rugby"
+    },
+    {
+      "event_id": "spk_ppv-storm-vs-sea-eagles",
+      "title": "Storm vs. Sea Eagles",
+      "sport": "Rugby",
+      "sport_icon": "sports_rugby",
+      "sport_color": "#00BFA5",
+      "tvg_id": "spk_ppv-storm-vs-sea-eagles",
+      "start_time": "2026-08-08T05:00:00Z",
+      "end_time": "2026-08-08T08:00:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "StreamedPK Admin HD #1 (English - Fox League)",
+          "url": "https://embed.st/embed/admin/ppv-storm-vs-sea-eagles/1"
+        },
+        {
+          "name": "StreamedPK Admin SD #2 (English - Fox League)",
+          "url": "https://embed.st/embed/admin/ppv-storm-vs-sea-eagles/2"
+        }
+      ],
+      "stream_count": 2,
+      "has_stream": true,
+      "source": "StreamedPK",
+      "thumbnail": "https://streamed.pk/api/images/proxy//api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRChAQQMsmSzAqIGCBJSQSmSpkz42DSGHBpkycOXj9ERRuPKU5awKEim2emELAkuAMYOhMG5OayMyBwJgPTAg41JjIA.webp.webp",
+      "league": "rugby"
     },
     {
       "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_afl___carlton_blues_",
@@ -2376,6 +2376,80 @@
       "has_stream": true,
       "source": "StreamedPK",
       "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1HywIcEnUhuIPhp16QifRGO4CFJnxRcwZeEXmjbTWmHtjREIA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjLcwfdWHA5uICLj0gYIRDhIgAJiAmEYwJnxRcwZeEXminTWmBdjREEA.webp",
+      "league": "football"
+    },
+    {
+      "event_id": "spk_ipswich-town-vs-rayo-vallecano-2527486",
+      "title": "Ipswich Town vs Rayo Vallecano",
+      "sport": "Football",
+      "sport_icon": "sports_soccer",
+      "sport_color": "#2962FF",
+      "tvg_id": "spk_ipswich-town-vs-rayo-vallecano-2527486",
+      "start_time": "2026-08-08T14:00:00Z",
+      "end_time": "2026-08-08T17:00:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "StreamedPK Echo #1",
+          "url": "https://embed.st/embed/echo/ipswich-vs-rayo-vallecano-football-1585060/1"
+        }
+      ],
+      "stream_count": 1,
+      "has_stream": true,
+      "source": "StreamedPK",
+      "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksLFIQvMinUgAJiEQRdIPiBjGQF5YRjAmfFFzBl4ReaIdNaYJ2NEQgA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh0JJQYEiBQgIIbiAAmITSa3Gdh4wQpM+KLhvL15o+01pgNY0RCA.webp",
+      "league": "football"
+    },
+    {
+      "event_id": "spk_tottenham-hotspur-vs-getafe-2527487",
+      "title": "Tottenham Hotspur vs Getafe",
+      "sport": "Football",
+      "sport_icon": "sports_soccer",
+      "sport_color": "#2962FF",
+      "tvg_id": "spk_tottenham-hotspur-vs-getafe-2527487",
+      "start_time": "2026-08-08T14:00:00Z",
+      "end_time": "2026-08-08T17:00:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "StreamedPK Admin HD #1 (English - SPURSPLAY)",
+          "url": "https://embed.st/embed/admin/ppv-tottenham-hotspur-vs-getafe/1"
+        },
+        {
+          "name": "StreamedPK Admin SD #2 (English - SPURSPLAY)",
+          "url": "https://embed.st/embed/admin/ppv-tottenham-hotspur-vs-getafe/2"
+        },
+        {
+          "name": "StreamedPK Echo #1",
+          "url": "https://embed.st/embed/echo/tottenham-vs-getafe-football-1585061/1"
+        }
+      ],
+      "stream_count": 3,
+      "has_stream": true,
+      "source": "StreamedPK",
+      "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3oATMCmCriYENxCqQMEBCMgUJvWZQEKTPprZgy8IvNGamtMM7GiIQA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzIpQuEJpQhuIACYgSh49oggzRxhSZ81bMGXhF5otU1pgHY0RCA.webp",
+      "league": "football"
+    },
+    {
+      "event_id": "spk_brighton-and-hove-albion-vs-roma-2527484",
+      "title": "Brighton and Hove Albion vs Roma",
+      "sport": "Football",
+      "sport_icon": "sports_soccer",
+      "sport_color": "#2962FF",
+      "tvg_id": "spk_brighton-and-hove-albion-vs-roma-2527484",
+      "start_time": "2026-08-08T14:00:00Z",
+      "end_time": "2026-08-08T17:00:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "StreamedPK Echo #1",
+          "url": "https://embed.st/embed/echo/brighton-vs-as-roma-football-1585058/1"
+        }
+      ],
+      "stream_count": 1,
+      "has_stream": true,
+      "source": "StreamedPK",
+      "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRg+YVXCiJuICHpCHDumCBQhTEAhSZ8UXMGXhF5o+01phHY0RCA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyRg+2SrgQhuIPiAAmIGCFM4TR-RAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
       "league": "football"
     },
     {
