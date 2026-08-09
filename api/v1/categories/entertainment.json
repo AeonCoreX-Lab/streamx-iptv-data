@@ -1658,7 +1658,8 @@
       "name": "C1",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/C1.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/C1/DASH-FTA/C1.mpd"
+        "https://cdn4.skygo.mn/live/disk1/C1/DASH-FTA/C1.mpd",
+        "https://cdn4.skygo.mn/live/disk1/C1/HLSv3-FTA/C1.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -11451,16 +11452,6 @@
       "languages": []
     },
     {
-      "id": "TelepremierPlus.ec",
-      "name": "Telepremier Plus",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ec/TelepremierPlus.ec.png",
-      "streamUrls": [
-        "http://iptv.telepremier.video.makrodigital.com:8081/telepremier/iptv/playlist.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "Telerama.ec",
       "name": "Telerama",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ec/Telerama.ec.png",
@@ -15148,16 +15139,6 @@
       "languages": []
     },
     {
-      "id": "MarayTV.cl",
-      "name": "Maray TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cl/MarayTV.cl.png",
-      "streamUrls": [
-        "https://5eaccbab48461.streamlock.net:1936/8242/ngrp:8242_all/playlist.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "Mitplastikmareridt.se",
       "name": "Mit plastikmareridt",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
@@ -16403,16 +16384,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/NavarreteTelevision.do.png",
       "streamUrls": [
         "https://cnn.hostlagarto.com/ntvnavarrete/index.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
-      "id": "AmazoniaTV.pe",
-      "name": "Amazonia TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pe/AmazoniaTV.pe.png",
-      "streamUrls": [
-        "https://servilive.com:3199/live/amazoniatvlive.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -20292,8 +20263,58 @@
       ],
       "category": "Other",
       "languages": []
+    },
+    {
+      "id": "Canal4VillaDolores.ar",
+      "name": "Canal 4 Villa Dolores",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=canal4vd.com.ar",
+      "streamUrls": [
+        "https://stmvideo3.livecastv.com/canal4vd/canal4vd/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "DhohoTV.id",
+      "name": "Dhoho TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/DhohoTV.id.png",
+      "streamUrls": [
+        "https://dhohotv.siar.us/dhohotv/live/playlist.m3u8"
+      ],
+      "category": "Music",
+      "languages": []
+    },
+    {
+      "id": "MaduTV.id",
+      "name": "Madu TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/MaduTV.id.png",
+      "streamUrls": [
+        "https://re1.siar.us/madutv/hd720/playlist.m3u8"
+      ],
+      "category": "Music",
+      "languages": []
+    },
+    {
+      "id": "TVVicosa.br",
+      "name": "TV Vicosa",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/TVVicosa.br.png",
+      "streamUrls": [
+        "http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "XPTV2.es",
+      "name": "XPTV2",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/XPTV2.es.png",
+      "streamUrls": [
+        "https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
     }
   ],
-  "count": 1980,
-  "generated_at": "2026-08-09T08:40:50.468864"
+  "count": 1982,
+  "generated_at": "2026-08-09T12:47:43.222573"
 }
