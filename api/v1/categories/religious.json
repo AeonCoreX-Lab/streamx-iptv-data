@@ -619,17 +619,6 @@
       "languages": []
     },
     {
-      "id": "ApprovalTV.ng",
-      "name": "Approval TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ng/ApprovalTV.ng.png",
-      "streamUrls": [
-        "https://tv.bigicloud.com/hls/approvaltv/approvaltv.m3u8",
-        "https://live.approvaltv.com/approvaltv/index.m3u8"
-      ],
-      "category": "Religious",
-      "languages": []
-    },
-    {
       "id": "AradanaTV.in",
       "name": "Aradana TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/AradanaTV.in.png",
@@ -1091,8 +1080,8 @@
       "name": "Credo TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ro/CredoTV.ro.png",
       "streamUrls": [
-        "http://cdn.credonet.tv:1935/ctv/livecredo/playlist.m3u8",
-        "https://651c69fa2ff4e.streamlock.net/ctv/_definst_/livecredo/playlist.m3u8"
+        "https://651c69fa2ff4e.streamlock.net/ctv/_definst_/livecredo/playlist.m3u8",
+        "http://cdn.credonet.tv:1935/ctv/livecredo/playlist.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -1357,8 +1346,8 @@
       "name": "Enlace",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cr/Enlace.cr.png",
       "streamUrls": [
-        "http://177.234.249.178:8888/ENLACE/index.m3u8",
         "http://177.234.247.66:9975/Enlace/index.m3u8",
+        "http://177.234.249.178:8888/ENLACE/index.m3u8",
         "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8"
       ],
       "category": "Religious",
@@ -4054,7 +4043,6 @@
       "name": "Andes Television",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pe/AndesTelevision.pe.png",
       "streamUrls": [
-        "https://stmv2.srvif.com/tvsicuani/tvsicuani/playlist.m3u8",
         "https://live-evg7.tv360.bitel.com.pe/bitel/andestvSRT/playlist.m3u8"
       ],
       "category": "Religious",
@@ -4164,7 +4152,7 @@
     {
       "id": "ConexionPositivaTelevision.cr",
       "name": "Conexion Positiva Television",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Retrato_oficial_del_Presidente_Javier_%28cropped%29.jpeg/330px-Retrato_oficial_del_Presidente_Javier_%28cropped%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Javier_Milei_in_pull-aside_meeting_at_the_United_Nations_Headquarters_%283x4_cropped%29.jpg/330px-Javier_Milei_in_pull-aside_meeting_at_the_United_Nations_Headquarters_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "https://tvstream.conexionpositivaradio.com/memfs/69239c4d-4116-4f4f-b065-bf17e81b1411.m3u8"
       ],
@@ -4318,7 +4306,8 @@
       "name": "KSTV Uganda",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ug/KSTVUganda.ug.png",
       "streamUrls": [
-        "https://live.esteem.africa/kstv/hls/0/stream.m3u8"
+        "https://live.esteem.africa/kstv/hls/0/stream.m3u8",
+        "https://unseenlive.s3.eu-west-1.amazonaws.com/kstv/hls/0/stream.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -4972,16 +4961,6 @@
       "languages": []
     },
     {
-      "id": "TheIslamicNetwork.tt",
-      "name": "The Islamic Network",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tt/TheIslamicNetwork.tt.png",
-      "streamUrls": [
-        "https://video1.getstreamhosting.com:1936/8322/8322/playlist.m3u8"
-      ],
-      "category": "Religious",
-      "languages": []
-    },
-    {
       "id": "AruljothiTV.in",
       "name": "Aruljothi TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/AruljothiTV.in.png",
@@ -4996,8 +4975,8 @@
       "name": "Divya Darshan TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/np/DivyaDarshanTV.np.png",
       "streamUrls": [
-        "https://live.divyadarshantv.com/hls/0/stream.m3u8",
-        "http://live.divyadarshantv.com/hls/stream.m3u8"
+        "http://live.divyadarshantv.com/hls/stream.m3u8",
+        "https://live.divyadarshantv.com/hls/0/stream.m3u8"
       ],
       "country": "NP",
       "category": "Religious",
@@ -5075,6 +5054,6 @@
       "languages": []
     }
   ],
-  "count": 498,
-  "generated_at": "2026-08-10T05:25:20.589671"
+  "count": 496,
+  "generated_at": "2026-08-10T09:19:34.988649"
 }
