@@ -93,16 +93,6 @@
       "languages": []
     },
     {
-      "id": "2TV.ge",
-      "name": "2 TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ge/2TV.ge.png",
-      "streamUrls": [
-        "https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8"
-      ],
-      "category": "News",
-      "languages": []
-    },
-    {
       "id": "20MinutesTV.fr",
       "name": "20 Minutes TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/fr/20MinutesTV.fr.png",
@@ -864,16 +854,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ec/AmericaEstereoQuito.ec.png",
       "streamUrls": [
         "https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
-      "id": "AmericaEstereoTulcan.ec",
-      "name": "America Estereo Tulcan",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ec/AmericaEstereoTulcan.ec.png",
-      "streamUrls": [
-        "https://video.makrodigital.com/americaestereotulcan/americaestereotulcan/playlist.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -10236,6 +10216,7 @@
       "name": "TV 25",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/TV25.mn.png",
       "streamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/MN25/HLSv3-FTA/MN25.m3u8",
         "https://cdn4.skygo.mn/live/disk1/MN25/DASH-FTA/MN25.mpd"
       ],
       "category": "Entertainment",
@@ -19340,16 +19321,6 @@
       "languages": []
     },
     {
-      "id": "MRTVEntertainment.mm",
-      "name": "MRTV Entertainment",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mm/MRTVEntertainment.mm.png",
-      "streamUrls": [
-        "https://mrtvott.com/cache/MRTV-Ent-HD/master.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "NCTV79.us",
       "name": "NCTV79",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/NCTV79.us.png",
@@ -20124,8 +20095,42 @@
       "country": "PE",
       "category": "Entertainment",
       "languages": []
+    },
+    {
+      "id": "BSFilm.pk",
+      "name": "BS Film",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://lbgo.bozztv.com/ssh101/ssh101/bsfilm/playlist.m3u8",
+        "https://live20.bozztv.com/akamaissh101/ssh101/bsfilm/playlist.m3u8"
+      ],
+      "category": "Movies",
+      "languages": []
+    },
+    {
+      "id": "NETTV.ar",
+      "name": "NET TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/NETTV.ar.png",
+      "streamUrls": [
+        "http://45.134.141.161:2200/ARG/Net_TV/index.m3u8",
+        "https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8",
+        "https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8"
+      ],
+      "category": "News",
+      "languages": []
+    },
+    {
+      "id": "PervyygorodskoyOdessa.ua",
+      "name": "Pervyy gorodskoy. Odessa",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/PervyygorodskoyOdessa.ua.png",
+      "streamUrls": [
+        "http://91.194.79.46:8081/stream1/channel1/playlist.m3u8",
+        "http://91.194.79.46:8081/stream2/channel2/playlist.m3u8"
+      ],
+      "category": "Other",
+      "languages": []
     }
   ],
   "count": 1964,
-  "generated_at": "2026-08-10T13:05:03.592077"
+  "generated_at": "2026-08-10T20:41:00.632445"
 }
