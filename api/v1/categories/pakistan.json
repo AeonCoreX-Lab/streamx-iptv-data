@@ -14,7 +14,7 @@
     {
       "id": "ABNNews.pk",
       "name": "ABN News",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Australian_Broadcasting_Corporation_logo_%281974-%29.svg/330px-Australian_Broadcasting_Corporation_logo_%281974-%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=abnnews.pk",
       "streamUrls": [
         "https://vodzong.mjunoon.tv:8087/streamtest/ABN-161/playlist.m3u8"
       ],
@@ -249,9 +249,9 @@
       "name": "God Stands Kids Club TV",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=godstands.tv",
       "streamUrls": [
-        "https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8",
+        "https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8",
         "https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8",
-        "https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8"
+        "https://online.godstands.tv:5443/WebRTCApp/streams/KidsUrdu.m3u8"
       ],
       "country": "PK",
       "category": "Pakistan",
@@ -267,8 +267,18 @@
       "country": "PK",
       "category": "Pakistan",
       "languages": []
+    },
+    {
+      "id": "Filmax.pk",
+      "name": "Filmax",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pk/Filmax.pk.png",
+      "streamUrls": [
+        "https://s3.ideationtec.live/Filmax/Filmax.m3u8"
+      ],
+      "category": "Pakistan",
+      "languages": []
     }
   ],
-  "count": 26,
-  "generated_at": "2026-08-11T01:39:38.118933"
+  "count": 27,
+  "generated_at": "2026-08-11T05:07:10.156969"
 }

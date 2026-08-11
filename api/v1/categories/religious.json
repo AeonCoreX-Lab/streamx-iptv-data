@@ -1080,8 +1080,8 @@
       "name": "Credo TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ro/CredoTV.ro.png",
       "streamUrls": [
-        "https://651c69fa2ff4e.streamlock.net/ctv/_definst_/livecredo/playlist.m3u8",
-        "http://cdn.credonet.tv:1935/ctv/livecredo/playlist.m3u8"
+        "http://cdn.credonet.tv:1935/ctv/livecredo/playlist.m3u8",
+        "https://651c69fa2ff4e.streamlock.net/ctv/_definst_/livecredo/playlist.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -4033,6 +4033,7 @@
       "name": "Andes Television",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pe/AndesTelevision.pe.png",
       "streamUrls": [
+        "https://stmv2.srvif.com/tvsicuani/tvsicuani/playlist.m3u8",
         "https://live-evg7.tv360.bitel.com.pe/bitel/andestvSRT/playlist.m3u8"
       ],
       "category": "Religious",
@@ -5042,8 +5043,48 @@
       ],
       "category": "Religious",
       "languages": []
+    },
+    {
+      "id": "DreamTV.ug",
+      "name": "Dream TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ug/DreamTV.ug.png",
+      "streamUrls": [
+        "https://streamfi-dreamtv1.zettawiseroutes.com:8181/hls/stream.m3u8"
+      ],
+      "category": "Religious",
+      "languages": []
+    },
+    {
+      "id": "LightChannel.bg",
+      "name": "Light Channel",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bg/LightChannel.bg.png",
+      "streamUrls": [
+        "https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8"
+      ],
+      "category": "Religious",
+      "languages": []
+    },
+    {
+      "id": "TVFamille.mq",
+      "name": "TV Famille",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mq/TVFamille.mq.png",
+      "streamUrls": [
+        "https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8"
+      ],
+      "category": "Religious",
+      "languages": []
+    },
+    {
+      "id": "TVMuslimThailand.th",
+      "name": "TV Muslim Thailand",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/th/TVMuslimThailand.th.png",
+      "streamUrls": [
+        "https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8"
+      ],
+      "category": "Religious",
+      "languages": []
     }
   ],
-  "count": 495,
-  "generated_at": "2026-08-11T01:39:38.134163"
+  "count": 499,
+  "generated_at": "2026-08-11T05:07:10.391319"
 }
