@@ -3817,6 +3817,10 @@ http://194.163.157.137:8080/hls/radioalsace.m3u8
 http://194.163.157.137:8080/hls/radiomulhouse.m3u8
 #EXTINF:-1 tvg-id="TelewizjaNarew.pl" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/TelewizjaNarew.pl.png" group-title="Other [FHD]",Telewizja Narew [FHD]
 https://lowa8026-cmyk.github.io/PL/TVNAREW.php.m3u8
+#EXTINF:-1 tvg-id="AFTV.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/AFTV.us.png" group-title="Entertainment [FHD]",AFTV [FHD]
+https://livestream.telvue.com/accframingham1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="CityTVCarlsbad.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/CityTVCarlsbad.us.png" group-title="Entertainment [HD]",City TV Carlsbad [HD]
+https://edge-f.swagit.com/live/carlsbadca/live-3-a-1/playlist.m3u8
 #EXTINF:-1 tvg-id="FehervarTV.hu" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/hu/FehervarTV.hu.png" group-title="Other [SD]",Fehervar TV [SD]
 https://cloudfront44.lexanetwork.com:1344/freerelay/fehervartv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="JORXDTV.jp" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/jp/JORXDTV.jp.png" group-title="News",JORX-DTV
@@ -3845,18 +3849,12 @@ https://stream.canaldelsol.com/sol26/live_1080.m3u8
 https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
 #EXTINF:-1 tvg-id="MithilaNepalTV.np" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/np/MithilaNepalTV.np.png" group-title="Other [FHD]",Mithila Nepal TV [FHD]
 http://150.107.205.212:1935/live/mithila/playlist.m3u8?DVR=
-#EXTINF:-1 tvg-id="MusawaChannel.ps" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ps/MusawaChannel.ps.png" group-title="Entertainment [SD]",Musawa Channel [SD]
-https://pbc.furrera.ps/musawahd/index.m3u8
 #EXTINF:-1 tvg-id="OliTV.in" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/OliTV.in.png" group-title="Entertainment [FHD]",Oli TV [FHD]
 https://live.olidigital.in/olitv/olitv/index.m3u8
-#EXTINF:-1 tvg-id="PalestineMubasher.ps" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ps/PalestineMubasher.ps.png" group-title="News [SD]",Palestine Mubasher [SD]
-https://pbc.furrera.ps/palestinelivehd/index.m3u8
 #EXTINF:-1 tvg-id="TVSTelevisionNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Tvs_television_network_logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled" group-title="Movies [SD]",TVS Television Network [SD]
 https://rpn.bozztv.com/gusa/gusa-tvstn/index.m3u8
 #EXTINF:-1 tvg-id="NexoTV.co" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/NexoTV.co.png" group-title="Entertainment",Nexo TV
 https://vs20.live.opencaster.com/nexotv_7576198a/index.m3u8
-#EXTINF:-1 tvg-id="UniregionTV.cl" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cl/UniregionTV.cl.png" group-title="Entertainment [HD]",Uniregion TV [HD]
-https://5ff3d9babae13.streamlock.net/ubyecbxnfd/ubyecbxnfd/playlist.m3u8
 #EXTINF:-1 tvg-id="StarTV.mn" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/StarTV.mn.png" group-title="Entertainment [SD]",Star TV [SD]
 https://cdn4.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd
 #EXTINF:-1 tvg-id="Breinholts.se" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Entertainment",Breinholts
@@ -3901,33 +3899,29 @@ https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/grandetv2240/playlist.m3u8
 #EXTINF:-1 tvg-id="QubTV.ro" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ro/QubTV.ro.png" group-title="Entertainment [HD]",Qub TV [HD]
 https://live.djemba.ro/memfs/474f9942-f72b-4130-817a-435cd54b2c36.m3u8
-#EXTINF:-1 tvg-id="PlanetaChannel.ec" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ec/PlanetaChannel.ec.png" group-title="Entertainment",Planeta Channel
-https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8
 #EXTINF:-1 tvg-id="PlutoTVBuskis.se" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Entertainment",Pluto TV Buskis
 https://jmp2.uk/plu-660d5f2a635c75000828855f.m3u8
 #EXTINF:-1 tvg-id="Canal7Neuquen.ar" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/Canal7Neuquen.ar.png" group-title="Entertainment [HD]",Canal 7 Neuquen [HD]
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus2.by" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/by/Belarus2.by.png" group-title="Entertainment [FHD]",Belarus-2 [FHD]
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PlanetaChannel.ec" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ec/PlanetaChannel.ec.png" group-title="Entertainment",Planeta Channel
+https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8
 #EXTINF:-1 tvg-id="DopaChannel.th" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/th/DopaChannel.th.png" group-title="Entertainment",Dopa Channel
 http://dopachannel.truegse.com/live/dopatv03.m3u8
 #EXTINF:-1 tvg-id="DengulesofamedAllanSindberg.se" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Entertainment",Den gule sofa med Allan Sindberg
 https://jmp2.uk/plu-66b22714d512590008c3d573.m3u8
 #EXTINF:-1 tvg-id="Charterfeber.se" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Entertainment",Charterfeber
 https://jmp2.uk/plu-61c1dda0fe470d00080f85b8.m3u8
-#EXTINF:-1 tvg-id="ArpegioTV.pe" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pe/ArpegioTV.pe.png" group-title="Entertainment [HD]",Arpegio TV [HD]
-https://vdo.oyotunserver.com/arpegio/video.m3u8
 #EXTINF:-1 tvg-id="RobinsonEkspeditionen.se" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Entertainment",Robinson Ekspeditionen
 https://jmp2.uk/plu-63a42df60cc44a0007dd47f8.m3u8
 #EXTINF:-1 tvg-id="FortunaTV.ve" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ve/FortunaTV.ve.png" group-title="Entertainment",Fortuna TV
 https://streamtv.intervenhosting.net:3355/live/fortunatvlive.m3u8
-#EXTINF:-1 tvg-id="AIONTV.do" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/AIONTV.do.png" group-title="Entertainment [FHD]",AION TV [FHD]
-https://edge.essastream.com/aiontelevision/playlist.m3u8
 #EXTINF:-1 tvg-id="BigBrother.us" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Entertainment",Big Brother
 https://jmp2.uk/plu-6661f11a41af6400080e90d8.m3u8
 #EXTINF:-1 tvg-id="CanalCHD.co" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/CanalCHD.co.png" group-title="Entertainment [HD]",Canal CHD [HD]
 https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8
-#EXTINF:-1 tvg-id="SampitTV.id" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/SampitTV.id.png" group-title="Other",Sampit TV
-https://sampit-tv.siar.us/live/sampit-tv.m3u8
 #EXTINF:-1 tvg-id="Gametoon.nl" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/nl/Gametoon.nl.png" group-title="Entertainment [HD]",Gametoon [HD]
 https://webtvstream.bhtelecom.ba/gametoon.m3u8
+#EXTINF:-1 tvg-id="SampitTV.id" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/SampitTV.id.png" group-title="Other",Sampit TV
+https://sampit-tv.siar.us/live/sampit-tv.m3u8
