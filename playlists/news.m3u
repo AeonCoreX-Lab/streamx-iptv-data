@@ -312,7 +312,7 @@ https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ERTNews.gr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gr/ERTNews.gr.png" group-title="News [SD]",ERT News [SD]
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8
 #EXTINF:-1 tvg-id="ETV.mn" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/ETV.mn.png" group-title="News [SD]",ETV [SD]
-https://cdn4.skygo.mn/live/disk1/ETV/DASH-FTA/ETV.mpd
+https://cdn4.skygo.mn/live/disk1/ETV/HLSv3-FTA/ETV.m3u8
 #EXTINF:-1 tvg-id="ETVAndhraPradesh.in" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/ETVAndhraPradesh.in.png" group-title="News [SD]",ETV Andhra Pradesh [SD]
 https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8
 #EXTINF:-1 tvg-id="ETVNews.in" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/ETVNews.in.png" group-title="News [FHD]",ETV News [FHD]
@@ -524,7 +524,7 @@ http://31.148.48.15/Mir_24/index.m3u8
 #EXTINF:-1 tvg-id="MirrorNow.in" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/MirrorNow.in.png" group-title="News [SD]",Mirror Now [SD]
 https://dai.google.com/linear/hls/event/ClPOullTQky5vGPf7fMZ8g/master.m3u8
 #EXTINF:-1 tvg-id="MongolianNewsChannel.mn" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/MongolianNewsChannel.mn.png" group-title="News [SD]",Mongolian News Channel [SD]
-https://cdn4.skygo.mn/live/disk1/MNCTV/HLSv3-FTA/MNCTV.m3u8
+https://cdn4.skygo.mn/live/disk1/MNCTV/DASH-FTA/MNCTV.mpd
 #EXTINF:-1 tvg-id="MoonTV.in" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/MoonTV.in.png" group-title="News [SD]",Moon TV [SD]
 https://cdn-4.pishow.tv/live/1121/master.m3u8
 #EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/NBCNewsNOW.us.png" group-title="News [SD]",NBC News NOW [SD]
@@ -1165,8 +1165,6 @@ https://video.primexsports.com/suchnews/live/playlist.m3u8
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MNews.pk" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=mnews.pk" group-title="News [FHD]",M News [FHD]
 https://cdn.rabta.stream/M-News/index.m3u8
-#EXTINF:-1 tvg-id="News12PlusLongIsland.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/News12PlusLongIsland.us.png" group-title="News [SD]",News12+ Long Island [SD]
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_LI_A1/index_new.m3u8
 #EXTINF:-1 tvg-id="MaanTV.ps" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ps/MaanTV.ps.png" group-title="News [HD]",Ma'an TV [HD]
 https://htvmada.mada.ps:4443/maannews/index.m3u8
 #EXTINF:-1 tvg-id="FinansTurkTV.tr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/FinansTurkTV.tr.png" group-title="News [HD]",Finans Turk TV [HD]
@@ -1219,3 +1217,5 @@ https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5
 https://jmp2.uk/plu-67d9b0ebc290c9499046e88f.m3u8
 #EXTINF:-1 tvg-id="ZillarBartaNews.in" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/ZillarBartaNews.in.png" group-title="News [HD]",ZillarBarta News [HD]
 https://server.zillarbarta.com/zillarbarta/index.m3u8
+#EXTINF:-1 tvg-id="News12PlusLongIsland.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/News12PlusLongIsland.us.png" group-title="News [SD]",News12+ Long Island [SD]
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_LI_A1/index_new.m3u8
