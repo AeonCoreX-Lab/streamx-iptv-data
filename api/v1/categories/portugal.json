@@ -2,16 +2,6 @@
   "category": "portugal",
   "channels": [
     {
-      "id": "ARTV.pt",
-      "name": "ARTV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pt/ARTV.pt.png",
-      "streamUrls": [
-        "https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8"
-      ],
-      "category": "Portugal",
-      "languages": []
-    },
-    {
       "id": "DisneyChannel.pt",
       "name": "Disney Channel",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pt/DisneyChannel.pt.png",
@@ -29,7 +19,7 @@
       "streamUrls": [
         "https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8",
         "https://amg01074-fueltv-amg01074c1-stirr-us-4214.playouts.now.amagi.tv/playlist.m3u8",
-        "https://amg01074-fueltv-amg01074c1-firetv-us-3150.playouts.now.amagi.tv/playlist.m3u8"
+        "https://amg01074-fueltv-fueltvnz-samsungnz-i8ani.amagi.tv/playlist/amg01074-fueltv-fueltvnz-samsungnz/playlist.m3u8"
       ],
       "category": "Portugal",
       "languages": []
@@ -79,6 +69,7 @@
       "name": "RTP Noticias",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pt/RTPNoticias.pt.png",
       "streamUrls": [
+        "https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8",
         "https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8"
       ],
       "category": "Portugal",
@@ -237,6 +228,6 @@
       "languages": []
     }
   ],
-  "count": 23,
-  "generated_at": "2026-08-12T05:36:57.484000"
+  "count": 22,
+  "generated_at": "2026-08-12T09:09:54.703979"
 }
