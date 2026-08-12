@@ -8229,16 +8229,6 @@
       "languages": []
     },
     {
-      "id": "OndasQuevedenasTV.ec",
-      "name": "Ondas Quevedenas TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ec/OndasQuevedenasTV.ec.png",
-      "streamUrls": [
-        "https://stmv6.voxtvhd.com.br/radiosuprema/radiosuprema/playlist.m3u8"
-      ],
-      "category": "Other",
-      "languages": []
-    },
-    {
       "id": "One.mt",
       "name": "One",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mt/One.mt.png",
@@ -16699,9 +16689,9 @@
       "name": "Kantipur TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/np/KantipurTV.np.png",
       "streamUrls": [
-        "https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_1080/chunks.m3u8",
         "https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_720/chunks.m3u8",
-        "https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8"
+        "https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8",
+        "https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_1080/chunks.m3u8"
       ],
       "country": "NP",
       "category": "Entertainment",
@@ -19857,8 +19847,29 @@
       ],
       "category": "Entertainment",
       "languages": []
+    },
+    {
+      "id": "CanalNets.co",
+      "name": "Canal Nets",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/CanalNets.co.png",
+      "streamUrls": [
+        "https://video.ejeserver.com/live/nets.m3u8",
+        "https://movil.ejeserver.com/live/nets.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "CrimePlusInvestigation.us",
+      "name": "Crime + Investigation",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/CrimePlusInvestigation.us.png",
+      "streamUrls": [
+        "http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
     }
   ],
-  "count": 1938,
-  "generated_at": "2026-08-12T16:57:04.972890"
+  "count": 1939,
+  "generated_at": "2026-08-12T20:42:04.507175"
 }
