@@ -211,7 +211,7 @@
       "streamUrls": [
         "https://amg17560-fcb-amg17560c1-samsung-gb-9839.playouts.now.amagi.tv/playlist.m3u8",
         "https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8",
-        "https://jmp2.uk/plu-67a52c8397782f00081879aa.m3u8"
+        "https://jmp2.uk/plu-6793ac47f5c74bff95d18a99.m3u8"
       ],
       "category": "Poland",
       "languages": []
@@ -438,8 +438,7 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/PixelTV.pl.png",
       "streamUrls": [
         "https://jmp2.uk/plu-62790dc1c733e8000733ba4d.m3u8",
-        "https://jmp2.uk/plu-66bb36e03a4ad200082bb8fe.m3u8",
-        "https://jmp2.uk/plu-66bb374ba4ee27000841a62c.m3u8"
+        "https://jmp2.uk/plu-66bb36e03a4ad200082bb8fe.m3u8"
       ],
       "category": "Poland",
       "languages": []
@@ -479,8 +478,9 @@
       "name": "FILMBOX+ Emotion",
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
-        "http://213.91.179.28:8000/play/a04r",
-        "https://webtvstream.bhtelecom.ba/filmbox_extra.m3u8"
+        "http://88.212.15.19/live/test_film_boxextra_hd_hevc/playlist.m3u8",
+        "http://88.212.15.19/live/test_filmbox_extra_hd_hun_atk_1200/playlist.m3u8",
+        "http://213.91.179.28:8000/play/a04r"
       ],
       "category": "Poland",
       "languages": []
@@ -502,7 +502,6 @@
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/DTX_Logo.png/330px-DTX_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "http://88.212.15.19/live/test_film_boxpremium_hd_hevc/playlist.m3u8",
-        "http://88.212.15.19/live/fb_premium_hungary/index.m3u8",
         "https://webtvstream.bhtelecom.ba/filmbox_premium.m3u8"
       ],
       "category": "Poland",
@@ -513,8 +512,8 @@
       "name": "FILMBOX+ Love & Crime",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg/330px-Crime_%2B_Investigation_Logo_10.2019.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
-        "http://213.91.179.28:8000/play/a066",
         "http://88.212.15.19/live/test_filmbox_plus_atk_1200/playlist.m3u8",
+        "http://213.91.179.28:8000/play/a066",
         "https://webtvstream.bhtelecom.ba/filmbox_stars.m3u8"
       ],
       "category": "Poland",
@@ -525,6 +524,7 @@
       "name": "FILMBOX+ One",
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
+        "http://88.212.15.19/live/test_filmbox_plus_hun_atk_1200/playlist.m3u8",
         "http://213.91.179.28:8000/play/a06i",
         "https://s70378.cdn.ngenix.net/filmbox/index.m3u8"
       ],
@@ -575,26 +575,6 @@
       "languages": []
     },
     {
-      "id": "AXNPoland.pl",
-      "name": "AXN Poland",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/AXNPoland.pl.png",
-      "streamUrls": [
-        "http://193.24.244.60:1001/udp/239.254.5.5:6060"
-      ],
-      "category": "Poland",
-      "languages": []
-    },
-    {
-      "id": "AXNSpin.pl",
-      "name": "AXN Spin",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/AXNSpin.pl.png",
-      "streamUrls": [
-        "http://193.24.244.60:1001/udp/239.254.5.6:6060"
-      ],
-      "category": "Poland",
-      "languages": []
-    },
-    {
       "id": "TVKStella.pl",
       "name": "TVK Stella",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/TVKStella.pl.png",
@@ -624,16 +604,6 @@
         "https://lowa8026-cmyk.github.io/PL/eskatv.php.m3u8"
       ],
       "country": "PL",
-      "category": "Poland",
-      "languages": []
-    },
-    {
-      "id": "TVPDokument.pl",
-      "name": "TVP Dokument",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/TVPDokument.pl.png",
-      "streamUrls": [
-        "https://tvpi.travny.workers.dev/tvpdokument.m3u8"
-      ],
       "category": "Poland",
       "languages": []
     },
