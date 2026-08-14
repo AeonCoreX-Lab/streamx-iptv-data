@@ -1143,7 +1143,7 @@
       "name": "AsianBox",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/AsianBox.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/AsianBOX/DASH-FTA/AsianBOX.mpd"
       ],
       "category": "Entertainment",
       "languages": []
@@ -1605,6 +1605,7 @@
       "name": "C1",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/C1.mn.png",
       "streamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/C1/HLSv3-FTA/C1.m3u8",
         "https://cdn4.skygo.mn/live/disk1/C1/DASH-FTA/C1.mpd"
       ],
       "category": "Entertainment",
@@ -7842,8 +7843,7 @@
       "name": "ORBIT TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/ORBITTV.do.png",
       "streamUrls": [
-        "https://cnn.hostlagarto.com/orbittv/tracks-v1a1/mono.m3u8",
-        "https://edge.essastream.com/orbittv/index.m3u8"
+        "https://cnn.hostlagarto.com/orbittv/tracks-v1a1/mono.m3u8"
       ],
       "category": "Other",
       "languages": []
@@ -15132,16 +15132,6 @@
       "languages": []
     },
     {
-      "id": "AfaqTV.iq",
-      "name": "Afaq TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/iq/AfaqTV.iq.png",
-      "streamUrls": [
-        "https://stream.afaq.iq/live/channel/afaqtv/playlist.m3u8"
-      ],
-      "category": "Movies",
-      "languages": []
-    },
-    {
       "id": "ChinaChannel.cl",
       "name": "China Channel",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/330px-History_%282021%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -16873,7 +16863,7 @@
     {
       "id": "XtraTv.do",
       "name": "Xtra Tv",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=xtratvrd.com",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/DTX_Logo.png/330px-DTX_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "https://edge.essastream.com/xtratv/index.m3u8"
       ],
@@ -16960,16 +16950,6 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://stream.mcquack.net/379/index.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
-      "id": "Logo.us",
-      "name": "Logo",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/Logo.us.png",
-      "streamUrls": [
-        "http://40.160.24.53/LOGO_TV/index.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -18309,16 +18289,6 @@
       "languages": []
     },
     {
-      "id": "XHFGLTDT.mx",
-      "name": "XHFGL-TDT",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/XHFGLTDT.mx.png",
-      "streamUrls": [
-        "https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/playlist.m3u8"
-      ],
-      "category": "Informative",
-      "languages": []
-    },
-    {
       "id": "MorroTV.do",
       "name": "MorroTV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/MorroTV.do.png",
@@ -18658,46 +18628,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/EntunoTV.do.png",
       "streamUrls": [
         "https://soportedvb.click:3442/live/entunotvlive.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
-      "id": "RVTVCivic.us",
-      "name": "RVTV Civic",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/RVTVCivic.us.png",
-      "streamUrls": [
-        "https://livestream.telvue.com/roguevalleycmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
-      "id": "RVTVGrantsPass.us",
-      "name": "RVTV Grants Pass",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/RVTVGrantsPass.us.png",
-      "streamUrls": [
-        "https://livestream.telvue.com/roguevalleycmttv4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
-      "id": "RVTVVoices.us",
-      "name": "RVTV Voices",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/RVTVVoices.us.png",
-      "streamUrls": [
-        "https://livestream.telvue.com/roguevalleycmttv3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
-      "id": "RVTVPrime.us",
-      "name": "RVTV Prime",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/RVTVPrime.us.png",
-      "streamUrls": [
-        "https://livestream.telvue.com/roguevalleycmttv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -19432,17 +19362,6 @@
       "languages": []
     },
     {
-      "id": "BSFilm.pk",
-      "name": "BS Film",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/330px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "streamUrls": [
-        "https://lbgo.bozztv.com/ssh101/ssh101/bsfilm/playlist.m3u8",
-        "https://live20.bozztv.com/akamaissh101/ssh101/bsfilm/playlist.m3u8"
-      ],
-      "category": "Movies",
-      "languages": []
-    },
-    {
       "id": "NETTV.ar",
       "name": "NET TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/NETTV.ar.png",
@@ -19989,6 +19908,26 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/TelewizjaLuban.pl.png",
       "streamUrls": [
         "http://stream.herissons.cloud/hls/tvluban.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "AnGiangTV3.vn",
+      "name": "An Giang TV 3",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/vn/AnGiangTV3.vn.png",
+      "streamUrls": [
+        "https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "RidiculousnessNyaavsnitt.se",
+      "name": "Ridiculousness: Nya avsnitt",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
+      "streamUrls": [
+        "https://jmp2.uk/plu-68dfa1e7fae18f8db6218703.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
