@@ -1,77 +1,188 @@
 {
   "events": [
     {
-      "last_updated": "2026-08-14T08:17:30Z",
+      "last_updated": "2026-08-14T12:28:55Z",
       "strict_mode": true,
       "requires_stream": true,
       "requires_thumbnail": true,
-      "total_live": 8,
-      "total_upcoming": 165,
-      "total_streamed": 173,
+      "total_live": 19,
+      "total_upcoming": 149,
+      "total_streamed": 168,
       "active_events": [
         {
-          "event_id": "spk_snooker-china-open-pick3",
-          "title": "Snooker China Open 🎱",
+          "event_id": "spk_canterbury-bankstown-bulldogs-vs-south-sydney-rabbitohs-2417346",
+          "title": "Canterbury Bankstown Bulldogs vs South Sydney Rabbitohs",
+          "sport": "Rugby",
+          "sport_icon": "sports_rugby",
+          "sport_color": "#00BFA5",
+          "tvg_id": "spk_canterbury-bankstown-bulldogs-vs-south-sydney-rabbitohs-2417346",
+          "start_time": "2026-08-14T10:00:00Z",
+          "end_time": "2026-08-14T13:00:00Z",
+          "is_live": true,
+          "streams": [
+            {
+              "name": "StreamedPK Admin HD #1 (English - Fox League)",
+              "url": "https://embed.st/embed/admin/ppv-bulldogs-vs-rabbitohs/1"
+            },
+            {
+              "name": "StreamedPK Admin SD #2 (English - Fox League)",
+              "url": "https://embed.st/embed/admin/ppv-bulldogs-vs-rabbitohs/2"
+            }
+          ],
+          "stream_count": 2,
+          "has_stream": true,
+          "source": "StreamedPK",
+          "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmPMNxAxg+EIk0qQEEIcTG+JkCisEKTPii5gy8IvNGOmtMM7GiIQA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAw2IKKMIwQ3ECX25VIPkYAmJkwQpM+KLmDLwi80faa0wjsaIhA.webp",
+          "league": "rugby"
+        },
+        {
+          "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_wrc_safari_rally_ken",
+          "title": "WRC Safari Rally Kenya | Special Stage 1 | Day 1",
           "sport": "Other",
           "sport_icon": "live_tv",
           "sport_color": "#E53935",
-          "tvg_id": "spk_snooker-china-open-pick3",
-          "start_time": "2026-08-14T06:00:00Z",
-          "end_time": "2026-08-14T09:00:00Z",
+          "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_wrc_safari_rally_ken",
+          "start_time": "2026-08-14T10:00:00Z",
+          "end_time": "2026-08-14T13:00:00Z",
+          "is_live": true,
+          "streams": [
+            {
+              "name": "TNT Sports 2 UK (watch)",
+              "url": "https://dlhd.pk/watch/stream-32.php"
+            },
+            {
+              "name": "Canal+ Sport360 (watch)",
+              "url": "https://dlhd.pk/watch/stream-464.php"
+            },
+            {
+              "name": "TNT Sports 2 UK (cast)",
+              "url": "https://dlhd.pk/cast/stream-32.php"
+            },
+            {
+              "name": "Motowizja Poland (cast)",
+              "url": "https://dlhd.pk/cast/stream-563.php"
+            },
+            {
+              "name": "Canal+ Sport360",
+              "url": "https://dlhd.pk/stream/stream-464.php"
+            },
+            {
+              "name": "Rally Tv (casting)",
+              "url": "https://dlhd.pk/casting/stream-607.php"
+            }
+          ],
+          "stream_count": 6,
+          "has_stream": true,
+          "source": "DaddyLiveHD",
+          "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
+        },
+        {
+          "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_absa_cape_epic__25__",
+          "title": "Absa Cape Epic '25: Stage 4",
+          "sport": "Cycling",
+          "sport_icon": "directions_bike",
+          "sport_color": "#0288D1",
+          "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_absa_cape_epic__25__",
+          "start_time": "2026-08-14T10:00:00Z",
+          "end_time": "2026-08-14T13:00:00Z",
+          "is_live": true,
+          "streams": [
+            {
+              "name": "SuperSport Grandstand (player)",
+              "url": "https://dlhd.pk/player/stream-412.php"
+            },
+            {
+              "name": "SuperSport Grandstand (watch)",
+              "url": "https://dlhd.pk/watch/stream-412.php"
+            },
+            {
+              "name": "SuperSport Grandstand (casting)",
+              "url": "https://dlhd.pk/casting/stream-412.php"
+            },
+            {
+              "name": "SuperSport Grandstand (plus)",
+              "url": "https://dlhd.pk/plus/stream-412.php"
+            },
+            {
+              "name": "SuperSport Grandstand",
+              "url": "https://dlhd.pk/stream/stream-412.php"
+            },
+            {
+              "name": "SuperSport Grandstand (cast)",
+              "url": "https://dlhd.pk/cast/stream-412.php"
+            }
+          ],
+          "stream_count": 6,
+          "has_stream": true,
+          "source": "DaddyLiveHD",
+          "thumbnail": "https://streamed.pk/api/images/badge/cycling.webp"
+        },
+        {
+          "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_women_s___group_stag",
+          "title": "Women's | Group Stage | World Championship : United States vs Norway",
+          "sport": "Other",
+          "sport_icon": "live_tv",
+          "sport_color": "#E53935",
+          "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_women_s___group_stag",
+          "start_time": "2026-08-14T10:00:00Z",
+          "end_time": "2026-08-14T13:00:00Z",
+          "is_live": true,
+          "streams": [
+            {
+              "name": "EuroSport 1 Poland (casting)",
+              "url": "https://dlhd.pk/casting/stream-57.php"
+            },
+            {
+              "name": "EuroSport 1 Spain (player)",
+              "url": "https://dlhd.pk/player/stream-524.php"
+            },
+            {
+              "name": "EuroSport 1 Poland",
+              "url": "https://dlhd.pk/stream/stream-57.php"
+            },
+            {
+              "name": "EuroSport 1 France",
+              "url": "https://dlhd.pk/stream/stream-772.php"
+            },
+            {
+              "name": "EuroSport 1 France (cast)",
+              "url": "https://dlhd.pk/cast/stream-772.php"
+            },
+            {
+              "name": "EuroSport 1 Spain (casting)",
+              "url": "https://dlhd.pk/casting/stream-524.php"
+            }
+          ],
+          "stream_count": 6,
+          "has_stream": true,
+          "source": "DaddyLiveHD",
+          "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
+        },
+        {
+          "event_id": "spk_fremantle-dockers-vs-adelaide-crows-australian-football-3536",
+          "title": "Fremantle Dockers vs Adelaide Crows",
+          "sport": "Other",
+          "sport_icon": "live_tv",
+          "sport_color": "#E53935",
+          "tvg_id": "spk_fremantle-dockers-vs-adelaide-crows-australian-football-3536",
+          "start_time": "2026-08-14T10:10:00Z",
+          "end_time": "2026-08-14T13:10:00Z",
           "is_live": true,
           "streams": [
             {
               "name": "StreamedPK Echo #1",
-              "url": "https://embed.st/embed/echo/snooker-china-open-pick3/1"
+              "url": "https://embed.st/embed/echo/fremantle-dockers-vs-adelaide-crows-australian-football-3536/1"
+            },
+            {
+              "name": "StreamedPK Echo #1",
+              "url": "https://embed.st/embed/echo/fremantle-dockers-vs-adelaide-crows-australian-football-3606/1"
             }
           ],
           "stream_count": 1,
           "has_stream": true,
           "source": "StreamedPK",
-          "thumbnail": "https://streamed.pk/api/images/badge/live.webp",
-          "league": "other"
-        },
-        {
-          "event_id": "spk_admin-willow-cricket",
-          "title": "Willow Cricket",
-          "sport": "Cricket",
-          "sport_icon": "sports_cricket",
-          "sport_color": "#00C853",
-          "tvg_id": "spk_admin-willow-cricket",
-          "start_time": "2026-08-14T06:47:34Z",
-          "end_time": "2026-08-14T09:47:34Z",
-          "is_live": true,
-          "streams": [
-            {
-              "name": "StreamedPK Admin HD #3 (Willow Sports)",
-              "url": "https://embed.st/embed/admin/admin-willow-cricket/3"
-            },
-            {
-              "name": "StreamedPK Admin HD #1 (English)",
-              "url": "https://embed.st/embed/admin/admin-willow-cricket/1"
-            },
-            {
-              "name": "StreamedPK Admin HD #2 (Willow 2)",
-              "url": "https://embed.st/embed/admin/admin-willow-cricket/2"
-            },
-            {
-              "name": "StreamedPK Admin SD #4 (English)",
-              "url": "https://embed.st/embed/admin/admin-willow-cricket/4"
-            },
-            {
-              "name": "StreamedPK Admin SD #5 (Willow 2)",
-              "url": "https://embed.st/embed/admin/admin-willow-cricket/5"
-            },
-            {
-              "name": "StreamedPK Admin SD #6 (Willow Sports)",
-              "url": "https://embed.st/embed/admin/admin-willow-cricket/6"
-            }
-          ],
-          "stream_count": 6,
-          "has_stream": true,
-          "source": "StreamedPK",
-          "thumbnail": "https://streamed.pk/api/images/proxy//api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp.webp",
-          "league": "cricket"
+          "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQA+uQYBjZsJ7wxVcYQaswYXPn1A/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQJOuQYBjZsJ7wxVcYQaswYXPn1A.webp",
+          "league": "afl"
         },
         {
           "event_id": "spk_nflstreams_live",
@@ -80,8 +191,8 @@
           "sport_icon": "sports_basketball",
           "sport_color": "#FF6D00",
           "tvg_id": "spk_nflstreams_live",
-          "start_time": "2026-08-14T06:47:34Z",
-          "end_time": "2026-08-14T09:47:34Z",
+          "start_time": "2026-08-14T10:38:09Z",
+          "end_time": "2026-08-14T13:38:09Z",
           "is_live": true,
           "streams": [
             {
@@ -102,8 +213,8 @@
           "sport_icon": "sports_tennis",
           "sport_color": "#FFD600",
           "tvg_id": "spk_admin-tennis-channel",
-          "start_time": "2026-08-14T06:47:34Z",
-          "end_time": "2026-08-14T09:47:34Z",
+          "start_time": "2026-08-14T10:38:09Z",
+          "end_time": "2026-08-14T13:38:09Z",
           "is_live": true,
           "streams": [
             {
@@ -122,14 +233,56 @@
           "league": "tennis"
         },
         {
+          "event_id": "spk_admin-willow-cricket",
+          "title": "Willow Cricket",
+          "sport": "Cricket",
+          "sport_icon": "sports_cricket",
+          "sport_color": "#00C853",
+          "tvg_id": "spk_admin-willow-cricket",
+          "start_time": "2026-08-14T10:38:09Z",
+          "end_time": "2026-08-14T13:38:09Z",
+          "is_live": true,
+          "streams": [
+            {
+              "name": "StreamedPK Admin HD #2 (Willow 2)",
+              "url": "https://embed.st/embed/admin/admin-willow-cricket/2"
+            },
+            {
+              "name": "StreamedPK Admin HD #3 (Willow Sports)",
+              "url": "https://embed.st/embed/admin/admin-willow-cricket/3"
+            },
+            {
+              "name": "StreamedPK Admin HD #1 (English)",
+              "url": "https://embed.st/embed/admin/admin-willow-cricket/1"
+            },
+            {
+              "name": "StreamedPK Admin SD #6 (Willow Sports)",
+              "url": "https://embed.st/embed/admin/admin-willow-cricket/6"
+            },
+            {
+              "name": "StreamedPK Admin SD #4 (English)",
+              "url": "https://embed.st/embed/admin/admin-willow-cricket/4"
+            },
+            {
+              "name": "StreamedPK Admin SD #5 (Willow 2)",
+              "url": "https://embed.st/embed/admin/admin-willow-cricket/5"
+            }
+          ],
+          "stream_count": 6,
+          "has_stream": true,
+          "source": "StreamedPK",
+          "thumbnail": "https://streamed.pk/api/images/proxy//api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp.webp",
+          "league": "cricket"
+        },
+        {
           "event_id": "spk_admin-rally-tv",
           "title": "Rally TV",
           "sport": "Other",
           "sport_icon": "live_tv",
           "sport_color": "#E53935",
           "tvg_id": "spk_admin-rally-tv",
-          "start_time": "2026-08-14T06:47:34Z",
-          "end_time": "2026-08-14T09:47:34Z",
+          "start_time": "2026-08-14T10:38:09Z",
+          "end_time": "2026-08-14T13:38:09Z",
           "is_live": true,
           "streams": [
             {
@@ -144,326 +297,255 @@
           "league": "motor-sports"
         },
         {
-          "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_world_surf_league__2",
-          "title": "World Surf League: 2025 WSL Championship Tour: MEO Rip Curl Pro Portugal",
-          "sport": "Other",
-          "sport_icon": "live_tv",
-          "sport_color": "#E53935",
-          "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_world_surf_league__2",
-          "start_time": "2026-08-14T07:00:00Z",
-          "end_time": "2026-08-14T10:00:00Z",
+          "event_id": "se_af3981",
+          "title": "Kashiwa Reysol vs Tokyo Verdy 1969",
+          "sport": "Football",
+          "sport_icon": "sports_soccer",
+          "sport_color": "#2962FF",
+          "tvg_id": "se_af3981",
+          "start_time": "2026-08-14T10:39:06Z",
+          "end_time": "2026-08-14T13:39:06Z",
           "is_live": true,
           "streams": [
             {
-              "name": "Sportv3 Brazil",
-              "url": "https://dlhd.pk/stream/stream-80.php"
+              "name": "StreamEast HD",
+              "url": "https://beststreameast.xyz/match/kashiwa-reysol-vs-tokyo-verdy-1969/16515"
+            }
+          ],
+          "stream_count": 1,
+          "has_stream": true,
+          "source": "StreamEast",
+          "thumbnail": "https://streamed.pk/api/images/poster/kashiwa-reysol/tokyo-verdy-1969.webp"
+        },
+        {
+          "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_premier_league_pool_",
+          "title": "Premier League Pool: Day 1",
+          "sport": "Football",
+          "sport_icon": "sports_soccer",
+          "sport_color": "#2962FF",
+          "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_premier_league_pool_",
+          "start_time": "2026-08-14T11:00:00Z",
+          "end_time": "2026-08-14T14:00:00Z",
+          "is_live": true,
+          "streams": [
+            {
+              "name": "Sky Sport 3 NZ (watch)",
+              "url": "https://dlhd.pk/watch/stream-590.php"
             },
             {
-              "name": "Sportv3 Brazil (watch)",
-              "url": "https://dlhd.pk/watch/stream-80.php"
+              "name": "Sky Sport 3 NZ (cast)",
+              "url": "https://dlhd.pk/cast/stream-590.php"
             },
             {
-              "name": "Sportv3 Brazil (cast)",
-              "url": "https://dlhd.pk/cast/stream-80.php"
+              "name": "Sky Sport 3 NZ",
+              "url": "https://dlhd.pk/stream/stream-590.php"
             },
             {
-              "name": "Sportv3 Brazil (casting)",
-              "url": "https://dlhd.pk/casting/stream-80.php"
+              "name": "Sky Sport 3 NZ (casting)",
+              "url": "https://dlhd.pk/casting/stream-590.php"
             },
             {
-              "name": "Sportv3 Brazil (player)",
-              "url": "https://dlhd.pk/player/stream-80.php"
+              "name": "Sky Sport 3 NZ (player)",
+              "url": "https://dlhd.pk/player/stream-590.php"
             },
             {
-              "name": "Sportv3 Brazil (plus)",
-              "url": "https://dlhd.pk/plus/stream-80.php"
+              "name": "Sky Sport 3 NZ (plus)",
+              "url": "https://dlhd.pk/plus/stream-590.php"
             }
           ],
           "stream_count": 6,
           "has_stream": true,
           "source": "DaddyLiveHD",
-          "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
+          "thumbnail": "https://streamed.pk/api/images/badge/football.webp"
         },
         {
-          "event_id": "spk_intercity-vs-levante-ii-football-1618932",
-          "title": "Intercity vs Levante II",
-          "sport": "Football",
-          "sport_icon": "sports_soccer",
-          "sport_color": "#2962FF",
-          "tvg_id": "spk_intercity-vs-levante-ii-football-1618932",
-          "start_time": "2026-08-14T08:00:00Z",
-          "end_time": "2026-08-14T11:00:00Z",
+          "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_asia_cup___guam_vs_t",
+          "title": "Asia Cup : Guam vs Thailand",
+          "sport": "Cricket",
+          "sport_icon": "sports_cricket",
+          "sport_color": "#00C853",
+          "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_asia_cup___guam_vs_t",
+          "start_time": "2026-08-14T11:00:00Z",
+          "end_time": "2026-08-14T14:00:00Z",
           "is_live": true,
           "streams": [
             {
-              "name": "StreamedPK Echo #1",
-              "url": "https://embed.st/embed/echo/intercity-vs-levante-ii-football-1618932/1"
-            }
-          ],
-          "stream_count": 1,
-          "has_stream": true,
-          "source": "StreamedPK",
-          "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhFREPxAx65BgGNm4nvBFVuBLqzBhc+S0A/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgUIbIpAk65BgGNm4nvBFVuBLqzBhc+S0A.webp",
-          "league": "football"
-        },
-        {
-          "event_id": "spk_manly-sea-eagles-vs-dolphins-2417345",
-          "title": "Manly Sea Eagles vs Dolphins",
-          "sport": "Rugby",
-          "sport_icon": "sports_rugby",
-          "sport_color": "#00BFA5",
-          "tvg_id": "spk_manly-sea-eagles-vs-dolphins-2417345",
-          "start_time": "2026-08-14T08:00:00Z",
-          "end_time": "2026-08-14T11:00:00Z",
-          "is_live": true,
-          "streams": [
-            {
-              "name": "StreamedPK Admin HD #1 (English - Fox League)",
-              "url": "https://embed.st/embed/admin/ppv-sea-eagles-vs-dolphins/1"
+              "name": "Sport Klub 4 Serbia (plus)",
+              "url": "https://dlhd.pk/plus/stream-104.php"
             },
             {
-              "name": "StreamedPK Admin SD #2 (English - Fox League)",
-              "url": "https://embed.st/embed/admin/ppv-sea-eagles-vs-dolphins/2"
+              "name": "Sport Klub 4 Serbia (player)",
+              "url": "https://dlhd.pk/player/stream-104.php"
+            },
+            {
+              "name": "Sport Klub 4 Serbia (watch)",
+              "url": "https://dlhd.pk/watch/stream-104.php"
+            },
+            {
+              "name": "Sport Klub 4 Serbia (casting)",
+              "url": "https://dlhd.pk/casting/stream-104.php"
+            },
+            {
+              "name": "Sport Klub 4 Serbia (cast)",
+              "url": "https://dlhd.pk/cast/stream-104.php"
+            },
+            {
+              "name": "Sport Klub 4 Serbia",
+              "url": "https://dlhd.pk/stream/stream-104.php"
+            }
+          ],
+          "stream_count": 6,
+          "has_stream": true,
+          "source": "DaddyLiveHD",
+          "thumbnail": "https://streamed.pk/api/images/badge/cricket.webp"
+        },
+        {
+          "event_id": "spk_ppv-one-the-inner-circle-26-aekmuangnon-vs-looksuan",
+          "title": "ONE The Inner Circle 26: Aekmuangnon vs. Looksuan",
+          "sport": "Other",
+          "sport_icon": "live_tv",
+          "sport_color": "#E53935",
+          "tvg_id": "spk_ppv-one-the-inner-circle-26-aekmuangnon-vs-looksuan",
+          "start_time": "2026-08-14T11:30:00Z",
+          "end_time": "2026-08-14T14:30:00Z",
+          "is_live": true,
+          "streams": [
+            {
+              "name": "StreamedPK Admin HD #1 (English - ONE Live)",
+              "url": "https://embed.st/embed/admin/ppv-one-the-inner-circle-26-aekmuangnon-vs-looksuan/1"
+            },
+            {
+              "name": "StreamedPK Admin SD #2 (English - ONE Live)",
+              "url": "https://embed.st/embed/admin/ppv-one-the-inner-circle-26-aekmuangnon-vs-looksuan/2"
             }
           ],
           "stream_count": 2,
           "has_stream": true,
           "source": "StreamedPK",
-          "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC9WABhCIAJiF3c9ICIcTG+Ic8ZgEKTPii5gy8IvNEOmtME7GiIQA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLApKqkBFwhuIACYg+2mPpBmSIRHoIUmfNWzBl4ReaLVNaYJ2NEQgA.webp",
-          "league": "rugby"
+          "thumbnail": "https://streamed.pk/api/images/proxy//api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEEFRAoppEMJDjJiYcETiQIRIiWqpIAMYGQJEFk0zJIWWRMaSKchFBhBIptnphCwJLn0OhF1YnFTIHAlVyF2AnMgggA.webp.webp",
+          "league": "fight"
         },
         {
-          "event_id": "spk_678fd8508d98ade1299c32c8",
-          "title": "Marquee Sports Network",
+          "event_id": "se_7ebae3",
+          "title": "Qingdao Hainiu vs Shandong Taishan",
+          "sport": "Football",
+          "sport_icon": "sports_soccer",
+          "sport_color": "#2962FF",
+          "tvg_id": "se_7ebae3",
+          "start_time": "2026-08-14T11:35:00Z",
+          "end_time": "2026-08-14T14:35:00Z",
+          "is_live": true,
+          "streams": [
+            {
+              "name": "StreamEast HD",
+              "url": "https://beststreameast.xyz/match/qingdao-hainiu-vs-shandong-taishan/16836"
+            }
+          ],
+          "stream_count": 1,
+          "has_stream": true,
+          "source": "StreamEast",
+          "thumbnail": "https://streamed.pk/api/images/poster/qingdao-hainiu/shandong-taishan.webp"
+        },
+        {
+          "event_id": "spk_zagorec-vs-granicar-durdevac-football-1607290",
+          "title": "Zagorec vs Graničar Đurđevac",
+          "sport": "Football",
+          "sport_icon": "sports_soccer",
+          "sport_color": "#2962FF",
+          "tvg_id": "spk_zagorec-vs-granicar-durdevac-football-1607290",
+          "start_time": "2026-08-14T12:00:00Z",
+          "end_time": "2026-08-14T15:00:00Z",
+          "is_live": true,
+          "streams": [
+            {
+              "name": "StreamedPK Echo #1",
+              "url": "https://embed.st/embed/echo/zagorec-vs-granicar-durdevac-football-1607290/1"
+            }
+          ],
+          "stream_count": 1,
+          "has_stream": true,
+          "source": "StreamedPK",
+          "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsIAMYhETOuQbLm4nvBFVuBLqzBhc+S0A/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhF2EChBM65BgGNm4nvBFVuBLqzBhc+S0A.webp",
+          "league": "football"
+        },
+        {
+          "event_id": "spk_karlovac-vs-trnje-zagreb-2553360",
+          "title": "Karlovac vs Trnje Zagreb",
+          "sport": "Football",
+          "sport_icon": "sports_soccer",
+          "sport_color": "#2962FF",
+          "tvg_id": "spk_karlovac-vs-trnje-zagreb-2553360",
+          "start_time": "2026-08-14T12:00:00Z",
+          "end_time": "2026-08-14T15:00:00Z",
+          "is_live": true,
+          "streams": [
+            {
+              "name": "StreamedPK Echo #1",
+              "url": "https://embed.st/embed/echo/karlovac-1919-vs-trnje-football-1607289/1"
+            }
+          ],
+          "stream_count": 1,
+          "has_stream": true,
+          "source": "StreamedPK",
+          "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhB8w3VSBggIIDRr4gjGo7u3bDfAhSZWuYMvCLzRKYE1pgHY0RCA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiTsQ6lCG5gAJlpB91uY4YghEeiAQpM+KLmDLwi80faa0wjsaIhA.webp",
+          "league": "football"
+        },
+        {
+          "event_id": "spk_varteks-vara-din-vs-mladost--dralovi-2549451",
+          "title": "Varteks Varaždin vs Mladost Ždralovi",
+          "sport": "Football",
+          "sport_icon": "sports_soccer",
+          "sport_color": "#2962FF",
+          "tvg_id": "spk_varteks-vara-din-vs-mladost--dralovi-2549451",
+          "start_time": "2026-08-14T12:00:00Z",
+          "end_time": "2026-08-14T15:00:00Z",
+          "is_live": true,
+          "streams": [
+            {
+              "name": "StreamedPK Echo #1",
+              "url": "https://embed.st/embed/echo/varteks-varazdin-vs-mladost-zdralovi-football-1604788/1"
+            }
+          ],
+          "stream_count": 1,
+          "has_stream": true,
+          "source": "StreamedPK",
+          "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulxgUYACYgQlHiG4g+23CaMoQ57RMIxgTPii5gy8IvNGOmtMM7GiIQA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwggUIACZhuRHNxB8QR-UdUwjIc2sIxgTPii5gy8XaU5NaYZ2NEQgA.webp",
+          "league": "football"
+        },
+        {
+          "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_hell_s_kitchen_seaso",
+          "title": "Hell's Kitchen Season 12, Episode 17",
           "sport": "Other",
           "sport_icon": "live_tv",
           "sport_color": "#E53935",
-          "tvg_id": "spk_678fd8508d98ade1299c32c8",
-          "start_time": "2026-08-14T05:09:58Z",
-          "end_time": "2026-08-14T08:09:58Z",
-          "is_live": false,
+          "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_hell_s_kitchen_seaso",
+          "start_time": "2026-08-14T12:00:00Z",
+          "end_time": "2026-08-14T15:00:00Z",
+          "is_live": true,
           "streams": [
             {
-              "name": "StreamedPK Foxtrot #1",
-              "url": "https://embed.st/embed/foxtrot/678fd8508d98ade1299c32c8/1"
-            }
-          ],
-          "stream_count": 1,
-          "has_stream": true,
-          "source": "StreamedPK",
-          "thumbnail": "https://streamed.pk/api/images/proxy//api/images/proxy/GwZg7AZpYEZgHCAjAJgCztsFYTAKbBgLBpgCckKArNACbrDnACGw8wADAcNcBJg5hs-AhUYpgUtgGMCkkCxAyQiFRBCaYIcsp2rFqhUpSazSuvsv4aWPjMlSw+BJCY9JfIc9GEIQA.webp.webp",
-          "league": "other"
-        },
-        {
-          "event_id": "spk_6570a839bae85135f61b12cb",
-          "title": "NFL NETWORK",
-          "sport": "Other",
-          "sport_icon": "live_tv",
-          "sport_color": "#E53935",
-          "tvg_id": "spk_6570a839bae85135f61b12cb",
-          "start_time": "2026-08-14T05:09:58Z",
-          "end_time": "2026-08-14T08:09:58Z",
-          "is_live": false,
-          "streams": [
-            {
-              "name": "StreamedPK Foxtrot #1",
-              "url": "https://embed.st/embed/foxtrot/6570a839bae85135f61b12cb/1"
-            }
-          ],
-          "stream_count": 1,
-          "has_stream": true,
-          "source": "StreamedPK",
-          "thumbnail": "https://streamed.pk/api/images/proxy//api/images/proxy/GwZg7AZpYEZgHCAjAJgCztsFYTAKbBgLBpgCckKArNACbrDnACGw8wADAcNcBJg5hs-AhUYpgUtgGMCkkCxAyQ5EOoggYITXWUgUqncoWG1Kw-mN7N5GsCRYZkqWHwJITHpL5C3owgggA.webp.webp",
-          "league": "other"
-        },
-        {
-          "event_id": "spk_67055bb1e04765cdd3240384",
-          "title": "NFL REDZONE",
-          "sport": "Other",
-          "sport_icon": "live_tv",
-          "sport_color": "#E53935",
-          "tvg_id": "spk_67055bb1e04765cdd3240384",
-          "start_time": "2026-08-14T05:09:58Z",
-          "end_time": "2026-08-14T08:09:58Z",
-          "is_live": false,
-          "streams": [
-            {
-              "name": "StreamedPK Foxtrot #1",
-              "url": "https://embed.st/embed/foxtrot/67055bb1e04765cdd3240384/1"
-            }
-          ],
-          "stream_count": 1,
-          "has_stream": true,
-          "source": "StreamedPK",
-          "thumbnail": "https://streamed.pk/api/images/proxy//api/images/proxy/GwZg7AZpYEZgHCAjAJgCztsFYTAKbBgLBpgCckKArNACbrDnACGw8wADAcNcBJg5hs-AhUYpgUtgGMCkkCxAyQ5EOoiKtmlCDohEK-Ao3KQMEPnOWDBmmiTUYaGZKlh8CSEx6S+Qj1FCCCA.webp.webp",
-          "league": "other"
-        },
-        {
-          "event_id": "spk_678fd97c8d98ade1299c33d8",
-          "title": "Fight Network",
-          "sport": "Other",
-          "sport_icon": "live_tv",
-          "sport_color": "#E53935",
-          "tvg_id": "spk_678fd97c8d98ade1299c33d8",
-          "start_time": "2026-08-14T05:09:58Z",
-          "end_time": "2026-08-14T08:09:58Z",
-          "is_live": false,
-          "streams": [
-            {
-              "name": "StreamedPK Foxtrot #1",
-              "url": "https://embed.st/embed/foxtrot/678fd97c8d98ade1299c33d8/1"
-            }
-          ],
-          "stream_count": 1,
-          "has_stream": true,
-          "source": "StreamedPK",
-          "thumbnail": "https://streamed.pk/api/images/proxy//api/images/proxy/GwZg7AZpYEZgHCAjAJgCztsFYTAKbBgLBpgCckKArNACbrDnACGw8wADAcNcBJg5hs-AhUYpgUtgGMCkkCxAyQiFRBCaYIfMpDlVelgoN1FIDYk0M+LMHREMpRfAkhMekvkLCEIPCCA.webp.webp",
-          "league": "other"
-        },
-        {
-          "event_id": "spk_678fd5e48d98ade1299c318b",
-          "title": "ESPN USA",
-          "sport": "Other",
-          "sport_icon": "live_tv",
-          "sport_color": "#E53935",
-          "tvg_id": "spk_678fd5e48d98ade1299c318b",
-          "start_time": "2026-08-14T05:09:58Z",
-          "end_time": "2026-08-14T08:09:58Z",
-          "is_live": false,
-          "streams": [
-            {
-              "name": "StreamedPK Foxtrot #1",
-              "url": "https://embed.st/embed/foxtrot/678fd5e48d98ade1299c318b/1"
-            }
-          ],
-          "stream_count": 1,
-          "has_stream": true,
-          "source": "StreamedPK",
-          "thumbnail": "https://streamed.pk/api/images/proxy//api/images/proxy/GwZg7AZpYEZgHCAjAJgCztsFYTAKbBgLBpgCckKArNACbrDnACGw8wADAcNcBJg5hs-AhUYpgUtgGMCkkCxAyQiFRGUgUWkOR2IYihSsQbtiOpssoaYOYUoxJUsPgSQmPSXyGvRhCCA.webp.webp",
-          "league": "other"
-        },
-        {
-          "event_id": "spk_678fd7a78d98ade1299c3269",
-          "title": "TNT",
-          "sport": "Other",
-          "sport_icon": "live_tv",
-          "sport_color": "#E53935",
-          "tvg_id": "spk_678fd7a78d98ade1299c3269",
-          "start_time": "2026-08-14T05:09:58Z",
-          "end_time": "2026-08-14T08:09:58Z",
-          "is_live": false,
-          "streams": [
-            {
-              "name": "StreamedPK Foxtrot #1",
-              "url": "https://embed.st/embed/foxtrot/678fd7a78d98ade1299c3269/1"
-            }
-          ],
-          "stream_count": 1,
-          "has_stream": true,
-          "source": "StreamedPK",
-          "thumbnail": "https://streamed.pk/api/images/proxy//api/images/proxy/GwZg7AZpYEZgHCAjAJgCztsFYTAKbBgLBpgCckKArNACbrDnACGw8wADAcNcBJg5hs-AhUYpgUtgGMCkkCxAyQiFRBCaYikNsQaUyhXRDldIfKvMn4NYEiwzJUsPgSQmPSXyGvRhCCA.webp.webp",
-          "league": "other"
-        },
-        {
-          "event_id": "spk_6580da5fe46bd243f3850a4d",
-          "title": "NHL NETWORK",
-          "sport": "Hockey",
-          "sport_icon": "sports_hockey",
-          "sport_color": "#1565C0",
-          "tvg_id": "spk_6580da5fe46bd243f3850a4d",
-          "start_time": "2026-08-14T05:09:58Z",
-          "end_time": "2026-08-14T08:09:58Z",
-          "is_live": false,
-          "streams": [
-            {
-              "name": "StreamedPK Foxtrot #1",
-              "url": "https://embed.st/embed/foxtrot/6580da5fe46bd243f3850a4d/1"
-            }
-          ],
-          "stream_count": 1,
-          "has_stream": true,
-          "source": "StreamedPK",
-          "thumbnail": "https://streamed.pk/api/images/proxy//api/images/proxy/GwZg7AZpYEZgHCAjAJgCztsFYTAKbBgLBpgCckKArNACbrDnACGw8wADAcNcBJg5hs-AhUYpgUtgGMCkkCxAyQ5EOoggYITfh1b9SlAr3a1SlZdU6aWPjMlSw+BJCY9JfIc9GEIQA.webp.webp",
-          "league": "other"
-        },
-        {
-          "event_id": "spk_6570a88ebae85135f61b12d7",
-          "title": "MLB TV",
-          "sport": "Baseball",
-          "sport_icon": "sports_baseball",
-          "sport_color": "#FF6F00",
-          "tvg_id": "spk_6570a88ebae85135f61b12d7",
-          "start_time": "2026-08-14T05:09:58Z",
-          "end_time": "2026-08-14T08:09:58Z",
-          "is_live": false,
-          "streams": [
-            {
-              "name": "StreamedPK Foxtrot #1",
-              "url": "https://embed.st/embed/foxtrot/6570a88ebae85135f61b12d7/1"
-            }
-          ],
-          "stream_count": 1,
-          "has_stream": true,
-          "source": "StreamedPK",
-          "thumbnail": "https://streamed.pk/api/images/proxy//api/images/proxy/GwZg7AZpYEZgHCAjAJgCztsFYTAKbBgLBpgCckKArNACbrDnACGw8wADAcNcBJg5hs-AhUYpgUtgGMCkkCxAyQ5EOoiLVWlMpD49A0Bq2JEKxEvI1gSLDMlSw+BJCY9JfIc9GEIQA.webp.webp",
-          "league": "other"
-        },
-        {
-          "event_id": "spk_6570a866bae85135f61b12d1",
-          "title": "NBA TV",
-          "sport": "Basketball",
-          "sport_icon": "sports_basketball",
-          "sport_color": "#FF6D00",
-          "tvg_id": "spk_6570a866bae85135f61b12d1",
-          "start_time": "2026-08-14T05:09:58Z",
-          "end_time": "2026-08-14T08:09:58Z",
-          "is_live": false,
-          "streams": [
-            {
-              "name": "StreamedPK Foxtrot #1",
-              "url": "https://embed.st/embed/foxtrot/6570a866bae85135f61b12d1/1"
-            }
-          ],
-          "stream_count": 1,
-          "has_stream": true,
-          "source": "StreamedPK",
-          "thumbnail": "https://streamed.pk/api/images/proxy//api/images/proxy/GwZg7AZpYEZgHCAjAJgCztsFYTAKbBgLBpgCckKArNACbrDnACGw8wADAcNcBJg5hs-AhUYpgUtgGMCkkCxAyQ5EOoggY6rSE37dIBUs2J8O7SpQh4NYEiwzJUsPgSQmPSXyGvRhCCA.webp.webp",
-          "league": "other"
-        },
-        {
-          "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_afl___carlton_blues_",
-          "title": "AFL : Carlton Blues vs Hawthorn Hawks",
-          "sport": "Other",
-          "sport_icon": "live_tv",
-          "sport_color": "#E53935",
-          "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_afl___carlton_blues_",
-          "start_time": "2026-08-14T08:30:00Z",
-          "end_time": "2026-08-14T11:30:00Z",
-          "is_live": false,
-          "streams": [
-            {
-              "name": "TNT Sports 1 UK (watch)",
-              "url": "https://dlhd.pk/watch/stream-31.php"
+              "name": "AXS TV USA (casting)",
+              "url": "https://dlhd.pk/casting/stream-742.php"
             },
             {
-              "name": "TNT Sports 1 UK (cast)",
-              "url": "https://dlhd.pk/cast/stream-31.php"
+              "name": "AXS TV USA (watch)",
+              "url": "https://dlhd.pk/watch/stream-742.php"
             },
             {
-              "name": "FOX Sports 2 USA (plus)",
-              "url": "https://dlhd.pk/plus/stream-758.php"
+              "name": "AXS TV USA (cast)",
+              "url": "https://dlhd.pk/cast/stream-742.php"
             },
             {
-              "name": "FOX Sports 2 USA (cast)",
-              "url": "https://dlhd.pk/cast/stream-758.php"
+              "name": "AXS TV USA (plus)",
+              "url": "https://dlhd.pk/plus/stream-742.php"
             },
             {
-              "name": "TNT Sports 1 UK (player)",
-              "url": "https://dlhd.pk/player/stream-31.php"
+              "name": "AXS TV USA (player)",
+              "url": "https://dlhd.pk/player/stream-742.php"
             },
             {
-              "name": "TNT Sports 1 UK (plus)",
-              "url": "https://dlhd.pk/plus/stream-31.php"
+              "name": "AXS TV USA",
+              "url": "https://dlhd.pk/stream/stream-742.php"
             }
           ],
           "stream_count": 6,
@@ -472,26 +554,45 @@
           "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
         },
         {
-          "event_id": "spk_live-event_nascar-truck-series-2026-nascar-craftsman-truck-series-race-at-richmond-live-stream",
-          "title": "Nascar Truck Series 2026 - NASCAR Craftsman Truck Series Race at Richmond",
-          "sport": "Formula 1",
-          "sport_icon": "directions_car",
-          "sport_color": "#FF1744",
-          "tvg_id": "spk_live-event_nascar-truck-series-2026-nascar-craftsman-truck-series-race-at-richmond-live-stream",
-          "start_time": "2026-08-14T08:56:00Z",
-          "end_time": "2026-08-14T11:56:00Z",
-          "is_live": false,
+          "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_engadin___parallel_g",
+          "title": "Engadin | Parallel Giant Slalom World Championships",
+          "sport": "Other",
+          "sport_icon": "live_tv",
+          "sport_color": "#E53935",
+          "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_engadin___parallel_g",
+          "start_time": "2026-08-14T12:00:00Z",
+          "end_time": "2026-08-14T15:00:00Z",
+          "is_live": true,
           "streams": [
             {
-              "name": "StreamedPK Delta HD #1 (English)",
-              "url": "https://embed.st/embed/delta/live-event_nascar-truck-series-2026-nascar-craftsman-truck-series-race-at-richmond-live-stream/1"
+              "name": "TNT Sports 4 UK (casting)",
+              "url": "https://dlhd.pk/casting/stream-34.php"
+            },
+            {
+              "name": "EuroSport 2 Spain (plus)",
+              "url": "https://dlhd.pk/plus/stream-525.php"
+            },
+            {
+              "name": "TNT Sports 4 UK",
+              "url": "https://dlhd.pk/stream/stream-34.php"
+            },
+            {
+              "name": "EuroSport 2 Poland (casting)",
+              "url": "https://dlhd.pk/casting/stream-58.php"
+            },
+            {
+              "name": "EuroSport 2 Spain (casting)",
+              "url": "https://dlhd.pk/casting/stream-525.php"
+            },
+            {
+              "name": "EuroSport 2 Spain (player)",
+              "url": "https://dlhd.pk/player/stream-525.php"
             }
           ],
-          "stream_count": 1,
+          "stream_count": 6,
           "has_stream": true,
-          "source": "StreamedPK",
-          "thumbnail": "https://streamed.pk/api/images/badge/formula-1.webp",
-          "league": "motor-sports"
+          "source": "DaddyLiveHD",
+          "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
         },
         {
           "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_national_rugby_leagu",
@@ -574,411 +675,6 @@
           "has_stream": true,
           "source": "DaddyLiveHD",
           "thumbnail": "https://streamed.pk/api/images/badge/football.webp"
-        },
-        {
-          "event_id": "spk_canterbury-bankstown-bulldogs-vs-south-sydney-rabbitohs-2417346",
-          "title": "Canterbury Bankstown Bulldogs vs South Sydney Rabbitohs",
-          "sport": "Rugby",
-          "sport_icon": "sports_rugby",
-          "sport_color": "#00BFA5",
-          "tvg_id": "spk_canterbury-bankstown-bulldogs-vs-south-sydney-rabbitohs-2417346",
-          "start_time": "2026-08-14T10:00:00Z",
-          "end_time": "2026-08-14T13:00:00Z",
-          "is_live": false,
-          "streams": [
-            {
-              "name": "StreamedPK Admin HD #1 (English - Fox League)",
-              "url": "https://embed.st/embed/admin/ppv-bulldogs-vs-rabbitohs/1"
-            },
-            {
-              "name": "StreamedPK Admin SD #2 (English - Fox League)",
-              "url": "https://embed.st/embed/admin/ppv-bulldogs-vs-rabbitohs/2"
-            }
-          ],
-          "stream_count": 2,
-          "has_stream": true,
-          "source": "StreamedPK",
-          "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmPMNxAxg+EIk0qQEEIcTG+JkCisEKTPii5gy8IvNGOmtMM7GiIQA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAw2IKKMIwQ3ECX25VIPkYAmJkwQpM+KLmDLwi80faa0wjsaIhA.webp",
-          "league": "rugby"
-        },
-        {
-          "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_wrc_safari_rally_ken",
-          "title": "WRC Safari Rally Kenya | Special Stage 1 | Day 1",
-          "sport": "Other",
-          "sport_icon": "live_tv",
-          "sport_color": "#E53935",
-          "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_wrc_safari_rally_ken",
-          "start_time": "2026-08-14T10:00:00Z",
-          "end_time": "2026-08-14T13:00:00Z",
-          "is_live": false,
-          "streams": [
-            {
-              "name": "TNT Sports 2 UK (watch)",
-              "url": "https://dlhd.pk/watch/stream-32.php"
-            },
-            {
-              "name": "Canal+ Sport360 (watch)",
-              "url": "https://dlhd.pk/watch/stream-464.php"
-            },
-            {
-              "name": "TNT Sports 2 UK (cast)",
-              "url": "https://dlhd.pk/cast/stream-32.php"
-            },
-            {
-              "name": "Motowizja Poland (cast)",
-              "url": "https://dlhd.pk/cast/stream-563.php"
-            },
-            {
-              "name": "Canal+ Sport360",
-              "url": "https://dlhd.pk/stream/stream-464.php"
-            },
-            {
-              "name": "Rally Tv (casting)",
-              "url": "https://dlhd.pk/casting/stream-607.php"
-            }
-          ],
-          "stream_count": 6,
-          "has_stream": true,
-          "source": "DaddyLiveHD",
-          "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
-        },
-        {
-          "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_absa_cape_epic__25__",
-          "title": "Absa Cape Epic '25: Stage 4",
-          "sport": "Cycling",
-          "sport_icon": "directions_bike",
-          "sport_color": "#0288D1",
-          "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_absa_cape_epic__25__",
-          "start_time": "2026-08-14T10:00:00Z",
-          "end_time": "2026-08-14T13:00:00Z",
-          "is_live": false,
-          "streams": [
-            {
-              "name": "SuperSport Grandstand (player)",
-              "url": "https://dlhd.pk/player/stream-412.php"
-            },
-            {
-              "name": "SuperSport Grandstand (watch)",
-              "url": "https://dlhd.pk/watch/stream-412.php"
-            },
-            {
-              "name": "SuperSport Grandstand (casting)",
-              "url": "https://dlhd.pk/casting/stream-412.php"
-            },
-            {
-              "name": "SuperSport Grandstand (plus)",
-              "url": "https://dlhd.pk/plus/stream-412.php"
-            },
-            {
-              "name": "SuperSport Grandstand",
-              "url": "https://dlhd.pk/stream/stream-412.php"
-            },
-            {
-              "name": "SuperSport Grandstand (cast)",
-              "url": "https://dlhd.pk/cast/stream-412.php"
-            }
-          ],
-          "stream_count": 6,
-          "has_stream": true,
-          "source": "DaddyLiveHD",
-          "thumbnail": "https://streamed.pk/api/images/badge/cycling.webp"
-        },
-        {
-          "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_women_s___group_stag",
-          "title": "Women's | Group Stage | World Championship : United States vs Norway",
-          "sport": "Other",
-          "sport_icon": "live_tv",
-          "sport_color": "#E53935",
-          "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_women_s___group_stag",
-          "start_time": "2026-08-14T10:00:00Z",
-          "end_time": "2026-08-14T13:00:00Z",
-          "is_live": false,
-          "streams": [
-            {
-              "name": "EuroSport 1 Poland (casting)",
-              "url": "https://dlhd.pk/casting/stream-57.php"
-            },
-            {
-              "name": "EuroSport 1 Spain (player)",
-              "url": "https://dlhd.pk/player/stream-524.php"
-            },
-            {
-              "name": "EuroSport 1 Poland",
-              "url": "https://dlhd.pk/stream/stream-57.php"
-            },
-            {
-              "name": "EuroSport 1 France",
-              "url": "https://dlhd.pk/stream/stream-772.php"
-            },
-            {
-              "name": "EuroSport 1 France (cast)",
-              "url": "https://dlhd.pk/cast/stream-772.php"
-            },
-            {
-              "name": "EuroSport 1 Spain (casting)",
-              "url": "https://dlhd.pk/casting/stream-524.php"
-            }
-          ],
-          "stream_count": 6,
-          "has_stream": true,
-          "source": "DaddyLiveHD",
-          "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
-        },
-        {
-          "event_id": "spk_fremantle-dockers-vs-adelaide-crows-australian-football-3536",
-          "title": "Fremantle Dockers vs Adelaide Crows",
-          "sport": "Other",
-          "sport_icon": "live_tv",
-          "sport_color": "#E53935",
-          "tvg_id": "spk_fremantle-dockers-vs-adelaide-crows-australian-football-3536",
-          "start_time": "2026-08-14T10:10:00Z",
-          "end_time": "2026-08-14T13:10:00Z",
-          "is_live": false,
-          "streams": [
-            {
-              "name": "StreamedPK Echo #1",
-              "url": "https://embed.st/embed/echo/fremantle-dockers-vs-adelaide-crows-australian-football-3536/1"
-            },
-            {
-              "name": "StreamedPK Echo #1",
-              "url": "https://embed.st/embed/echo/fremantle-dockers-vs-adelaide-crows-australian-football-3606/1"
-            }
-          ],
-          "stream_count": 1,
-          "has_stream": true,
-          "source": "StreamedPK",
-          "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQA+uQYBjZsJ7wxVcYQaswYXPn1A/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQJOuQYBjZsJ7wxVcYQaswYXPn1A.webp",
-          "league": "afl"
-        },
-        {
-          "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_premier_league_pool_",
-          "title": "Premier League Pool: Day 1",
-          "sport": "Football",
-          "sport_icon": "sports_soccer",
-          "sport_color": "#2962FF",
-          "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_premier_league_pool_",
-          "start_time": "2026-08-14T11:00:00Z",
-          "end_time": "2026-08-14T14:00:00Z",
-          "is_live": false,
-          "streams": [
-            {
-              "name": "Sky Sport 3 NZ (watch)",
-              "url": "https://dlhd.pk/watch/stream-590.php"
-            },
-            {
-              "name": "Sky Sport 3 NZ (cast)",
-              "url": "https://dlhd.pk/cast/stream-590.php"
-            },
-            {
-              "name": "Sky Sport 3 NZ",
-              "url": "https://dlhd.pk/stream/stream-590.php"
-            },
-            {
-              "name": "Sky Sport 3 NZ (casting)",
-              "url": "https://dlhd.pk/casting/stream-590.php"
-            },
-            {
-              "name": "Sky Sport 3 NZ (player)",
-              "url": "https://dlhd.pk/player/stream-590.php"
-            },
-            {
-              "name": "Sky Sport 3 NZ (plus)",
-              "url": "https://dlhd.pk/plus/stream-590.php"
-            }
-          ],
-          "stream_count": 6,
-          "has_stream": true,
-          "source": "DaddyLiveHD",
-          "thumbnail": "https://streamed.pk/api/images/badge/football.webp"
-        },
-        {
-          "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_asia_cup___guam_vs_t",
-          "title": "Asia Cup : Guam vs Thailand",
-          "sport": "Cricket",
-          "sport_icon": "sports_cricket",
-          "sport_color": "#00C853",
-          "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_asia_cup___guam_vs_t",
-          "start_time": "2026-08-14T11:00:00Z",
-          "end_time": "2026-08-14T14:00:00Z",
-          "is_live": false,
-          "streams": [
-            {
-              "name": "Sport Klub 4 Serbia (plus)",
-              "url": "https://dlhd.pk/plus/stream-104.php"
-            },
-            {
-              "name": "Sport Klub 4 Serbia (player)",
-              "url": "https://dlhd.pk/player/stream-104.php"
-            },
-            {
-              "name": "Sport Klub 4 Serbia (watch)",
-              "url": "https://dlhd.pk/watch/stream-104.php"
-            },
-            {
-              "name": "Sport Klub 4 Serbia (casting)",
-              "url": "https://dlhd.pk/casting/stream-104.php"
-            },
-            {
-              "name": "Sport Klub 4 Serbia (cast)",
-              "url": "https://dlhd.pk/cast/stream-104.php"
-            },
-            {
-              "name": "Sport Klub 4 Serbia",
-              "url": "https://dlhd.pk/stream/stream-104.php"
-            }
-          ],
-          "stream_count": 6,
-          "has_stream": true,
-          "source": "DaddyLiveHD",
-          "thumbnail": "https://streamed.pk/api/images/badge/cricket.webp"
-        },
-        {
-          "event_id": "spk_zagorec-vs-granicar-durdevac-football-1607290",
-          "title": "Zagorec vs Graničar Đurđevac",
-          "sport": "Football",
-          "sport_icon": "sports_soccer",
-          "sport_color": "#2962FF",
-          "tvg_id": "spk_zagorec-vs-granicar-durdevac-football-1607290",
-          "start_time": "2026-08-14T12:00:00Z",
-          "end_time": "2026-08-14T15:00:00Z",
-          "is_live": false,
-          "streams": [
-            {
-              "name": "StreamedPK Echo #1",
-              "url": "https://embed.st/embed/echo/zagorec-vs-granicar-durdevac-football-1607290/1"
-            }
-          ],
-          "stream_count": 1,
-          "has_stream": true,
-          "source": "StreamedPK",
-          "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsIAMYhETOuQbLm4nvBFVuBLqzBhc+S0A/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhF2EChBM65BgGNm4nvBFVuBLqzBhc+S0A.webp",
-          "league": "football"
-        },
-        {
-          "event_id": "spk_karlovac-vs-trnje-zagreb-2553360",
-          "title": "Karlovac vs Trnje Zagreb",
-          "sport": "Football",
-          "sport_icon": "sports_soccer",
-          "sport_color": "#2962FF",
-          "tvg_id": "spk_karlovac-vs-trnje-zagreb-2553360",
-          "start_time": "2026-08-14T12:00:00Z",
-          "end_time": "2026-08-14T15:00:00Z",
-          "is_live": false,
-          "streams": [
-            {
-              "name": "StreamedPK Echo #1",
-              "url": "https://embed.st/embed/echo/karlovac-1919-vs-trnje-football-1607289/1"
-            }
-          ],
-          "stream_count": 1,
-          "has_stream": true,
-          "source": "StreamedPK",
-          "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhB8w3VSBggIIDRr4gjGo7u3bDfAhSZWuYMvCLzRKYE1pgHY0RCA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiTsQ6lCG5gAJlpB91uY4YghEeiAQpM+KLmDLwi80faa0wjsaIhA.webp",
-          "league": "football"
-        },
-        {
-          "event_id": "spk_varteks-vara-din-vs-mladost--dralovi-2549451",
-          "title": "Varteks Varaždin vs Mladost Ždralovi",
-          "sport": "Football",
-          "sport_icon": "sports_soccer",
-          "sport_color": "#2962FF",
-          "tvg_id": "spk_varteks-vara-din-vs-mladost--dralovi-2549451",
-          "start_time": "2026-08-14T12:00:00Z",
-          "end_time": "2026-08-14T15:00:00Z",
-          "is_live": false,
-          "streams": [
-            {
-              "name": "StreamedPK Echo #1",
-              "url": "https://embed.st/embed/echo/varteks-varazdin-vs-mladost-zdralovi-football-1604788/1"
-            }
-          ],
-          "stream_count": 1,
-          "has_stream": true,
-          "source": "StreamedPK",
-          "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulxgUYACYgQlHiG4g+23CaMoQ57RMIxgTPii5gy8IvNGOmtMM7GiIQA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwggUIACZhuRHNxB8QR-UdUwjIc2sIxgTPii5gy8XaU5NaYZ2NEQgA.webp",
-          "league": "football"
-        },
-        {
-          "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_hell_s_kitchen_seaso",
-          "title": "Hell's Kitchen Season 12, Episode 17",
-          "sport": "Other",
-          "sport_icon": "live_tv",
-          "sport_color": "#E53935",
-          "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_hell_s_kitchen_seaso",
-          "start_time": "2026-08-14T12:00:00Z",
-          "end_time": "2026-08-14T15:00:00Z",
-          "is_live": false,
-          "streams": [
-            {
-              "name": "AXS TV USA (casting)",
-              "url": "https://dlhd.pk/casting/stream-742.php"
-            },
-            {
-              "name": "AXS TV USA (watch)",
-              "url": "https://dlhd.pk/watch/stream-742.php"
-            },
-            {
-              "name": "AXS TV USA (cast)",
-              "url": "https://dlhd.pk/cast/stream-742.php"
-            },
-            {
-              "name": "AXS TV USA (plus)",
-              "url": "https://dlhd.pk/plus/stream-742.php"
-            },
-            {
-              "name": "AXS TV USA (player)",
-              "url": "https://dlhd.pk/player/stream-742.php"
-            },
-            {
-              "name": "AXS TV USA",
-              "url": "https://dlhd.pk/stream/stream-742.php"
-            }
-          ],
-          "stream_count": 6,
-          "has_stream": true,
-          "source": "DaddyLiveHD",
-          "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
-        },
-        {
-          "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_engadin___parallel_g",
-          "title": "Engadin | Parallel Giant Slalom World Championships",
-          "sport": "Other",
-          "sport_icon": "live_tv",
-          "sport_color": "#E53935",
-          "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_engadin___parallel_g",
-          "start_time": "2026-08-14T12:00:00Z",
-          "end_time": "2026-08-14T15:00:00Z",
-          "is_live": false,
-          "streams": [
-            {
-              "name": "TNT Sports 4 UK (casting)",
-              "url": "https://dlhd.pk/casting/stream-34.php"
-            },
-            {
-              "name": "EuroSport 2 Spain (plus)",
-              "url": "https://dlhd.pk/plus/stream-525.php"
-            },
-            {
-              "name": "TNT Sports 4 UK",
-              "url": "https://dlhd.pk/stream/stream-34.php"
-            },
-            {
-              "name": "EuroSport 2 Poland (casting)",
-              "url": "https://dlhd.pk/casting/stream-58.php"
-            },
-            {
-              "name": "EuroSport 2 Spain (casting)",
-              "url": "https://dlhd.pk/casting/stream-525.php"
-            },
-            {
-              "name": "EuroSport 2 Spain (player)",
-              "url": "https://dlhd.pk/player/stream-525.php"
-            }
-          ],
-          "stream_count": 6,
-          "has_stream": true,
-          "source": "DaddyLiveHD",
-          "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
         },
         {
           "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_khl___sibir_novosibi",
@@ -1102,6 +798,28 @@
           "has_stream": true,
           "source": "DaddyLiveHD",
           "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
+        },
+        {
+          "event_id": "spk_ppv-event-02-aca-206-vakhaev-v-aliakbari-ppv-02",
+          "title": "ACA 206 Vakhaev v Aliakbari 🔥",
+          "sport": "Other",
+          "sport_icon": "live_tv",
+          "sport_color": "#E53935",
+          "tvg_id": "spk_ppv-event-02-aca-206-vakhaev-v-aliakbari-ppv-02",
+          "start_time": "2026-08-14T13:30:00Z",
+          "end_time": "2026-08-14T16:30:00Z",
+          "is_live": false,
+          "streams": [
+            {
+              "name": "StreamedPK Echo #1",
+              "url": "https://embed.st/embed/echo/ppv-event-02-aca-206-vakhaev-v-aliakbari-ppv-02/1"
+            }
+          ],
+          "stream_count": 1,
+          "has_stream": true,
+          "source": "StreamedPK",
+          "thumbnail": "https://streamed.pk/api/images/badge/live.webp",
+          "league": "other"
         },
         {
           "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_world___friendly___t",
@@ -1448,6 +1166,10 @@
             {
               "name": "StreamedPK Echo #1",
               "url": "https://embed.st/embed/echo/marseille-vs-atletico-madrid-football-1604789/1"
+            },
+            {
+              "name": "StreamedPK Delta #1",
+              "url": "https://embed.st/embed/delta/live_club-friendly-games_marseille-atl-madrid-live-streaming-603330336/1"
             }
           ],
           "stream_count": 1,
@@ -2567,6 +2289,28 @@
           "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
         },
         {
+          "event_id": "spk_ppv-event-08-motoamerica-superbikes-virginia-ppv-08",
+          "title": "MotoAmerica Superbikes Virginia",
+          "sport": "Other",
+          "sport_icon": "live_tv",
+          "sport_color": "#E53935",
+          "tvg_id": "spk_ppv-event-08-motoamerica-superbikes-virginia-ppv-08",
+          "start_time": "2026-08-14T17:00:00Z",
+          "end_time": "2026-08-14T20:00:00Z",
+          "is_live": false,
+          "streams": [
+            {
+              "name": "StreamedPK Echo #1",
+              "url": "https://embed.st/embed/echo/ppv-event-08-motoamerica-superbikes-virginia-ppv-08/1"
+            }
+          ],
+          "stream_count": 1,
+          "has_stream": true,
+          "source": "StreamedPK",
+          "thumbnail": "https://streamed.pk/api/images/badge/live.webp",
+          "league": "other"
+        },
+        {
           "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_mlb___philadelphia_p",
           "title": "MLB : Philadelphia Phillies vs Atlanta Braves",
           "sport": "Baseball",
@@ -3677,6 +3421,32 @@
           "league": "rugby"
         },
         {
+          "event_id": "spk_wolverhampton-wanderers-vs-blackburn-rovers-2501249",
+          "title": "Wolverhampton Wanderers vs Blackburn Rovers",
+          "sport": "Football",
+          "sport_icon": "sports_soccer",
+          "sport_color": "#2962FF",
+          "tvg_id": "spk_wolverhampton-wanderers-vs-blackburn-rovers-2501249",
+          "start_time": "2026-08-14T19:00:00Z",
+          "end_time": "2026-08-14T22:00:00Z",
+          "is_live": false,
+          "streams": [
+            {
+              "name": "StreamedPK Admin HD #1 (English - Paramount+)",
+              "url": "https://embed.st/embed/admin/ppv-wolverhampton-wanderers-vs-blackburn-rovers/1"
+            },
+            {
+              "name": "StreamedPK Admin SD #2 (English - Paramount+)",
+              "url": "https://embed.st/embed/admin/ppv-wolverhampton-wanderers-vs-blackburn-rovers/2"
+            }
+          ],
+          "stream_count": 2,
+          "has_stream": true,
+          "source": "StreamedPK",
+          "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphIgUYbthAwQibiAAmuEPtUpdFnHwIUm1rmDLwi80SmBNaYR2NEQgA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixgAJtRRgyEENxC7dIY3pAwT+iAQpM+KLtvL15o+01phtY0RCA.webp",
+          "league": "football"
+        },
+        {
           "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_euroleague___konfere",
           "title": "Euroleague : Konferenz",
           "sport": "Football",
@@ -4375,6 +4145,28 @@
           "has_stream": true,
           "source": "DaddyLiveHD",
           "thumbnail": "https://streamed.pk/api/images/badge/football.webp"
+        },
+        {
+          "event_id": "spk_ppv-event-09-hasty-bake-high-limit-room-knoxville-ppv-09",
+          "title": "Hasty Bake High Limit Room Knoxville",
+          "sport": "Other",
+          "sport_icon": "live_tv",
+          "sport_color": "#E53935",
+          "tvg_id": "spk_ppv-event-09-hasty-bake-high-limit-room-knoxville-ppv-09",
+          "start_time": "2026-08-14T22:00:00Z",
+          "end_time": "2026-08-15T01:00:00Z",
+          "is_live": false,
+          "streams": [
+            {
+              "name": "StreamedPK Echo #1",
+              "url": "https://embed.st/embed/echo/ppv-event-09-hasty-bake-high-limit-room-knoxville-ppv-09/1"
+            }
+          ],
+          "stream_count": 1,
+          "has_stream": true,
+          "source": "StreamedPK",
+          "thumbnail": "https://streamed.pk/api/images/badge/live.webp",
+          "league": "other"
         },
         {
           "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_mlb___boston_red_sox",
@@ -5341,6 +5133,28 @@
           "league": "american-football"
         },
         {
+          "event_id": "spk_ppv-event-11-knoxville-nationals-nos-energy-ppv-11",
+          "title": "Knoxville Nationals NoS Energy",
+          "sport": "Other",
+          "sport_icon": "live_tv",
+          "sport_color": "#E53935",
+          "tvg_id": "spk_ppv-event-11-knoxville-nationals-nos-energy-ppv-11",
+          "start_time": "2026-08-14T23:00:00Z",
+          "end_time": "2026-08-15T02:00:00Z",
+          "is_live": false,
+          "streams": [
+            {
+              "name": "StreamedPK Echo #1",
+              "url": "https://embed.st/embed/echo/ppv-event-11-knoxville-nationals-nos-energy-ppv-11/1"
+            }
+          ],
+          "stream_count": 1,
+          "has_stream": true,
+          "source": "StreamedPK",
+          "thumbnail": "https://streamed.pk/api/images/badge/live.webp",
+          "league": "other"
+        },
+        {
           "event_id": "spk_cleveland-guardians-vs-san-diego-padres-2388715",
           "title": "Cleveland Guardians vs San Diego Padres",
           "sport": "Baseball",
@@ -5732,6 +5546,28 @@
           "league": "football"
         },
         {
+          "event_id": "spk_ppv-event-15-usac-national-midgetsv-coles-county-pppv15",
+          "title": "USAC National Midgetsv Coles County",
+          "sport": "Other",
+          "sport_icon": "live_tv",
+          "sport_color": "#E53935",
+          "tvg_id": "spk_ppv-event-15-usac-national-midgetsv-coles-county-pppv15",
+          "start_time": "2026-08-14T23:45:00Z",
+          "end_time": "2026-08-15T02:45:00Z",
+          "is_live": false,
+          "streams": [
+            {
+              "name": "StreamedPK Echo #1",
+              "url": "https://embed.st/embed/echo/ppv-event-15-usac-national-midgetsv-coles-county-pppv15/1"
+            }
+          ],
+          "stream_count": 1,
+          "has_stream": true,
+          "source": "StreamedPK",
+          "thumbnail": "https://streamed.pk/api/images/badge/live.webp",
+          "league": "other"
+        },
+        {
           "event_id": "spk_194",
           "title": "UFC 330: Makhachev vs. Machado Garry",
           "sport": "MMA",
@@ -5749,6 +5585,14 @@
             {
               "name": "StreamedPK Golf HD #2 (English)",
               "url": "https://embed.st/embed/golf/194/2"
+            },
+            {
+              "name": "StreamEast HD",
+              "url": "https://beststreameast.xyz/match/ufc-330-makhachev-vs-machado-garry/16558"
+            },
+            {
+              "name": "StreamEast HD",
+              "url": "https://beststreameast.xyz/match/ufc-330-makhachev-vs-machado-garry/16863"
             }
           ],
           "stream_count": 2,
@@ -5786,10 +5630,48 @@
           "source": "StreamedPK",
           "thumbnail": "https://streamed.pk/api/images/proxy//api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZRAGMQ0rCBgiQVacBqJEKELNnjSIRCU1yRweCpAal0idkV6U5CKDCDjBbPTCFgSXBPtDnVkdhUno3UzBnYEcyCCA.webp.webp",
           "league": "fight"
+        },
+        {
+          "event_id": "spk_houston-astros-vs-seattle-mariners-2388720",
+          "title": "Houston Astros vs Seattle Mariners",
+          "sport": "Baseball",
+          "sport_icon": "sports_baseball",
+          "sport_color": "#FF6F00",
+          "tvg_id": "spk_houston-astros-vs-seattle-mariners-2388720",
+          "start_time": "2026-08-15T00:10:00Z",
+          "end_time": "2026-08-15T03:10:00Z",
+          "is_live": false,
+          "streams": [
+            {
+              "name": "StreamedPK Admin HD #1 (English - Space City Home Network)",
+              "url": "https://embed.st/embed/admin/ppv-seattle-mariners-vs-houston-astros/1"
+            },
+            {
+              "name": "StreamedPK Golf HD #1 (English)",
+              "url": "https://embed.st/embed/golf/261/1"
+            },
+            {
+              "name": "StreamedPK Admin SD #2 (English - Space City Home Network)",
+              "url": "https://embed.st/embed/admin/ppv-seattle-mariners-vs-houston-astros/2"
+            },
+            {
+              "name": "StreamedPK Delta #1",
+              "url": "https://embed.st/embed/delta/live_mlb_astros-mariners-live-streaming-593369280/1"
+            },
+            {
+              "name": "StreamedPK Echo #1",
+              "url": "https://embed.st/embed/echo/houston-astros-vs-seattle-mariners-baseball-179856/1"
+            }
+          ],
+          "stream_count": 5,
+          "has_stream": true,
+          "source": "StreamedPK",
+          "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksPZgBKfmBAhuIErh3aQKEIn3b4BCkz4a2YMvCLzRGprTAOxoiEA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCIUYECHUxQIbiBK49WkDFUnE8AhSZ8UXMGXhF5o+01phHY0RCA.webp",
+          "league": "baseball"
         }
       ]
     }
   ],
   "count": 1,
-  "generated_at": "2026-08-14T09:05:47.850321"
+  "generated_at": "2026-08-14T13:03:25.819293"
 }
