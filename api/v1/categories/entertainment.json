@@ -9627,16 +9627,6 @@
       "languages": []
     },
     {
-      "id": "Simon.ua",
-      "name": "Simon",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/Simon.ua.png",
-      "streamUrls": [
-        "https://hls.simon.ua/live-HD/live/playlist.m3u8"
-      ],
-      "category": "Other",
-      "languages": []
-    },
-    {
       "id": "SipingTV.cn",
       "name": "Siping TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cn/SipingTV.cn.png",
@@ -14226,8 +14216,8 @@
       "name": "Star TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/StarTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/Star/HLSv3-FTA/Star.m3u8",
-        "https://cdn4.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd"
+        "https://cdn4.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd",
+        "https://cdn4.skygo.mn/live/disk1/Star/HLSv3-FTA/Star.m3u8"
       ],
       "country": "MN",
       "category": "Entertainment",
@@ -14875,10 +14865,10 @@
     {
       "id": "SvenskaTruckers.se",
       "name": "Svenska Truckers",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/NigelMarveninDallas.jpg/330px-NigelMarveninDallas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
-        "https://jmp2.uk/plu-645cc855e1979c000875ee47.m3u8",
-        "https://jmp2.uk/plu-61f128f68a1dfc00086470af.m3u8"
+        "https://jmp2.uk/plu-61f128f68a1dfc00086470af.m3u8",
+        "https://jmp2.uk/plu-645cc855e1979c000875ee47.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -17624,16 +17614,6 @@
       "languages": []
     },
     {
-      "id": "BalikpapanTV.id",
-      "name": "Balikpapan TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/BalikpapanTV.id.png",
-      "streamUrls": [
-        "http://122.248.43.242:1935/BALIKPAPANTV/_definst_/myStream/playlist.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "CerritosTV3.us",
       "name": "Cerritos TV3",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/CerritosTV3.us.png",
@@ -19947,8 +19927,98 @@
       ],
       "category": "Entertainment",
       "languages": []
+    },
+    {
+      "id": "AliwChannel23.ph",
+      "name": "Aliw Channel 23",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ph/AliwChannel23.ph.png",
+      "streamUrls": [
+        "https://streams.comclark.com/pknsd/aliw/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "GMATV.ph",
+      "name": "GMA TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ph/GMATV.ph.png",
+      "streamUrls": [
+        "https://streams.comclark.com/pknsd/gma_7/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "MWD.mm",
+      "name": "MWD",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mm/MWD.mm.png",
+      "streamUrls": [
+        "http://203.81.84.130/hls/mwd/index.m3u8"
+      ],
+      "category": "Other",
+      "languages": []
+    },
+    {
+      "id": "MWDVariety.mm",
+      "name": "MWD Variety",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mm/MWDVariety.mm.png",
+      "streamUrls": [
+        "http://203.81.84.130/hls/mwd_variety/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "Net25.ph",
+      "name": "Net 25",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ph/Net25.ph.png",
+      "streamUrls": [
+        "https://streams.comclark.com/pknsd/net_25/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "RJDigiTV.ph",
+      "name": "RJ DigiTV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://streams.comclark.com/pknsd/rjtv_29/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "SolarFlix.ph",
+      "name": "SolarFlix",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ph/SolarFlix.ph.png",
+      "streamUrls": [
+        "https://streams.comclark.com/pknsd/solar_flix/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "UNTV.ph",
+      "name": "UNTV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ph/UNTV.ph.png",
+      "streamUrls": [
+        "https://streams.comclark.com/pknsd/untv/playlist.m3u8"
+      ],
+      "category": "Informative",
+      "languages": []
+    },
+    {
+      "id": "Ulytau.kz",
+      "name": "Ulytau",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/kz/Ulytau.kz.png",
+      "streamUrls": [
+        "https://ulytau.tv/hls/master.m3u8"
+      ],
+      "category": "Other",
+      "languages": []
     }
   ],
-  "count": 1946,
-  "generated_at": "2026-08-13T20:40:46.984152"
+  "count": 1953,
+  "generated_at": "2026-08-14T01:50:51.238845"
 }
