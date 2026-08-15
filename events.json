@@ -1,60 +1,12 @@
 {
-  "last_updated": "2026-08-15T07:59:07Z",
+  "last_updated": "2026-08-15T08:36:45Z",
   "strict_mode": true,
   "requires_stream": true,
   "requires_thumbnail": true,
-  "total_live": 21,
-  "total_upcoming": 154,
-  "total_streamed": 175,
+  "total_live": 23,
+  "total_upcoming": 151,
+  "total_streamed": 174,
   "active_events": [
-    {
-      "event_id": "spk_australia-rugby-vs-japan-rugby-2496226",
-      "title": "Australia Rugby vs Japan Rugby",
-      "sport": "Rugby",
-      "sport_icon": "sports_rugby",
-      "sport_color": "#00BFA5",
-      "tvg_id": "spk_australia-rugby-vs-japan-rugby-2496226",
-      "start_time": "2026-08-15T05:00:00Z",
-      "end_time": "2026-08-15T08:00:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "StreamedPK Echo #1",
-          "url": "https://embed.st/embed/echo/australia-vs-japan-rugby-53785/1"
-        }
-      ],
-      "stream_count": 1,
-      "has_stream": true,
-      "source": "StreamedPK",
-      "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplGIyo4GBQhuIEiAAmhkIhC495vgQpMrXMGXhF5olMCa0wDsaIhA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLACADJBC8QWkCRAATQyER8QZnEb4EKTa1zBl4ReaJTAmtMI7GiIQA.webp",
-      "league": "rugby"
-    },
-    {
-      "event_id": "spk_cronulla-sharks-vs-canberra-raiders-2417348",
-      "title": "Cronulla Sharks vs Canberra Raiders",
-      "sport": "Rugby",
-      "sport_icon": "sports_rugby",
-      "sport_color": "#00BFA5",
-      "tvg_id": "spk_cronulla-sharks-vs-canberra-raiders-2417348",
-      "start_time": "2026-08-15T05:00:00Z",
-      "end_time": "2026-08-15T08:00:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "StreamedPK Admin HD #1 (English - Fox League)",
-          "url": "https://embed.st/embed/admin/ppv-sharks-vs-raiders/1"
-        },
-        {
-          "name": "StreamedPK Admin SD #2 (English - Fox League)",
-          "url": "https://embed.st/embed/admin/ppv-sharks-vs-raiders/2"
-        }
-      ],
-      "stream_count": 2,
-      "has_stream": true,
-      "source": "StreamedPK",
-      "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpl74QtNWRzcQJXbhAwQfdYZDmQBCkz4ouYMvCLzRdprTAOxoiEA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgFswYJJRDbuIACYgI+kIiN9j5iYRjAmfFFzBl4ReaIdNa60VLpA.webp",
-      "league": "rugby"
-    },
     {
       "event_id": "spk_north-melbourne-kangaroos-vs-geelong-cats-australian-football-3608",
       "title": "North Melbourne Kangaroos vs Geelong Cats",
@@ -529,48 +481,6 @@
       "league": "other"
     },
     {
-      "event_id": "tsdb_2388714",
-      "title": "Los Angeles Angels vs Kansas City Royals",
-      "sport": "Baseball",
-      "sport_icon": "sports_baseball",
-      "sport_color": "#FF6F00",
-      "tvg_id": "tsdb_2388714",
-      "start_time": "2026-08-15T01:38:00Z",
-      "end_time": "2026-08-15T04:38:00Z",
-      "is_live": false,
-      "streams": [
-        {
-          "name": "MLB Network (cast)",
-          "url": "https://dlhd.pk/cast/stream-399.php"
-        },
-        {
-          "name": "SD-7584563 (cast)",
-          "url": "https://dlhd.pk/cast/stream-7584563.php"
-        },
-        {
-          "name": "SD-7584563 (watch)",
-          "url": "https://dlhd.pk/watch/stream-7584563.php"
-        },
-        {
-          "name": "MLB Network",
-          "url": "https://dlhd.pk/stream/stream-399.php"
-        },
-        {
-          "name": "MLB Network (plus)",
-          "url": "https://dlhd.pk/plus/stream-399.php"
-        },
-        {
-          "name": "MLB Network (player)",
-          "url": "https://dlhd.pk/player/stream-399.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "TheSportsDB",
-      "thumbnail": "https://streamed.pk/api/images/badge/baseball.webp",
-      "league": "MLB"
-    },
-    {
       "event_id": "spk_huesca-ii-vs-ebro-football-1618935",
       "title": "Huesca II vs Ebro",
       "sport": "Football",
@@ -579,7 +489,7 @@
       "tvg_id": "spk_huesca-ii-vs-ebro-football-1618935",
       "start_time": "2026-08-15T08:00:00Z",
       "end_time": "2026-08-15T11:00:00Z",
-      "is_live": false,
+      "is_live": true,
       "streams": [
         {
           "name": "StreamedPK Echo #1",
@@ -601,7 +511,7 @@
       "tvg_id": "spk_pozuelo-de-alarc-n-vs-marchamalo-2573932",
       "start_time": "2026-08-15T08:00:00Z",
       "end_time": "2026-08-15T11:00:00Z",
-      "is_live": false,
+      "is_live": true,
       "streams": [
         {
           "name": "StreamedPK Echo #1",
@@ -623,7 +533,7 @@
       "tvg_id": "spk_mallorca-ii-vs-atletico-baleares-football-1626991",
       "start_time": "2026-08-15T08:00:00Z",
       "end_time": "2026-08-15T11:00:00Z",
-      "is_live": false,
+      "is_live": true,
       "streams": [
         {
           "name": "StreamedPK Echo #1",
@@ -645,7 +555,7 @@
       "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_afl___carlton_blues_",
       "start_time": "2026-08-15T08:30:00Z",
       "end_time": "2026-08-15T11:30:00Z",
-      "is_live": false,
+      "is_live": true,
       "streams": [
         {
           "name": "TNT Sports 1 UK (player)",
@@ -676,6 +586,48 @@
       "has_stream": true,
       "source": "DaddyLiveHD",
       "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
+    },
+    {
+      "event_id": "tsdb_2388714",
+      "title": "Los Angeles Angels vs Kansas City Royals",
+      "sport": "Baseball",
+      "sport_icon": "sports_baseball",
+      "sport_color": "#FF6F00",
+      "tvg_id": "tsdb_2388714",
+      "start_time": "2026-08-15T01:38:00Z",
+      "end_time": "2026-08-15T04:38:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "MLB Network (watch)",
+          "url": "https://dlhd.pk/watch/stream-399.php"
+        },
+        {
+          "name": "SD-7584563",
+          "url": "https://dlhd.pk/stream/stream-7584563.php"
+        },
+        {
+          "name": "MLB Network (player)",
+          "url": "https://dlhd.pk/player/stream-399.php"
+        },
+        {
+          "name": "SD-7584563 (watch)",
+          "url": "https://dlhd.pk/watch/stream-7584563.php"
+        },
+        {
+          "name": "MLB Network (plus)",
+          "url": "https://dlhd.pk/plus/stream-399.php"
+        },
+        {
+          "name": "MLB Network",
+          "url": "https://dlhd.pk/stream/stream-399.php"
+        }
+      ],
+      "stream_count": 6,
+      "has_stream": true,
+      "source": "TheSportsDB",
+      "thumbnail": "https://streamed.pk/api/images/badge/baseball.webp",
+      "league": "MLB"
     },
     {
       "event_id": "spk_live-event_indycar-2026-ontario-honda-dealers-indy-markham-live-stream",
@@ -1374,6 +1326,28 @@
       "has_stream": true,
       "source": "DaddyLiveHD",
       "thumbnail": "https://streamed.pk/api/images/badge/cricket.webp"
+    },
+    {
+      "event_id": "spk_multiview-bundesliga-2-game-151151",
+      "title": "Multiview : Bundesliga 2 🔥 🔥 🔥",
+      "sport": "Football",
+      "sport_icon": "sports_soccer",
+      "sport_color": "#2962FF",
+      "tvg_id": "spk_multiview-bundesliga-2-game-151151",
+      "start_time": "2026-08-15T11:00:00Z",
+      "end_time": "2026-08-15T14:00:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "StreamedPK Echo #1",
+          "url": "https://embed.st/embed/echo/multiview-bundesliga-2-game-151151/1"
+        }
+      ],
+      "stream_count": 1,
+      "has_stream": true,
+      "source": "StreamedPK",
+      "thumbnail": "https://streamed.pk/api/images/badge/football.webp",
+      "league": "football"
     },
     {
       "event_id": "spk_bolton-wanderers-vs-preston-north-end-2501250",
