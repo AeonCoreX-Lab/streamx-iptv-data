@@ -1,34 +1,12 @@
 {
-  "last_updated": "2026-08-15T09:01:45Z",
+  "last_updated": "2026-08-15T09:36:24Z",
   "strict_mode": true,
   "requires_stream": true,
   "requires_thumbnail": true,
-  "total_live": 31,
-  "total_upcoming": 144,
-  "total_streamed": 175,
+  "total_live": 34,
+  "total_upcoming": 142,
+  "total_streamed": 176,
   "active_events": [
-    {
-      "event_id": "spk_brisbane-lions-vs-gold-coast-football-club-2568199",
-      "title": "Brisbane Lions vs Gold Coast Football Club",
-      "sport": "Football",
-      "sport_icon": "sports_soccer",
-      "sport_color": "#2962FF",
-      "tvg_id": "spk_brisbane-lions-vs-gold-coast-football-club-2568199",
-      "start_time": "2026-08-15T06:15:00Z",
-      "end_time": "2026-08-15T09:15:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "StreamedPK Echo #1",
-          "url": "https://embed.st/embed/echo/brisbane-lions-vs-gold-coast-suns-australian-football-3534/1"
-        }
-      ],
-      "stream_count": 1,
-      "has_stream": true,
-      "source": "StreamedPK",
-      "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLAATNWHDqYIbiAgg++kDsQhzukwQpM+KLmDLwi80faa0wjsaIhA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhD0qiPiAH4Q3LSER6SIFLhDGAJiBgEKTPii5gy8IvNGOmtMM7GiIQA.webp",
-      "league": "afl"
-    },
     {
       "event_id": "spk_nflstreams_live",
       "title": "NFL Streams Schedule",
@@ -778,96 +756,6 @@
       "thumbnail": "https://streamed.pk/api/images/poster/nagoya-grampus/kashima-antlers.webp"
     },
     {
-      "event_id": "tsdb_2388714",
-      "title": "Los Angeles Angels vs Kansas City Royals",
-      "sport": "Baseball",
-      "sport_icon": "sports_baseball",
-      "sport_color": "#FF6F00",
-      "tvg_id": "tsdb_2388714",
-      "start_time": "2026-08-15T01:38:00Z",
-      "end_time": "2026-08-15T04:38:00Z",
-      "is_live": false,
-      "streams": [
-        {
-          "name": "MLB Network (plus)",
-          "url": "https://dlhd.pk/plus/stream-399.php"
-        },
-        {
-          "name": "SD-7584563 (watch)",
-          "url": "https://dlhd.pk/watch/stream-7584563.php"
-        },
-        {
-          "name": "MLB Network (player)",
-          "url": "https://dlhd.pk/player/stream-399.php"
-        },
-        {
-          "name": "SD-7584563 (plus)",
-          "url": "https://dlhd.pk/plus/stream-7584563.php"
-        },
-        {
-          "name": "MLB Network (cast)",
-          "url": "https://dlhd.pk/cast/stream-399.php"
-        },
-        {
-          "name": "MLB Network",
-          "url": "https://dlhd.pk/stream/stream-399.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "TheSportsDB",
-      "thumbnail": "https://streamed.pk/api/images/badge/baseball.webp",
-      "league": "MLB"
-    },
-    {
-      "event_id": "spk_north-melbourne-kangaroos-vs-geelong-cats-australian-football-3608",
-      "title": "North Melbourne Kangaroos vs Geelong Cats",
-      "sport": "Other",
-      "sport_icon": "live_tv",
-      "sport_color": "#E53935",
-      "tvg_id": "spk_north-melbourne-kangaroos-vs-geelong-cats-australian-football-3608",
-      "start_time": "2026-08-15T05:45:00Z",
-      "end_time": "2026-08-15T08:45:00Z",
-      "is_live": false,
-      "streams": [
-        {
-          "name": "StreamedPK Echo #1",
-          "url": "https://embed.st/embed/echo/north-melbourne-kangaroos-vs-geelong-cats-australian-football-3608/1"
-        },
-        {
-          "name": "StreamedPK Echo #1",
-          "url": "https://embed.st/embed/echo/north-melbourne-kangaroos-vs-geelong-cats-australian-football-3539/1"
-        }
-      ],
-      "stream_count": 1,
-      "has_stream": true,
-      "source": "StreamedPK",
-      "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQREDHrkGAY2bCe8MVXGEGrMGFz5DQA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQAY3rkGcrMJ7wxVcYQaswYXPn1A.webp",
-      "league": "afl"
-    },
-    {
-      "event_id": "spk_snooker-china-open-pick3",
-      "title": "Snooker China Open 🎱",
-      "sport": "Other",
-      "sport_icon": "live_tv",
-      "sport_color": "#E53935",
-      "tvg_id": "spk_snooker-china-open-pick3",
-      "start_time": "2026-08-15T06:00:00Z",
-      "end_time": "2026-08-15T09:00:00Z",
-      "is_live": false,
-      "streams": [
-        {
-          "name": "StreamedPK Echo #1",
-          "url": "https://embed.st/embed/echo/snooker-china-open-pick3/1"
-        }
-      ],
-      "stream_count": 1,
-      "has_stream": true,
-      "source": "StreamedPK",
-      "thumbnail": "https://streamed.pk/api/images/badge/live.webp",
-      "league": "other"
-    },
-    {
       "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_world_cup_qualifying",
       "title": "World Cup Qualifying : Australia vs Indonesia",
       "sport": "Football",
@@ -876,7 +764,7 @@
       "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_world_cup_qualifying",
       "start_time": "2026-08-15T09:10:00Z",
       "end_time": "2026-08-15T12:10:00Z",
-      "is_live": false,
+      "is_live": true,
       "streams": [
         {
           "name": "Sportdigital FUSSBALL DE (player)",
@@ -917,7 +805,7 @@
       "tvg_id": "spk_atl-tico-tordesillas-vs-guijuelo-2566558",
       "start_time": "2026-08-15T09:30:00Z",
       "end_time": "2026-08-15T12:30:00Z",
-      "is_live": false,
+      "is_live": true,
       "streams": [
         {
           "name": "StreamedPK Echo #1",
@@ -939,7 +827,7 @@
       "tvg_id": "spk_cultural-leonesa-vs-salamanca-uds-2573936",
       "start_time": "2026-08-15T09:30:00Z",
       "end_time": "2026-08-15T12:30:00Z",
-      "is_live": false,
+      "is_live": true,
       "streams": [
         {
           "name": "StreamedPK Echo #1",
@@ -961,7 +849,7 @@
       "tvg_id": "spk_brisbane-broncos-vs-new-zealand-warriors-2417350",
       "start_time": "2026-08-15T09:35:00Z",
       "end_time": "2026-08-15T12:35:00Z",
-      "is_live": false,
+      "is_live": true,
       "streams": [
         {
           "name": "StreamedPK Admin HD #1 (English - Fox League)",
@@ -977,6 +865,70 @@
       "source": "StreamedPK",
       "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3pMkIACZgyfEN00gIBxEd0bDIEAQpM+KLtvL15o+01phtY0RCA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj4gQDECmAAGMKu4gAJiAhGQiU6tXG+BCk1tcwZeEXmitTWmGdjREIA.webp",
       "league": "rugby"
+    },
+    {
+      "event_id": "tsdb_2388714",
+      "title": "Los Angeles Angels vs Kansas City Royals",
+      "sport": "Baseball",
+      "sport_icon": "sports_baseball",
+      "sport_color": "#FF6F00",
+      "tvg_id": "tsdb_2388714",
+      "start_time": "2026-08-15T01:38:00Z",
+      "end_time": "2026-08-15T04:38:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "SD-7584563 (plus)",
+          "url": "https://dlhd.pk/plus/stream-7584563.php"
+        },
+        {
+          "name": "MLB Network (plus)",
+          "url": "https://dlhd.pk/plus/stream-399.php"
+        },
+        {
+          "name": "SD-7584563 (watch)",
+          "url": "https://dlhd.pk/watch/stream-7584563.php"
+        },
+        {
+          "name": "MLB Network (watch)",
+          "url": "https://dlhd.pk/watch/stream-399.php"
+        },
+        {
+          "name": "MLB Network",
+          "url": "https://dlhd.pk/stream/stream-399.php"
+        },
+        {
+          "name": "MLB Network (player)",
+          "url": "https://dlhd.pk/player/stream-399.php"
+        }
+      ],
+      "stream_count": 6,
+      "has_stream": true,
+      "source": "TheSportsDB",
+      "thumbnail": "https://streamed.pk/api/images/badge/baseball.webp",
+      "league": "MLB"
+    },
+    {
+      "event_id": "spk_brisbane-lions-vs-gold-coast-football-club-2568199",
+      "title": "Brisbane Lions vs Gold Coast Football Club",
+      "sport": "Football",
+      "sport_icon": "sports_soccer",
+      "sport_color": "#2962FF",
+      "tvg_id": "spk_brisbane-lions-vs-gold-coast-football-club-2568199",
+      "start_time": "2026-08-15T06:15:00Z",
+      "end_time": "2026-08-15T09:15:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "StreamedPK Echo #1",
+          "url": "https://embed.st/embed/echo/brisbane-lions-vs-gold-coast-suns-australian-football-3534/1"
+        }
+      ],
+      "stream_count": 1,
+      "has_stream": true,
+      "source": "StreamedPK",
+      "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLAATNWHDqYIbiAgg++kDsQhzukwQpM+KLmDLwi80faa0wjsaIhA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhD0qiPiAH4Q3LSER6SIFLhDGAJiBgEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+      "league": "afl"
     },
     {
       "event_id": "spk_hawthorn-hawks-vs-collingwood-magpies-australian-football-3610",
@@ -1762,6 +1714,28 @@
       "league": "football"
     },
     {
+      "event_id": "spk_british-superbikes-thruxton-day-1-thruxton-circuit-racing-0059",
+      "title": "British Superbikes Thruxton | Day 1 - Thruxton Circuit 🏁",
+      "sport": "Other",
+      "sport_icon": "live_tv",
+      "sport_color": "#E53935",
+      "tvg_id": "spk_british-superbikes-thruxton-day-1-thruxton-circuit-racing-0059",
+      "start_time": "2026-08-15T12:00:00Z",
+      "end_time": "2026-08-15T15:00:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "StreamedPK Echo #1",
+          "url": "https://embed.st/embed/echo/british-superbikes-thruxton-day-1-thruxton-circuit-racing-0059/1"
+        }
+      ],
+      "stream_count": 1,
+      "has_stream": true,
+      "source": "StreamedPK",
+      "thumbnail": "https://streamed.pk/api/images/badge/live.webp",
+      "league": "motor-sports"
+    },
+    {
       "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_khl___sibir_novosibi",
       "title": "KHL : Sibir Novosibirsk vs Salavat Yulaev Ufa",
       "sport": "Hockey",
@@ -2543,6 +2517,50 @@
       "has_stream": true,
       "source": "StreamedPK",
       "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAxSwJGHB8wSENxAATVfpB9cpmKfgEKTPii5gy8IvNGOmtMM7GiIQA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBkYIbmCSrgABg2qQiPrhDqQFyyAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+      "league": "football"
+    },
+    {
+      "event_id": "spk_indycar-game-4u8337",
+      "title": "Indycar  🏁",
+      "sport": "Formula 1",
+      "sport_icon": "directions_car",
+      "sport_color": "#FF1744",
+      "tvg_id": "spk_indycar-game-4u8337",
+      "start_time": "2026-08-15T14:00:00Z",
+      "end_time": "2026-08-15T17:00:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "StreamedPK Echo #1",
+          "url": "https://embed.st/embed/echo/indycar-game-4u8337/1"
+        }
+      ],
+      "stream_count": 1,
+      "has_stream": true,
+      "source": "StreamedPK",
+      "thumbnail": "https://streamed.pk/api/images/badge/formula-1.webp",
+      "league": "motor-sports"
+    },
+    {
+      "event_id": "spk_mansfield-town-vs-doncaster-rovers-2500708",
+      "title": "Mansfield Town vs Doncaster Rovers",
+      "sport": "Football",
+      "sport_icon": "sports_soccer",
+      "sport_color": "#2962FF",
+      "tvg_id": "spk_mansfield-town-vs-doncaster-rovers-2500708",
+      "start_time": "2026-08-15T14:00:00Z",
+      "end_time": "2026-08-15T17:00:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "StreamedPK Echo #1",
+          "url": "https://embed.st/embed/echo/mansfield-town-vs-doncaster-football-1564245/1"
+        }
+      ],
+      "stream_count": 1,
+      "has_stream": true,
+      "source": "StreamedPK",
+      "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh0S8AJhTKqQfEGpDcdIGCBTGjEwjGBM+KLmC1F5o+01phHY0RCA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnjkAJrDAaQIbiAi59IGCESIca4wQpM+KLmDKr680faa0wjsaIhA.webp",
       "league": "football"
     },
     {
