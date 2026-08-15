@@ -1,60 +1,12 @@
 {
-  "last_updated": "2026-08-15T08:36:45Z",
+  "last_updated": "2026-08-15T09:01:45Z",
   "strict_mode": true,
   "requires_stream": true,
   "requires_thumbnail": true,
-  "total_live": 23,
-  "total_upcoming": 151,
-  "total_streamed": 174,
+  "total_live": 31,
+  "total_upcoming": 144,
+  "total_streamed": 175,
   "active_events": [
-    {
-      "event_id": "spk_north-melbourne-kangaroos-vs-geelong-cats-australian-football-3608",
-      "title": "North Melbourne Kangaroos vs Geelong Cats",
-      "sport": "Other",
-      "sport_icon": "live_tv",
-      "sport_color": "#E53935",
-      "tvg_id": "spk_north-melbourne-kangaroos-vs-geelong-cats-australian-football-3608",
-      "start_time": "2026-08-15T05:45:00Z",
-      "end_time": "2026-08-15T08:45:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "StreamedPK Echo #1",
-          "url": "https://embed.st/embed/echo/north-melbourne-kangaroos-vs-geelong-cats-australian-football-3608/1"
-        },
-        {
-          "name": "StreamedPK Echo #1",
-          "url": "https://embed.st/embed/echo/north-melbourne-kangaroos-vs-geelong-cats-australian-football-3539/1"
-        }
-      ],
-      "stream_count": 1,
-      "has_stream": true,
-      "source": "StreamedPK",
-      "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQREDHrkGAY2bCe8MVXGEGrMGFz5DQA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQAY3rkGcrMJ7wxVcYQaswYXPn1A.webp",
-      "league": "afl"
-    },
-    {
-      "event_id": "spk_snooker-china-open-pick3",
-      "title": "Snooker China Open 🎱",
-      "sport": "Other",
-      "sport_icon": "live_tv",
-      "sport_color": "#E53935",
-      "tvg_id": "spk_snooker-china-open-pick3",
-      "start_time": "2026-08-15T06:00:00Z",
-      "end_time": "2026-08-15T09:00:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "StreamedPK Echo #1",
-          "url": "https://embed.st/embed/echo/snooker-china-open-pick3/1"
-        }
-      ],
-      "stream_count": 1,
-      "has_stream": true,
-      "source": "StreamedPK",
-      "thumbnail": "https://streamed.pk/api/images/badge/live.webp",
-      "league": "other"
-    },
     {
       "event_id": "spk_brisbane-lions-vs-gold-coast-football-club-2568199",
       "title": "Brisbane Lions vs Gold Coast Football Club",
@@ -588,48 +540,6 @@
       "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
     },
     {
-      "event_id": "tsdb_2388714",
-      "title": "Los Angeles Angels vs Kansas City Royals",
-      "sport": "Baseball",
-      "sport_icon": "sports_baseball",
-      "sport_color": "#FF6F00",
-      "tvg_id": "tsdb_2388714",
-      "start_time": "2026-08-15T01:38:00Z",
-      "end_time": "2026-08-15T04:38:00Z",
-      "is_live": false,
-      "streams": [
-        {
-          "name": "MLB Network (watch)",
-          "url": "https://dlhd.pk/watch/stream-399.php"
-        },
-        {
-          "name": "SD-7584563",
-          "url": "https://dlhd.pk/stream/stream-7584563.php"
-        },
-        {
-          "name": "MLB Network (player)",
-          "url": "https://dlhd.pk/player/stream-399.php"
-        },
-        {
-          "name": "SD-7584563 (watch)",
-          "url": "https://dlhd.pk/watch/stream-7584563.php"
-        },
-        {
-          "name": "MLB Network (plus)",
-          "url": "https://dlhd.pk/plus/stream-399.php"
-        },
-        {
-          "name": "MLB Network",
-          "url": "https://dlhd.pk/stream/stream-399.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "TheSportsDB",
-      "thumbnail": "https://streamed.pk/api/images/badge/baseball.webp",
-      "league": "MLB"
-    },
-    {
       "event_id": "spk_live-event_indycar-2026-ontario-honda-dealers-indy-markham-live-stream",
       "title": "IndyCar 2026 - Ontario Honda Dealers Indy Markham",
       "sport": "Formula 1",
@@ -638,7 +548,7 @@
       "tvg_id": "spk_live-event_indycar-2026-ontario-honda-dealers-indy-markham-live-stream",
       "start_time": "2026-08-15T08:42:00Z",
       "end_time": "2026-08-15T11:42:00Z",
-      "is_live": false,
+      "is_live": true,
       "streams": [
         {
           "name": "StreamedPK Delta #1",
@@ -660,7 +570,7 @@
       "tvg_id": "spk_live-event_nascar-cup-series-2026-cook-out-400-1-live-stream",
       "start_time": "2026-08-15T08:45:00Z",
       "end_time": "2026-08-15T11:45:00Z",
-      "is_live": false,
+      "is_live": true,
       "streams": [
         {
           "name": "StreamedPK Delta #1",
@@ -682,7 +592,7 @@
       "tvg_id": "spk_real-madrid-ii-vs-mirandes-football-1598611",
       "start_time": "2026-08-15T09:00:00Z",
       "end_time": "2026-08-15T12:00:00Z",
-      "is_live": false,
+      "is_live": true,
       "streams": [
         {
           "name": "StreamedPK Echo #1",
@@ -704,7 +614,7 @@
       "tvg_id": "spk_gimn-stica-segoviana-vs-unionistas-de-salamanca-2566557",
       "start_time": "2026-08-15T09:00:00Z",
       "end_time": "2026-08-15T12:00:00Z",
-      "is_live": false,
+      "is_live": true,
       "streams": [
         {
           "name": "StreamedPK Echo #1",
@@ -726,7 +636,7 @@
       "tvg_id": "spk_racing-santander-ii-vs-basconia-football-1626995",
       "start_time": "2026-08-15T09:00:00Z",
       "end_time": "2026-08-15T12:00:00Z",
-      "is_live": false,
+      "is_live": true,
       "streams": [
         {
           "name": "StreamedPK Echo #1",
@@ -748,7 +658,7 @@
       "tvg_id": "spk_la-calzada-vs-san-ignacio-2573934",
       "start_time": "2026-08-15T09:00:00Z",
       "end_time": "2026-08-15T12:00:00Z",
-      "is_live": false,
+      "is_live": true,
       "streams": [
         {
           "name": "StreamedPK Echo #1",
@@ -770,7 +680,7 @@
       "tvg_id": "spk_beasain-vs-touring-2573933",
       "start_time": "2026-08-15T09:00:00Z",
       "end_time": "2026-08-15T12:00:00Z",
-      "is_live": false,
+      "is_live": true,
       "streams": [
         {
           "name": "StreamedPK Echo #1",
@@ -792,7 +702,7 @@
       "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_national_rugby_leagu",
       "start_time": "2026-08-15T09:00:00Z",
       "end_time": "2026-08-15T12:00:00Z",
-      "is_live": false,
+      "is_live": true,
       "streams": [
         {
           "name": "Sky Sport 1 NZ (casting)",
@@ -833,7 +743,7 @@
       "tvg_id": "spk_werder-bremen-vs-auxerre-2542074",
       "start_time": "2026-08-15T09:00:00Z",
       "end_time": "2026-08-15T12:00:00Z",
-      "is_live": false,
+      "is_live": true,
       "streams": [
         {
           "name": "StreamedPK Echo #1",
@@ -855,7 +765,7 @@
       "tvg_id": "se_7407e5",
       "start_time": "2026-08-15T09:00:00Z",
       "end_time": "2026-08-15T12:00:00Z",
-      "is_live": false,
+      "is_live": true,
       "streams": [
         {
           "name": "StreamEast HD",
@@ -866,6 +776,96 @@
       "has_stream": true,
       "source": "StreamEast",
       "thumbnail": "https://streamed.pk/api/images/poster/nagoya-grampus/kashima-antlers.webp"
+    },
+    {
+      "event_id": "tsdb_2388714",
+      "title": "Los Angeles Angels vs Kansas City Royals",
+      "sport": "Baseball",
+      "sport_icon": "sports_baseball",
+      "sport_color": "#FF6F00",
+      "tvg_id": "tsdb_2388714",
+      "start_time": "2026-08-15T01:38:00Z",
+      "end_time": "2026-08-15T04:38:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "MLB Network (plus)",
+          "url": "https://dlhd.pk/plus/stream-399.php"
+        },
+        {
+          "name": "SD-7584563 (watch)",
+          "url": "https://dlhd.pk/watch/stream-7584563.php"
+        },
+        {
+          "name": "MLB Network (player)",
+          "url": "https://dlhd.pk/player/stream-399.php"
+        },
+        {
+          "name": "SD-7584563 (plus)",
+          "url": "https://dlhd.pk/plus/stream-7584563.php"
+        },
+        {
+          "name": "MLB Network (cast)",
+          "url": "https://dlhd.pk/cast/stream-399.php"
+        },
+        {
+          "name": "MLB Network",
+          "url": "https://dlhd.pk/stream/stream-399.php"
+        }
+      ],
+      "stream_count": 6,
+      "has_stream": true,
+      "source": "TheSportsDB",
+      "thumbnail": "https://streamed.pk/api/images/badge/baseball.webp",
+      "league": "MLB"
+    },
+    {
+      "event_id": "spk_north-melbourne-kangaroos-vs-geelong-cats-australian-football-3608",
+      "title": "North Melbourne Kangaroos vs Geelong Cats",
+      "sport": "Other",
+      "sport_icon": "live_tv",
+      "sport_color": "#E53935",
+      "tvg_id": "spk_north-melbourne-kangaroos-vs-geelong-cats-australian-football-3608",
+      "start_time": "2026-08-15T05:45:00Z",
+      "end_time": "2026-08-15T08:45:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "StreamedPK Echo #1",
+          "url": "https://embed.st/embed/echo/north-melbourne-kangaroos-vs-geelong-cats-australian-football-3608/1"
+        },
+        {
+          "name": "StreamedPK Echo #1",
+          "url": "https://embed.st/embed/echo/north-melbourne-kangaroos-vs-geelong-cats-australian-football-3539/1"
+        }
+      ],
+      "stream_count": 1,
+      "has_stream": true,
+      "source": "StreamedPK",
+      "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQREDHrkGAY2bCe8MVXGEGrMGFz5DQA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQAY3rkGcrMJ7wxVcYQaswYXPn1A.webp",
+      "league": "afl"
+    },
+    {
+      "event_id": "spk_snooker-china-open-pick3",
+      "title": "Snooker China Open 🎱",
+      "sport": "Other",
+      "sport_icon": "live_tv",
+      "sport_color": "#E53935",
+      "tvg_id": "spk_snooker-china-open-pick3",
+      "start_time": "2026-08-15T06:00:00Z",
+      "end_time": "2026-08-15T09:00:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "StreamedPK Echo #1",
+          "url": "https://embed.st/embed/echo/snooker-china-open-pick3/1"
+        }
+      ],
+      "stream_count": 1,
+      "has_stream": true,
+      "source": "StreamedPK",
+      "thumbnail": "https://streamed.pk/api/images/badge/live.webp",
+      "league": "other"
     },
     {
       "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_world_cup_qualifying",
@@ -1152,6 +1152,28 @@
       "source": "StreamedPK",
       "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQRGfXIMAxs2E94YquMINWYMLnwGgA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQKeuQYBjZsJ7wxVcYQaswYXPn1A.webp",
       "league": "afl"
+    },
+    {
+      "event_id": "spk_danish-golf-championship-day-3-dp-world-tour-golf-atp1000",
+      "title": "Danish Golf Championship – Day 3 | DP World Tour Golf",
+      "sport": "Golf",
+      "sport_icon": "golf_course",
+      "sport_color": "#388E3C",
+      "tvg_id": "spk_danish-golf-championship-day-3-dp-world-tour-golf-atp1000",
+      "start_time": "2026-08-15T10:30:00Z",
+      "end_time": "2026-08-15T13:30:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "StreamedPK Echo #1",
+          "url": "https://embed.st/embed/echo/danish-golf-championship-day-3-dp-world-tour-golf-atp1000/1"
+        }
+      ],
+      "stream_count": 1,
+      "has_stream": true,
+      "source": "StreamedPK",
+      "thumbnail": "https://streamed.pk/api/images/badge/golf.webp",
+      "league": "other"
     },
     {
       "event_id": "spk_paris-lights-vs-berlin-thunder-2475832",
