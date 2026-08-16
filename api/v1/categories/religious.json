@@ -3018,16 +3018,6 @@
       "languages": []
     },
     {
-      "id": "RadioTVElArcadelPacto.py",
-      "name": "Radio TV El Arca del Pacto",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/py/RadioTVElArcadelPacto.py.png",
-      "streamUrls": [
-        "https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8"
-      ],
-      "category": "Religious",
-      "languages": []
-    },
-    {
       "id": "RadioTele4VEH.ht",
       "name": "Radio Tele 4VEH",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ht/RadioTele4VEH.ht.png",
@@ -3402,6 +3392,8 @@
       "name": "Spas",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Spas.ru.png",
       "streamUrls": [
+        "http://hls127.freeott.top:8080/Spas/video.m3u8",
+        "https://tvspas.mediacdn.ru/cdn/spas/playlist.m3u8",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8"
       ],
       "category": "Religious",
@@ -3498,16 +3490,6 @@
         "http://138.255.2.6:8084/TVAPARECIDA/index.m3u8",
         "http://168.197.104.22:80/TV_APARECIDA/index.m3u8",
         "http://45.177.114.115:80/TV_APARECIDA_HD/index.m3u8"
-      ],
-      "category": "Religious",
-      "languages": []
-    },
-    {
-      "id": "TVGetsemani.sv",
-      "name": "TV Getsemani",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/sv/TVGetsemani.sv.png",
-      "streamUrls": [
-        "https://serversv.com:8080/hls/tvgetsemani.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -5114,8 +5096,18 @@
       ],
       "category": "Religious",
       "languages": []
+    },
+    {
+      "id": "IzzahTV.id",
+      "name": "Izzah TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/IzzahTV.id.png",
+      "streamUrls": [
+        "https://streaming.radiosalamjambi.com/izzahtv.m3u8"
+      ],
+      "category": "Religious",
+      "languages": []
     }
   ],
-  "count": 502,
-  "generated_at": "2026-08-16T04:34:22.462426"
+  "count": 501,
+  "generated_at": "2026-08-16T08:27:29.188305"
 }
