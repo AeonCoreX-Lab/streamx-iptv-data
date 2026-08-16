@@ -86,8 +86,8 @@
       "name": "4E",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gr/4E.gr.png",
       "streamUrls": [
-        "http://eu2.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8",
-        "http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8"
+        "http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8",
+        "http://eu2.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -319,16 +319,6 @@
         "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8",
         "http://m.live.net.sa:1935/live/sunnah/gmswf.m3u8",
         "https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8"
-      ],
-      "category": "Religious",
-      "languages": []
-    },
-    {
-      "id": "AlWafaTarim.id",
-      "name": "Al Wafa Tarim",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/AlWafaTarim.id.png",
-      "streamUrls": [
-        "https://ammedia.siar.us/ammedia/live/playlist.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -1325,9 +1315,9 @@
       "name": "Enlace",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cr/Enlace.cr.png",
       "streamUrls": [
-        "http://177.234.249.178:8888/ENLACE/index.m3u8",
+        "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8",
         "http://177.234.247.66:9975/Enlace/index.m3u8",
-        "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8"
+        "http://177.234.249.178:8888/ENLACE/index.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -3093,7 +3083,6 @@
       "name": "Rhema TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gt/RhemaTV.gt.png",
       "streamUrls": [
-        "http://190.61.90.17:40000/play/a0iw/index.m3u8",
         "https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8"
       ],
       "category": "Religious",
@@ -3954,8 +3943,8 @@
       "name": "Andes Television",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pe/AndesTelevision.pe.png",
       "streamUrls": [
-        "https://live-evg7.tv360.bitel.com.pe/bitel/andestvSRT/playlist.m3u8",
-        "https://stmv2.srvif.com/tvsicuani/tvsicuani/playlist.m3u8"
+        "https://stmv2.srvif.com/tvsicuani/tvsicuani/playlist.m3u8",
+        "https://live-evg7.tv360.bitel.com.pe/bitel/andestvSRT/playlist.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -4144,7 +4133,7 @@
     {
       "id": "PrimiciaVida.cl",
       "name": "Primicia Vida",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=primiciavida.cl",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Disney_Violetta_logo.svg/330px-Disney_Violetta_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "https://mc.servidor.stream:19360/8248/8248.m3u8"
       ],
@@ -4218,8 +4207,8 @@
       "name": "KSTV Uganda",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ug/KSTVUganda.ug.png",
       "streamUrls": [
-        "https://unseenlive.s3.eu-west-1.amazonaws.com/kstv/hls/0/stream.m3u8",
-        "https://live.esteem.africa/kstv/hls/0/stream.m3u8"
+        "https://live.esteem.africa/kstv/hls/0/stream.m3u8",
+        "https://unseenlive.s3.eu-west-1.amazonaws.com/kstv/hls/0/stream.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -4817,8 +4806,8 @@
       "name": "Divya Darshan TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/np/DivyaDarshanTV.np.png",
       "streamUrls": [
-        "https://live.divyadarshantv.com/hls/0/stream.m3u8",
-        "http://live.divyadarshantv.com/hls/stream.m3u8"
+        "http://live.divyadarshantv.com/hls/stream.m3u8",
+        "https://live.divyadarshantv.com/hls/0/stream.m3u8"
       ],
       "country": "NP",
       "category": "Religious",
@@ -5102,6 +5091,16 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/IzzahTV.id.png",
       "streamUrls": [
         "https://streaming.radiosalamjambi.com/izzahtv.m3u8"
+      ],
+      "category": "Religious",
+      "languages": []
+    },
+    {
+      "id": "ImpactTV.bf",
+      "name": "Impact TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bf/ImpactTV.bf.png",
+      "streamUrls": [
+        "https://edge11.vedge.infomaniak.com/livecast/ik:impacttv-2/manifest.m3u8"
       ],
       "category": "Religious",
       "languages": []
