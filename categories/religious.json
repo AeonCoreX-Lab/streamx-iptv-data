@@ -86,8 +86,8 @@
       "name": "4E",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gr/4E.gr.png",
       "streamUrls": [
-        "http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8",
-        "http://eu2.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8"
+        "http://eu2.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8",
+        "http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -1315,9 +1315,9 @@
       "name": "Enlace",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cr/Enlace.cr.png",
       "streamUrls": [
-        "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8",
+        "http://177.234.249.178:8888/ENLACE/index.m3u8",
         "http://177.234.247.66:9975/Enlace/index.m3u8",
-        "http://177.234.249.178:8888/ENLACE/index.m3u8"
+        "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -3182,16 +3182,6 @@
       "languages": []
     },
     {
-      "id": "SalvacionTV.pr",
-      "name": "Salvacion TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pr/SalvacionTV.pr.png",
-      "streamUrls": [
-        "https://stream.eleden.com/livesalvatv/ngrp:livesalvatv_all/playlist.m3u8"
-      ],
-      "category": "Religious",
-      "languages": []
-    },
-    {
       "id": "SanJoseTV.cr",
       "name": "San Jose TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cr/SanJoseTV.cr.png",
@@ -4103,7 +4093,7 @@
     {
       "id": "PlenitudeTV.br",
       "name": "Plenitude TV",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/PlayTV20062020.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=iaptd.com.br",
       "streamUrls": [
         "https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8"
       ],
@@ -4207,8 +4197,8 @@
       "name": "KSTV Uganda",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ug/KSTVUganda.ug.png",
       "streamUrls": [
-        "https://live.esteem.africa/kstv/hls/0/stream.m3u8",
-        "https://unseenlive.s3.eu-west-1.amazonaws.com/kstv/hls/0/stream.m3u8"
+        "https://unseenlive.s3.eu-west-1.amazonaws.com/kstv/hls/0/stream.m3u8",
+        "https://live.esteem.africa/kstv/hls/0/stream.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -4940,6 +4930,7 @@
       "name": "INC TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ph/INCTV.ph.png",
       "streamUrls": [
+        "https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_f5ac22b0566511f0805217b960326aaa/rewind-1800.m3u8",
         "https://streams.comclark.com/pknsd/inc_tv/playlist.m3u8"
       ],
       "category": "Religious",
@@ -5101,6 +5092,26 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/VelayatTVNetwork.us.png",
       "streamUrls": [
         "https://nl.livekadeh.com/hls2/velayattv.m3u8"
+      ],
+      "category": "Religious",
+      "languages": []
+    },
+    {
+      "id": "DNJTV.pr",
+      "name": "DNJ TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pr/DNJTV.pr.png",
+      "streamUrls": [
+        "https://cloud2.streaminglivehd.com:1936/dnjv2/dnjv2/playlist.m3u8"
+      ],
+      "category": "Religious",
+      "languages": []
+    },
+    {
+      "id": "INCRadio.ph",
+      "name": "INC Radio",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ph/INCRadio.ph.png",
+      "streamUrls": [
+        "https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_b60a96e056fc11f084c05f5d0649296b/rewind-1800.m3u8"
       ],
       "category": "Religious",
       "languages": []
