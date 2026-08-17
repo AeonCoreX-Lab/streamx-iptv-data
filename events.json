@@ -1,53 +1,12 @@
 {
-  "last_updated": "2026-08-17T06:56:36Z",
+  "last_updated": "2026-08-17T07:54:49Z",
   "strict_mode": true,
   "requires_stream": true,
   "requires_thumbnail": true,
   "total_live": 8,
-  "total_upcoming": 150,
-  "total_streamed": 158,
+  "total_upcoming": 152,
+  "total_streamed": 160,
   "active_events": [
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_dp_world_tour_porsch",
-      "title": "DP World Tour Porsche Singapore Classic",
-      "sport": "Golf",
-      "sport_icon": "golf_course",
-      "sport_color": "#388E3C",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_dp_world_tour_porsch",
-      "start_time": "2026-08-17T04:00:00Z",
-      "end_time": "2026-08-17T07:00:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "GOLF Channel USA (plus)",
-          "url": "https://dlhd.pk/plus/stream-318.php"
-        },
-        {
-          "name": "Movistar Golf (cast)",
-          "url": "https://dlhd.pk/cast/stream-528.php"
-        },
-        {
-          "name": "GOLF Channel USA (watch)",
-          "url": "https://dlhd.pk/watch/stream-318.php"
-        },
-        {
-          "name": "SuperSport Golf (cast)",
-          "url": "https://dlhd.pk/cast/stream-422.php"
-        },
-        {
-          "name": "Sky Sports Golf UK (plus)",
-          "url": "https://dlhd.pk/plus/stream-70.php"
-        },
-        {
-          "name": "GOLF Channel USA",
-          "url": "https://dlhd.pk/stream/stream-318.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/golf.webp"
-    },
     {
       "event_id": "spk_nflstreams_live",
       "title": "NFL Streams Schedule",
@@ -224,27 +183,6 @@
       "thumbnail": "https://streamed.pk/api/images/poster/atl-tico-de-san-luis/am-rica.webp"
     },
     {
-      "event_id": "se_b92ada",
-      "title": "Argentinos Juniors vs River Plate",
-      "sport": "Football",
-      "sport_icon": "sports_soccer",
-      "sport_color": "#2962FF",
-      "tvg_id": "se_b92ada",
-      "start_time": "2026-08-17T03:32:38Z",
-      "end_time": "2026-08-17T06:32:38Z",
-      "is_live": false,
-      "streams": [
-        {
-          "name": "StreamEast HD",
-          "url": "https://beststreameast.xyz/match/fc-dallas-vs-austin-fc/17064"
-        }
-      ],
-      "stream_count": 1,
-      "has_stream": true,
-      "source": "StreamEast",
-      "thumbnail": "https://streamed.pk/api/images/poster/argentinos-juniors/river-plate.webp"
-    },
-    {
       "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_world_surf_league__2",
       "title": "World Surf League: 2025 WSL Championship Tour: MEO Rip Curl Pro Portugal",
       "sport": "Other",
@@ -253,7 +191,7 @@
       "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_world_surf_league__2",
       "start_time": "2026-08-17T07:00:00Z",
       "end_time": "2026-08-17T10:00:00Z",
-      "is_live": false,
+      "is_live": true,
       "streams": [
         {
           "name": "Sportv3 Brazil (player)",
@@ -1106,6 +1044,28 @@
       "thumbnail": "https://streamed.pk/api/images/badge/tennis.webp"
     },
     {
+      "event_id": "spk_atp-wta-cincinnati-open-tn-1",
+      "title": "ATP / WTA Cincinnati Open  🎾",
+      "sport": "Tennis",
+      "sport_icon": "sports_tennis",
+      "sport_color": "#FFD600",
+      "tvg_id": "spk_atp-wta-cincinnati-open-tn-1",
+      "start_time": "2026-08-17T15:00:00Z",
+      "end_time": "2026-08-17T18:00:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "StreamedPK Echo #1",
+          "url": "https://embed.st/embed/echo/atp-wta-cincinnati-open-tn-1/1"
+        }
+      ],
+      "stream_count": 1,
+      "has_stream": true,
+      "source": "StreamedPK",
+      "thumbnail": "https://streamed.pk/api/images/badge/tennis.webp",
+      "league": "other"
+    },
+    {
       "event_id": "spk_pisa-vs-empoli-2502881",
       "title": "Pisa vs Empoli",
       "sport": "Football",
@@ -1372,6 +1332,27 @@
       "has_stream": true,
       "source": "DaddyLiveHD",
       "thumbnail": "https://streamed.pk/api/images/badge/basketball.webp"
+    },
+    {
+      "event_id": "se_ac2752",
+      "title": "FC Dallas vs Austin FC",
+      "sport": "Football",
+      "sport_icon": "sports_soccer",
+      "sport_color": "#2962FF",
+      "tvg_id": "se_ac2752",
+      "start_time": "2026-08-17T16:00:00Z",
+      "end_time": "2026-08-17T19:00:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "StreamEast HD",
+          "url": "https://beststreameast.xyz/match/empoli-vs-pisa/16987"
+        }
+      ],
+      "stream_count": 1,
+      "has_stream": true,
+      "source": "StreamEast",
+      "thumbnail": "https://streamed.pk/api/images/poster/fc-dallas/austin-fc.webp"
     },
     {
       "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_basquetebol__men_s_m",
@@ -2034,6 +2015,32 @@
       "has_stream": true,
       "source": "DaddyLiveHD",
       "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
+    },
+    {
+      "event_id": "spk_h-cken-vs-halmstad-2477934",
+      "title": "Häcken vs Halmstad",
+      "sport": "Football",
+      "sport_icon": "sports_soccer",
+      "sport_color": "#2962FF",
+      "tvg_id": "spk_h-cken-vs-halmstad-2477934",
+      "start_time": "2026-08-17T17:00:00Z",
+      "end_time": "2026-08-17T20:00:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "StreamedPK Admin HD #1 (Swedish - TV4 Fotboll)",
+          "url": "https://embed.st/embed/admin/ppv-bk-h-cken-vs-halmstads-bk/1"
+        },
+        {
+          "name": "StreamedPK Admin SD #2 (Swedish - TV4 Fotboll)",
+          "url": "https://embed.st/embed/admin/ppv-bk-h-cken-vs-halmstads-bk/2"
+        }
+      ],
+      "stream_count": 2,
+      "has_stream": true,
+      "source": "StreamedPK",
+      "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiRgUwMCHWgYIbiBK4QiFCF2GQIACbWCFJn20ay8IvNHqmtMGFFS6QA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulwgAJsSa8kIbupCIUIPsZBmcJiYRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+      "league": "football"
     },
     {
       "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_mlb___philadelphia_p",
@@ -4592,6 +4599,32 @@
       "league": "baseball"
     },
     {
+      "event_id": "spk_ppv-wwe-monday-night-raw",
+      "title": "WWE Monday Night RAW",
+      "sport": "WWE",
+      "sport_icon": "sports_kabaddi",
+      "sport_color": "#D50000",
+      "tvg_id": "spk_ppv-wwe-monday-night-raw",
+      "start_time": "2026-08-18T00:00:00Z",
+      "end_time": "2026-08-18T03:00:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "StreamedPK Admin HD #1 (English - wwenf)",
+          "url": "https://embed.st/embed/admin/ppv-wwe-monday-night-raw/1"
+        },
+        {
+          "name": "StreamedPK Admin SD #2 (English - wwenf)",
+          "url": "https://embed.st/embed/admin/ppv-wwe-monday-night-raw/2"
+        }
+      ],
+      "stream_count": 2,
+      "has_stream": true,
+      "source": "StreamedPK",
+      "thumbnail": "https://streamed.pk/api/images/proxy//api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiCohEiGlJTAIIYcuCIJWNSCVZJpEJt0SammsMUGQIYFMS6IC-mEEim2emELAkuAMYKhZ1YIVzIFAjVyZ0VSRSA.webp.webp",
+      "league": "fight"
+    },
+    {
       "event_id": "spk_420",
       "title": "Chicago Cubs - Chicago White Sox",
       "sport": "Baseball",
@@ -5311,6 +5344,14 @@
         {
           "name": "StreamedPK Delta #1",
           "url": "https://embed.st/embed/delta/live-event_dana-white-s-contender-series-season-10-week-2-live-stream/1"
+        },
+        {
+          "name": "StreamedPK Admin HD #1 (English - Paramount+)",
+          "url": "https://embed.st/embed/admin/ppv-dana-white-s-contender-series/1"
+        },
+        {
+          "name": "StreamedPK Admin SD #2 (English - Paramount+)",
+          "url": "https://embed.st/embed/admin/ppv-dana-white-s-contender-series/2"
         }
       ],
       "stream_count": 2,
