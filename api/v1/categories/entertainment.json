@@ -1571,16 +1571,6 @@
       "languages": []
     },
     {
-      "id": "BuenaTV.pr",
-      "name": "Buena TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pr/BuenaTV.pr.png",
-      "streamUrls": [
-        "https://59825a54e4454.streamlock.net:8443/papo351/papo351/playlist.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "Buzzr.us",
       "name": "Buzzr",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/Buzzr.us.png",
@@ -2261,17 +2251,6 @@
         "https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/playlist.m3u8"
       ],
       "category": "Lifestyle",
-      "languages": []
-    },
-    {
-      "id": "CapitalTVHD.np",
-      "name": "Capital TV HD",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/np/CapitalTVHD.np.png",
-      "streamUrls": [
-        "https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8",
-        "https://streaming.tvnepal.com:19360/capitaltv/720p.m3u8"
-      ],
-      "category": "Other",
       "languages": []
     },
     {
@@ -4112,8 +4091,8 @@
       "name": "Gangaur TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/GangaurTV.in.png",
       "streamUrls": [
-        "https://cdn-2.pishow.tv/live/1221/master.m3u8",
-        "https://pbgangaur.wiseplayout.com/Gangaur/master.m3u8"
+        "https://pbgangaur.wiseplayout.com/Gangaur/master.m3u8",
+        "https://cdn-2.pishow.tv/live/1221/master.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -13041,7 +13020,6 @@
       "name": "Pear TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/PearTV.in.png",
       "streamUrls": [
-        "http://103.175.73.12:8080/live/695/master.m3u8",
         "https://mumt01.tangotv.in/O5aw8Zn3PEARTV/index.m3u8"
       ],
       "category": "Entertainment",
@@ -18128,16 +18106,6 @@
       "languages": []
     },
     {
-      "id": "RBTV.py",
-      "name": "RB TV",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/5-tv_logo_%282023%29.svg/330px-5-tv_logo_%282023%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "streamUrls": [
-        "https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8"
-      ],
-      "category": "Other",
-      "languages": []
-    },
-    {
       "id": "RomanticaTV.it",
       "name": "Romantica TV",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=lyngsat.com",
@@ -19535,16 +19503,6 @@
       "languages": []
     },
     {
-      "id": "BTV.ug",
-      "name": "BTV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ug/BTV.ug.png",
-      "streamUrls": [
-        "https://streamfi-alphadgtl1.zettawiseroutes.com:8181/hls/stream.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "HuachoPeruTV.pe",
       "name": "Huacho Peru TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pe/HuachoPeruTV.pe.png",
@@ -19752,7 +19710,8 @@
       "name": "Star TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/StarTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd"
+        "https://cdn4.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd",
+        "https://cdn4.skygo.mn/live/disk1/Star/HLSv3-FTA/Star.m3u8"
       ],
       "country": "MN",
       "category": "Entertainment",
@@ -19783,7 +19742,8 @@
       "name": "Teleunion",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/Teleunion.do.png",
       "streamUrls": [
-        "http://server2grupocam.com:1945/teleunion/TU/playlist.m3u8"
+        "http://server2grupocam.com:1945/teleunion/TU/playlist.m3u8",
+        "http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8"
       ],
       "country": "DO",
       "category": "Entertainment",
@@ -19794,6 +19754,7 @@
       "name": "Master TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pe/MasterTV.pe.png",
       "streamUrls": [
+        "https://live.obslivestream.com/mastertv/index.m3u8",
         "https://live-evg5.tv360.bitel.com.pe/bitel/mastertvSRT/playlist.m3u8"
       ],
       "country": "PE",
@@ -19880,8 +19841,49 @@
       "country": "GY",
       "category": "Entertainment",
       "languages": []
+    },
+    {
+      "id": "Access19.us",
+      "name": "Access 19",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/Access19.us.png",
+      "streamUrls": [
+        "https://reflect-montgomerycommunitymedia.cablecast.tv/live-8/live/stream-3/live.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "BSFilm.pk",
+      "name": "BS Film",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://live20.bozztv.com/akamaissh101/ssh101/bsfilm/playlist.m3u8",
+        "https://lbgo.bozztv.com/ssh101/ssh101/bsfilm/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "GoldenNationNetwork.ph",
+      "name": "Golden Nation Network",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/GNN_Logo_2025.png/330px-GNN_Logo_2025.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "streamUrls": [
+        "https://streams.comclark.com/pknsd/onemedia/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "StarTV.md",
+      "name": "Star TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/md/StarTV.md.png",
+      "streamUrls": [
+        "http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2465/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
     }
   ],
   "count": 1940,
-  "generated_at": "2026-08-18T04:34:07.960050"
+  "generated_at": "2026-08-18T08:34:58.761602"
 }

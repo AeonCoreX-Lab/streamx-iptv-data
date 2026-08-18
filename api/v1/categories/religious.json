@@ -1611,8 +1611,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/HareKrsnaTV.in.png",
       "streamUrls": [
         "http://103.175.73.12:8080/live/259/master.m3u8",
-        "https://airtelapp.shemaroo.com/harekrsnatv/smil:harekrsnatvadp.smil/playlist.m3u8",
-        "https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd"
+        "https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd",
+        "https://airtelapp.shemaroo.com/harekrsnatv/smil:harekrsnatvadp.smil/playlist.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -2425,8 +2425,7 @@
       "name": "Madani Channel English",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pk/MadaniChannelEnglish.pk.png",
       "streamUrls": [
-        "https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8",
-        "http://tvsen7.aynascope.net/MadaniTV/index.m3u8"
+        "https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -2779,7 +2778,6 @@
       "name": "PTC Simran",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/PTCSimran.in.png",
       "streamUrls": [
-        "http://103.175.73.12:8080/live/183/master.m3u8",
         "https://cdn-6.pishow.tv/live/1503/master.m3u8"
       ],
       "category": "Religious",
@@ -3127,8 +3125,8 @@
       "name": "SVBC 4",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/SVBC4.in.png",
       "streamUrls": [
-        "https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8",
-        "https://cdn-2.pishow.tv/live/1607/master.m3u8"
+        "https://cdn-2.pishow.tv/live/1607/master.m3u8",
+        "https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -3917,16 +3915,6 @@
       "streamUrls": [
         "https://stmv2.srvif.com/tvsicuani/tvsicuani/playlist.m3u8",
         "https://live-evg7.tv360.bitel.com.pe/bitel/andestvSRT/playlist.m3u8"
-      ],
-      "category": "Religious",
-      "languages": []
-    },
-    {
-      "id": "ImpactChannel.cr",
-      "name": "Impact Channel",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cr/ImpactChannel.cr.png",
-      "streamUrls": [
-        "https://5fe2654d6127d.streamlock.net/impactchannel/videoimpactchannel/playlist.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -4795,16 +4783,6 @@
       "languages": []
     },
     {
-      "id": "DreamTV.ug",
-      "name": "Dream TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ug/DreamTV.ug.png",
-      "streamUrls": [
-        "https://streamfi-dreamtv1.zettawiseroutes.com:8181/hls/stream.m3u8"
-      ],
-      "category": "Religious",
-      "languages": []
-    },
-    {
       "id": "LightChannel.bg",
       "name": "Light Channel",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bg/LightChannel.bg.png",
@@ -5065,8 +5043,38 @@
       ],
       "category": "Religious",
       "languages": []
+    },
+    {
+      "id": "ElevationChurchNetwork.us",
+      "name": "Elevation Church Network",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=elevationchurch.org",
+      "streamUrls": [
+        "https://linear-1066.frequency.stream/dist/stirr/1066/hls/master/playlist.m3u8"
+      ],
+      "category": "Religious",
+      "languages": []
+    },
+    {
+      "id": "GospelTVIndia.in",
+      "name": "Gospel TV India",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/GospelTVIndia.in.png",
+      "streamUrls": [
+        "https://server.livelegitpro.in:9899/gospeltv/index.m3u8"
+      ],
+      "category": "Religious",
+      "languages": []
+    },
+    {
+      "id": "InTouchPlus.us",
+      "name": "InTouch+",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=intouch.org",
+      "streamUrls": [
+        "https://amg01540-amg01540c1-amgplt0095.playout.now3.amagi.tv/playlist.m3u8"
+      ],
+      "category": "Religious",
+      "languages": []
     }
   ],
-  "count": 497,
-  "generated_at": "2026-08-18T04:34:08.011804"
+  "count": 498,
+  "generated_at": "2026-08-18T08:34:58.814338"
 }
