@@ -335,16 +335,6 @@
       "languages": []
     },
     {
-      "id": "AlAimmaTV.iq",
-      "name": "Al-Aimma TV",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://alaimma.tv/live/index.m3u8"
-      ],
-      "category": "Religious",
-      "languages": []
-    },
-    {
       "id": "AlBahjahTV.id",
       "name": "Al-Bahjah TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/AlBahjahTV.id.png",
@@ -2431,16 +2421,6 @@
       "languages": []
     },
     {
-      "id": "MadaniChannelBangla.bd",
-      "name": "Madani Channel Bangla",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bd/MadaniChannelBangla.bd.png",
-      "streamUrls": [
-        "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8"
-      ],
-      "category": "Religious",
-      "languages": []
-    },
-    {
       "id": "MadaniChannelEnglish.pk",
       "name": "Madani Channel English",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pk/MadaniChannelEnglish.pk.png",
@@ -3084,6 +3064,7 @@
       "name": "Rhema TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gt/RhemaTV.gt.png",
       "streamUrls": [
+        "http://190.61.90.17:40000/play/a0iw/index.m3u8",
         "https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8"
       ],
       "category": "Religious",
@@ -4188,8 +4169,8 @@
       "name": "KSTV Uganda",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ug/KSTVUganda.ug.png",
       "streamUrls": [
-        "https://unseenlive.s3.eu-west-1.amazonaws.com/kstv/hls/0/stream.m3u8",
-        "https://live.esteem.africa/kstv/hls/0/stream.m3u8"
+        "https://live.esteem.africa/kstv/hls/0/stream.m3u8",
+        "https://unseenlive.s3.eu-west-1.amazonaws.com/kstv/hls/0/stream.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -4260,16 +4241,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/DaystarTVEspanol.us.png",
       "streamUrls": [
         "https://live-mcl.cdn01.net/smarttv/64wj6m6d8/playlist.m3u8"
-      ],
-      "category": "Religious",
-      "languages": []
-    },
-    {
-      "id": "HarvestUSA.in",
-      "name": "Harvest USA",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=harvesttv.in",
-      "streamUrls": [
-        "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -4745,8 +4716,8 @@
       "name": "Divya Darshan TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/np/DivyaDarshanTV.np.png",
       "streamUrls": [
-        "http://live.divyadarshantv.com/hls/stream.m3u8",
-        "https://live.divyadarshantv.com/hls/0/stream.m3u8"
+        "https://live.divyadarshantv.com/hls/0/stream.m3u8",
+        "http://live.divyadarshantv.com/hls/stream.m3u8"
       ],
       "country": "NP",
       "category": "Religious",
@@ -5084,8 +5055,18 @@
       ],
       "category": "Religious",
       "languages": []
+    },
+    {
+      "id": "JubiloTV.gt",
+      "name": "Jubilo TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gt/JubiloTV.gt.png",
+      "streamUrls": [
+        "http://173.249.60.54/hls/jubilotv.m3u8"
+      ],
+      "category": "Religious",
+      "languages": []
     }
   ],
-  "count": 499,
-  "generated_at": "2026-08-17T16:26:23.117748"
+  "count": 497,
+  "generated_at": "2026-08-18T01:08:27.093008"
 }
