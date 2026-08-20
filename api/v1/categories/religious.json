@@ -1610,9 +1610,8 @@
       "name": "Hare Krsna TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/HareKrsnaTV.in.png",
       "streamUrls": [
-        "http://103.175.73.12:8080/live/259/master.m3u8",
-        "https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd",
-        "https://airtelapp.shemaroo.com/harekrsnatv/smil:harekrsnatvadp.smil/playlist.m3u8"
+        "https://airtelapp.shemaroo.com/harekrsnatv/smil:harekrsnatvadp.smil/playlist.m3u8",
+        "https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd"
       ],
       "category": "Religious",
       "languages": []
@@ -2415,7 +2414,8 @@
       "name": "Madani Channel English",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pk/MadaniChannelEnglish.pk.png",
       "streamUrls": [
-        "https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8"
+        "https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8",
+        "http://tvsen7.aynascope.net/MadaniTV/index.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -3206,8 +3206,8 @@
       "name": "Shalom",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/Shalom.in.png",
       "streamUrls": [
-        "https://d2c4zqo2rb5uf1.cloudfront.net/master.m3u8",
-        "https://d28xtgmk9tfk6b.cloudfront.net/master.m3u8"
+        "https://d28xtgmk9tfk6b.cloudfront.net/master.m3u8",
+        "https://d2c4zqo2rb5uf1.cloudfront.net/master.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -3710,16 +3710,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/WLMB.us.png",
       "streamUrls": [
         "https://rpn.bozztv.com/wlmb/wlmb/wlmb/index.m3u8"
-      ],
-      "category": "Religious",
-      "languages": []
-    },
-    {
-      "id": "WXTV.tw",
-      "name": "WXTV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tw/WXTV.tw.png",
-      "streamUrls": [
-        "https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -4658,18 +4648,6 @@
       "languages": []
     },
     {
-      "id": "DivyaDarshanTV.np",
-      "name": "Divya Darshan TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/np/DivyaDarshanTV.np.png",
-      "streamUrls": [
-        "http://live.divyadarshantv.com/hls/stream.m3u8",
-        "https://live.divyadarshantv.com/hls/0/stream.m3u8"
-      ],
-      "country": "NP",
-      "category": "Religious",
-      "languages": []
-    },
-    {
       "id": "MohabatTV.ir",
       "name": "Mohabat TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ir/MohabatTV.ir.png",
@@ -4802,16 +4780,6 @@
       "languages": []
     },
     {
-      "id": "LightTV.ph",
-      "name": "Light TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ph/LightTV.ph.png",
-      "streamUrls": [
-        "https://streams.comclark.com/pknsd/light_tv/playlist.m3u8"
-      ],
-      "category": "Religious",
-      "languages": []
-    },
-    {
       "id": "HabibTV.ir",
       "name": "Habib TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ir/HabibTV.ir.png",
@@ -4887,16 +4855,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/SatsangWebTV.in.png",
       "streamUrls": [
         "https://d1ji7e9jbzm5g8.cloudfront.net/out/v1/769f22f64d80442889306b9c4abea63c/index.m3u8"
-      ],
-      "category": "Religious",
-      "languages": []
-    },
-    {
-      "id": "TVMaria.ph",
-      "name": "TV Maria",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ph/TVMaria.ph.png",
-      "streamUrls": [
-        "https://streams.comclark.com/pknsd/tvmaria/playlist.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -5084,6 +5042,6 @@
       "languages": []
     }
   ],
-  "count": 499,
-  "generated_at": "2026-08-20T04:35:40.627237"
+  "count": 495,
+  "generated_at": "2026-08-20T08:39:59.937654"
 }
