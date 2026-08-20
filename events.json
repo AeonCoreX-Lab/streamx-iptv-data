@@ -1,53 +1,12 @@
 {
-  "last_updated": "2026-08-20T10:52:36Z",
+  "last_updated": "2026-08-20T11:30:21Z",
   "strict_mode": true,
   "requires_stream": true,
   "requires_thumbnail": true,
-  "total_live": 13,
-  "total_upcoming": 153,
+  "total_live": 15,
+  "total_upcoming": 151,
   "total_streamed": 166,
   "active_events": [
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_afl___carlton_blues_",
-      "title": "AFL : Carlton Blues vs Hawthorn Hawks",
-      "sport": "Other",
-      "sport_icon": "live_tv",
-      "sport_color": "#E53935",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_afl___carlton_blues_",
-      "start_time": "2026-08-20T08:30:00Z",
-      "end_time": "2026-08-20T11:30:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "FOX Sports 2 USA",
-          "url": "https://dlhd.pk/stream/stream-758.php"
-        },
-        {
-          "name": "FOX Sports 2 USA (cast)",
-          "url": "https://dlhd.pk/cast/stream-758.php"
-        },
-        {
-          "name": "FOX Sports 2 USA (watch)",
-          "url": "https://dlhd.pk/watch/stream-758.php"
-        },
-        {
-          "name": "TNT Sports 1 UK (player)",
-          "url": "https://dlhd.pk/player/stream-31.php"
-        },
-        {
-          "name": "TNT Sports 1 UK (watch)",
-          "url": "https://dlhd.pk/watch/stream-31.php"
-        },
-        {
-          "name": "TNT Sports 1 UK (casting)",
-          "url": "https://dlhd.pk/casting/stream-31.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
-    },
     {
       "event_id": "spk_nflstreams_live",
       "title": "NFL Streams Schedule",
@@ -433,7 +392,7 @@
       "tvg_id": "spk_india-u20-vs-yemen-u20-football-1628990",
       "start_time": "2026-08-20T11:00:00Z",
       "end_time": "2026-08-20T14:00:00Z",
-      "is_live": false,
+      "is_live": true,
       "streams": [
         {
           "name": "StreamedPK Echo #1",
@@ -455,7 +414,7 @@
       "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_premier_league_pool_",
       "start_time": "2026-08-20T11:00:00Z",
       "end_time": "2026-08-20T14:00:00Z",
-      "is_live": false,
+      "is_live": true,
       "streams": [
         {
           "name": "Sky Sport 3 NZ (plus)",
@@ -496,7 +455,7 @@
       "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_asia_cup___guam_vs_t",
       "start_time": "2026-08-20T11:00:00Z",
       "end_time": "2026-08-20T14:00:00Z",
-      "is_live": false,
+      "is_live": true,
       "streams": [
         {
           "name": "Sport Klub 4 Serbia (plus)",
@@ -527,6 +486,47 @@
       "has_stream": true,
       "source": "DaddyLiveHD",
       "thumbnail": "https://streamed.pk/api/images/badge/cricket.webp"
+    },
+    {
+      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_afl___carlton_blues_",
+      "title": "AFL : Carlton Blues vs Hawthorn Hawks",
+      "sport": "Other",
+      "sport_icon": "live_tv",
+      "sport_color": "#E53935",
+      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_afl___carlton_blues_",
+      "start_time": "2026-08-20T08:30:00Z",
+      "end_time": "2026-08-20T11:30:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "FOX Sports 2 USA",
+          "url": "https://dlhd.pk/stream/stream-758.php"
+        },
+        {
+          "name": "FOX Sports 2 USA (cast)",
+          "url": "https://dlhd.pk/cast/stream-758.php"
+        },
+        {
+          "name": "FOX Sports 2 USA (watch)",
+          "url": "https://dlhd.pk/watch/stream-758.php"
+        },
+        {
+          "name": "TNT Sports 1 UK (player)",
+          "url": "https://dlhd.pk/player/stream-31.php"
+        },
+        {
+          "name": "TNT Sports 1 UK (watch)",
+          "url": "https://dlhd.pk/watch/stream-31.php"
+        },
+        {
+          "name": "TNT Sports 1 UK (casting)",
+          "url": "https://dlhd.pk/casting/stream-31.php"
+        }
+      ],
+      "stream_count": 6,
+      "has_stream": true,
+      "source": "DaddyLiveHD",
+      "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
     },
     {
       "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_hell_s_kitchen_seaso",
