@@ -1,33 +1,12 @@
 {
-  "last_updated": "2026-08-20T08:55:19Z",
+  "last_updated": "2026-08-20T09:36:17Z",
   "strict_mode": true,
   "requires_stream": true,
   "requires_thumbnail": true,
-  "total_live": 7,
-  "total_upcoming": 159,
-  "total_streamed": 166,
+  "total_live": 9,
+  "total_upcoming": 158,
+  "total_streamed": 167,
   "active_events": [
-    {
-      "event_id": "se_8129f6",
-      "title": "Belgrano (Córdoba) vs Racing Club",
-      "sport": "Football",
-      "sport_icon": "sports_soccer",
-      "sport_color": "#2962FF",
-      "tvg_id": "se_8129f6",
-      "start_time": "2026-08-20T06:03:33Z",
-      "end_time": "2026-08-20T09:03:33Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "StreamEast HD",
-          "url": "https://beststreameast.xyz/match/san-jose-earthquakes-vs-la-galaxy/17078"
-        }
-      ],
-      "stream_count": 1,
-      "has_stream": true,
-      "source": "StreamEast",
-      "thumbnail": "https://streamed.pk/api/images/poster/belgrano-c-rdoba/racing-club.webp"
-    },
     {
       "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_world_surf_league__2",
       "title": "World Surf League: 2025 WSL Championship Tour: MEO Rip Curl Pro Portugal",
@@ -231,7 +210,7 @@
       "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_world_cup_qualifying",
       "start_time": "2026-08-20T09:10:00Z",
       "end_time": "2026-08-20T12:10:00Z",
-      "is_live": false,
+      "is_live": true,
       "streams": [
         {
           "name": "Nova Sport Bulgaria",
@@ -272,7 +251,7 @@
       "tvg_id": "spk_england-vs-pakistan-first-test-cricket-hundred-1",
       "start_time": "2026-08-20T09:15:00Z",
       "end_time": "2026-08-20T12:15:00Z",
-      "is_live": false,
+      "is_live": true,
       "streams": [
         {
           "name": "StreamedPK Echo #1",
@@ -294,7 +273,7 @@
       "tvg_id": "spk_st-kilda-saints-vs-gold-coast-suns-australian-football-3549",
       "start_time": "2026-08-20T09:30:00Z",
       "end_time": "2026-08-20T12:30:00Z",
-      "is_live": false,
+      "is_live": true,
       "streams": [
         {
           "name": "StreamedPK Echo #1",
@@ -455,6 +434,36 @@
       "has_stream": true,
       "source": "DaddyLiveHD",
       "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
+    },
+    {
+      "event_id": "spk_ppv-england-vs-pakistan-1-st-test",
+      "title": "England vs. Pakistan - 1st Test",
+      "sport": "Cricket",
+      "sport_icon": "sports_cricket",
+      "sport_color": "#00C853",
+      "tvg_id": "spk_ppv-england-vs-pakistan-1-st-test",
+      "start_time": "2026-08-20T10:00:00Z",
+      "end_time": "2026-08-20T13:00:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "StreamedPK Admin HD #1 (English - Sky Sport 1 NZ)",
+          "url": "https://embed.st/embed/admin/ppv-england-vs-pakistan-1-st-test/1"
+        },
+        {
+          "name": "StreamedPK Admin SD #2 (English - Sky Sport 1 NZ)",
+          "url": "https://embed.st/embed/admin/ppv-england-vs-pakistan-1-st-test/2"
+        },
+        {
+          "name": "StreamedPK Echo #1",
+          "url": "https://embed.st/embed/echo/england-vs-pakistan-first-test-cricket-hundred-1/1"
+        }
+      ],
+      "stream_count": 3,
+      "has_stream": true,
+      "source": "StreamedPK",
+      "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0ICCERFV9cgwDGzST3hiq3Al1ZgwufFaA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsikImz1yDAMbNxPeCKrcCXVmDC58FoA.webp",
+      "league": "cricket"
     },
     {
       "event_id": "spk_india-u20-vs-yemen-u20-football-1628990",
@@ -1204,6 +1213,27 @@
       "thumbnail": "https://streamed.pk/api/images/poster/lafc/colorado-rapids.webp"
     },
     {
+      "event_id": "se_b16369",
+      "title": "San Jose Earthquakes vs LA Galaxy",
+      "sport": "Football",
+      "sport_icon": "sports_soccer",
+      "sport_color": "#2962FF",
+      "tvg_id": "se_b16369",
+      "start_time": "2026-08-20T15:00:00Z",
+      "end_time": "2026-08-20T18:00:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "StreamEast HD",
+          "url": "https://beststreameast.xyz/match/anderlecht-vs-kairat-almaty/17026"
+        }
+      ],
+      "stream_count": 1,
+      "has_stream": true,
+      "source": "StreamEast",
+      "thumbnail": "https://streamed.pk/api/images/poster/san-jose-earthquakes/la-galaxy.webp"
+    },
+    {
       "event_id": "spk_jagiellonia-vs-saburtalo-football-1623434",
       "title": "Jagiellonia vs Saburtalo",
       "sport": "Football",
@@ -1941,6 +1971,14 @@
         {
           "name": "StreamedPK Echo #1",
           "url": "https://embed.st/embed/echo/besiktas-vs-kauno-zalgiris-football-1623432/1"
+        },
+        {
+          "name": "StreamedPK Admin HD #1 (English - SPORTDIGITAL FUSSBALL)",
+          "url": "https://embed.st/embed/admin/ppv-besiktas-vs-kauno-zalgiris/1"
+        },
+        {
+          "name": "StreamedPK Admin SD #2 (English - SPORTDIGITAL FUSSBALL)",
+          "url": "https://embed.st/embed/admin/ppv-besiktas-vs-kauno-zalgiris/2"
         }
       ],
       "stream_count": 1,
