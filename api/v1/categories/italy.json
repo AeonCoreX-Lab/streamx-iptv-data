@@ -179,8 +179,8 @@
       "name": "Canale 8",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/it/Canale8.it.png",
       "streamUrls": [
-        "http://wms.shared.streamshow.it/canale8/canale8/playlist.m3u8",
-        "http://wms.shared.streamshow.it/canale8/mp4:canale8/playlist.m3u8"
+        "http://wms.shared.streamshow.it/canale8/mp4:canale8/playlist.m3u8",
+        "http://wms.shared.streamshow.it/canale8/canale8/playlist.m3u8"
       ],
       "category": "Italy",
       "languages": []
@@ -280,8 +280,8 @@
       "name": "Esperia TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/it/EsperiaTV.it.png",
       "streamUrls": [
-        "https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8",
-        "http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8"
+        "http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8",
+        "https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8"
       ],
       "category": "Italy",
       "languages": []
@@ -331,8 +331,7 @@
       "name": "Gold TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/it/GoldTV.it.png",
       "streamUrls": [
-        "https://5a1178b42cc03.streamlock.net/golditalia/golditalia/playlist.m3u8",
-        "https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8"
+        "https://5a1178b42cc03.streamlock.net/golditalia/golditalia/playlist.m3u8"
       ],
       "category": "Italy",
       "languages": []
@@ -424,8 +423,8 @@
       "name": "Kiss Kiss TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/it/KissKissTV.it.png",
       "streamUrls": [
-        "https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8",
         "https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8",
+        "https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8",
         "https://59253971be783.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8"
       ],
       "category": "Italy",
@@ -872,9 +871,7 @@
       "name": "Rai 1",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/it/Rai1.it.png",
       "streamUrls": [
-        "https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8",
-        "https://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=2606803",
-        "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803"
+        "https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8"
       ],
       "category": "Italy",
       "languages": []
@@ -884,7 +881,6 @@
       "name": "Rai 3",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/it/Rai3.it.png",
       "streamUrls": [
-        "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709",
         "https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8"
       ],
       "category": "Italy",
@@ -1117,7 +1113,7 @@
     {
       "id": "TeleOne16.it",
       "name": "Tele One 16",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/330px-TeleSUR-Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/DZMM_TeleRadyo.svg/330px-DZMM_TeleRadyo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8"
       ],
@@ -1370,9 +1366,9 @@
       "name": "Rai Italia",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/it/RaiItalia.it.png",
       "streamUrls": [
-        "https://d3k8wzt41aflvx.cloudfront.net/RAISA/Live.m3u8",
         "https://d3k8wzt41aflvx.cloudfront.net/RAIEU/Live.m3u8",
-        "https://d3k8wzt41aflvx.cloudfront.net/RAIUSA/Live.m3u8"
+        "https://d3k8wzt41aflvx.cloudfront.net/RAISA/Live.m3u8",
+        "https://d3k8wzt41aflvx.cloudfront.net/RAIHD/Live.m3u8"
       ],
       "category": "Italy",
       "languages": []
@@ -1426,8 +1422,7 @@
       "name": "Rai Storia",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/it/RaiStoria.it.png",
       "streamUrls": [
-        "https://d3k8wzt41aflvx.cloudfront.net/RAIStoria/Live.m3u8",
-        "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990"
+        "https://d3k8wzt41aflvx.cloudfront.net/RAIStoria/Live.m3u8"
       ],
       "country": "IT",
       "category": "Italy",
@@ -1696,5 +1691,5 @@
     }
   ],
   "count": 166,
-  "generated_at": "2026-08-20T12:46:57.642545"
+  "generated_at": "2026-08-20T16:34:19.565076"
 }
