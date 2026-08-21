@@ -12528,16 +12528,6 @@
       "languages": []
     },
     {
-      "id": "HeliconiaRadioTV.co",
-      "name": "Heliconia Radio TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/HeliconiaRadioTV.co.png",
-      "streamUrls": [
-        "https://eu1.servers10.com:8081/8178/index.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "AmericaTelevision.pe",
       "name": "America Television",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pe/AmericaTelevision.pe.png",
@@ -13339,7 +13329,8 @@
       "name": "NTV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/NTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/NTVHD/HLSv3-FTA/NTVHD.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/NTVHD/HLSv3-FTA/NTVHD.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/NTVHD/DASH-FTA/NTVHD.mpd"
       ],
       "country": "MN",
       "category": "Entertainment",
@@ -14915,8 +14906,7 @@
       "name": "TV9",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/TV9.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/TV9HD/DASH-FTA/TV9HD.mpd",
-        "https://cdn4.skygo.mn/live/disk1/TV9HD/HLSv3-FTA/TV9HD.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/TV9HD/DASH-FTA/TV9HD.mpd"
       ],
       "country": "MN",
       "category": "Entertainment",
@@ -14985,7 +14975,7 @@
     {
       "id": "LatinaPodcast.pe",
       "name": "Latina Podcast",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/CUNY_TV_2020_RGB.png/330px-CUNY_TV_2020_RGB.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=latina.pe",
       "streamUrls": [
         "https://redirector.rudo.video/hls-video/plus226/latina4/latina4.smil/playlist.m3u8"
       ],
@@ -18449,16 +18439,6 @@
       "languages": []
     },
     {
-      "id": "TVitape.br",
-      "name": "TVitape",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/TVitape.br.png",
-      "streamUrls": [
-        "https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8"
-      ],
-      "category": "Movies",
-      "languages": []
-    },
-    {
       "id": "ClaroVisionTV.do",
       "name": "Claro Vision TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/ClaroVisionTV.do.png",
@@ -18544,16 +18524,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/XPTV2.es.png",
       "streamUrls": [
         "https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
-      "id": "Kanal33.tr",
-      "name": "Kanal 33",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/Kanal33.tr.png",
-      "streamUrls": [
-        "https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -19859,6 +19829,56 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bo/RedAmericaTV.bo.png",
       "streamUrls": [
         "https://edge.enhdtv.com/redamerica/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "AlbanianTVAmerica.us",
+      "name": "Albanian TV America",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/AlbanianTVAmerica.us.png",
+      "streamUrls": [
+        "http://5.254.89.106/8711/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "FirstChannel.xk",
+      "name": "First Channel",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/xk/FirstChannel.xk.png",
+      "streamUrls": [
+        "http://5.254.89.106/8717/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "KlanKosova.xk",
+      "name": "Klan Kosova",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/xk/KlanKosova.xk.png",
+      "streamUrls": [
+        "http://5.254.89.106/8706/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "TVKlan.al",
+      "name": "TV Klan",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/al/TVKlan.al.png",
+      "streamUrls": [
+        "http://5.254.89.106/8704/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "TopChannel.al",
+      "name": "Top Channel",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/al/TopChannel.al.png",
+      "streamUrls": [
+        "http://5.254.89.106/8708/index.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
