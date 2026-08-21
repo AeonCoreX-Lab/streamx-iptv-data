@@ -15232,17 +15232,6 @@
       "languages": []
     },
     {
-      "id": "EvasionTV.gn",
-      "name": "Evasion TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gn/EvasionTV.gn.png",
-      "streamUrls": [
-        "https://kali.vdopanel.com:3788/hybrid/play.m3u8"
-      ],
-      "country": "GN",
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "ABC.us",
       "name": "ABC",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/ABC.us.png",
@@ -19266,7 +19255,8 @@
       "name": "Star TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/StarTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd"
+        "https://cdn4.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd",
+        "https://cdn4.skygo.mn/live/disk1/Star/HLSv3-FTA/Star.m3u8"
       ],
       "country": "MN",
       "category": "Entertainment",
@@ -19883,8 +19873,49 @@
       ],
       "category": "Entertainment",
       "languages": []
+    },
+    {
+      "id": "555.ru",
+      "name": "555",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/555.ru.png",
+      "streamUrls": [
+        "http://trk555.tv:8888/live"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "Channel8Krasnoyarsk.ru",
+      "name": "Channel 8 Krasnoyarsk",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Channel8Krasnoyarsk.ru.png",
+      "streamUrls": [
+        "https://tshift-1.telecoma.tv/8channel/tracks-v1a1/mono.ts.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "KMCTTV391.us",
+      "name": "KMCT-TV 39.1",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/KMCTTV391.us.png",
+      "streamUrls": [
+        "https://wggstv16.ddns.net:9953/hls/KMCT1.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "Network10.in",
+      "name": "Network 10",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/Network10.in.png",
+      "streamUrls": [
+        "https://network10.livebox.co.in/network10hls/live.m3u8",
+        "https://mumt01.tangotv.in/O5aw8Zn3NETWORK10/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
     }
   ],
-  "count": 1939,
-  "generated_at": "2026-08-21T08:39:13.204470"
+  "count": 1942,
+  "generated_at": "2026-08-21T12:43:04.895455"
 }
