@@ -1,34 +1,12 @@
 {
-  "last_updated": "2026-08-23T07:54:31Z",
+  "last_updated": "2026-08-23T08:31:58Z",
   "strict_mode": true,
   "requires_stream": true,
   "requires_thumbnail": true,
   "total_live": 10,
-  "total_upcoming": 153,
-  "total_streamed": 163,
+  "total_upcoming": 158,
+  "total_streamed": 168,
   "active_events": [
-    {
-      "event_id": "spk_sydney-swans-vs-north-melbourne-football-club-2568212",
-      "title": "Sydney Swans vs North Melbourne Football Club",
-      "sport": "Football",
-      "sport_icon": "sports_soccer",
-      "sport_color": "#2962FF",
-      "tvg_id": "spk_sydney-swans-vs-north-melbourne-football-club-2568212",
-      "start_time": "2026-08-23T05:20:00Z",
-      "end_time": "2026-08-23T08:20:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "StreamedPK Echo #1",
-          "url": "https://embed.st/embed/echo/sydney-swans-vs-north-melbourne-kangaroos-australian-football-3621/1"
-        }
-      ],
-      "stream_count": 1,
-      "has_stream": true,
-      "source": "StreamedPK",
-      "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyZT22EChDcQAExAQQfECeMw9BkwQpM+KLmDLwi80faa0wjsaIhA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphIgyIEL1YAGTWo0gIB7nqMoQMAhSZ8UXMGXhF5ou01pgHY0RCA.webp",
-      "league": "afl"
-    },
     {
       "event_id": "se_901a02",
       "title": "Toluca vs Querétaro",
@@ -277,48 +255,6 @@
       "thumbnail": "https://streamed.pk/api/images/badge/mma.webp"
     },
     {
-      "event_id": "tsdb_2388817",
-      "title": "San Diego Padres vs Minnesota Twins",
-      "sport": "Baseball",
-      "sport_icon": "sports_baseball",
-      "sport_color": "#FF6F00",
-      "tvg_id": "tsdb_2388817",
-      "start_time": "2026-08-23T00:40:00Z",
-      "end_time": "2026-08-23T03:40:00Z",
-      "is_live": false,
-      "streams": [
-        {
-          "name": "NESN USA (watch)",
-          "url": "https://dlhd.pk/watch/stream-762.php"
-        },
-        {
-          "name": "SD-7584574",
-          "url": "https://dlhd.pk/stream/stream-7584574.php"
-        },
-        {
-          "name": "SD-7584574 (plus)",
-          "url": "https://dlhd.pk/plus/stream-7584574.php"
-        },
-        {
-          "name": "SD-7584574 (cast)",
-          "url": "https://dlhd.pk/cast/stream-7584574.php"
-        },
-        {
-          "name": "NESN USA (casting)",
-          "url": "https://dlhd.pk/casting/stream-762.php"
-        },
-        {
-          "name": "NESN USA",
-          "url": "https://dlhd.pk/stream/stream-762.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "TheSportsDB",
-      "thumbnail": "https://streamed.pk/api/images/badge/baseball.webp",
-      "league": "MLB"
-    },
-    {
       "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_afl___carlton_blues_",
       "title": "AFL : Carlton Blues vs Hawthorn Hawks",
       "sport": "Other",
@@ -327,7 +263,7 @@
       "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_afl___carlton_blues_",
       "start_time": "2026-08-23T08:30:00Z",
       "end_time": "2026-08-23T11:30:00Z",
-      "is_live": false,
+      "is_live": true,
       "streams": [
         {
           "name": "TNT Sports 1 UK (casting)",
@@ -358,6 +294,70 @@
       "has_stream": true,
       "source": "DaddyLiveHD",
       "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
+    },
+    {
+      "event_id": "tsdb_2388817",
+      "title": "San Diego Padres vs Minnesota Twins",
+      "sport": "Baseball",
+      "sport_icon": "sports_baseball",
+      "sport_color": "#FF6F00",
+      "tvg_id": "tsdb_2388817",
+      "start_time": "2026-08-23T00:40:00Z",
+      "end_time": "2026-08-23T03:40:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "NESN USA (plus)",
+          "url": "https://dlhd.pk/plus/stream-762.php"
+        },
+        {
+          "name": "SD-7584574 (watch)",
+          "url": "https://dlhd.pk/watch/stream-7584574.php"
+        },
+        {
+          "name": "SD-7584574",
+          "url": "https://dlhd.pk/stream/stream-7584574.php"
+        },
+        {
+          "name": "NESN USA (watch)",
+          "url": "https://dlhd.pk/watch/stream-762.php"
+        },
+        {
+          "name": "SD-7584574 (cast)",
+          "url": "https://dlhd.pk/cast/stream-7584574.php"
+        },
+        {
+          "name": "NESN USA",
+          "url": "https://dlhd.pk/stream/stream-762.php"
+        }
+      ],
+      "stream_count": 6,
+      "has_stream": true,
+      "source": "TheSportsDB",
+      "thumbnail": "https://streamed.pk/api/images/badge/baseball.webp",
+      "league": "MLB"
+    },
+    {
+      "event_id": "spk_sydney-swans-vs-north-melbourne-football-club-2568212",
+      "title": "Sydney Swans vs North Melbourne Football Club",
+      "sport": "Football",
+      "sport_icon": "sports_soccer",
+      "sport_color": "#2962FF",
+      "tvg_id": "spk_sydney-swans-vs-north-melbourne-football-club-2568212",
+      "start_time": "2026-08-23T05:20:00Z",
+      "end_time": "2026-08-23T08:20:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "StreamedPK Echo #1",
+          "url": "https://embed.st/embed/echo/sydney-swans-vs-north-melbourne-kangaroos-australian-football-3621/1"
+        }
+      ],
+      "stream_count": 1,
+      "has_stream": true,
+      "source": "StreamedPK",
+      "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyZT22EChDcQAExAQQfECeMw9BkwQpM+KLmDLwi80faa0wjsaIhA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphIgyIEL1YAGTWo0gIB7nqMoQMAhSZ8UXMGXhF5ou01pgHY0RCA.webp",
+      "league": "afl"
     },
     {
       "event_id": "spk_f1-academy-netherlands-game-19996",
@@ -715,6 +715,27 @@
       "has_stream": true,
       "source": "StreamEast",
       "thumbnail": "https://streamed.pk/api/images/poster/deportivo-riestra/hurac-n.webp"
+    },
+    {
+      "event_id": "se_f0d7fe",
+      "title": "Philadelphia Union vs Austin FC",
+      "sport": "Football",
+      "sport_icon": "sports_soccer",
+      "sport_color": "#2962FF",
+      "tvg_id": "se_f0d7fe",
+      "start_time": "2026-08-23T10:00:00Z",
+      "end_time": "2026-08-23T13:00:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "StreamEast HD",
+          "url": "https://beststreameast.xyz/match/krylia-sovetov-vs-akron-tolyatti/16930"
+        }
+      ],
+      "stream_count": 1,
+      "has_stream": true,
+      "source": "StreamEast",
+      "thumbnail": "https://streamed.pk/api/images/poster/philadelphia-union/austin-fc.webp"
     },
     {
       "event_id": "spk_go-ahead-eagles-vs-ado-den-haag-2489088",
@@ -3444,6 +3465,150 @@
       "source": "StreamedPK",
       "thumbnail": "https://streamed.pk/api/images/badge/football.webp",
       "league": "football"
+    },
+    {
+      "event_id": "spk_getafe-vs-racing-de-santander-2506185",
+      "title": "Getafe vs Racing de Santander",
+      "sport": "Football",
+      "sport_icon": "sports_soccer",
+      "sport_color": "#2962FF",
+      "tvg_id": "spk_getafe-vs-racing-de-santander-2506185",
+      "start_time": "2026-08-23T17:30:00Z",
+      "end_time": "2026-08-23T20:30:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "StreamedPK Admin HD #1 (English - LaLiga)",
+          "url": "https://embed.st/embed/admin/ppv-getafe-vs-racing-santander/1"
+        },
+        {
+          "name": "StreamedPK Admin SD #2 (English - LaLiga)",
+          "url": "https://embed.st/embed/admin/ppv-getafe-vs-racing-santander/2"
+        },
+        {
+          "name": "StreamedPK Echo #1",
+          "url": "https://embed.st/embed/echo/getafe-vs-racing-santander-football-1570348/1"
+        }
+      ],
+      "stream_count": 3,
+      "has_stream": true,
+      "source": "StreamedPK",
+      "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzIpQuEJpQhuIACYgSh49oggzRxhSZ81bMGXhF5otU1pgHY0RCA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAoQAgAzAtKMNxD6SIRABMQRvuYNXVhGMCZ8UXMGXhF5o501phXY0QggA.webp",
+      "league": "football"
+    },
+    {
+      "event_id": "spk_baltimore-orioles-vs-tampa-bay-rays-2388842",
+      "title": "Baltimore Orioles vs Tampa Bay Rays",
+      "sport": "Baseball",
+      "sport_icon": "sports_baseball",
+      "sport_color": "#FF6F00",
+      "tvg_id": "spk_baltimore-orioles-vs-tampa-bay-rays-2388842",
+      "start_time": "2026-08-23T17:35:00Z",
+      "end_time": "2026-08-23T20:35:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "StreamedPK Golf HD #1 (English)",
+          "url": "https://embed.st/embed/golf/543/1"
+        },
+        {
+          "name": "StreamedPK Admin HD #1 (English - MASN)",
+          "url": "https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-baltimore-orioles/1"
+        },
+        {
+          "name": "StreamedPK Admin SD #2 (English - MASN)",
+          "url": "https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-baltimore-orioles/2"
+        },
+        {
+          "name": "StreamedPK Echo #1",
+          "url": "https://embed.st/embed/echo/baltimore-orioles-vs-tampa-bay-rays-baseball-179978/1"
+        },
+        {
+          "name": "StreamedPK Delta #1",
+          "url": "https://embed.st/embed/delta/live_mlb_orioles-rays-live-streaming-593717472/1"
+        }
+      ],
+      "stream_count": 5,
+      "has_stream": true,
+      "source": "StreamedPK",
+      "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTRVfMABMwJENxAQQifTl18QMEFZAEKTPii47y9eaMdNaYHWNEQgA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDtoUFJBDcQJXSAggYIRDoAmuEwQpM+KLmDLwi80faa0wjsaIhA.webp",
+      "league": "baseball"
+    },
+    {
+      "event_id": "spk_new-york-yankees-vs-toronto-blue-jays-2388834",
+      "title": "New York Yankees vs Toronto Blue Jays",
+      "sport": "Baseball",
+      "sport_icon": "sports_baseball",
+      "sport_color": "#FF6F00",
+      "tvg_id": "spk_new-york-yankees-vs-toronto-blue-jays-2388834",
+      "start_time": "2026-08-23T17:35:00Z",
+      "end_time": "2026-08-23T20:35:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "StreamedPK Admin HD #1 (English - YES)",
+          "url": "https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-new-york-yankees/1"
+        },
+        {
+          "name": "StreamedPK Golf HD #1 (English)",
+          "url": "https://embed.st/embed/golf/542/1"
+        },
+        {
+          "name": "StreamedPK Admin SD #2 (English - YES)",
+          "url": "https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-new-york-yankees/2"
+        },
+        {
+          "name": "StreamedPK Echo #1",
+          "url": "https://embed.st/embed/echo/new-york-yankees-vs-toronto-blue-jays-baseball-179970/1"
+        },
+        {
+          "name": "StreamedPK Delta #1",
+          "url": "https://embed.st/embed/delta/live_mlb_yankees-blue-jays-live-streaming-593717904/1"
+        }
+      ],
+      "stream_count": 5,
+      "has_stream": true,
+      "source": "StreamedPK",
+      "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYVavAgQ3EBFwhEBvjpCmAJiAsEKTPii5gy8IvNGOmtMM7GiIQA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmIFGCTAADCFpgQ3EGqN8QJXCDNqQxghSZ8UXMGXhF5o5032uxoiCA.webp",
+      "league": "baseball"
+    },
+    {
+      "event_id": "spk_philadelphia-phillies-vs-st--louis-cardinals-2388833",
+      "title": "Philadelphia Phillies vs St. Louis Cardinals",
+      "sport": "Baseball",
+      "sport_icon": "sports_baseball",
+      "sport_color": "#FF6F00",
+      "tvg_id": "spk_philadelphia-phillies-vs-st--louis-cardinals-2388833",
+      "start_time": "2026-08-23T17:35:00Z",
+      "end_time": "2026-08-23T20:35:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "StreamedPK Golf HD #1 (English)",
+          "url": "https://embed.st/embed/golf/541/1"
+        },
+        {
+          "name": "StreamedPK Admin HD #1 (English - NBC Sports Phil)",
+          "url": "https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-philadelphia-phillies/1"
+        },
+        {
+          "name": "StreamedPK Admin SD #2 (English - NBC Sports Phil)",
+          "url": "https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-philadelphia-phillies/2"
+        },
+        {
+          "name": "StreamedPK Delta #1",
+          "url": "https://embed.st/embed/delta/live_mlb_phillies-cardinals-live-streaming-593718336/1"
+        },
+        {
+          "name": "StreamedPK Echo #1",
+          "url": "https://embed.st/embed/echo/philadelphia-phillies-vs-stlouis-cardinals-baseball-179969/1"
+        }
+      ],
+      "stream_count": 5,
+      "has_stream": true,
+      "source": "StreamedPK",
+      "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDww4eWDEATENxC79fECVwhzu84wpM+KLmDJr680faa0wjsaIhA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjIATMCjDrNObiAi59IGMZCIcfMwQpM+KLmDLwi80faa0wjsaIhA.webp",
+      "league": "baseball"
     },
     {
       "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_pictionary_season_3_",
