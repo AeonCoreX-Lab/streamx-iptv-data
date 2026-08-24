@@ -1,34 +1,12 @@
 {
-  "last_updated": "2026-08-24T08:28:12Z",
+  "last_updated": "2026-08-24T09:30:09Z",
   "strict_mode": true,
   "requires_stream": true,
   "requires_thumbnail": true,
-  "total_live": 6,
-  "total_upcoming": 162,
-  "total_streamed": 168,
+  "total_live": 8,
+  "total_upcoming": 161,
+  "total_streamed": 169,
   "active_events": [
-    {
-      "event_id": "spk_wuhan-open-2026-wuhan-china-pick3",
-      "title": "Wuhan Open 2026 - Wuhan, China 🎱",
-      "sport": "Other",
-      "sport_icon": "live_tv",
-      "sport_color": "#E53935",
-      "tvg_id": "spk_wuhan-open-2026-wuhan-china-pick3",
-      "start_time": "2026-08-24T06:00:00Z",
-      "end_time": "2026-08-24T09:00:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "StreamedPK Echo #1",
-          "url": "https://embed.st/embed/echo/wuhan-open-2026-wuhan-china-pick3/1"
-        }
-      ],
-      "stream_count": 1,
-      "has_stream": true,
-      "source": "StreamedPK",
-      "thumbnail": "https://streamed.pk/api/images/badge/live.webp",
-      "league": "other"
-    },
     {
       "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_world_surf_league__2",
       "title": "World Surf League: 2025 WSL Championship Tour: MEO Rip Curl Pro Portugal",
@@ -191,7 +169,7 @@
       "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_afl___carlton_blues_",
       "start_time": "2026-08-24T08:30:00Z",
       "end_time": "2026-08-24T11:30:00Z",
-      "is_live": false,
+      "is_live": true,
       "streams": [
         {
           "name": "FOX Sports 2 USA",
@@ -232,7 +210,7 @@
       "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_national_rugby_leagu",
       "start_time": "2026-08-24T09:00:00Z",
       "end_time": "2026-08-24T12:00:00Z",
-      "is_live": false,
+      "is_live": true,
       "streams": [
         {
           "name": "Sky Sports Action UK (watch)",
@@ -273,7 +251,7 @@
       "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_world_cup_qualifying",
       "start_time": "2026-08-24T09:10:00Z",
       "end_time": "2026-08-24T12:10:00Z",
-      "is_live": false,
+      "is_live": true,
       "streams": [
         {
           "name": "Sportdigital FUSSBALL DE (cast)",
@@ -304,6 +282,28 @@
       "has_stream": true,
       "source": "DaddyLiveHD",
       "thumbnail": "https://streamed.pk/api/images/badge/football.webp"
+    },
+    {
+      "event_id": "spk_wuhan-open-2026-wuhan-china-pick3",
+      "title": "Wuhan Open 2026 - Wuhan, China 🎱",
+      "sport": "Other",
+      "sport_icon": "live_tv",
+      "sport_color": "#E53935",
+      "tvg_id": "spk_wuhan-open-2026-wuhan-china-pick3",
+      "start_time": "2026-08-24T06:00:00Z",
+      "end_time": "2026-08-24T09:00:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "StreamedPK Echo #1",
+          "url": "https://embed.st/embed/echo/wuhan-open-2026-wuhan-china-pick3/1"
+        }
+      ],
+      "stream_count": 1,
+      "has_stream": true,
+      "source": "StreamedPK",
+      "thumbnail": "https://streamed.pk/api/images/badge/live.webp",
+      "league": "other"
     },
     {
       "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_wrc_safari_rally_ken",
@@ -1399,6 +1399,27 @@
       "source": "StreamEast",
       "thumbnail": "https://streamed.pk/api/images/poster/boca-juniors/racing-club.webp",
       "league": "Argentinian Primera Division"
+    },
+    {
+      "event_id": "se_4e3f1a",
+      "title": "Hamburg SV vs SC Verl 1924",
+      "sport": "Football",
+      "sport_icon": "sports_soccer",
+      "sport_color": "#2962FF",
+      "tvg_id": "se_4e3f1a",
+      "start_time": "2026-08-24T16:00:00Z",
+      "end_time": "2026-08-24T19:00:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "StreamEast HD",
+          "url": "https://beststreameast.xyz/match/hamburg-sv-vs-sc-verl-1924/17231"
+        }
+      ],
+      "stream_count": 1,
+      "has_stream": true,
+      "source": "StreamEast",
+      "thumbnail": "https://streamed.pk/api/images/poster/hamburg-sv/sc-verl-1924.webp"
     },
     {
       "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_basquetebol__men_s_m",
@@ -5494,6 +5515,10 @@
         {
           "name": "StreamedPK Admin SD #2 (English - UEFA Champions League Qualifying)",
           "url": "https://embed.st/embed/admin/ppv-lask-linz-vs-celtic/2"
+        },
+        {
+          "name": "StreamedPK Echo #1",
+          "url": "https://embed.st/embed/echo/lask-linz-vs-celtic-football-1610924/1"
         }
       ],
       "stream_count": 2,
@@ -5520,6 +5545,10 @@
         {
           "name": "StreamedPK Admin SD #2 (English - UEFA Champions League Qualifying)",
           "url": "https://embed.st/embed/admin/ppv-bodo-glimt-vs-nec-nijmegen/2"
+        },
+        {
+          "name": "StreamedPK Echo #1",
+          "url": "https://embed.st/embed/echo/bodoglimt-vs-nec-nijmegen-football-1622627/1"
         }
       ],
       "stream_count": 2,
