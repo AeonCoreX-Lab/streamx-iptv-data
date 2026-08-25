@@ -47,7 +47,8 @@
       "name": "Cadena103.TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/Cadena103TV.ar.png",
       "streamUrls": [
-        "http://arcast.net:1935/cadena103/cadena103/playlist.m3u8"
+        "http://arcast.net:1935/cadena103/cadena103/playlist.m3u8",
+        "https://streamlov.alsolnet.com/cadena103/live/playlist.m3u8"
       ],
       "category": "Argentina",
       "languages": []
@@ -178,8 +179,8 @@
       "name": "Disney Jr. Latin America",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/DisneyJrLatinAmerica.ar.png",
       "streamUrls": [
-        "http://190.14.10.19:16000/play/a02d/index.m3u8",
         "http://190.11.225.124:5000/live/disney_jr_hd/playlist.m3u8",
+        "http://45.185.163.75:8000/play/a016/index.m3u8",
         "http://177.234.249.178:8888/DISNEY-JR/index.m3u8"
       ],
       "category": "Argentina",
@@ -290,8 +291,8 @@
       "name": "TyC Sports",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/TyCSports.ar.png",
       "streamUrls": [
-        "http://45.181.87.106/TYCSPORTSHD/index.m3u8",
-        "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8"
+        "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8",
+        "http://45.181.87.106/TYCSPORTSHD/index.m3u8"
       ],
       "category": "Argentina",
       "languages": []
@@ -516,8 +517,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/ElGourmet.ar.png",
       "streamUrls": [
         "http://15.204.246.24:8080/ElGourmetHD/index.m3u8",
-        "http://177.234.249.178:8888/EL-GOURMET/index.m3u8",
-        "http://190.93.224.42/EL-GOURMET/index.m3u8"
+        "http://190.93.224.42/EL-GOURMET/index.m3u8",
+        "http://177.234.249.178:8888/EL-GOURMET/index.m3u8"
       ],
       "category": "Argentina",
       "languages": []
@@ -857,8 +858,7 @@
       "name": "Europa Europa",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/EuropaEuropa.ar.png",
       "streamUrls": [
-        "https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8",
-        "https://cdn1tlinkgo.tlink.cl/europaeuropa/index.m3u8"
+        "https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8"
       ],
       "country": "AR",
       "category": "Argentina",
@@ -885,16 +885,6 @@
       "languages": []
     },
     {
-      "id": "SomosEntreRios.ar",
-      "name": "Somos Entre Rios",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=somoser.com.ar",
-      "streamUrls": [
-        "https://live20.bozztv.com/akamaissh101/ssh101/somosentrerios/playlist.m3u8"
-      ],
-      "category": "Argentina",
-      "languages": []
-    },
-    {
       "id": "TheCabbinFM.ar",
       "name": "The Cabbin FM",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=thecabinn.com.ar",
@@ -903,8 +893,18 @@
       ],
       "category": "Argentina",
       "languages": []
+    },
+    {
+      "id": "Canal5SantaFe.ar",
+      "name": "Canal 5 Santa Fe",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/Canal5SantaFe.ar.png",
+      "streamUrls": [
+        "https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8"
+      ],
+      "category": "Argentina",
+      "languages": []
     }
   ],
   "count": 88,
-  "generated_at": "2026-08-25T12:43:42.047478"
+  "generated_at": "2026-08-25T20:32:18.849774"
 }
