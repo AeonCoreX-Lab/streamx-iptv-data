@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-08-25T07:44:45Z",
+  "last_updated": "2026-08-25T08:46:25Z",
   "strict_mode": true,
   "requires_stream": true,
   "requires_thumbnail": true,
-  "total_live": 14,
+  "total_live": 15,
   "total_upcoming": 160,
-  "total_streamed": 174,
+  "total_streamed": 175,
   "active_events": [
     {
       "event_id": "spk_678fd97c8d98ade1299c33d8",
@@ -371,7 +371,7 @@
       "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_afl___carlton_blues_",
       "start_time": "2026-08-25T08:30:00Z",
       "end_time": "2026-08-25T11:30:00Z",
-      "is_live": false,
+      "is_live": true,
       "streams": [
         {
           "name": "FOX Sports 2 USA (cast)",
@@ -1534,6 +1534,27 @@
       "source": "StreamEast",
       "thumbnail": "https://streamed.pk/api/images/poster/argentinos-juniors/lan-s.webp",
       "league": "Argentinian Primera Division"
+    },
+    {
+      "event_id": "se_c0ca69",
+      "title": "Al Khaleej vs Abha",
+      "sport": "Football",
+      "sport_icon": "sports_soccer",
+      "sport_color": "#2962FF",
+      "tvg_id": "se_c0ca69",
+      "start_time": "2026-08-25T16:05:00Z",
+      "end_time": "2026-08-25T19:05:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "StreamEast HD",
+          "url": "https://beststreameast.xyz/match/al-khaleej-vs-abha/17273"
+        }
+      ],
+      "stream_count": 1,
+      "has_stream": true,
+      "source": "StreamEast",
+      "thumbnail": "https://streamed.pk/api/images/poster/al-khaleej/abha.webp"
     },
     {
       "event_id": "spk_al-taawon-vs-al-fayha-football-1602993",
