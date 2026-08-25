@@ -77,9 +77,9 @@
       "name": "ABC TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/au/ABCTV.au.png",
       "streamUrls": [
-        "https://c.mjh.nz/abc-act.m3u8",
         "https://c.mjh.nz/abc-nsw.m3u8",
-        "https://c.mjh.nz/abc-vic.m3u8"
+        "https://c.mjh.nz/abc-qld.m3u8",
+        "https://c.mjh.nz/abc-act.m3u8"
       ],
       "category": "Australia",
       "languages": []
@@ -129,9 +129,9 @@
       "name": "Channel 9",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/au/Channel9.au.png",
       "streamUrls": [
-        "https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/per/ch9/hls/r1/index.m3u8",
         "https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/adl/ch9/hls/r1/index.m3u8",
-        "https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/syd/ch9/hls/r1/index.m3u8"
+        "https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/syd/ch9/hls/r1/index.m3u8",
+        "https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/per/ch9/hls/r1/index.m3u8"
       ],
       "category": "Australia",
       "languages": []
@@ -249,16 +249,6 @@
       "languages": []
     },
     {
-      "id": "INTVAustralia.au",
-      "name": "INTV Australia",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/au/INTVAustralia.au.png",
-      "streamUrls": [
-        "http://tv1.intv.mk:1935/live/intv/index.m3u8"
-      ],
-      "category": "Australia",
-      "languages": []
-    },
-    {
       "id": "News24.au",
       "name": "News24",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=news24.com.au",
@@ -277,8 +267,18 @@
       ],
       "category": "Australia",
       "languages": []
+    },
+    {
+      "id": "tickerNews.au",
+      "name": "ticker News",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/au/tickerNews.au.png",
+      "streamUrls": [
+        "https://live-hls-7agy.livepush.io/live_abr_cdn/nsitWAl1pTZtwca/emnmZbKZcO8RfwJR/index.m3u8"
+      ],
+      "category": "Australia",
+      "languages": []
     }
   ],
   "count": 27,
-  "generated_at": "2026-08-24T16:35:29.752651"
+  "generated_at": "2026-08-25T01:11:05.924103"
 }

@@ -47,7 +47,6 @@
       "name": "Cadena103.TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/Cadena103TV.ar.png",
       "streamUrls": [
-        "https://streamlov.alsolnet.com/cadena103/live/playlist.m3u8",
         "http://arcast.net:1935/cadena103/cadena103/playlist.m3u8"
       ],
       "category": "Argentina",
@@ -118,8 +117,8 @@
       "name": "Canal 7 Salta",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/Canal7Salta.ar.png",
       "streamUrls": [
-        "https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8",
-        "https://vivo.solumedia.com:19360/canal7salta/canal7salta.m3u8"
+        "https://vivo.solumedia.com:19360/canal7salta/canal7salta.m3u8",
+        "https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8"
       ],
       "category": "Argentina",
       "languages": []
@@ -179,9 +178,9 @@
       "name": "Disney Jr. Latin America",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/DisneyJrLatinAmerica.ar.png",
       "streamUrls": [
+        "http://190.14.10.19:16000/play/a02d/index.m3u8",
         "http://190.11.225.124:5000/live/disney_jr_hd/playlist.m3u8",
-        "http://177.234.249.178:8888/DISNEY-JR/index.m3u8",
-        "http://45.185.163.75:8000/play/a016/index.m3u8"
+        "http://177.234.249.178:8888/DISNEY-JR/index.m3u8"
       ],
       "category": "Argentina",
       "languages": []
@@ -546,7 +545,7 @@
     {
       "id": "TVCanal72.ar",
       "name": "TV Canal 72",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Canal3Guatemala%282022Logo%29.webp/330px-Canal3Guatemala%282022Logo%29.webp.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Canal_7_Argentina.JPG/330px-Canal_7_Argentina.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "https://stmv1.voxtvhd.com.br/canal72tv2/canal72tv2/playlist.m3u8"
       ],
@@ -749,17 +748,6 @@
       "languages": []
     },
     {
-      "id": "TelePosadas.ar",
-      "name": "Tele Posadas",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/TelePosadas.ar.png",
-      "streamUrls": [
-        "https://lbgo.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8"
-      ],
-      "country": "AR",
-      "category": "Argentina",
-      "languages": []
-    },
-    {
       "id": "Retroclub.ar",
       "name": "Retroclub",
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
@@ -895,8 +883,28 @@
       ],
       "category": "Argentina",
       "languages": []
+    },
+    {
+      "id": "SomosEntreRios.ar",
+      "name": "Somos Entre Rios",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=somoser.com.ar",
+      "streamUrls": [
+        "https://live20.bozztv.com/akamaissh101/ssh101/somosentrerios/playlist.m3u8"
+      ],
+      "category": "Argentina",
+      "languages": []
+    },
+    {
+      "id": "TheCabbinFM.ar",
+      "name": "The Cabbin FM",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=thecabinn.com.ar",
+      "streamUrls": [
+        "https://5f700d5b2c46f.streamlock.net/thecabinn/thecabinn/playlist.m3u8"
+      ],
+      "category": "Argentina",
+      "languages": []
     }
   ],
-  "count": 87,
-  "generated_at": "2026-08-24T16:35:29.767886"
+  "count": 88,
+  "generated_at": "2026-08-25T01:11:05.938992"
 }
