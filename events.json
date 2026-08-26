@@ -1,33 +1,12 @@
 {
-  "last_updated": "2026-08-26T08:44:05Z",
+  "last_updated": "2026-08-26T09:42:54Z",
   "strict_mode": true,
   "requires_stream": true,
   "requires_thumbnail": true,
-  "total_live": 8,
-  "total_upcoming": 158,
-  "total_streamed": 166,
+  "total_live": 11,
+  "total_upcoming": 156,
+  "total_streamed": 167,
   "active_events": [
-    {
-      "event_id": "se_768cc9",
-      "title": "Dana White's Contender Series: Season 10, Week 3",
-      "sport": "MMA",
-      "sport_icon": "sports_mma",
-      "sport_color": "#D50000",
-      "tvg_id": "se_768cc9",
-      "start_time": "2026-08-26T05:54:43Z",
-      "end_time": "2026-08-26T08:54:43Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "StreamEast HD",
-          "url": "https://beststreameast.xyz/match/dana-white-s-contender-series-season-10-week-3/17299"
-        }
-      ],
-      "stream_count": 1,
-      "has_stream": true,
-      "source": "StreamEast",
-      "thumbnail": "https://streamed.pk/api/images/badge/mma.webp"
-    },
     {
       "event_id": "spk_admin-willow-cricket",
       "title": "Willow Cricket",
@@ -253,7 +232,7 @@
       "tvg_id": "spk_ppv-tszyu-vs-mahoney",
       "start_time": "2026-08-26T09:00:00Z",
       "end_time": "2026-08-26T12:00:00Z",
-      "is_live": false,
+      "is_live": true,
       "streams": [
         {
           "name": "StreamedPK Admin HD #1 (English - DAZN PPV)",
@@ -283,7 +262,7 @@
       "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_national_rugby_leagu",
       "start_time": "2026-08-26T09:00:00Z",
       "end_time": "2026-08-26T12:00:00Z",
-      "is_live": false,
+      "is_live": true,
       "streams": [
         {
           "name": "Sky Sports Action UK (watch)",
@@ -324,7 +303,7 @@
       "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_world_cup_qualifying",
       "start_time": "2026-08-26T09:10:00Z",
       "end_time": "2026-08-26T12:10:00Z",
-      "is_live": false,
+      "is_live": true,
       "streams": [
         {
           "name": "beIN Sports MENA 3 (cast)",
@@ -355,6 +334,27 @@
       "has_stream": true,
       "source": "DaddyLiveHD",
       "thumbnail": "https://streamed.pk/api/images/badge/football.webp"
+    },
+    {
+      "event_id": "se_1fde11",
+      "title": "Dana White's Contender Series: Season 10, Week 3",
+      "sport": "MMA",
+      "sport_icon": "sports_mma",
+      "sport_color": "#D50000",
+      "tvg_id": "se_1fde11",
+      "start_time": "2026-08-26T09:42:36Z",
+      "end_time": "2026-08-26T12:42:36Z",
+      "is_live": true,
+      "streams": [
+        {
+          "name": "StreamEast HD",
+          "url": "https://beststreameast.xyz/match/dana-white-s-contender-series-season-10-week-3/17299"
+        }
+      ],
+      "stream_count": 1,
+      "has_stream": true,
+      "source": "StreamEast",
+      "thumbnail": "https://streamed.pk/api/images/badge/mma.webp"
     },
     {
       "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_wrc_safari_rally_ken",
@@ -5446,6 +5446,14 @@
         {
           "name": "StreamedPK Echo #1",
           "url": "https://embed.st/embed/echo/red-bull-salzburg-vs-mjallby-aif-football-1623450/1"
+        },
+        {
+          "name": "StreamedPK Admin HD #1 (German - ORF 1)",
+          "url": "https://embed.st/embed/admin/ppv-rb-salzburg-vs-mj-llby-aif/1"
+        },
+        {
+          "name": "StreamedPK Admin SD #2 (German - ORF 1)",
+          "url": "https://embed.st/embed/admin/ppv-rb-salzburg-vs-mj-llby-aif/2"
         }
       ],
       "stream_count": 1,
@@ -5584,6 +5592,40 @@
       "has_stream": true,
       "source": "StreamedPK",
       "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyoATMNLog+IbiFUgUIGPsMgSICLtwEKTPii4by9eaMdNaYDWNEQgA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksJDcQZJAlCqQAExAxcIPsZAQdOXQQpM+KLmDLwi80faa0wjsaIhA.webp",
+      "league": "football"
+    },
+    {
+      "event_id": "spk_ppv-viktoria-plzen-vs-red-star-belgrade",
+      "title": "Viktoria Plzen vs. Red Star Belgrade",
+      "sport": "Football",
+      "sport_icon": "sports_soccer",
+      "sport_color": "#2962FF",
+      "tvg_id": "spk_ppv-viktoria-plzen-vs-red-star-belgrade",
+      "start_time": "2026-08-27T17:00:00Z",
+      "end_time": "2026-08-27T20:00:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "StreamedPK Admin HD #3 (Czech - Nova Sport 5)",
+          "url": "https://embed.st/embed/admin/ppv-viktoria-plzen-vs-red-star-belgrade/3"
+        },
+        {
+          "name": "StreamedPK Admin HD #1 (English - ESPN+)",
+          "url": "https://embed.st/embed/admin/ppv-viktoria-plzen-vs-red-star-belgrade/1"
+        },
+        {
+          "name": "StreamedPK Admin SD #2 (English - ESPN+)",
+          "url": "https://embed.st/embed/admin/ppv-viktoria-plzen-vs-red-star-belgrade/2"
+        },
+        {
+          "name": "StreamedPK Admin SD #4 (Czech - Nova Sport 5)",
+          "url": "https://embed.st/embed/admin/ppv-viktoria-plzen-vs-red-star-belgrade/4"
+        }
+      ],
+      "stream_count": 4,
+      "has_stream": true,
+      "source": "StreamedPK",
+      "thumbnail": "https://streamed.pk/api/images/proxy//api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYSERZgVEBGziQMECRBqyslJKWlg8bDNIgAxiCwqj5+RBMydskinLyBQkUwNOwhYElzGnITBuTnlhXScCPXJg4HkyCCA.webp.webp",
       "league": "football"
     },
     {
