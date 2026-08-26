@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-08-26T07:47:54Z",
+  "last_updated": "2026-08-26T08:44:05Z",
   "strict_mode": true,
   "requires_stream": true,
   "requires_thumbnail": true,
-  "total_live": 6,
-  "total_upcoming": 159,
-  "total_streamed": 165,
+  "total_live": 8,
+  "total_upcoming": 158,
+  "total_streamed": 166,
   "active_events": [
     {
       "event_id": "se_768cc9",
@@ -190,7 +190,7 @@
       "tvg_id": "spk_live-event_nikita-tszyu-vs-ben-mahoney-live-stream",
       "start_time": "2026-08-26T08:00:00Z",
       "end_time": "2026-08-26T11:00:00Z",
-      "is_live": false,
+      "is_live": true,
       "streams": [
         {
           "name": "StreamedPK Delta #1",
@@ -212,7 +212,7 @@
       "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_afl___carlton_blues_",
       "start_time": "2026-08-26T08:30:00Z",
       "end_time": "2026-08-26T11:30:00Z",
-      "is_live": false,
+      "is_live": true,
       "streams": [
         {
           "name": "TNT Sports 1 UK",
@@ -1405,6 +1405,27 @@
       "has_stream": true,
       "source": "StreamEast",
       "thumbnail": "https://streamed.pk/api/images/poster/atl-tico-mg/cruzeiro.webp"
+    },
+    {
+      "event_id": "se_b73400",
+      "title": "Real Salt Lake vs León",
+      "sport": "Football",
+      "sport_icon": "sports_soccer",
+      "sport_color": "#2962FF",
+      "tvg_id": "se_b73400",
+      "start_time": "2026-08-26T16:00:00Z",
+      "end_time": "2026-08-26T19:00:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "StreamEast HD",
+          "url": "https://beststreameast.xyz/match/al-fateh-vs-al-faisaly/17316"
+        }
+      ],
+      "stream_count": 1,
+      "has_stream": true,
+      "source": "StreamEast",
+      "thumbnail": "https://streamed.pk/api/images/poster/real-salt-lake/le-n.webp"
     },
     {
       "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_basquetebol__men_s_m",
