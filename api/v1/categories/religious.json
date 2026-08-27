@@ -3648,17 +3648,6 @@
       "languages": []
     },
     {
-      "id": "HolyQuranRadio.sa",
-      "name": "Holy Quran Radio",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=radioplus.sba.sa",
-      "streamUrls": [
-        "https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8",
-        "https://aloula-redirect.vercel.app/13/playlist.m3u8"
-      ],
-      "category": "Religious",
-      "languages": []
-    },
-    {
       "id": "TraceGospel.fr",
       "name": "Trace Gospel",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/fr/TraceGospel.fr.png",
@@ -4876,8 +4865,8 @@
       "name": "Divya Darshan TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/np/DivyaDarshanTV.np.png",
       "streamUrls": [
-        "http://live.divyadarshantv.com/hls/stream.m3u8",
-        "https://live.divyadarshantv.com/hls/0/stream.m3u8"
+        "https://live.divyadarshantv.com/hls/0/stream.m3u8",
+        "http://live.divyadarshantv.com/hls/stream.m3u8"
       ],
       "country": "NP",
       "category": "Religious",
@@ -5010,8 +4999,8 @@
       "name": "Exodus TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/si/ExodusTV.si.png",
       "streamUrls": [
-        "https://584943999.r.worldssl.net/584943999/_definst_/vzivo/playlist.m3u8",
-        "https://584943999.r.worldssl.net/584943999/vzivo/playlist.m3u8"
+        "https://584943999.r.worldssl.net/584943999/vzivo/playlist.m3u8",
+        "https://584943999.r.worldssl.net/584943999/_definst_/vzivo/playlist.m3u8"
       ],
       "country": "SI",
       "category": "Religious",
@@ -5086,6 +5075,7 @@
       "name": "ADA TV",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Ada_Nicodemou_%2824990407747%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "streamUrls": [
+        "https://v4.tustreaming.cl/adatvchile/index.m3u8",
         "https://live-evg10.tv360.bitel.com.pe/bitel/alasdeaguilaSRT/playlist.m3u8"
       ],
       "country": "CL",
@@ -5101,8 +5091,29 @@
       ],
       "category": "Religious",
       "languages": []
+    },
+    {
+      "id": "AlSahatTV.ye",
+      "name": "Al-Sahat TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ye/AlSahatTV.ye.png",
+      "streamUrls": [
+        "https://assahat.b-cdn.net/Assahat/assahatobs/index.m3u8"
+      ],
+      "category": "Religious",
+      "languages": []
+    },
+    {
+      "id": "FonteTV.br",
+      "name": "Fonte TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/FonteTV.br.png",
+      "streamUrls": [
+        "http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8",
+        "https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8"
+      ],
+      "category": "Religious",
+      "languages": []
     }
   ],
-  "count": 501,
-  "generated_at": "2026-08-27T07:27:23.200606"
+  "count": 502,
+  "generated_at": "2026-08-27T18:51:36.225709"
 }
