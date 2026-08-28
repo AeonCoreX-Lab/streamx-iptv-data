@@ -177,7 +177,7 @@
     {
       "id": "MNews.pk",
       "name": "M News",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=mnews.pk",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/330px-BBC_News_2022_%28Alt%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "https://cdn.rabta.stream/M-News/index.m3u8"
       ],
@@ -189,7 +189,9 @@
       "name": "M Sports",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=msports.pk",
       "streamUrls": [
-        "https://cdn.rabta.stream/M-Sports/index.m3u8"
+        "https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.ts.m3u8",
+        "https://cdn.rabta.stream/M-Sports/index.m3u8",
+        "https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.m3u8"
       ],
       "category": "Pakistan",
       "languages": []
@@ -212,14 +214,25 @@
       "name": "BS Film",
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
-        "https://live20.bozztv.com/akamaissh101/ssh101/bsfilm/playlist.m3u8",
-        "https://lbgo.bozztv.com/ssh101/ssh101/bsfilm/playlist.m3u8"
+        "https://lbgo.bozztv.com/ssh101/ssh101/bsfilm/playlist.m3u8",
+        "https://live20.bozztv.com/akamaissh101/ssh101/bsfilm/playlist.m3u8"
+      ],
+      "country": "PK",
+      "category": "Pakistan",
+      "languages": []
+    },
+    {
+      "id": "JalwaTV.pk",
+      "name": "Jalwa TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pk/JalwaTV.pk.png",
+      "streamUrls": [
+        "https://vodzong.mjunoon.tv:8087/streamtest/JalwaTV-135/live/135M/chunks.m3u8"
       ],
       "country": "PK",
       "category": "Pakistan",
       "languages": []
     }
   ],
-  "count": 21,
-  "generated_at": "2026-08-28T04:03:23.498377"
+  "count": 22,
+  "generated_at": "2026-08-28T19:54:26.318617"
 }

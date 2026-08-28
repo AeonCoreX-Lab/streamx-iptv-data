@@ -87,8 +87,8 @@
       "name": "4E",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gr/4E.gr.png",
       "streamUrls": [
-        "http://eu2.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8",
-        "http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8"
+        "http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8",
+        "http://eu2.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -4811,16 +4811,6 @@
       "languages": []
     },
     {
-      "id": "ParaisoTV.pr",
-      "name": "Paraiso TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pr/ParaisoTV.pr.png",
-      "streamUrls": [
-        "https://stream.eleden.com/livewtpm/ngrp:livewtpm_all/playlist.m3u8"
-      ],
-      "category": "Religious",
-      "languages": []
-    },
-    {
       "id": "AasthaPrime1.in",
       "name": "Aastha Prime 1",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/AasthaPrime1.in.png",
@@ -4999,8 +4989,8 @@
       "name": "Exodus TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/si/ExodusTV.si.png",
       "streamUrls": [
-        "https://584943999.r.worldssl.net/584943999/vzivo/playlist.m3u8",
-        "https://584943999.r.worldssl.net/584943999/_definst_/vzivo/playlist.m3u8"
+        "https://584943999.r.worldssl.net/584943999/_definst_/vzivo/playlist.m3u8",
+        "https://584943999.r.worldssl.net/584943999/vzivo/playlist.m3u8"
       ],
       "country": "SI",
       "category": "Religious",
@@ -5022,18 +5012,6 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://vietprocast.app/hls/abhp/index.m3u8"
-      ],
-      "category": "Religious",
-      "languages": []
-    },
-    {
-      "id": "GodStandsKidsClubTV.pk",
-      "name": "God Stands Kids Club TV",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=godstands.tv",
-      "streamUrls": [
-        "https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8",
-        "https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8",
-        "https://online.godstands.tv:5443/WebRTCApp/streams/KidsUrdu.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -5122,8 +5100,48 @@
       ],
       "category": "Religious",
       "languages": []
+    },
+    {
+      "id": "GenesisScienceNetwork.us",
+      "name": "Genesis Science Network",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=genesissciencenetwork.com",
+      "streamUrls": [
+        "https://2-fss-1.streamhoster.com/pl_122/amlst:206018-2645902/playlist.m3u8"
+      ],
+      "category": "Religious",
+      "languages": []
+    },
+    {
+      "id": "HarmonyGospelMusicTV.us",
+      "name": "Harmony Gospel Music TV",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=harmonygospelmusic.tv",
+      "streamUrls": [
+        "https://tgn.bozztv.com/watc57/watc57-harmony/watc57-harmony/index.m3u8"
+      ],
+      "category": "Religious",
+      "languages": []
+    },
+    {
+      "id": "IeanJesusEcuador.ec",
+      "name": "IeanJesus Ecuador",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ec/IeanJesusEcuador.ec.png",
+      "streamUrls": [
+        "https://cloud37.ecuatel.com/iglesia2020/Stream1/playlist.m3u8"
+      ],
+      "category": "Religious",
+      "languages": []
+    },
+    {
+      "id": "ThePointTelevsionNetwork.us",
+      "name": "The Point Televsion Network",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=thepointtv.org",
+      "streamUrls": [
+        "https://tgn.bozztv.com/watc57/watc57-2/watc57-2/index.m3u8"
+      ],
+      "category": "Religious",
+      "languages": []
     }
   ],
-  "count": 503,
-  "generated_at": "2026-08-28T04:03:23.485644"
+  "count": 505,
+  "generated_at": "2026-08-28T19:54:26.160609"
 }
