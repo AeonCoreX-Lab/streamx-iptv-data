@@ -2217,7 +2217,8 @@
       "name": "Central TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/CentralTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/Ekh_Oron/DASH-FTA/Ekh_Oron.mpd"
+        "https://cdn4.skygo.mn/live/disk1/Ekh_Oron/DASH-FTA/Ekh_Oron.mpd",
+        "https://cdn4.skygo.mn/live/disk1/Ekh_Oron/HLSv3-FTA/Ekh_Oron.m3u8"
       ],
       "category": "Other",
       "languages": []
@@ -10976,7 +10977,7 @@
       "name": "Ulzii TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/UlziiTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/UlziiTV/DASH-FTA/UlziiTV.mpd"
+        "https://cdn4.skygo.mn/live/disk1/UlziiTV/HLSv3-FTA/UlziiTV.m3u8"
       ],
       "category": "Other",
       "languages": []
@@ -16905,16 +16906,6 @@
       "languages": []
     },
     {
-      "id": "CEACOMTV.bo",
-      "name": "CEACOM TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bo/CEACOMTV.bo.png",
-      "streamUrls": [
-        "https://eu1.servers10.com:8081/ceacom/index.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "Telemantova.it",
       "name": "Telemantova",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/it/Telemantova.it.png",
@@ -17296,7 +17287,7 @@
     {
       "id": "TVN.do",
       "name": "TVN",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=vivalivetv.com",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/TVN_logo_2024.svg/330px-TVN_logo_2024.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "https://5790d294af2dc.streamlock.net/tvn/tvn/playlist.m3u8"
       ],
@@ -19186,16 +19177,6 @@
       "languages": []
     },
     {
-      "id": "TVWEST.ng",
-      "name": "TV-WEST",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=tvwest.ng",
-      "streamUrls": [
-        "https://tv-west.lg.mncdn.com/tv_west/tv_west.stream/playlist.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "ZASTV.do",
       "name": "ZAS TV",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Port_Aransas%2C_Texas.jpg/330px-Port_Aransas%2C_Texas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -19322,16 +19303,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gy/HGPTV.gy.png",
       "streamUrls": [
         "https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/8424fb7f-99a9-87ae-3861-f0620849d11c/source/index.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
-      "id": "TeleRegencyTV.ng",
-      "name": "Tele Regency TV",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=teleregency.tv",
-      "streamUrls": [
-        "https://streams.playtv.com.ng/Tele-Regency_TRTV/index.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -19611,7 +19582,7 @@
       "name": "Star TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/StarTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/Star/HLSv3-FTA/Star.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd"
       ],
       "country": "MN",
       "category": "Entertainment",
@@ -19734,6 +19705,26 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/it/TelecityLombardia.it.png",
       "streamUrls": [
         "https://64b16f23efbee.streamlock.net/telecitylombardia/telecitylombardia/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "PrimaTV.it",
+      "name": "Prima TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/it/PrimaTV.it.png",
+      "streamUrls": [
+        "https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "TelePoderTV.do",
+      "name": "Tele Poder TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/TelePoderTV.do.png",
+      "streamUrls": [
+        "https://cdn.telepoder.online:3229/dash/stream.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
