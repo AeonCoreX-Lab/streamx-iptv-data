@@ -26,9 +26,9 @@
       "name": "NHK World-Japan",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/jp/NHKWorldJapan.jp.png",
       "streamUrls": [
-        "https://nhk.lls.pbs.org/index.m3u8",
         "https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8",
-        "http://170.83.16.50/NHK_WORLD/index.m3u8"
+        "https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8",
+        "https://nhk.lls.pbs.org/index.m3u8"
       ],
       "category": "Japan",
       "languages": []
@@ -113,8 +113,18 @@
       ],
       "category": "Japan",
       "languages": []
+    },
+    {
+      "id": "MTV.jp",
+      "name": "MTV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/jp/MTV.jp.png",
+      "streamUrls": [
+        "http://42.118.247.37:9394/stream/74.m3u8"
+      ],
+      "category": "Japan",
+      "languages": []
     }
   ],
-  "count": 11,
-  "generated_at": "2026-08-29T22:22:52.886876"
+  "count": 12,
+  "generated_at": "2026-08-30T03:48:20.631679"
 }
