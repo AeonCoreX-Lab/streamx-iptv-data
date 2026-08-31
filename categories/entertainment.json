@@ -2216,8 +2216,7 @@
       "name": "Central TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/CentralTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/Ekh_Oron/DASH-FTA/Ekh_Oron.mpd",
-        "https://cdn1.skygo.mn/live/disk1/Ekh_Oron/HLS-FTA/Ekh_Oron.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/Ekh_Oron/DASH-FTA/Ekh_Oron.mpd"
       ],
       "category": "Other",
       "languages": []
@@ -6778,16 +6777,6 @@
       "languages": []
     },
     {
-      "id": "MezokovesdiTelevizio.hu",
-      "name": "Mezokovesdi Televizio",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/hu/MezokovesdiTelevizio.hu.png",
-      "streamUrls": [
-        "https://cloudfront44.lexanetwork.com:1344/freerelay/mezokovesdvtv.sdp/playlist.m3u8"
-      ],
-      "category": "Other",
-      "languages": []
-    },
-    {
       "id": "MiavisionTV.do",
       "name": "Miavision TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/MiavisionTV.do.png",
@@ -9982,8 +9971,9 @@
       "name": "TV8",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/TV8.mn.png",
       "streamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/TV8HD/DASH-FTA/TV8HD.mpd",
         "https://cdn4.skygo.mn/live/disk1/TV8HD/HLSv3-FTA/TV8HD.m3u8",
-        "https://cdn4.skygo.mn/live/disk1/TV8HD/DASH-FTA/TV8HD.mpd"
+        "https://cdn1.skygo.mn/live/disk1/TV8HD/HLS-FTA/TV8HD.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -10960,7 +10950,8 @@
       "name": "Ulzii TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/UlziiTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/UlziiTV/DASH-FTA/UlziiTV.mpd"
+        "https://cdn4.skygo.mn/live/disk1/UlziiTV/DASH-FTA/UlziiTV.mpd",
+        "https://cdn4.skygo.mn/live/disk1/UlziiTV/HLSv3-FTA/UlziiTV.m3u8"
       ],
       "category": "Other",
       "languages": []
@@ -12895,7 +12886,7 @@
       "name": "NTV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/NTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/NTVHD/DASH-FTA/NTVHD.mpd"
+        "https://cdn4.skygo.mn/live/disk1/NTVHD/HLSv3-FTA/NTVHD.m3u8"
       ],
       "country": "MN",
       "category": "Entertainment",
@@ -13762,16 +13753,6 @@
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
         "https://jmp2.uk/plu-61c0909b872c650008ed42e4.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
-      "id": "MTVGeordies.de",
-      "name": "MTV Geordies",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
-      "streamUrls": [
-        "https://jmp2.uk/plu-627d3176d7dfa500077042f1.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -18376,16 +18357,6 @@
       "languages": []
     },
     {
-      "id": "CanalPulpoTV.ar",
-      "name": "Canal Pulpo TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/CanalPulpoTV.ar.png",
-      "streamUrls": [
-        "https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "DigitalVision63.do",
       "name": "Digital Vision 63",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/DigitalVision63.do.png",
@@ -19210,16 +19181,6 @@
       "languages": []
     },
     {
-      "id": "TelevisionMetropolis191.hn",
-      "name": "Television Metropolis 19.1",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/hn/TelevisionMetropolis191.hn.png",
-      "streamUrls": [
-        "https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "ZurquiTV.cr",
       "name": "Zurqui TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cr/ZurquiTV.cr.png",
@@ -19721,6 +19682,36 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/it/TLTMolise.it.png",
       "streamUrls": [
         "https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "AltMediaTV.py",
+      "name": "Alt Media TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/py/AltMediaTV.py.png",
+      "streamUrls": [
+        "https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "MTVGuyana.gy",
+      "name": "MTV Guyana",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gy/MTVGuyana.gy.png",
+      "streamUrls": [
+        "https://stream.mtvgy.com/mtvguyana/index.fmp4.m3u8"
+      ],
+      "category": "Music",
+      "languages": []
+    },
+    {
+      "id": "Telecosta.ec",
+      "name": "Telecosta",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ec/Telecosta.ec.png",
+      "streamUrls": [
+        "https://telecosta.botlife.app/memfs/6ba9dc9a-aff4-4e4e-9466-a9f0c714b60b.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
