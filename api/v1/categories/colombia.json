@@ -48,8 +48,8 @@
       "name": "CNC Santander de Quilichao",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/CNCSantanderdeQuilichao.co.png",
       "streamUrls": [
-        "https://video.ejeserver.com/live/cncsantander.m3u8",
-        "https://movil.ejeserver.com/live/cncsantander.m3u8"
+        "https://movil.ejeserver.com/live/cncsantander.m3u8",
+        "https://video.ejeserver.com/live/cncsantander.m3u8"
       ],
       "category": "Colombia",
       "languages": []
@@ -323,9 +323,9 @@
       "name": "Canal RCN",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/CanalRCN.co.png",
       "streamUrls": [
+        "http://138.121.15.230:9002/RCN/index.m3u8",
         "http://181.78.17.228:8081/RCN-HD/index.m3u8",
-        "http://177.234.249.178:8888/RCN/index.m3u8",
-        "http://138.121.15.230:9002/RCN/index.m3u8"
+        "http://177.234.249.178:8888/RCN/index.m3u8"
       ],
       "category": "Colombia",
       "languages": []
@@ -335,8 +335,8 @@
       "name": "Caracol TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/CaracolTV.co.png",
       "streamUrls": [
-        "http://181.78.17.228:8081/CARACOL-HD/index.m3u8",
         "http://138.121.15.230:9002/CARACOL/index.m3u8",
+        "http://181.78.17.228:8081/CARACOL-HD/index.m3u8",
         "http://177.234.249.178:8888/CARACOL/index.m3u8"
       ],
       "category": "Colombia",
@@ -379,8 +379,8 @@
       "name": "Nuestra Tele Internacional",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/NuestraTeleInternacional.co.png",
       "streamUrls": [
-        "http://181.78.8.199:8000/play/a0a8/index.m3u8",
-        "http://170.238.200.199/nuestra-tele/index.m3u8"
+        "http://170.238.200.199/nuestra-tele/index.m3u8",
+        "http://181.78.8.199:8000/play/a0a8/index.m3u8"
       ],
       "category": "Colombia",
       "languages": []
@@ -400,9 +400,9 @@
       "name": "RCN Novelas",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/RCNNovelas.co.png",
       "streamUrls": [
-        "http://181.78.8.199:8000/play/a0a7/index.m3u8",
+        "https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8",
         "http://170.238.200.199/rcn-novelas/index.m3u8",
-        "https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8"
+        "http://181.78.8.199:8000/play/a0a7/index.m3u8"
       ],
       "category": "Colombia",
       "languages": []
@@ -454,8 +454,8 @@
       "name": "Rumba TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/RumbaTV.co.png",
       "streamUrls": [
-        "http://45.162.193.35/RUMBATV/index.m3u8",
-        "http://186.148.196.100:8000/play/a02h"
+        "http://186.148.196.100:8000/play/a02h",
+        "http://45.162.193.35/RUMBATV/index.m3u8"
       ],
       "category": "Colombia",
       "languages": []
@@ -591,8 +591,40 @@
       ],
       "category": "Colombia",
       "languages": []
+    },
+    {
+      "id": "CanalNets.co",
+      "name": "Canal Nets",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/CanalNets.co.png",
+      "streamUrls": [
+        "https://movil.ejeserver.com/live/nets.m3u8"
+      ],
+      "country": "CO",
+      "category": "Colombia",
+      "languages": []
+    },
+    {
+      "id": "MasMusicaFM.co",
+      "name": "MasMusica FM",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/MasMusicaFM.co.png",
+      "streamUrls": [
+        "https://video.ejeserver.com/live/masmusica.m3u8"
+      ],
+      "country": "CO",
+      "category": "Colombia",
+      "languages": []
+    },
+    {
+      "id": "TeleMocoaCanal10.co",
+      "name": "Tele Mocoa Canal 10",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/TeleMocoaCanal10.co.png",
+      "streamUrls": [
+        "https://live.amelbatv.co:81/telemocoalive/index.m3u8"
+      ],
+      "category": "Colombia",
+      "languages": []
     }
   ],
-  "count": 57,
-  "generated_at": "2026-09-03T15:50:09.316621"
+  "count": 60,
+  "generated_at": "2026-09-03T19:10:43.171960"
 }
