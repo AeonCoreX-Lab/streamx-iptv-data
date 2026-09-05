@@ -25,6 +25,7 @@
       "name": "Azteca Internacional",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/AztecaInternacional.mx.png",
       "streamUrls": [
+        "https://jmp2.uk/plu-646cce4d1593940008a33f09.m3u8",
         "https://azt-mun.otteravision.com/azt/mun/mun.m3u8"
       ],
       "category": "Mexico",
@@ -348,8 +349,8 @@
       "name": "Teleplay Sureste",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/TeleplaySureste.mx.png",
       "streamUrls": [
-        "https://player.tvstream.mx/livestream/teleplay/livehd/playlist.m3u8",
-        "https://player.tvstream.mx/livestream/teleplay/livesd/playlist.m3u8"
+        "https://player.tvstream.mx/livestream/teleplay/livesd/playlist.m3u8",
+        "https://player.tvstream.mx/livestream/teleplay/livehd/playlist.m3u8"
       ],
       "category": "Mexico",
       "languages": []
@@ -390,16 +391,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/XHGVTDT.mx.png",
       "streamUrls": [
         "https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8"
-      ],
-      "category": "Mexico",
-      "languages": []
-    },
-    {
-      "id": "XHPBZCTDT1.mx",
-      "name": "XHPBZC-TDT1",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/XHPBZCTDT1.mx.png",
-      "streamUrls": [
-        "https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/playlist.m3u8"
       ],
       "category": "Mexico",
       "languages": []
@@ -459,8 +450,7 @@
       "name": "Imagen TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/ImagenTV.mx.png",
       "streamUrls": [
-        "https://igd-it-runtime.otteravision.com/igd/it/it.m3u8",
-        "https://jmp2.uk/plu-64e35aff6b1fdb0008ea8441.m3u8"
+        "https://igd-it-runtime.otteravision.com/igd/it/it.m3u8"
       ],
       "category": "Mexico",
       "languages": []
@@ -490,7 +480,7 @@
       "name": "Univision Latin America",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/UnivisionLatinAmerica.mx.png",
       "streamUrls": [
-        "http://15.204.246.24:8080/UnivisionHD/index.m3u8",
+        "http://138.121.15.230:9002/UNIVISION/index.m3u8",
         "http://177.234.249.178:8888/UNIVISION/index.m3u8",
         "http://190.93.224.42/UNIVISION/index.m3u8"
       ],
@@ -522,7 +512,6 @@
       "name": "Las Estrellas Latin America",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/LasEstrellasLatinAmerica.mx.png",
       "streamUrls": [
-        "http://15.204.246.24:8080/LasEstrellasHD/index.m3u8",
         "http://190.93.224.42/CANAL-LAS-ESTRELLAS/index.m3u8"
       ],
       "category": "Mexico",
@@ -732,16 +721,6 @@
       "languages": []
     },
     {
-      "id": "XHPBZCTDT2.mx",
-      "name": "XHPBZC-TDT2",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/XHPBZCTDT2.mx.png",
-      "streamUrls": [
-        "https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8"
-      ],
-      "category": "Mexico",
-      "languages": []
-    },
-    {
       "id": "TransmediaTelevisionMorelia.mx",
       "name": "Transmedia Television Morelia",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/TransmediaTelevisionMorelia.mx.png",
@@ -768,8 +747,8 @@
       "name": "SICOM Television",
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
-        "https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8",
-        "https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/playlist.m3u8"
+        "https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/playlist.m3u8",
+        "https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8"
       ],
       "category": "Mexico",
       "languages": []
@@ -777,7 +756,7 @@
     {
       "id": "Telemax.mx",
       "name": "Telemax",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Telemax_2022.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=telemax.com.mx",
       "streamUrls": [
         "https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8"
       ],
