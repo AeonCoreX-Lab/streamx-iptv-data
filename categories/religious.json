@@ -1222,8 +1222,8 @@
       "name": "Enlace",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cr/Enlace.cr.png",
       "streamUrls": [
-        "http://177.234.249.178:8888/ENLACE/index.m3u8",
         "http://177.234.247.66:9975/Enlace/index.m3u8",
+        "http://177.234.249.178:8888/ENLACE/index.m3u8",
         "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8"
       ],
       "category": "Religious",
@@ -3827,8 +3827,8 @@
       "name": "KSTV Uganda",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ug/KSTVUganda.ug.png",
       "streamUrls": [
-        "https://live.esteem.africa/kstv/hls/0/stream.m3u8",
-        "https://unseenlive.s3.eu-west-1.amazonaws.com/kstv/hls/0/stream.m3u8"
+        "https://unseenlive.s3.eu-west-1.amazonaws.com/kstv/hls/0/stream.m3u8",
+        "https://live.esteem.africa/kstv/hls/0/stream.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -5111,18 +5111,6 @@
       "languages": []
     },
     {
-      "id": "4E.gr",
-      "name": "4E",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gr/4E.gr.png",
-      "streamUrls": [
-        "http://eu2.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8",
-        "http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8"
-      ],
-      "country": "GR",
-      "category": "Religious",
-      "languages": []
-    },
-    {
       "id": "GodStandsKidsClubTV.pk",
       "name": "God Stands Kids Club TV",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=godstands.tv",
@@ -5140,6 +5128,26 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/PTCSimran.in.png",
       "streamUrls": [
         "https://streams.tangotv.in/PTCSIMRAN/ORIGIN/index.m3u8"
+      ],
+      "category": "Religious",
+      "languages": []
+    },
+    {
+      "id": "GEBNetwork.us",
+      "name": "GEB Network",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8"
+      ],
+      "category": "Religious",
+      "languages": []
+    },
+    {
+      "id": "GodsLearningChannel.us",
+      "name": "God's Learning Channel",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=glc.us.com",
+      "streamUrls": [
+        "https://2-fss-1.streamhoster.com/pl_122/200562-1176456-1/playlist.m3u8"
       ],
       "category": "Religious",
       "languages": []
