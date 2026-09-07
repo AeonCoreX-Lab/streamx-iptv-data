@@ -1486,6 +1486,7 @@
       "name": "C1",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/C1.mn.png",
       "streamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/C1/HLSv3-FTA/C1.m3u8",
         "https://cdn4.skygo.mn/live/disk1/C1/DASH-FTA/C1.mpd"
       ],
       "category": "Entertainment",
@@ -2148,7 +2149,7 @@
       "name": "Central TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/CentralTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/Ekh_Oron/HLSv3-FTA/Ekh_Oron.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/Ekh_Oron/DASH-FTA/Ekh_Oron.mpd",
         "https://cdn1.skygo.mn/live/disk1/Ekh_Oron/HLS-FTA/Ekh_Oron.m3u8"
       ],
       "category": "Other",
@@ -7375,16 +7376,6 @@
       "languages": []
     },
     {
-      "id": "PayameAfghanTV.us",
-      "name": "Payam-e-Afghan TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/PayameAfghanTV.us.png",
-      "streamUrls": [
-        "https://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8"
-      ],
-      "category": "Religious",
-      "languages": []
-    },
-    {
       "id": "PellaTV.gr",
       "name": "Pella TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gr/PellaTV.gr.png",
@@ -8249,7 +8240,8 @@
       "name": "SBN",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/SBN.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/SBN/HLSv3-FTA/SBN.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/SBN/HLSv3-FTA/SBN.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/SBN/DASH-FTA/SBN.mpd"
       ],
       "category": "Other",
       "languages": []
@@ -9255,7 +9247,7 @@
       "name": "TV8",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/TV8.mn.png",
       "streamUrls": [
-        "https://cdn1.skygo.mn/live/disk1/TV8HD/HLS-FTA/TV8HD.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/TV8HD/HLSv3-FTA/TV8HD.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -10169,8 +10161,8 @@
       "name": "Turkmenistan",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tm/Turkmenistan.tm.png",
       "streamUrls": [
-        "https://alpha.tv.online.tm/legacyhls/ch007.m3u8",
-        "https://alpha.tv.online.tm/hls/ch007.m3u8"
+        "https://alpha.tv.online.tm/hls/ch007.m3u8",
+        "https://alpha.tv.online.tm/legacyhls/ch007.m3u8"
       ],
       "category": "Other",
       "languages": []
@@ -11083,7 +11075,7 @@
       "name": "ONTV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/ONTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/ONTV/HLSv3-FTA/ONTV.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd"
       ],
       "country": "MN",
       "category": "Entertainment",
@@ -11462,6 +11454,7 @@
       "name": "Telelima",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pe/Telelima.pe.png",
       "streamUrls": [
+        "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/telelima.stream/playlist.m3u8",
         "https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/playlist.m3u8"
       ],
       "category": "Entertainment",
@@ -11958,7 +11951,6 @@
       "name": "Antena 1",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pe/Antena1.pe.png",
       "streamUrls": [
-        "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/antenauno.stream/playlist.m3u8",
         "https://live-evg8.tv360.bitel.com.pe/bitel/aunoSRT/playlist.m3u8"
       ],
       "category": "Entertainment",
@@ -12081,7 +12073,8 @@
       "name": "NTV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/NTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/NTVHD/HLSv3-FTA/NTVHD.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/NTVHD/HLSv3-FTA/NTVHD.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/NTVHD/DASH-FTA/NTVHD.mpd"
       ],
       "country": "MN",
       "category": "Entertainment",
@@ -12489,8 +12482,8 @@
       "name": "Canal 10",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/sv/Canal10.sv.png",
       "streamUrls": [
-        "https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8",
-        "http://45.167.2.101:8000/play/a0r8/index.m3u8"
+        "http://45.167.2.101:8000/play/a0r8/index.m3u8",
+        "https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8"
       ],
       "country": "SV",
       "category": "Entertainment",
@@ -12686,7 +12679,8 @@
       "name": "Camp Kulinaris",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-61c1dce2fb9ae40007d0ac15.m3u8"
+        "https://jmp2.uk/plu-61c1dce2fb9ae40007d0ac15.m3u8",
+        "https://jmp2.uk/plu-6400bf66dff38e00083f4ee8.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -12764,11 +12758,11 @@
     {
       "id": "GeordieShore.se",
       "name": "Geordie Shore",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Geordie_shore.png/330px-Geordie_shore.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Geordie_shore.png/330px-Geordie_shore.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
+        "https://jmp2.uk/plu-6442512cee6a2f0008d3351f.m3u8",
         "https://jmp2.uk/plu-64424a1d5a0cd500083ed27c.m3u8",
-        "https://jmp2.uk/plu-64424be3e94c380008d0a66d.m3u8",
-        "https://jmp2.uk/plu-6442512cee6a2f0008d3351f.m3u8"
+        "https://jmp2.uk/plu-64424be3e94c380008d0a66d.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -13053,10 +13047,10 @@
     {
       "id": "MTVTheHills.se",
       "name": "MTV The Hills",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/330px-MTV_2021_%28brand_version%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/330px-MTV_2021_%28brand_version%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
-        "https://jmp2.uk/plu-61c09039ebd75200072587f9.m3u8",
         "https://jmp2.uk/plu-61c1d56f28e94c0007827bdb.m3u8",
+        "https://jmp2.uk/plu-61c09039ebd75200072587f9.m3u8",
         "https://jmp2.uk/plu-61c08d7c73bdb800070eef0a.m3u8"
       ],
       "category": "Entertainment",
@@ -14451,7 +14445,7 @@
     {
       "id": "OromarTVPlus.ec",
       "name": "Oromar TV+",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Oromar_logo.png/330px-Oromar_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=oromartv.com",
       "streamUrls": [
         "https://stream.oromar.tv/hls/camriva/index.m3u8"
       ],
@@ -16160,7 +16154,7 @@
     {
       "id": "TVN.do",
       "name": "TVN",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/TVN_logo_2024.svg/330px-TVN_logo_2024.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/TVN_logo_2024.svg/330px-TVN_logo_2024.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "https://5790d294af2dc.streamlock.net/tvn/tvn/playlist.m3u8"
       ],
@@ -16730,16 +16724,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/TelePam.us.png",
       "streamUrls": [
         "https://watch.haitilive.net/app/2020/telepam/index.fmp4.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
-      "id": "Teleislas.co",
-      "name": "Teleislas",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/Teleislas.co.png",
-      "streamUrls": [
-        "https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -19236,8 +19220,29 @@
       ],
       "category": "Entertainment",
       "languages": []
+    },
+    {
+      "id": "CNCBugavision.co",
+      "name": "CNC Bugavision",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/CNCBugavision.co.png",
+      "streamUrls": [
+        "https://movil.ejeserver.com/live/cncbuga.m3u8",
+        "https://video.ejeserver.com/live/cncbuga.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "JOJGDTV.jp",
+      "name": "JOJG-DTV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/jp/JOJGDTV.jp.png",
+      "streamUrls": [
+        "https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/hevc/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
     }
   ],
   "count": 1875,
-  "generated_at": "2026-09-07T08:56:49.915275"
+  "generated_at": "2026-09-07T17:18:16.228238"
 }
