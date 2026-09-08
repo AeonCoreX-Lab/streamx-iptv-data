@@ -1564,6 +1564,7 @@
       "name": "Eagle News",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/EagleNews.mn.png",
       "streamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/Eagle/HLSv3-FTA/Eagle.m3u8",
         "https://cdn4.skygo.mn/live/disk1/Eagle/DASH-FTA/Eagle.mpd"
       ],
       "category": "News",
@@ -2523,7 +2524,8 @@
       "name": "Mongolian News Channel",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/MongolianNewsChannel.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/MNCTV/DASH-FTA/MNCTV.mpd"
+        "https://cdn4.skygo.mn/live/disk1/MNCTV/DASH-FTA/MNCTV.mpd",
+        "https://cdn4.skygo.mn/live/disk1/MNCTV/HLSv3-FTA/MNCTV.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -3142,8 +3144,8 @@
       "name": "Palitra News",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ge/PalitraNews.ge.png",
       "streamUrls": [
-        "https://livestream.palitra.ge/hls/palitratv/index.m3u8",
-        "https://live.palitranews.ge/hls/palitratv/index.m3u8"
+        "https://live.palitranews.ge/hls/palitratv/index.m3u8",
+        "https://livestream.palitra.ge/hls/palitratv/index.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -6030,6 +6032,76 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/CitricoTV.do.png",
       "streamUrls": [
         "https://edge.essastream.com/citricotv/playlist.m3u8"
+      ],
+      "category": "News",
+      "languages": []
+    },
+    {
+      "id": "24NewsHD.pk",
+      "name": "24 News HD",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pk/24NewsHD.pk.png",
+      "streamUrls": [
+        "https://cdn4.mjunoon.tv:8087/streamtest/146M/chunks.m3u8"
+      ],
+      "category": "News",
+      "languages": []
+    },
+    {
+      "id": "365News.pk",
+      "name": "365 News",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=365news.pk",
+      "streamUrls": [
+        "https://cdn4.mjunoon.tv:8087/streamtest/140M/chunks.m3u8"
+      ],
+      "category": "News",
+      "languages": []
+    },
+    {
+      "id": "7News.pk",
+      "name": "7 News",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://sscsott.com/7news/live/index.m3u8"
+      ],
+      "category": "News",
+      "languages": []
+    },
+    {
+      "id": "B1.ro",
+      "name": "B1",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ro/B1.ro.png",
+      "streamUrls": [
+        "https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8"
+      ],
+      "category": "News",
+      "languages": []
+    },
+    {
+      "id": "CapitalTV.pk",
+      "name": "Capital TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pk/CapitalTV.pk.png",
+      "streamUrls": [
+        "https://cdn4.mjunoon.tv:8087/streamtest/111M/chunks.m3u8"
+      ],
+      "category": "News",
+      "languages": []
+    },
+    {
+      "id": "ChuxiongNewsChannel.cn",
+      "name": "Chuxiong News Channel",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cn/ChuxiongNewsChannel.cn.png",
+      "streamUrls": [
+        "http://hwapi.yntv.net/ew265l/848y54.m3u8"
+      ],
+      "category": "News",
+      "languages": []
+    },
+    {
+      "id": "Ekoturk.tr",
+      "name": "Ekoturk",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/Ekoturk.tr.png",
+      "streamUrls": [
+        "https://cdn.ekoturk.net/hls/master.m3u8"
       ],
       "category": "News",
       "languages": []

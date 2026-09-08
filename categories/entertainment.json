@@ -1062,8 +1062,8 @@
       "name": "Asgabat",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tm/Asgabat.tm.png",
       "streamUrls": [
-        "https://alpha.tv.online.tm/hls/ch006.m3u8",
-        "https://alpha.tv.online.tm/legacyhls/ch006.m3u8"
+        "https://alpha.tv.online.tm/legacyhls/ch006.m3u8",
+        "https://alpha.tv.online.tm/hls/ch006.m3u8"
       ],
       "category": "Other",
       "languages": []
@@ -2135,7 +2135,6 @@
       "name": "Central TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/CentralTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/Ekh_Oron/DASH-FTA/Ekh_Oron.mpd",
         "https://cdn1.skygo.mn/live/disk1/Ekh_Oron/HLS-FTA/Ekh_Oron.m3u8"
       ],
       "category": "Other",
@@ -8216,7 +8215,6 @@
       "name": "SBN",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/SBN.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/SBN/HLSv3-FTA/SBN.m3u8",
         "https://cdn4.skygo.mn/live/disk1/SBN/DASH-FTA/SBN.mpd"
       ],
       "category": "Other",
@@ -9222,7 +9220,9 @@
       "name": "TV8",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/TV8.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/TV8HD/HLSv3-FTA/TV8HD.m3u8"
+        "https://cdn1.skygo.mn/live/disk1/TV8HD/HLS-FTA/TV8HD.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/TV8HD/HLSv3-FTA/TV8HD.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/TV8HD/DASH-FTA/TV8HD.mpd"
       ],
       "category": "News",
       "languages": []
@@ -10136,8 +10136,8 @@
       "name": "Turkmenistan",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tm/Turkmenistan.tm.png",
       "streamUrls": [
-        "https://alpha.tv.online.tm/hls/ch007.m3u8",
-        "https://alpha.tv.online.tm/legacyhls/ch007.m3u8"
+        "https://alpha.tv.online.tm/legacyhls/ch007.m3u8",
+        "https://alpha.tv.online.tm/hls/ch007.m3u8"
       ],
       "category": "Other",
       "languages": []
@@ -11419,7 +11419,6 @@
       "name": "Telelima",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pe/Telelima.pe.png",
       "streamUrls": [
-        "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/telelima.stream/playlist.m3u8",
         "https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/playlist.m3u8"
       ],
       "category": "Entertainment",
@@ -11916,6 +11915,7 @@
       "name": "Antena 1",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pe/Antena1.pe.png",
       "streamUrls": [
+        "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/antenauno.stream/playlist.m3u8",
         "https://live-evg8.tv360.bitel.com.pe/bitel/aunoSRT/playlist.m3u8"
       ],
       "category": "Entertainment",
@@ -12038,8 +12038,8 @@
       "name": "NTV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/NTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/NTVHD/HLSv3-FTA/NTVHD.m3u8",
-        "https://cdn4.skygo.mn/live/disk1/NTVHD/DASH-FTA/NTVHD.mpd"
+        "https://cdn4.skygo.mn/live/disk1/NTVHD/DASH-FTA/NTVHD.mpd",
+        "https://cdn4.skygo.mn/live/disk1/NTVHD/HLSv3-FTA/NTVHD.m3u8"
       ],
       "country": "MN",
       "category": "Entertainment",
@@ -12447,8 +12447,8 @@
       "name": "Canal 10",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/sv/Canal10.sv.png",
       "streamUrls": [
-        "http://45.167.2.101:8000/play/a0r8/index.m3u8",
-        "https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8"
+        "https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8",
+        "http://45.167.2.101:8000/play/a0r8/index.m3u8"
       ],
       "country": "SV",
       "category": "Entertainment",
@@ -12644,8 +12644,7 @@
       "name": "Camp Kulinaris",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-61c1dce2fb9ae40007d0ac15.m3u8",
-        "https://jmp2.uk/plu-6400bf66dff38e00083f4ee8.m3u8"
+        "https://jmp2.uk/plu-61c1dce2fb9ae40007d0ac15.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -12725,9 +12724,8 @@
       "name": "Geordie Shore",
       "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Geordie_shore.png/330px-Geordie_shore.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
-        "https://jmp2.uk/plu-6442512cee6a2f0008d3351f.m3u8",
-        "https://jmp2.uk/plu-64424a1d5a0cd500083ed27c.m3u8",
-        "https://jmp2.uk/plu-64424be3e94c380008d0a66d.m3u8"
+        "https://jmp2.uk/plu-64424be3e94c380008d0a66d.m3u8",
+        "https://jmp2.uk/plu-64424a1d5a0cd500083ed27c.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -13013,9 +13011,8 @@
       "name": "MTV The Hills",
       "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/330px-MTV_2021_%28brand_version%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
-        "https://jmp2.uk/plu-61c1d56f28e94c0007827bdb.m3u8",
         "https://jmp2.uk/plu-61c09039ebd75200072587f9.m3u8",
-        "https://jmp2.uk/plu-61c08d7c73bdb800070eef0a.m3u8"
+        "https://jmp2.uk/plu-61c1d56f28e94c0007827bdb.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -16094,7 +16091,7 @@
     {
       "id": "TVN.do",
       "name": "TVN",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/TVN_logo_2024.svg/330px-TVN_logo_2024.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=vivalivetv.com",
       "streamUrls": [
         "https://5790d294af2dc.streamlock.net/tvn/tvn/playlist.m3u8"
       ],
@@ -17036,16 +17033,6 @@
       "languages": []
     },
     {
-      "id": "StarTV.md",
-      "name": "Star TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/md/StarTV.md.png",
-      "streamUrls": [
-        "http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2465/index.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "AsContenidos.bo",
       "name": "As Contenidos",
       "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/UNIFE.jpg/330px-UNIFE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -17695,17 +17682,6 @@
       "languages": []
     },
     {
-      "id": "Antena1.ro",
-      "name": "Antena 1",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ro/Antena1.ro.png",
-      "streamUrls": [
-        "http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/7002/index.m3u8"
-      ],
-      "country": "RO",
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "CoyhaiqueTV.cl",
       "name": "Coyhaique TV",
       "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Canal_13_2025.svg/330px-Canal_13_2025.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -18041,7 +18017,8 @@
       "name": "Star TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/StarTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/Star/HLSv3-FTA/Star.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/Star/HLSv3-FTA/Star.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd"
       ],
       "country": "MN",
       "category": "Entertainment",
@@ -18558,7 +18535,7 @@
     {
       "id": "Canal7.gt",
       "name": "Canal 7",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=chapintv.com",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Canal7Guatemala%282022Logo%29.webp/330px-Canal7Guatemala%282022Logo%29.webp?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "http://181.119.177.253:8000/play/a03n/index.m3u8"
       ],
@@ -19150,6 +19127,66 @@
         "https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/playlist.m3u8?DVR"
       ],
       "country": "TN",
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "AsianDrama.hk",
+      "name": "Asian Drama",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/hk/AsianDrama.hk.png",
+      "streamUrls": [
+        "http://103.172.187.30:12000/stream/mytv/null-11/master.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "Jade.hk",
+      "name": "Jade",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/hk/Jade.hk.png",
+      "streamUrls": [
+        "http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "MeiAlaiTV.in",
+      "name": "Mei Alai TV",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=meialai.in",
+      "streamUrls": [
+        "https://meialai.iptelevishion.com/meialai/2/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "National24Plus.ro",
+      "name": "National 24 Plus",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ro/National24Plus.ro.png",
+      "streamUrls": [
+        "https://hls01ns.antenaplay.ro/hls/n24-plus-sd/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "NationalTV.ro",
+      "name": "National TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ro/NationalTV.ro.png",
+      "streamUrls": [
+        "https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "SFree.us",
+      "name": "S Free!",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/RPTV_%282024%29.svg/330px-RPTV_%282024%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "streamUrls": [
+        "https://vodcdn.bamboo-cloud.com/livehls/6a81c67306304414d27742d3/master.m3u8"
+      ],
       "category": "Entertainment",
       "languages": []
     }
