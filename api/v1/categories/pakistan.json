@@ -26,8 +26,8 @@
       "name": "Dunya News",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pk/DunyaNews.pk.png",
       "streamUrls": [
-        "https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8",
-        "https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8"
+        "https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8",
+        "https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8"
       ],
       "category": "Pakistan",
       "languages": []
@@ -168,7 +168,7 @@
     {
       "id": "MNews.pk",
       "name": "M News",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/330px-BBC_News_2022_%28Alt%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=mnews.pk",
       "streamUrls": [
         "https://cdn.rabta.stream/M-News/index.m3u8"
       ],
@@ -180,9 +180,9 @@
       "name": "M Sports",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=msports.pk",
       "streamUrls": [
-        "https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.m3u8",
+        "https://cdn.rabta.stream/M-Sports/index.m3u8",
         "https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.ts.m3u8",
-        "https://cdn.rabta.stream/M-Sports/index.m3u8"
+        "https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.m3u8"
       ],
       "category": "Pakistan",
       "languages": []
@@ -225,9 +225,9 @@
       "name": "God Stands Kids Club TV",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=godstands.tv",
       "streamUrls": [
-        "https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8",
-        "https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8",
-        "https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8"
+        "https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8",
+        "https://online.godstands.tv:5443/WebRTCApp/streams/KidsUrdu.m3u8",
+        "https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8"
       ],
       "country": "PK",
       "category": "Pakistan",
@@ -272,8 +272,19 @@
       ],
       "category": "Pakistan",
       "languages": []
+    },
+    {
+      "id": "KTNNews.pk",
+      "name": "KTN News",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pk/KTNNews.pk.png",
+      "streamUrls": [
+        "https://cdn4.mjunoon.tv:8087/streamtest/151M/chunks.m3u8"
+      ],
+      "country": "PK",
+      "category": "Pakistan",
+      "languages": []
     }
   ],
-  "count": 26,
-  "generated_at": "2026-09-08T08:37:36.182577"
+  "count": 27,
+  "generated_at": "2026-09-08T16:04:32.690973"
 }
