@@ -869,16 +869,6 @@
       "languages": []
     },
     {
-      "id": "AnGiangTV2.vn",
-      "name": "An Giang TV 2",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/vn/AnGiangTV2.vn.png",
-      "streamUrls": [
-        "https://tv.angiangtv.vn/live/kgtv2/kgtv2.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "AnandTV.uk",
       "name": "Anand TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/AnandTV.uk.png",
@@ -3268,16 +3258,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/EdessaTV.tr.png",
       "streamUrls": [
         "https://canli.edessatv.com/hls/stream.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
-      "id": "EdutainmentTV.mn",
-      "name": "Edutainment TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/EdutainmentTV.mn.png",
-      "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/Education/HLSv3-FTA/Education.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -11202,16 +11182,6 @@
       "languages": []
     },
     {
-      "id": "SpeedlineTV.bj",
-      "name": "Speedline TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bj/SpeedlineTV.bj.png",
-      "streamUrls": [
-        "https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/dbe59037-07a0-4f1c-82a2-7de94b4b62d2/index.m3u8"
-      ],
-      "category": "Other",
-      "languages": []
-    },
-    {
       "id": "Value24TV.it",
       "name": "Value 24 TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/it/Value24TV.it.png",
@@ -13764,16 +13734,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ro/TVBuzau.ro.png",
       "streamUrls": [
         "http://78.96.33.89:8080"
-      ],
-      "category": "Other",
-      "languages": []
-    },
-    {
-      "id": "TV3LaPlata.co",
-      "name": "TV3 La Plata",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/TV3LaPlata.co.png",
-      "streamUrls": [
-        "https://live.amelbatv.co:81/teleopita/index.fmp4.m3u8"
       ],
       "category": "Other",
       "languages": []
@@ -17337,7 +17297,8 @@
       "name": "TenGer TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/TenGerTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/VTV/HLSv3-FTA/VTV.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/VTV/HLSv3-FTA/VTV.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/VTV/DASH-FTA/VTV.mpd"
       ],
       "country": "MN",
       "category": "Entertainment",
@@ -17976,16 +17937,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/it/TelecityLombardia.it.png",
       "streamUrls": [
         "https://64b16f23efbee.streamlock.net/telecitylombardia/telecitylombardia/playlist.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
-      "id": "PrimaTV.it",
-      "name": "Prima TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/it/PrimaTV.it.png",
-      "streamUrls": [
-        "https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -18794,16 +18745,6 @@
       "languages": []
     },
     {
-      "id": "LaNuovaTV.it",
-      "name": "La Nuova TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/it/LaNuovaTV.it.png",
-      "streamUrls": [
-        "https://5dcabf026b188.streamlock.net/lanuovatvbas/livestream/playlist.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "AltantoTV.do",
       "name": "Altanto TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/AltantoTV.do.png",
@@ -19237,8 +19178,38 @@
       ],
       "category": "Entertainment",
       "languages": []
+    },
+    {
+      "id": "2TV.ge",
+      "name": "2 TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ge/2TV.ge.png",
+      "streamUrls": [
+        "https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "AmericaEstereoTulcan.ec",
+      "name": "America Estereo Tulcan",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ec/AmericaEstereoTulcan.ec.png",
+      "streamUrls": [
+        "https://video.makrodigital.com/americaestereotulcan/americaestereotulcan/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "MRTVEntertainment.mm",
+      "name": "MRTV Entertainment",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mm/MRTVEntertainment.mm.png",
+      "streamUrls": [
+        "https://mrtvott.com/cache/MRTV-Ent-HD/master.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
     }
   ],
-  "count": 1875,
-  "generated_at": "2026-09-09T19:11:18.893827"
+  "count": 1872,
+  "generated_at": "2026-09-09T22:17:04.316899"
 }
