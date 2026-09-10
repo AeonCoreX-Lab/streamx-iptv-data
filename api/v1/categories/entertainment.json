@@ -1454,6 +1454,7 @@
       "name": "C1",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/C1.mn.png",
       "streamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/C1/HLSv3-FTA/C1.m3u8",
         "https://cdn4.skygo.mn/live/disk1/C1/DASH-FTA/C1.mpd"
       ],
       "category": "Entertainment",
@@ -3665,16 +3666,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/lb/FutureTV.lb.png",
       "streamUrls": [
         "https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8"
-      ],
-      "category": "Other",
-      "languages": []
-    },
-    {
-      "id": "GAMTVcr.cr",
-      "name": "GAMTV.cr",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cr/GAMTVcr.cr.png",
-      "streamUrls": [
-        "https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8"
       ],
       "category": "Other",
       "languages": []
@@ -13581,18 +13572,6 @@
       "languages": []
     },
     {
-      "id": "AjyalTV.ps",
-      "name": "Ajyal TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ps/AjyalTV.ps.png",
-      "streamUrls": [
-        "http://htvmada.mada.ps:8888/ajyal/index.m3u8",
-        "http://htvajyal.mada.ps:8888/ajyal/index.m3u8"
-      ],
-      "country": "PS",
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "IslaTV.ve",
       "name": "Isla TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ve/IslaTV.ve.png",
@@ -15155,17 +15134,6 @@
       "streamUrls": [
         "https://5790d294af2dc.streamlock.net/manaclar/manaclar/playlist.m3u8"
       ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
-      "id": "ECOTelevision.pe",
-      "name": "ECO Television",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pe/ECOTelevision.pe.png",
-      "streamUrls": [
-        "https://stream.ecoperu.tv/ECOTV/tracks-v1a1/mono.m3u8"
-      ],
-      "country": "PE",
       "category": "Entertainment",
       "languages": []
     },
@@ -18988,16 +18956,6 @@
       "languages": []
     },
     {
-      "id": "BatamTV.id",
-      "name": "Batam TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/BatamTV.id.png",
-      "streamUrls": [
-        "http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "DaNangTV1.vn",
       "name": "Da Nang TV 1",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/vn/DaNangTV1.vn.png",
@@ -19158,8 +19116,30 @@
       ],
       "category": "Entertainment",
       "languages": []
+    },
+    {
+      "id": "NeaTV.gr",
+      "name": "Nea TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gr/NeaTV.gr.png",
+      "streamUrls": [
+        "https://live.neatv.gr:8888/hls/neatv.m3u8"
+      ],
+      "country": "GR",
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "NGFederal.ar",
+      "name": "NG Federal",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/NGFederal.ar.png",
+      "streamUrls": [
+        "http://www.coninfo.net:1935/tvlink/live/playlist.m3u8",
+        "https://617c5175c970b.streamlock.net:4444/tvlink/live/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
     }
   ],
-  "count": 1866,
-  "generated_at": "2026-09-10T18:57:40.705755"
+  "count": 1864,
+  "generated_at": "2026-09-10T22:16:15.720825"
 }
