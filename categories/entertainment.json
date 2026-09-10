@@ -2114,7 +2114,6 @@
       "name": "Central TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/CentralTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/Ekh_Oron/DASH-FTA/Ekh_Oron.mpd",
         "https://cdn1.skygo.mn/live/disk1/Ekh_Oron/HLS-FTA/Ekh_Oron.m3u8"
       ],
       "category": "Other",
@@ -3588,16 +3587,6 @@
       "languages": []
     },
     {
-      "id": "FalaLitoral.br",
-      "name": "Fala Litoral",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/FalaLitoral.br.png",
-      "streamUrls": [
-        "https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "FarsTV.ir",
       "name": "Fars TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ir/FarsTV.ir.png",
@@ -4361,16 +4350,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/IntercomarcalTV.es.png",
       "streamUrls": [
         "https://streamingtvi.gestec-video.com/hls/tvixa.m3u8"
-      ],
-      "category": "Other",
-      "languages": []
-    },
-    {
-      "id": "IntuitivaTV.pe",
-      "name": "Intuitiva TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pe/IntuitivaTV.pe.png",
-      "streamUrls": [
-        "https://video2.lhdserver.es/cableperu/live.m3u8"
       ],
       "category": "Other",
       "languages": []
@@ -8153,7 +8132,8 @@
       "name": "SBN",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/SBN.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/SBN/DASH-FTA/SBN.mpd"
+        "https://cdn4.skygo.mn/live/disk1/SBN/DASH-FTA/SBN.mpd",
+        "https://cdn4.skygo.mn/live/disk1/SBN/HLSv3-FTA/SBN.m3u8"
       ],
       "category": "Other",
       "languages": []
@@ -9150,6 +9130,7 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/TV8.mn.png",
       "streamUrls": [
         "https://cdn1.skygo.mn/live/disk1/TV8HD/HLS-FTA/TV8HD.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/TV8HD/HLSv3-FTA/TV8HD.m3u8",
         "https://cdn4.skygo.mn/live/disk1/TV8HD/DASH-FTA/TV8HD.mpd"
       ],
       "category": "News",
@@ -11940,6 +11921,7 @@
       "name": "NTV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/NTV.mn.png",
       "streamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/NTVHD/DASH-FTA/NTVHD.mpd",
         "https://cdn4.skygo.mn/live/disk1/NTVHD/HLSv3-FTA/NTVHD.m3u8"
       ],
       "country": "MN",
@@ -12443,9 +12425,8 @@
       "name": "Are You The One?",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-61c091c39863900007ac9e8f.m3u8",
-        "https://jmp2.uk/plu-61c0ac242bb0cf0007015f89.m3u8",
-        "https://jmp2.uk/plu-61c1db8ed6d97900076ea15c.m3u8"
+        "https://jmp2.uk/plu-61c1db8ed6d97900076ea15c.m3u8",
+        "https://jmp2.uk/plu-61c0ac242bb0cf0007015f89.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -12539,7 +12520,6 @@
       "name": "Camp Kulinaris",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-6400bf66dff38e00083f4ee8.m3u8",
         "https://jmp2.uk/plu-61c1dce2fb9ae40007d0ac15.m3u8"
       ],
       "category": "Entertainment",
@@ -12618,11 +12598,11 @@
     {
       "id": "GeordieShore.se",
       "name": "Geordie Shore",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Geordie_shore.png/330px-Geordie_shore.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
-        "https://jmp2.uk/plu-64424a1d5a0cd500083ed27c.m3u8",
         "https://jmp2.uk/plu-6442512cee6a2f0008d3351f.m3u8",
-        "https://jmp2.uk/plu-64424be3e94c380008d0a66d.m3u8"
+        "https://jmp2.uk/plu-64424be3e94c380008d0a66d.m3u8",
+        "https://jmp2.uk/plu-64424a1d5a0cd500083ed27c.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -12905,9 +12885,11 @@
     {
       "id": "MTVTheHills.se",
       "name": "MTV The Hills",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/330px-MTV_2021_%28brand_version%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
-        "https://jmp2.uk/plu-61c08d7c73bdb800070eef0a.m3u8"
+        "https://jmp2.uk/plu-61c1d56f28e94c0007827bdb.m3u8",
+        "https://jmp2.uk/plu-61c08d7c73bdb800070eef0a.m3u8",
+        "https://jmp2.uk/plu-61c09039ebd75200072587f9.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -13078,18 +13060,6 @@
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
         "https://jmp2.uk/plu-66f55c3955567d0008ef9b68.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
-      "id": "FXX.us",
-      "name": "FXX",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/FXX.us.png",
-      "streamUrls": [
-        "http://40.160.24.52/FXX/index.m3u8",
-        "http://23.237.104.106:8080/USA_FXX/index.m3u8",
-        "https://gpuserver3.tier1streams.com/FXX/index.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -13959,16 +13929,6 @@
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=amiteltv.com",
       "streamUrls": [
         "https://stv2.boliviaplay.com.bo/hls/stream.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
-      "id": "CTV2Atlantic.ca",
-      "name": "CTV 2 Atlantic",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ca/CTV2Atlantic.ca.png",
-      "streamUrls": [
-        "http://stream.cammonitorplus.net/1731/index.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -14907,16 +14867,6 @@
       "languages": []
     },
     {
-      "id": "TelefeInterior.ar",
-      "name": "Telefe Interior",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Televisi%C3%B3n_Federal_Logo.svg/330px-Televisi%C3%B3n_Federal_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "streamUrls": [
-        "http://200.91.32.158:8080/telefehdvalle/index.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "TvOro.ec",
       "name": "TvOro",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ec/TvOro.ec.png",
@@ -15020,7 +14970,7 @@
     {
       "id": "Public4KTV.np",
       "name": "Public 4K TV",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Amazon_Fire_TV_2024.svg/330px-Amazon_Fire_TV_2024.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=publictv.com.np",
       "streamUrls": [
         "http://103.180.240.141:8080/hls/main1/playlist.m3u8"
       ],
@@ -15943,7 +15893,7 @@
     {
       "id": "TVN.do",
       "name": "TVN",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/TVN_logo_2024.svg/330px-TVN_logo_2024.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=vivalivetv.com",
       "streamUrls": [
         "https://5790d294af2dc.streamlock.net/tvn/tvn/playlist.m3u8"
       ],
@@ -17828,7 +17778,7 @@
     {
       "id": "CiudadanoRadio.cl",
       "name": "Ciudadano Radio",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Canal_13_2025.svg/330px-Canal_13_2025.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "https://oracle.streaminghd.cl/ciudadanoradiotv/ciudadanoradiotv/playlist.m3u8"
       ],
@@ -17893,16 +17843,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/it/TelecityLombardia.it.png",
       "streamUrls": [
         "https://64b16f23efbee.streamlock.net/telecitylombardia/telecitylombardia/playlist.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
-      "id": "TelePoderTV.do",
-      "name": "Tele Poder TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/TelePoderTV.do.png",
-      "streamUrls": [
-        "https://cdn.telepoder.online:3229/dash/stream.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -18223,7 +18163,7 @@
     {
       "id": "Canal13.gt",
       "name": "Canal 13",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Canal_13_2025.svg/330px-Canal_13_2025.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "http://190.61.101.11:7050/play/a07f/index.m3u8"
       ],
@@ -18316,7 +18256,7 @@
     {
       "id": "Canal7.gt",
       "name": "Canal 7",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=chapintv.com",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Canal7Guatemala%282022Logo%29.webp/330px-Canal7Guatemala%282022Logo%29.webp?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "http://181.119.177.253:8000/play/a03n/index.m3u8"
       ],
@@ -19204,6 +19144,16 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/EdutainmentTV.mn.png",
       "streamUrls": [
         "https://cdn4.skygo.mn/live/disk1/Education/HLSv3-FTA/Education.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "UniregionTV.cl",
+      "name": "Uniregion TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cl/UniregionTV.cl.png",
+      "streamUrls": [
+        "https://5ff3d9babae13.streamlock.net/ubyecbxnfd/ubyecbxnfd/playlist.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
