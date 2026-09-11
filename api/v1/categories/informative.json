@@ -102,9 +102,9 @@
       "name": "BBC Earth",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/BBCEarth.uk.png",
       "streamUrls": [
+        "https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8",
         "http://88.212.15.29/live/test_bbc_eartch_hevc/playlist.m3u8",
-        "http://88.212.15.19/live/bbce_hun/index.m3u8",
-        "https://jmp2.uk/plu-656535fc2c46f30008870fae.m3u8"
+        "http://88.212.15.19/live/bbce_hun/index.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -1142,8 +1142,8 @@
       "name": "CNA Originals",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/sg/CNAOriginals.sg.png",
       "streamUrls": [
-        "https://amg01082-cna-amg01082c1-vidaa-gb-7580.playouts.now.amagi.tv/playlist.m3u8",
-        "https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8"
+        "https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8",
+        "https://amg01082-cna-amg01082c1-vidaa-gb-7580.playouts.now.amagi.tv/playlist.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -1763,7 +1763,9 @@
       "name": "Pluto TV True Crime",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-61c097ec8bb1830008e3f962.m3u8"
+        "https://jmp2.uk/plu-61c0b438244e50000758083b.m3u8",
+        "https://jmp2.uk/plu-61c097ec8bb1830008e3f962.m3u8",
+        "https://jmp2.uk/plu-61c1e51354d923000731bf78.m3u8"
       ],
       "category": "Informative",
       "languages": []
@@ -1793,6 +1795,7 @@
       "name": "Pluto TV Verdenskrigene",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
+        "https://jmp2.uk/plu-677d397b60fbeb00084b0bff.m3u8",
         "https://jmp2.uk/plu-677d3a424bd63600082f7baf.m3u8"
       ],
       "category": "Informative",
@@ -1906,6 +1909,7 @@
       "name": "Smithsonian Channel Selects",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
+        "https://jmp2.uk/plu-61fb988e032c0100077d5252.m3u8",
         "https://jmp2.uk/plu-61fb9907b1b78d000717ed9f.m3u8"
       ],
       "category": "Informative",
@@ -1983,16 +1987,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/UCTV.us.png",
       "streamUrls": [
         "https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8"
-      ],
-      "category": "Informative",
-      "languages": []
-    },
-    {
-      "id": "BTBInfo.pl",
-      "name": "BTB Info",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/BTBInfo.pl.png",
-      "streamUrls": [
-        "https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8"
       ],
       "category": "Informative",
       "languages": []
@@ -2131,7 +2125,7 @@
     {
       "id": "WedoBigStories.ch",
       "name": "Wedo Big Stories",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=wedotv.com",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Muppet_Babies_Classic.png/330px-Muppet_Babies_Classic.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "https://amg00735-videosolutionsa-wedobigdocs-ono-0urlz.amagi.tv/playlist/amg00735-videosolutionsa-wedobigdocs-ono/playlist.m3u8"
       ],
@@ -2273,6 +2267,7 @@
       "name": "HTV4",
       "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/TeenNick_logo_2023_%28outline%29.svg/330px-TeenNick_logo_2023_%28outline%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
+        "https://dethich.pw/htv4/index.m3u8",
         "https://freem3u.xyz/api/live/play.m3u8?vid=9"
       ],
       "category": "Informative",
@@ -2543,7 +2538,7 @@
     {
       "id": "HistoryUkraine.ua",
       "name": "History Ukraine",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/TRK_Ukraina_%282022%29.svg/330px-TRK_Ukraina_%282022%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "http://dtv.vol.net.ua/History_HD/index.m3u8"
       ],
@@ -2591,6 +2586,6 @@
       "languages": []
     }
   ],
-  "count": 248,
-  "generated_at": "2026-09-11T03:09:32.317803"
+  "count": 247,
+  "generated_at": "2026-09-11T08:36:02.724069"
 }
