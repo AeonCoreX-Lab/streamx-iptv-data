@@ -1212,7 +1212,6 @@
       "name": "Enlace",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cr/Enlace.cr.png",
       "streamUrls": [
-        "http://177.234.249.178:8888/ENLACE/index.m3u8",
         "http://177.234.247.66:9975/Enlace/index.m3u8",
         "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8"
       ],
@@ -1364,7 +1363,8 @@
       "name": "GOD TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/GODTV.uk.png",
       "streamUrls": [
-        "https://d1msejlow1t3l4.cloudfront.net/211125/godtv/chunks.m3u8"
+        "https://d1msejlow1t3l4.cloudfront.net/211125/godtv/chunks.m3u8",
+        "https://fl-dvr.iptvcdn.tv/chid_1/playlist.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -4712,7 +4712,6 @@
       "name": "ADA TV",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Ada_Nicodemou_%2824990407747%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "streamUrls": [
-        "https://v4.tustreaming.cl/adatvchile/index.m3u8",
         "https://live-evg10.tv360.bitel.com.pe/bitel/alasdeaguilaSRT/playlist.m3u8"
       ],
       "country": "CL",
@@ -4991,16 +4990,6 @@
       "languages": []
     },
     {
-      "id": "LingkarTV.id",
-      "name": "Lingkar TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/LingkarTV.id.png",
-      "streamUrls": [
-        "https://lingkartv.my.id/hls/lingkartv.m3u8"
-      ],
-      "category": "Religious",
-      "languages": []
-    },
-    {
       "id": "Esaie45Tele.cg",
       "name": "Esaie 45 Tele",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cg/Esaie45Tele.cg.png",
@@ -5130,6 +5119,26 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bg/PlovdivOrthodoxTV.bg.png",
       "streamUrls": [
         "http://78.130.149.196:1935/live/pptv.stream/playlist.m3u8"
+      ],
+      "category": "Religious",
+      "languages": []
+    },
+    {
+      "id": "BethelColombia.co",
+      "name": "Bethel Colombia",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/BethelColombia.co.png",
+      "streamUrls": [
+        "http://138.121.15.230:9002/BETHEL/index.m3u8"
+      ],
+      "category": "Religious",
+      "languages": []
+    },
+    {
+      "id": "DheeranTV.in",
+      "name": "Dheeran TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/DheeranTV.in.png",
+      "streamUrls": [
+        "https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8"
       ],
       "category": "Religious",
       "languages": []
