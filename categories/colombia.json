@@ -190,8 +190,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/RCNMas.co.png",
       "streamUrls": [
         "https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8",
-        "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8",
-        "https://jmp2.uk/plu-69de4ad924a6d521f8b0a348.m3u8"
+        "https://jmp2.uk/plu-69de4ad924a6d521f8b0a348.m3u8",
+        "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8"
       ],
       "category": "Colombia",
       "languages": []
@@ -399,8 +399,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/RCNNovelas.co.png",
       "streamUrls": [
         "https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8",
-        "http://181.78.8.199:8000/play/a0a7/index.m3u8",
-        "http://170.238.200.199/rcn-novelas/index.m3u8"
+        "http://170.238.200.199/rcn-novelas/index.m3u8",
+        "http://181.78.8.199:8000/play/a0a7/index.m3u8"
       ],
       "category": "Colombia",
       "languages": []
@@ -583,8 +583,7 @@
       "name": "MasMusica FM",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/MasMusicaFM.co.png",
       "streamUrls": [
-        "https://movil.ejeserver.com/live/masmusica.m3u8",
-        "https://video.ejeserver.com/live/masmusica.m3u8"
+        "https://movil.ejeserver.com/live/masmusica.m3u8"
       ],
       "country": "CO",
       "category": "Colombia",
@@ -627,9 +626,20 @@
       "name": "Canal Nets",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/CanalNets.co.png",
       "streamUrls": [
+        "https://video.ejeserver.com/live/nets.m3u8",
         "https://movil.ejeserver.com/live/nets.m3u8"
       ],
       "country": "CO",
+      "category": "Colombia",
+      "languages": []
+    },
+    {
+      "id": "CanalCHD.co",
+      "name": "Canal CHD",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/CanalCHD.co.png",
+      "streamUrls": [
+        "https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8"
+      ],
       "category": "Colombia",
       "languages": []
     }

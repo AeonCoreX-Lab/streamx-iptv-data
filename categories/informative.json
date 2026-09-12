@@ -101,9 +101,9 @@
       "name": "BBC Earth",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/BBCEarth.uk.png",
       "streamUrls": [
-        "http://88.212.15.29/live/test_bbc_eartch_hevc/playlist.m3u8",
+        "https://pb-zjy36qhp8e8cz.akamaized.net/BBC_Earth_US.m3u8",
         "https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8",
-        "https://pb-zjy36qhp8e8cz.akamaized.net/BBC_Earth_US.m3u8"
+        "http://88.212.15.19/live/bbce_hun/index.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -1096,8 +1096,8 @@
       "name": "Yaslyk",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tm/Yaslyk.tm.png",
       "streamUrls": [
-        "https://alpha.tv.online.tm/hls/ch002.m3u8",
-        "https://alpha.tv.online.tm/legacyhls/ch002.m3u8"
+        "https://alpha.tv.online.tm/legacyhls/ch002.m3u8",
+        "https://alpha.tv.online.tm/hls/ch002.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -1141,8 +1141,8 @@
       "name": "CNA Originals",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/sg/CNAOriginals.sg.png",
       "streamUrls": [
-        "https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8",
-        "https://amg01082-cna-amg01082c1-vidaa-gb-7580.playouts.now.amagi.tv/playlist.m3u8"
+        "https://amg01082-cna-amg01082c1-vidaa-gb-7580.playouts.now.amagi.tv/playlist.m3u8",
+        "https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -1361,8 +1361,8 @@
       "name": "Wonder",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/Wonder.uk.png",
       "streamUrls": [
-        "https://lds-wonder-plex.amagi.tv/playlist.m3u8",
         "https://lds-wonder-rakuten.amagi.tv/playlist.m3u8",
+        "https://wonder-samsung-uk.amagi.tv/playlist.m3u8",
         "https://lds-wonder-samsungau.amagi.tv/playlist.m3u8"
       ],
       "category": "Informative",
@@ -1375,8 +1375,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/HistoryHit.uk.png",
       "streamUrls": [
         "https://lds-timeline-rakuten.amagi.tv/playlist.m3u8",
-        "https://lds-timeline-plex.amagi.tv/playlist.m3u8",
-        "https://timeline-samsung-uk.amagi.tv/playlist.m3u8"
+        "https://timeline-samsung-uk.amagi.tv/playlist.m3u8",
+        "https://lds-timeline-plex.amagi.tv/playlist.m3u8"
       ],
       "category": "Informative",
       "languages": [],
@@ -1752,7 +1752,9 @@
       "name": "Pluto TV True Crime",
       "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Pluto_TV_logo_2024_black.svg/330px-Pluto_TV_logo_2024_black.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
-        "https://jmp2.uk/plu-61c1e51354d923000731bf78.m3u8"
+        "https://jmp2.uk/plu-61c1e51354d923000731bf78.m3u8",
+        "https://jmp2.uk/plu-61c097ec8bb1830008e3f962.m3u8",
+        "https://jmp2.uk/plu-61c0b438244e50000758083b.m3u8"
       ],
       "category": "Informative",
       "languages": []
@@ -1782,8 +1784,7 @@
       "name": "Pluto TV Verdenskrigene",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-677d3a424bd63600082f7baf.m3u8",
-        "https://jmp2.uk/plu-677d397b60fbeb00084b0bff.m3u8"
+        "https://jmp2.uk/plu-677d3a424bd63600082f7baf.m3u8"
       ],
       "category": "Informative",
       "languages": []
@@ -2115,16 +2116,6 @@
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=wedotv.com",
       "streamUrls": [
         "https://amg00735-videosolutionsa-wedobigdocs-ono-0urlz.amagi.tv/playlist/amg00735-videosolutionsa-wedobigdocs-ono/playlist.m3u8"
-      ],
-      "category": "Informative",
-      "languages": []
-    },
-    {
-      "id": "CanalFDR.br",
-      "name": "Canal FDR",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/CanalFDR.br.png",
-      "streamUrls": [
-        "https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8"
       ],
       "category": "Informative",
       "languages": []
@@ -2539,6 +2530,16 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cl/UTalcaTV.cl.png",
       "streamUrls": [
         "https://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8"
+      ],
+      "category": "Informative",
+      "languages": []
+    },
+    {
+      "id": "Gyandarshan.in",
+      "name": "Gyandarshan",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/Gyandarshan.in.png",
+      "streamUrls": [
+        "https://mumt05.tangotv.in/87NeALx2GYANDARSHAN/index.m3u8"
       ],
       "category": "Informative",
       "languages": []
