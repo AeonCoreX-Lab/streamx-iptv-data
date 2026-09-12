@@ -4329,17 +4329,6 @@
       "languages": []
     },
     {
-      "id": "IonianTV.gr",
-      "name": "Ionian TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gr/IonianTV.gr.png",
-      "streamUrls": [
-        "http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8",
-        "https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8"
-      ],
-      "category": "Other",
-      "languages": []
-    },
-    {
       "id": "IraqFuture.iq",
       "name": "Iraq Future",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/iq/IraqFuture.iq.png",
@@ -8707,7 +8696,8 @@
       "name": "TV 25",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/TV25.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/MN25/HLSv3-FTA/MN25.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/MN25/HLSv3-FTA/MN25.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/MN25/DASH-FTA/MN25.mpd"
       ],
       "category": "Entertainment",
       "languages": []
@@ -13168,16 +13158,6 @@
       ],
       "country": "CL",
       "category": "Entertainment",
-      "languages": []
-    },
-    {
-      "id": "ChinaChannel.cl",
-      "name": "China Channel",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/330px-History_%282021%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "streamUrls": [
-        "https://v2.tustreaming.cl/chinachannel/index.m3u8"
-      ],
-      "category": "Movies",
       "languages": []
     },
     {
@@ -19148,8 +19128,19 @@
       ],
       "category": "Entertainment",
       "languages": []
+    },
+    {
+      "id": "GrandeTV.ve",
+      "name": "Grande TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ve/GrandeTV.ve.png",
+      "streamUrls": [
+        "https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8"
+      ],
+      "country": "VE",
+      "category": "Entertainment",
+      "languages": []
     }
   ],
-  "count": 1866,
-  "generated_at": "2026-09-12T18:06:43.349967"
+  "count": 1865,
+  "generated_at": "2026-09-12T21:57:20.751684"
 }
