@@ -1628,6 +1628,7 @@
       "name": "Pluto TV Dokumentar",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
+        "https://jmp2.uk/plu-62b1e2498261390007f25c98.m3u8",
         "https://jmp2.uk/plu-62b30b0060a9ca0007d628b4.m3u8"
       ],
       "category": "Informative",
@@ -1657,7 +1658,7 @@
     {
       "id": "PlutoTVHistoire.de",
       "name": "Pluto TV Histoire",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Joanna_Miles_Larry_Keith_All_My_Children_1972.JPG/330px-Joanna_Miles_Larry_Keith_All_My_Children_1972.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "https://jmp2.uk/plu-611e771e2f5f180007002224.m3u8"
       ],
@@ -2521,8 +2522,29 @@
       ],
       "category": "Informative",
       "languages": []
+    },
+    {
+      "id": "BTBInfo.pl",
+      "name": "BTB Info",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/BTBInfo.pl.png",
+      "streamUrls": [
+        "https://panel.btb.j00r.us/memfs/928cfb64-fed7-4c27-9937-f5ad72d9d73c.m3u8",
+        "https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8"
+      ],
+      "category": "Informative",
+      "languages": []
+    },
+    {
+      "id": "UTalcaTV.cl",
+      "name": "UTalca TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cl/UTalcaTV.cl.png",
+      "streamUrls": [
+        "https://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8"
+      ],
+      "category": "Informative",
+      "languages": []
     }
   ],
-  "count": 241,
-  "generated_at": "2026-09-11T22:16:29.879801"
+  "count": 243,
+  "generated_at": "2026-09-12T03:16:35.516285"
 }
