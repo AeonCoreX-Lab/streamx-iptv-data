@@ -73,26 +73,6 @@
       "languages": []
     },
     {
-      "id": "BiznetKids.id",
-      "name": "Biznet Kids",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/BiznetKids.id.png",
-      "streamUrls": [
-        "http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8"
-      ],
-      "category": "Indonesia",
-      "languages": []
-    },
-    {
-      "id": "BiznetLifestyle.id",
-      "name": "Biznet Lifestyle",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/BiznetLifestyle.id.png",
-      "streamUrls": [
-        "http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8"
-      ],
-      "category": "Indonesia",
-      "languages": []
-    },
-    {
       "id": "CarubanTV.id",
       "name": "Caruban TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/CarubanTV.id.png",
@@ -157,9 +137,9 @@
       "name": "JTV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/JTV.id.png",
       "streamUrls": [
-        "http://122.248.43.242:1935/JTVMALANG/_definst_/myStream/playlist.m3u8",
+        "http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8",
         "http://122.248.43.242:1935/JTVMADIUN/_definst_/myStream/playlist.m3u8",
-        "http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8"
+        "http://122.248.43.242:1935/JTVMALANG/_definst_/myStream/playlist.m3u8"
       ],
       "category": "Indonesia",
       "languages": []
@@ -230,8 +210,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/StaraTV.id.png",
       "streamUrls": [
         "https://jakarta.staratv.id/hls/0/stream.m3u8",
-        "https://bandung.staratv.id/hls/0/stream.m3u8",
-        "https://parahyangan.staratv.id/hls/0/stream.m3u8"
+        "https://cianjur.staratv.id/hls/0/stream.m3u8",
+        "https://bandung.staratv.id/hls/0/stream.m3u8"
       ],
       "category": "Indonesia",
       "languages": []
@@ -261,9 +241,9 @@
       "name": "TVRI",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/TVRI.id.png",
       "streamUrls": [
-        "https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8",
-        "https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8",
-        "https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8"
+        "https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8",
+        "https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8",
+        "https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8"
       ],
       "category": "Indonesia",
       "languages": []
@@ -344,7 +324,6 @@
       "name": "SMTV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/SMTV.id.png",
       "streamUrls": [
-        "http://122.248.43.242:1935/SMTV/_definst_/myStream/playlist.m3u8",
         "https://e.siar.us/live/smtv.m3u8"
       ],
       "country": "ID",
@@ -396,9 +375,9 @@
       "name": "E International",
       "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/UNIFE.jpg/330px-UNIFE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
-        "https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp315.520.789:8060.m3u8",
+        "https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp120.510.450:6060.m3u8",
         "https://vodcdn.bamboo-cloud.com/livehls/69a123b780c99d28cc0f0016/master.m3u8",
-        "https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp120.510.450:6060.m3u8"
+        "https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp315.520.789:8060.m3u8"
       ],
       "category": "Indonesia",
       "languages": []
@@ -524,8 +503,28 @@
       ],
       "category": "Indonesia",
       "languages": []
+    },
+    {
+      "id": "DhohoTV.id",
+      "name": "Dhoho TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/DhohoTV.id.png",
+      "streamUrls": [
+        "https://dhohotv.siar.us/dhohotv/live/playlist.m3u8"
+      ],
+      "category": "Indonesia",
+      "languages": []
+    },
+    {
+      "id": "MaduTV.id",
+      "name": "Madu TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/MaduTV.id.png",
+      "streamUrls": [
+        "https://re1.siar.us/madutv/hd720/playlist.m3u8"
+      ],
+      "category": "Indonesia",
+      "languages": []
     }
   ],
   "count": 51,
-  "generated_at": "2026-09-14T09:35:23.537777"
+  "generated_at": "2026-09-14T17:45:46.705680"
 }
