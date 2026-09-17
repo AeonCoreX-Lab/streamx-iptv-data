@@ -127,9 +127,9 @@
       "name": "JTV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/JTV.id.png",
       "streamUrls": [
-        "http://122.248.43.242:1935/JTVMALANG/_definst_/myStream/playlist.m3u8",
         "http://122.248.43.242:1935/JTVMADIUN/_definst_/myStream/playlist.m3u8",
-        "http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8"
+        "http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8",
+        "http://122.248.43.242:1935/JTVMALANG/_definst_/myStream/playlist.m3u8"
       ],
       "category": "Indonesia",
       "languages": []
@@ -201,7 +201,7 @@
       "streamUrls": [
         "https://jakarta.staratv.id/hls/0/stream.m3u8",
         "https://cianjur.staratv.id/hls/0/stream.m3u8",
-        "https://bojonegoro.staratv.id/hls/stream.m3u8"
+        "https://bandung.staratv.id/hls/0/stream.m3u8"
       ],
       "category": "Indonesia",
       "languages": []
@@ -231,9 +231,9 @@
       "name": "TVRI",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/TVRI.id.png",
       "streamUrls": [
-        "https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8",
-        "https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8",
-        "https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8"
+        "https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8",
+        "https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8",
+        "https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8"
       ],
       "category": "Indonesia",
       "languages": []
@@ -314,6 +314,7 @@
       "name": "SMTV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/SMTV.id.png",
       "streamUrls": [
+        "http://122.248.43.242:1935/SMTV/_definst_/myStream/playlist.m3u8",
         "https://e.siar.us/live/smtv.m3u8"
       ],
       "country": "ID",
@@ -519,7 +520,6 @@
       "name": "Rajawali TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/RajawaliTV.id.png",
       "streamUrls": [
-        "https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8",
         "http://202.150.161.212:5000/live/channel23/playlist.m3u8"
       ],
       "country": "ID",
@@ -618,5 +618,5 @@
     }
   ],
   "count": 60,
-  "generated_at": "2026-09-17T03:34:32.886004"
+  "generated_at": "2026-09-17T09:14:12.750666"
 }
