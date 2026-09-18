@@ -77,9 +77,9 @@
       "name": "Belarus-5",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/by/Belarus5.by.png",
       "streamUrls": [
-        "http://178.124.179.122:8080/BT5/index.m3u8",
         "http://stream.mcquack.net/33/index.m3u8",
-        "https://streaming.thestream.cyou/live/7001.m3u8"
+        "http://178.124.179.122:8080/BT5/index.m3u8",
+        "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -172,8 +172,8 @@
       "name": "FIFA+",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/FIFAPlus.uk.png",
       "streamUrls": [
-        "https://jmp2.uk/plu-660bfc032433010008def35a.m3u8",
         "https://jmp2.uk/plu-660c29b5aec9680008f5b4a4.m3u8",
+        "https://jmp2.uk/plu-660bfc032433010008def35a.m3u8",
         "https://jmp2.uk/plu-660c29f80cd4630008f1547c.m3u8"
       ],
       "category": "Sports",
@@ -568,8 +568,8 @@
       "name": "Red Bull TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/at/RedBullTV.at.png",
       "streamUrls": [
+        "https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8",
         "https://db34cc6127ac459db55cab5f97cd66b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-680-WORBAUENFAST-WHALETVPLUS/680/whaletvplus/hls/master/playlist.m3u8",
-        "https://46cfeb23c7f74853bba7a256655a3119.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-582-WORBDACHDEFAST-WHALETVPLUS/582/whaletvplus/hls/master/playlist.m3u8",
         "https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8"
       ],
       "category": "Sports",
@@ -800,8 +800,8 @@
       "name": "Turkmenistan Sport",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tm/TurkmenistanSport.tm.png",
       "streamUrls": [
-        "https://alpha.tv.online.tm/hls/ch004.m3u8",
-        "https://alpha.tv.online.tm/legacyhls/ch004.m3u8"
+        "https://alpha.tv.online.tm/legacyhls/ch004.m3u8",
+        "https://alpha.tv.online.tm/hls/ch004.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -1294,9 +1294,9 @@
       "name": "Strongman Champions League",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/StrongmanChampionsLeague.uk.png",
       "streamUrls": [
-        "https://rightsboosterltd-scl-1-be.samsung.wurl.tv/playlist.m3u8",
-        "https://rightsboosterltd-scl-1-dk.samsung.wurl.tv/playlist.m3u8",
-        "https://rightsboosterltd-scl-1-no.samsung.wurl.tv/playlist.m3u8"
+        "https://rightsboosterltd-scl-1-fi.samsung.wurl.tv/playlist.m3u8",
+        "https://cb4748b76e2c4b11bb5790666256964b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_StrongmanChampionsLeague/playlist.m3u8",
+        "https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8"
       ],
       "category": "Sports",
       "languages": []
@@ -1381,7 +1381,6 @@
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
         "https://jmp2.uk/plu-68ac55fe3efb41cd979a6877.m3u8",
-        "https://jmp2.uk/plu-68ac56363efb41cd979a8005.m3u8",
         "https://jmp2.uk/plu-68ac55bb3efb41cd979a65ec.m3u8"
       ],
       "category": "Sports",
@@ -1652,7 +1651,8 @@
       "name": "Setanta Sports 1 Eurasia",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ie/SetantaSports1Eurasia.ie.png",
       "streamUrls": [
-        "http://stream.mcquack.net/234/index.m3u8"
+        "http://stream.mcquack.net/234/index.m3u8",
+        "http://str2.iptvhd.ru:8080/SetantaEurasia/index.m3u8"
       ],
       "category": "Sports",
       "languages": []
@@ -1899,16 +1899,6 @@
       "languages": []
     },
     {
-      "id": "CCTV5Plus.cn",
-      "name": "CCTV-5+",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cn/CCTV5Plus.cn.png",
-      "streamUrls": [
-        "https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8"
-      ],
-      "category": "Sports",
-      "languages": []
-    },
-    {
       "id": "LacrosseTV.us",
       "name": "Lacrosse TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/LacrosseTV.us.png",
@@ -2026,16 +2016,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/kp/SportsTelevision.kp.png",
       "streamUrls": [
         "https://kctv.koryofront.org/stream/sports/index.m3u8"
-      ],
-      "category": "Sports",
-      "languages": []
-    },
-    {
-      "id": "ArenaSport2.sk",
-      "name": "Arena Sport 2",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/sk/ArenaSport2.sk.png",
-      "streamUrls": [
-        "http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8"
       ],
       "category": "Sports",
       "languages": []
@@ -2180,8 +2160,18 @@
       ],
       "category": "Sports",
       "languages": []
+    },
+    {
+      "id": "SetantaSportsPlusUkraine.ua",
+      "name": "Setanta Sports+ Ukraine",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/SetantaSportsPlusUkraine.ua.png",
+      "streamUrls": [
+        "http://str2.iptvhd.ru:8080/Setanta_SportsHD_UA/index.m3u8"
+      ],
+      "category": "Sports",
+      "languages": []
     }
   ],
-  "count": 205,
-  "generated_at": "2026-09-18T08:46:40.655141"
+  "count": 204,
+  "generated_at": "2026-09-18T15:55:13.651867"
 }
