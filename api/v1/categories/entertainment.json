@@ -2067,7 +2067,7 @@
       "name": "Central TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/CentralTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/Ekh_Oron/DASH-FTA/Ekh_Oron.mpd"
+        "https://cdn4.skygo.mn/live/disk1/Ekh_Oron/HLSv3-FTA/Ekh_Oron.m3u8"
       ],
       "category": "Other",
       "languages": []
@@ -5848,16 +5848,6 @@
       "languages": []
     },
     {
-      "id": "MegavisionCanal19.sv",
-      "name": "Megavision Canal 19",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/sv/MegavisionCanal19.sv.png",
-      "streamUrls": [
-        "https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "MegavisionCanal21.sv",
       "name": "Megavision Canal 21",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/sv/MegavisionCanal21.sv.png",
@@ -7993,7 +7983,7 @@
       "name": "SBN",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/SBN.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/SBN/DASH-FTA/SBN.mpd"
+        "https://cdn4.skygo.mn/live/disk1/SBN/HLSv3-FTA/SBN.m3u8"
       ],
       "category": "Other",
       "languages": []
@@ -8585,8 +8575,7 @@
       "name": "TV 25",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/TV25.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/MN25/HLSv3-FTA/MN25.m3u8",
-        "https://cdn4.skygo.mn/live/disk1/MN25/DASH-FTA/MN25.mpd"
+        "https://cdn4.skygo.mn/live/disk1/MN25/HLSv3-FTA/MN25.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -12006,8 +11995,8 @@
       "name": "Canal 10",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/sv/Canal10.sv.png",
       "streamUrls": [
-        "https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8",
-        "http://45.167.2.101:8000/play/a0r8/index.m3u8"
+        "http://45.167.2.101:8000/play/a0r8/index.m3u8",
+        "https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8"
       ],
       "country": "SV",
       "category": "Entertainment",
@@ -12547,8 +12536,8 @@
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
         "https://jmp2.uk/plu-61c1df62b7672a0007b6c9ba.m3u8",
-        "https://jmp2.uk/plu-61c09342b3a6230007a45119.m3u8",
-        "https://jmp2.uk/plu-61c092157e1b8b0007372a35.m3u8"
+        "https://jmp2.uk/plu-61c092157e1b8b0007372a35.m3u8",
+        "https://jmp2.uk/plu-61c09342b3a6230007a45119.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -12580,7 +12569,6 @@
       "name": "Paradise",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-629e095e511d4b00070c9f44.m3u8",
         "https://jmp2.uk/plu-6380c73f76e43f000721f73b.m3u8"
       ],
       "category": "Entertainment",
@@ -12977,8 +12965,8 @@
       "name": "TV9",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/TV9.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/TV9HD/DASH-FTA/TV9HD.mpd",
-        "https://cdn4.skygo.mn/live/disk1/TV9HD/HLSv3-FTA/TV9HD.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/TV9HD/HLSv3-FTA/TV9HD.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/TV9HD/DASH-FTA/TV9HD.mpd"
       ],
       "country": "MN",
       "category": "Entertainment",
@@ -16206,16 +16194,6 @@
       "languages": []
     },
     {
-      "id": "AsContenidos.bo",
-      "name": "As Contenidos",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=ascontenidos.com.bo",
-      "streamUrls": [
-        "https://master.tucableip.com/ascontenido/index.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "CascaraTV.do",
       "name": "Cascara TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/CascaraTV.do.png",
@@ -16575,6 +16553,7 @@
       "name": "TenGer TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/TenGerTV.mn.png",
       "streamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/VTV/DASH-FTA/VTV.mpd",
         "https://cdn4.skygo.mn/live/disk1/VTV/HLSv3-FTA/VTV.m3u8"
       ],
       "country": "MN",
@@ -16699,16 +16678,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/NitidaTV.do.png",
       "streamUrls": [
         "https://vs20.live.opencaster.com/bznudxxdtppv/index.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
-      "id": "TVKaliente.pe",
-      "name": "TV Kaliente",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pe/TVKaliente.pe.png",
-      "streamUrls": [
-        "https://lbgo.bozztv.com/ssh101/ssh101/kalientecusco/playlist.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -17027,7 +16996,7 @@
     {
       "id": "FamilienfraBryggen.se",
       "name": "Familien fra Bryggen",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Linse_Kessler_in_Kolding_Storcenter.2013.JPG/330px-Linse_Kessler_in_Kolding_Storcenter.2013.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
         "https://jmp2.uk/plu-61c19c8c9863900007acaa57.m3u8"
       ],
@@ -17110,7 +17079,8 @@
       "name": "Star TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/StarTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/Star/HLSv3-FTA/Star.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/Star/HLSv3-FTA/Star.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd"
       ],
       "country": "MN",
       "category": "Entertainment",
@@ -17930,7 +17900,7 @@
     {
       "id": "JudgeJudy.de",
       "name": "Judge Judy",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Judge_Judy_Sheindlin_VF_2012_Shankbone.JPG/330px-Judge_Judy_Sheindlin_VF_2012_Shankbone.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "https://jmp2.uk/plu-622f498d119b4c000719c0b7.m3u8"
       ],
@@ -18298,6 +18268,7 @@
       "name": "Edutainment TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/EdutainmentTV.mn.png",
       "streamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/Education/HLSv3-FTA/Education.m3u8",
         "https://cdn4.skygo.mn/live/disk1/Education/DASH-FTA/Education.mpd"
       ],
       "category": "Entertainment",
@@ -19011,7 +18982,7 @@
     {
       "id": "RBTV.py",
       "name": "RB TV",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/5-tv_logo_%282023%29.svg/330px-5-tv_logo_%282023%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8"
       ],
@@ -19161,8 +19132,38 @@
       ],
       "category": "Entertainment",
       "languages": []
+    },
+    {
+      "id": "FX.ru",
+      "name": "FX",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/330px-FX_International_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "streamUrls": [
+        "http://str2.iptvhd.ru:8080/FOX_HD/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "PLEXTV.cm",
+      "name": "PLEX TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cm/PLEXTV.cm.png",
+      "streamUrls": [
+        "http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "TVCotuiCanal31.do",
+      "name": "TV Cotui Canal 31",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/TVCotuiCanal31.do.png",
+      "streamUrls": [
+        "https://live20.bozztv.com/akamaissh101/ssh101/tvcotui/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
     }
   ],
   "count": 1866,
-  "generated_at": "2026-09-17T22:41:17.470537"
+  "generated_at": "2026-09-18T03:20:10.893887"
 }
