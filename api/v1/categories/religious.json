@@ -313,16 +313,6 @@
       "languages": []
     },
     {
-      "id": "AlJawadainTV.iq",
-      "name": "Al-Jawadain TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/iq/AlJawadainTV.iq.png",
-      "streamUrls": [
-        "https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8"
-      ],
-      "category": "Religious",
-      "languages": []
-    },
-    {
       "id": "AlZahraTVTurkic.tr",
       "name": "Al-Zahra TV Turkic",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/AlZahraTVTurkic.tr.png",
@@ -3363,7 +3353,9 @@
       "name": "Trace Gospel",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/fr/TraceGospel.fr.png",
       "streamUrls": [
-        "https://channels.trace.plus/Traceprod/GOSPEL_FR/.m3u8"
+        "https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8",
+        "https://channels.trace.plus/Traceprod/GOSPEL_ROA_hd/index.m3u8",
+        "https://channels.trace.plus/Traceprod/GOSPEL_SA_hd/index.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -3708,8 +3700,8 @@
       "name": "KSTV Uganda",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ug/KSTVUganda.ug.png",
       "streamUrls": [
-        "https://live.esteem.africa/kstv/hls/0/stream.m3u8",
-        "https://unseenlive.s3.eu-west-1.amazonaws.com/kstv/hls/0/stream.m3u8"
+        "https://unseenlive.s3.eu-west-1.amazonaws.com/kstv/hls/0/stream.m3u8",
+        "https://live.esteem.africa/kstv/hls/0/stream.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -3934,16 +3926,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/it/TeleSanDomenico.it.png",
       "streamUrls": [
         "https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/playlist.m3u8"
-      ],
-      "category": "Religious",
-      "languages": []
-    },
-    {
-      "id": "CVC.bo",
-      "name": "CVC",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bo/CVC.bo.png",
-      "streamUrls": [
-        "http://15.204.246.24:8080/CVCHD/index.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -4548,8 +4530,8 @@
       "name": "Exodus TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/si/ExodusTV.si.png",
       "streamUrls": [
-        "https://584943999.r.worldssl.net/584943999/vzivo/playlist.m3u8",
-        "https://584943999.r.worldssl.net/584943999/_definst_/vzivo/playlist.m3u8"
+        "https://584943999.r.worldssl.net/584943999/_definst_/vzivo/playlist.m3u8",
+        "https://584943999.r.worldssl.net/584943999/vzivo/playlist.m3u8"
       ],
       "country": "SI",
       "category": "Religious",
@@ -5022,16 +5004,6 @@
       "languages": []
     },
     {
-      "id": "JTBSClassic.in",
-      "name": "JTBS Classic",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/JA02WJ_JFK_Landing_22L_JL_A350_1041_Small_%2853548157200%29.png/330px-JA02WJ_JFK_Landing_22L_JL_A350_1041_Small_%2853548157200%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "streamUrls": [
-        "https://jtbsclassic.dpdns.org/live.m3u8"
-      ],
-      "category": "Religious",
-      "languages": []
-    },
-    {
       "id": "YOUNIBMediaTV.ke",
       "name": "YOUNIB Media TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ke/YOUNIBMediaTV.ke.png",
@@ -5327,8 +5299,18 @@
       ],
       "category": "Religious",
       "languages": []
+    },
+    {
+      "id": "LaVozdeMaria.do",
+      "name": "La Voz de Maria",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/LaVozdeMaria.do.png",
+      "streamUrls": [
+        "https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8"
+      ],
+      "category": "Religious",
+      "languages": []
     }
   ],
-  "count": 523,
-  "generated_at": "2026-09-21T17:54:09.975330"
+  "count": 521,
+  "generated_at": "2026-09-21T23:01:29.501146"
 }
