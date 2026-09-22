@@ -4287,17 +4287,6 @@
       "languages": []
     },
     {
-      "id": "KC2.rw",
-      "name": "KC2",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/rw/KC2.rw.png",
-      "streamUrls": [
-        "http://197.243.19.131:1935/kc2/kc2/chunklist.m3u8",
-        "https://5c46fa289c89f.streamlock.net/kc2/kc2/chunklist.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "KCM.sg",
       "name": "KCM",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/sg/KCM.sg.png",
@@ -16564,18 +16553,6 @@
       "languages": []
     },
     {
-      "id": "StarTV.mn",
-      "name": "Star TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/StarTV.mn.png",
-      "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd",
-        "https://cdn4.skygo.mn/live/disk1/Star/HLSv3-FTA/Star.m3u8"
-      ],
-      "country": "MN",
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "CiudadanoRadio.cl",
       "name": "Ciudadano Radio",
       "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Canal_13_2025.svg/330px-Canal_13_2025.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -17909,17 +17886,6 @@
       "languages": []
     },
     {
-      "id": "GrandeTV.ve",
-      "name": "Grande TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ve/GrandeTV.ve.png",
-      "streamUrls": [
-        "https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8"
-      ],
-      "country": "VE",
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "Acasa.ro",
       "name": "Acasa",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ro/Acasa.ro.png",
@@ -18363,16 +18329,6 @@
       "languages": []
     },
     {
-      "id": "FieriTv.al",
-      "name": "Fieri Tv",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "http://valashop.online:8090/fieritv.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "FridayInternational.ru",
       "name": "Friday! International",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/FridayInternational.ru.png",
@@ -18659,16 +18615,6 @@
       "languages": []
     },
     {
-      "id": "TelevisionMetropolis192.hn",
-      "name": "Television Metropolis 19.2",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/hn/TelevisionMetropolis192.hn.png",
-      "streamUrls": [
-        "https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "Hunedoara1.ro",
       "name": "Hunedoara 1",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ro/Hunedoara1.ro.png",
@@ -18804,6 +18750,7 @@
       "name": "FS1 Salzburg",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/at/FS1Salzburg.at.png",
       "streamUrls": [
+        "http://stream.fs1.tv:8080/hls/webstream.m3u8",
         "https://stream.fs1.tv/hls/webstream.m3u8"
       ],
       "country": "AT",
@@ -18943,8 +18890,38 @@
       ],
       "category": "Entertainment",
       "languages": []
+    },
+    {
+      "id": "6TVGorlovka.ru",
+      "name": "6 TV Gorlovka",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/6TVGorlovka.ru.png",
+      "streamUrls": [
+        "http://91.214.48.158:4022/udp/224.2.2.4:10000"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "OndaCadiz.es",
+      "name": "Onda Cadiz",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/OndaCadiz.es.png",
+      "streamUrls": [
+        "https://ondacadiztv.es:30443/octv/24h/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "TelewizjaRelax.pl",
+      "name": "Telewizja Relax",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/TelewizjaRelax.pl.png",
+      "streamUrls": [
+        "https://srv1.streamingo.pl/memfs/be50f17e-6579-4bdf-86b1-31207aec85b8.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
     }
   ],
-  "count": 1845,
-  "generated_at": "2026-09-21T23:01:29.453135"
+  "count": 1843,
+  "generated_at": "2026-09-22T03:27:22.784346"
 }
