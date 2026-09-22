@@ -6,9 +6,9 @@
       "name": "Arirang Radio",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/kr/ArirangRadio.kr.png",
       "streamUrls": [
-        "http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
-        "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
-        "http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8"
+        "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
+        "http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
+        "http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8"
       ],
       "category": "South Korea",
       "languages": []
@@ -18,9 +18,9 @@
       "name": "Arirang TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/kr/ArirangTV.kr.png",
       "streamUrls": [
+        "http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
         "http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
-        "http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
-        "http://45.162.64.114/ARIRANG/index.m3u8"
+        "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
       ],
       "category": "South Korea",
       "languages": []
@@ -232,16 +232,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/kr/HLAWDTV.kr.png",
       "streamUrls": [
         "http://andong.webcasting.co.kr/live/mbc/playlist.m3u8"
-      ],
-      "category": "South Korea",
-      "languages": []
-    },
-    {
-      "id": "HLCQDTV.kr",
-      "name": "HLCQ-DTV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/kr/HLCQDTV.kr.png",
-      "streamUrls": [
-        "https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8"
       ],
       "category": "South Korea",
       "languages": []
@@ -496,8 +486,18 @@
       ],
       "category": "South Korea",
       "languages": []
+    },
+    {
+      "id": "HLATDTV.kr",
+      "name": "HLAT-DTV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/kr/HLATDTV.kr.png",
+      "streamUrls": [
+        "https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8"
+      ],
+      "category": "South Korea",
+      "languages": []
     }
   ],
   "count": 49,
-  "generated_at": "2026-09-22T09:02:11.631429"
+  "generated_at": "2026-09-22T16:22:31.188101"
 }
