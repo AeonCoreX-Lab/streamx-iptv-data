@@ -6,9 +6,9 @@
       "name": "Arirang Radio",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/kr/ArirangRadio.kr.png",
       "streamUrls": [
-        "http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
+        "http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
         "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
-        "http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8"
+        "http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8"
       ],
       "category": "South Korea",
       "languages": []
@@ -18,8 +18,8 @@
       "name": "Arirang TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/kr/ArirangTV.kr.png",
       "streamUrls": [
-        "http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
         "http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
         "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
       ],
       "category": "South Korea",
@@ -232,16 +232,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/kr/HLAWDTV.kr.png",
       "streamUrls": [
         "http://andong.webcasting.co.kr/live/mbc/playlist.m3u8"
-      ],
-      "category": "South Korea",
-      "languages": []
-    },
-    {
-      "id": "HLDHDTV.kr",
-      "name": "HLDH-DTV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/kr/HLDHDTV.kr.png",
-      "streamUrls": [
-        "https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8"
       ],
       "category": "South Korea",
       "languages": []
@@ -496,8 +486,18 @@
       ],
       "category": "South Korea",
       "languages": []
+    },
+    {
+      "id": "HLDHDTV.kr",
+      "name": "HLDH-DTV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/kr/HLDHDTV.kr.png",
+      "streamUrls": [
+        "https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8"
+      ],
+      "category": "South Korea",
+      "languages": []
     }
   ],
   "count": 49,
-  "generated_at": "2026-09-23T16:10:14.653116"
+  "generated_at": "2026-09-23T22:41:47.630163"
 }
