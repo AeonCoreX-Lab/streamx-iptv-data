@@ -5428,6 +5428,17 @@
       "_category": "music"
     },
     {
+      "id": "IshtarTV.iq",
+      "name": "Ishtar TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/iq/IshtarTV.iq.png",
+      "streamUrls": [
+        "https://stream.ishtartv.com/live/iShtarHD/playlist.m3u8"
+      ],
+      "category": "Music",
+      "languages": [],
+      "_category": "music"
+    },
+    {
       "id": "24News.in",
       "name": "24 News",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/24News.in.png",
@@ -9063,28 +9074,6 @@
       "_category": "india"
     },
     {
-      "id": "EkamraBharatOdia.in",
-      "name": "Ekamra Bharat Odia",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://live.ekamraott.com/bharat/bharat/index.m3u8"
-      ],
-      "category": "India",
-      "languages": [],
-      "_category": "india"
-    },
-    {
-      "id": "OnePaschima.in",
-      "name": "One Paschima",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://live.ekamraott.com/onepaschima/onepaschima/index.m3u8"
-      ],
-      "category": "India",
-      "languages": [],
-      "_category": "india"
-    },
-    {
       "id": "WOWKidz.in",
       "name": "WOW Kidz",
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
@@ -10669,8 +10658,8 @@
       "name": "CNC Santander de Quilichao",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/CNCSantanderdeQuilichao.co.png",
       "streamUrls": [
-        "https://video.ejeserver.com/live/cncsantander.m3u8",
-        "https://movil.ejeserver.com/live/cncsantander.m3u8"
+        "https://movil.ejeserver.com/live/cncsantander.m3u8",
+        "https://video.ejeserver.com/live/cncsantander.m3u8"
       ],
       "category": "Colombia",
       "languages": [],
@@ -10682,17 +10671,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/Canal2AlpavisionNeiva.co.png",
       "streamUrls": [
         "https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8"
-      ],
-      "category": "Colombia",
-      "languages": [],
-      "_category": "colombia"
-    },
-    {
-      "id": "CanalOracionConSon.co",
-      "name": "Canal Oracion Con Son",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/CanalOracionConSon.co.png",
-      "streamUrls": [
-        "https://canal.mediaserver.com.co/live/oracionconson.m3u8"
       ],
       "category": "Colombia",
       "languages": [],
@@ -11250,8 +11228,8 @@
       "name": "CNC Bugavision",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/CNCBugavision.co.png",
       "streamUrls": [
-        "https://video.ejeserver.com/live/cncbuga.m3u8",
-        "https://movil.ejeserver.com/live/cncbuga.m3u8"
+        "https://movil.ejeserver.com/live/cncbuga.m3u8",
+        "https://video.ejeserver.com/live/cncbuga.m3u8"
       ],
       "country": "CO",
       "category": "Colombia",
@@ -11263,8 +11241,8 @@
       "name": "Canal Nets",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/CanalNets.co.png",
       "streamUrls": [
-        "https://video.ejeserver.com/live/nets.m3u8",
-        "https://movil.ejeserver.com/live/nets.m3u8"
+        "https://movil.ejeserver.com/live/nets.m3u8",
+        "https://video.ejeserver.com/live/nets.m3u8"
       ],
       "country": "CO",
       "category": "Colombia",
@@ -13981,6 +13959,18 @@
       "_category": "ukraine"
     },
     {
+      "id": "ITV.ua",
+      "name": "ITV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/ITV.ua.png",
+      "streamUrls": [
+        "https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8"
+      ],
+      "country": "UA",
+      "category": "Ukraine",
+      "languages": [],
+      "_category": "ukraine"
+    },
+    {
       "id": "123tv.de",
       "name": "1-2-3.tv",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/de/123tv.de.png",
@@ -15773,9 +15763,7 @@
       "name": "Pluto TV Motor",
       "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Paramount_Network_2024.svg/330px-Paramount_Network_2024.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
-        "https://jmp2.uk/plu-68ac51dede4a734954b5a67a.m3u8",
-        "https://jmp2.uk/plu-68ac52b05190a45dc990ee39.m3u8",
-        "https://jmp2.uk/plu-68ac52fac9b5923e0585578b.m3u8"
+        "https://jmp2.uk/plu-68ac51dede4a734954b5a67a.m3u8"
       ],
       "category": "Lifestyle",
       "languages": [],
@@ -17234,8 +17222,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/FIFAPlus.uk.png",
       "streamUrls": [
         "https://jmp2.uk/plu-660c29b5aec9680008f5b4a4.m3u8",
-        "https://jmp2.uk/plu-660c29f80cd4630008f1547c.m3u8",
-        "https://jmp2.uk/plu-660bfc4424e1d000085b5f93.m3u8"
+        "https://jmp2.uk/plu-660bfc032433010008def35a.m3u8",
+        "https://jmp2.uk/plu-660c2a2d2433010008df7e92.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports",
@@ -17270,17 +17258,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bo/FTV.bo.png",
       "streamUrls": [
         "https://master.tucableip.com/ftvhd/index.m3u8"
-      ],
-      "category": "Sports",
-      "genre": "Sports",
-      "_category": "sports"
-    },
-    {
-      "id": "Football.ru",
-      "name": "Football",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Football.ru.png",
-      "streamUrls": [
-        "http://str2.iptvhd.ru:8080/Futbol/index.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports",
@@ -18539,9 +18516,9 @@
       "name": "Pluto TV Snooker 900",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-68ac56363efb41cd979a8005.m3u8",
         "https://jmp2.uk/plu-68ac55fe3efb41cd979a6877.m3u8",
-        "https://jmp2.uk/plu-68ac55bb3efb41cd979a65ec.m3u8"
+        "https://jmp2.uk/plu-68ac55bb3efb41cd979a65ec.m3u8",
+        "https://jmp2.uk/plu-68ac56363efb41cd979a8005.m3u8"
       ],
       "category": "Sports",
       "languages": [],
@@ -19335,7 +19312,7 @@
     {
       "id": "DeportesporMovistarPlusPlus.es",
       "name": "Deportes por Movistar Plus+",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Plus%2B_2022_logo.svg/330px-Movistar_Plus%2B_2022_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=movistar.es",
       "streamUrls": [
         "https://7nyaler.streamhostingcdn.top/stream/18/index.m3u8"
       ],
@@ -19460,6 +19437,17 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/il/Sport4.il.png",
       "streamUrls": [
         "http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BWGFFCU59AE6AEV3KF3FXTBA/2389/index.m3u8"
+      ],
+      "category": "Sports",
+      "languages": [],
+      "_category": "sports"
+    },
+    {
+      "id": "AlIraqiaSport.iq",
+      "name": "Al Iraqia Sport",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/iq/AlIraqiaSport.iq.png",
+      "streamUrls": [
+        "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8"
       ],
       "category": "Sports",
       "languages": [],
@@ -20978,6 +20966,28 @@
       "_category": "turkey"
     },
     {
+      "id": "AnadoluNetTV.tr",
+      "name": "Anadolu Net TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/AnadoluNetTV.tr.png",
+      "streamUrls": [
+        "https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8"
+      ],
+      "category": "Turkey",
+      "languages": [],
+      "_category": "turkey"
+    },
+    {
+      "id": "TurkHaberTV.tr",
+      "name": "TurkHaber TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/TurkHaberTV.tr.png",
+      "streamUrls": [
+        "https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8"
+      ],
+      "category": "Turkey",
+      "languages": [],
+      "_category": "turkey"
+    },
+    {
       "id": "AiredeSantaFe.ar",
       "name": "Aire de Santa Fe",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/AiredeSantaFe.ar.png",
@@ -21992,8 +22002,8 @@
       "name": "NG Federal",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/NGFederal.ar.png",
       "streamUrls": [
-        "https://617c5175c970b.streamlock.net:4444/tvlink/live/playlist.m3u8",
-        "http://www.coninfo.net:1935/tvlink/live/playlist.m3u8"
+        "http://www.coninfo.net:1935/tvlink/live/playlist.m3u8",
+        "https://617c5175c970b.streamlock.net:4444/tvlink/live/playlist.m3u8"
       ],
       "country": "AR",
       "category": "Argentina",
@@ -22005,6 +22015,7 @@
       "name": "Plim Plim",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/PlimPlim.ar.png",
       "streamUrls": [
+        "http://200.115.120.1:8000/play/ca091/index.m3u8",
         "https://xyktmobile00.s.gy/PPV911_CANCION_BEBE"
       ],
       "category": "Argentina",
@@ -29169,16 +29180,6 @@
       "_category": "usa"
     },
     {
-      "id": "NBCUniverso.us",
-      "name": "NBC Universo",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/NBCUniverso.us.png",
-      "streamUrls": [
-        "http://190.11.225.124:5000/live/universo_hd/playlist.m3u8"
-      ],
-      "category": "USA",
-      "_category": "usa"
-    },
-    {
       "id": "NBCLX.us",
       "name": "NBCLX",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/NBCLX.us.png",
@@ -32766,7 +32767,7 @@
     {
       "id": "IranNationalRevolutionTV.us",
       "name": "Iran National Revolution TV",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=iranopasmigirim.com",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/330px-Press_TV_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "https://hls.irannrtv.live/hls/stream.m3u8"
       ],
@@ -33318,8 +33319,8 @@
       "name": "Pluto TV Wipeout",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/PlutoTVWipeout.us.png",
       "streamUrls": [
-        "https://jmp2.uk/plu-604f8125c6669b00077f7699.m3u8",
-        "https://jmp2.uk/plu-6909e5c3a3a4b49706b8373b.m3u8"
+        "https://jmp2.uk/plu-6909e5c3a3a4b49706b8373b.m3u8",
+        "https://jmp2.uk/plu-604f8125c6669b00077f7699.m3u8"
       ],
       "category": "USA",
       "languages": [],
@@ -33834,7 +33835,7 @@
       "name": "DHE",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/DHE.us.png",
       "streamUrls": [
-        "http://190.11.225.124:5000/live/dhe_hd/playlist.m3u8"
+        "http://15.204.246.24:8080/DHEHD/index.m3u8"
       ],
       "category": "USA",
       "languages": [],
@@ -33968,8 +33969,8 @@
       "name": "Retro TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/RetroTV.us.png",
       "streamUrls": [
-        "https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/retro/index.m3u8",
-        "https://freecast-lukentvlive.vgcdn.net/out/v1/665e9f91614b43b0a0654e9317f1d9f3/index.m3u8"
+        "https://freecast-lukentvlive.vgcdn.net/out/v1/665e9f91614b43b0a0654e9317f1d9f3/index.m3u8",
+        "https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/retro/index.m3u8"
       ],
       "category": "USA",
       "languages": [],
@@ -34013,8 +34014,9 @@
       "name": "CSI: Miami",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
+        "https://jmp2.uk/plu-62f54c11b3af68000702c304.m3u8",
         "https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8",
-        "https://jmp2.uk/plu-62f54c11b3af68000702c304.m3u8"
+        "https://jmp2.uk/plu-63eb9255c111bc0008fe6ec4.m3u8"
       ],
       "category": "USA",
       "languages": [],
@@ -34078,9 +34080,10 @@
     {
       "id": "ILoveLucy.us",
       "name": "I Love Lucy",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/I_Love_Lucy_title.svg/330px-I_Love_Lucy_title.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-634f3011f4fff20007431641.m3u8"
+        "https://jmp2.uk/plu-634f3011f4fff20007431641.m3u8",
+        "https://jmp2.uk/plu-63a2f1dda0d69700078b7cba.m3u8"
       ],
       "category": "USA",
       "languages": [],
@@ -34159,9 +34162,7 @@
       "name": "NCIS",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-62f4f5de1c100100075665ef.m3u8",
-        "https://jmp2.uk/plu-63eb9fdda995710008991c54.m3u8",
-        "https://jmp2.uk/plu-63eb947c4e83e70008ab877b.m3u8"
+        "https://jmp2.uk/plu-63eb9fdda995710008991c54.m3u8"
       ],
       "category": "USA",
       "languages": [],
@@ -34172,7 +34173,6 @@
       "name": "Rawhide",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-634f307c7a068e00072c9982.m3u8",
         "https://jmp2.uk/plu-65660223635c3c00086c2578.m3u8"
       ],
       "category": "USA",
@@ -35072,7 +35072,7 @@
     {
       "id": "BETVisionaries.us",
       "name": "BET Visionaries",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/330px-Nickelodeon_2023_logo_%28outline%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "https://jmp2.uk/plu-663946c1b18d700008d9c168.m3u8"
       ],
@@ -36035,7 +36035,7 @@
     {
       "id": "CinemaxClassics.us",
       "name": "Cinemax Classics",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/330px-Cinemax_2016.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=cinemax.com",
       "streamUrls": [
         "http://23.237.104.106:8080/USA_5STARMAX/index.m3u8"
       ],
@@ -36135,7 +36135,7 @@
     {
       "id": "CSINYenespanol.us",
       "name": "CSI: NY en espanol",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Pluto_TV_logo_2024_black.svg/330px-Pluto_TV_logo_2024_black.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "https://jmp2.uk/plu-632b606e12a67b0007c9e371.m3u8"
       ],
@@ -36393,10 +36393,9 @@
     {
       "id": "AmericasNextTopModel.us",
       "name": "America's Next Top Model",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/America%E2%80%99s_Next_Top_Model_logo_%282016%E2%80%932018%29.png/330px-America%E2%80%99s_Next_Top_Model_logo_%282016%E2%80%932018%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
-        "https://jmp2.uk/plu-68679fc6bb46d0bdd38ac9a4.m3u8",
-        "https://jmp2.uk/plu-68757c45759366af05b3b199.m3u8"
+        "https://jmp2.uk/plu-68679fc6bb46d0bdd38ac9a4.m3u8"
       ],
       "country": "US",
       "category": "USA",
@@ -36419,11 +36418,11 @@
     {
       "id": "MTVReality.us",
       "name": "MTV Reality",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/330px-MTV_2021_%28brand_version%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "https://jmp2.uk/plu-64f89fcfd661bb00081ba45c.m3u8",
-        "https://jmp2.uk/plu-5de91b7ea86ee60009d89e75.m3u8",
-        "https://jmp2.uk/plu-6851bdfc9ac48fde5e07f5ae.m3u8"
+        "https://jmp2.uk/plu-6851bdfc9ac48fde5e07f5ae.m3u8",
+        "https://jmp2.uk/plu-5de91b7ea86ee60009d89e75.m3u8"
       ],
       "country": "US",
       "category": "USA",
@@ -36435,8 +36434,7 @@
       "name": "Nickelodeon Toons",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8",
-        "https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8"
+        "https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8"
       ],
       "country": "US",
       "category": "USA",
@@ -36470,6 +36468,7 @@
       "name": "MTV Flow Latino",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
+        "https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8",
         "https://jmp2.uk/plu-5d3609cd6a6c78d7672f2a81.m3u8"
       ],
       "country": "US",
@@ -36482,8 +36481,7 @@
       "name": "MTV Rocks",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8",
-        "https://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8"
+        "https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8"
       ],
       "country": "US",
       "category": "USA",
@@ -36545,6 +36543,18 @@
       "streamUrls": [
         "https://jmp2.uk/plu-638e11951177840007fdd6b2.m3u8"
       ],
+      "category": "USA",
+      "languages": [],
+      "_category": "usa"
+    },
+    {
+      "id": "MissionTV.us",
+      "name": "Mission TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/MissionTV.us.png",
+      "streamUrls": [
+        "https://6096a9cf11ae5.streamlock.net:1943/live/missiontv/playlist.m3u8"
+      ],
+      "country": "US",
       "category": "USA",
       "languages": [],
       "_category": "usa"
@@ -38344,11 +38354,9 @@
     {
       "id": "PlutoTVTrueCrime.se",
       "name": "Pluto TV True Crime",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Pluto_TV_logo_2024_black.svg/330px-Pluto_TV_logo_2024_black.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
-        "https://jmp2.uk/plu-61c0b438244e50000758083b.m3u8",
-        "https://jmp2.uk/plu-61c097ec8bb1830008e3f962.m3u8",
-        "https://jmp2.uk/plu-61c1e51354d923000731bf78.m3u8"
+        "https://jmp2.uk/plu-61c0b438244e50000758083b.m3u8"
       ],
       "category": "Informative",
       "languages": [],
@@ -38381,8 +38389,7 @@
       "name": "Pluto TV Verdenskrigene",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-677d397b60fbeb00084b0bff.m3u8",
-        "https://jmp2.uk/plu-677d3a424bd63600082f7baf.m3u8"
+        "https://jmp2.uk/plu-677d397b60fbeb00084b0bff.m3u8"
       ],
       "category": "Informative",
       "languages": [],
@@ -38495,6 +38502,7 @@
       "name": "Smithsonian Channel Selects",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
+        "https://jmp2.uk/plu-61fb988e032c0100077d5252.m3u8",
         "https://jmp2.uk/plu-61fb9907b1b78d000717ed9f.m3u8"
       ],
       "category": "Informative",
@@ -40812,7 +40820,7 @@
     {
       "id": "PlutoTVScifiSeries.de",
       "name": "Pluto TV Sci-fi Series",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Pluto_TV_logo_2024_black.svg/330px-Pluto_TV_logo_2024_black.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
         "https://jmp2.uk/plu-619247c34a270700077c8415.m3u8"
       ],
@@ -40835,10 +40843,10 @@
     {
       "id": "PlutoTVSerie.de",
       "name": "Pluto TV Serie",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/PlayTV20062020.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-60b9ff2722bfa400072676ef.m3u8",
-        "https://jmp2.uk/plu-5dc190f7bfed110009d934c3.m3u8"
+        "https://jmp2.uk/plu-5dc190f7bfed110009d934c3.m3u8",
+        "https://jmp2.uk/plu-60b9ff2722bfa400072676ef.m3u8"
       ],
       "category": "Germany",
       "languages": [],
@@ -41023,7 +41031,7 @@
     {
       "id": "BobEsponja.de",
       "name": "Bob Esponja",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/MTV_Tres_2010_logo.svg/330px-MTV_Tres_2010_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
         "https://jmp2.uk/plu-5f1aca0b4e448e00075e7c5e.m3u8"
       ],
@@ -41217,7 +41225,7 @@
     {
       "id": "SabrinaTotalverhext.de",
       "name": "Sabrina: Total verhext!",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Sabrina_the_Teenage_Witch_%281996_TV_series%29_official_logo.svg/330px-Sabrina_the_Teenage_Witch_%281996_TV_series%29_official_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
         "https://jmp2.uk/plu-622f40c901d4b70007ad7609.m3u8"
       ],
@@ -41500,7 +41508,7 @@
     {
       "id": "PlutoTVSherlock.de",
       "name": "Pluto TV Sherlock",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Paramount_Network_2024.svg/330px-Paramount_Network_2024.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
         "https://jmp2.uk/plu-5dc2c00abfed110009d97243.m3u8"
       ],
@@ -41797,7 +41805,7 @@
     {
       "id": "PlutoTVNordicCrime.de",
       "name": "Pluto TV Nordic Crime",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Pluto_TV_logo_2024_black.svg/330px-Pluto_TV_logo_2024_black.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "https://jmp2.uk/plu-67d984408d8dc3d7754dccf2.m3u8"
       ],
@@ -41995,7 +42003,7 @@
     {
       "id": "CCPlutoTV.de",
       "name": "CC Pluto TV",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/PlayTV20062020.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "streamUrls": [
         "https://jmp2.uk/plu-5d4947590ba40f75dc29c26b.m3u8"
       ],
@@ -42019,8 +42027,7 @@
       "name": "Pluto TV Reality",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-6092544e7639460007d4835e.m3u8",
-        "https://jmp2.uk/plu-5bd8186d53ed2c6334ea0855.m3u8"
+        "https://jmp2.uk/plu-6092544e7639460007d4835e.m3u8"
       ],
       "country": "DE",
       "category": "Germany",
@@ -42063,7 +42070,7 @@
     {
       "id": "PlutoTVCucina.de",
       "name": "Pluto TV Cucina",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Times_Sq_Feb_2022_19.jpg/330px-Times_Sq_Feb_2022_19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
         "https://jmp2.uk/plu-608aa718a8ec810007d87fee.m3u8"
       ],
@@ -42074,7 +42081,7 @@
     {
       "id": "NickJrClub.de",
       "name": "Nick Jr. Club",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/330px-Nick_Jr._logo_2023_%28outline%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
         "https://jmp2.uk/plu-67f3eb1c443f0671bc03ece8.m3u8"
       ],
@@ -44238,8 +44245,7 @@
       "name": "Pluto TV Tegnefilm",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-61c09938e0d3a700072b68b1.m3u8",
-        "https://jmp2.uk/plu-61c1e914bf8c520007a93ff1.m3u8"
+        "https://jmp2.uk/plu-61c09938e0d3a700072b68b1.m3u8"
       ],
       "category": "Kids",
       "languages": [],
@@ -44250,8 +44256,9 @@
       "name": "Pluto TV Ungdomsserier",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-67f3fb7d07d2ba4121bd0c8b.m3u8",
-        "https://jmp2.uk/plu-67f3fc1707d2ba4121bd34a8.m3u8"
+        "https://jmp2.uk/plu-67f3fb1cdea1c5e0d588ac1b.m3u8",
+        "https://jmp2.uk/plu-67f3fc1707d2ba4121bd34a8.m3u8",
+        "https://jmp2.uk/plu-67f3fb7d07d2ba4121bd0c8b.m3u8"
       ],
       "category": "Kids",
       "languages": [],
@@ -44376,8 +44383,7 @@
       "name": "South Park",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-61c0b627e3ed94000793c18a.m3u8",
-        "https://jmp2.uk/plu-61c1e88cd168ea0007068133.m3u8"
+        "https://jmp2.uk/plu-61c098df897b9d00070375c8.m3u8"
       ],
       "category": "Kids",
       "languages": [],
@@ -44386,10 +44392,10 @@
     {
       "id": "SouthParkArmageddon.se",
       "name": "South Park Armageddon",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/MSNBC.com_Turns_10.jpg/330px-MSNBC.com_Turns_10.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-660bff7dc8311c0008b4bdb4.m3u8",
-        "https://jmp2.uk/plu-660bff5724e1d000085b7c07.m3u8"
+        "https://jmp2.uk/plu-660bff5724e1d000085b7c07.m3u8",
+        "https://jmp2.uk/plu-660bff7dc8311c0008b4bdb4.m3u8"
       ],
       "category": "Kids",
       "languages": [],
@@ -44400,7 +44406,7 @@
       "name": "South Park Rockin' Out",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-664f132c8ea5560008ce4d86.m3u8",
+        "https://jmp2.uk/plu-664f13aff9992200084a3532.m3u8",
         "https://jmp2.uk/plu-664f1370f78a8500092df452.m3u8"
       ],
       "category": "Kids",
@@ -44423,8 +44429,8 @@
       "name": "South Park: Butters Collection",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-65d87a66ec9fda0008a5ac11.m3u8",
-        "https://jmp2.uk/plu-65d87fcb66eec8000887f4aa.m3u8"
+        "https://jmp2.uk/plu-65d881d566eec8000887f6bb.m3u8",
+        "https://jmp2.uk/plu-65d87a66ec9fda0008a5ac11.m3u8"
       ],
       "category": "Kids",
       "languages": [],
@@ -44444,7 +44450,7 @@
     {
       "id": "SouthParkCartmanCollection.se",
       "name": "South Park: Cartman Collection",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/South_park_sign.svg/330px-South_park_sign.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
         "https://jmp2.uk/plu-65d87fa0f7f0af0008b2358b.m3u8",
         "https://jmp2.uk/plu-65d87a058145cb0008265c2e.m3u8"
@@ -44481,6 +44487,7 @@
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
         "https://jmp2.uk/plu-664f0eea0120f40008bf97d6.m3u8",
+        "https://jmp2.uk/plu-664f0ecc41af640008e37b43.m3u8",
         "https://jmp2.uk/plu-664f0eaa8ce31100088036bd.m3u8"
       ],
       "category": "Kids",
@@ -44503,8 +44510,9 @@
       "name": "South Park: Kenny Collection",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-65d880cea25d5e0008315b0a.m3u8",
-        "https://jmp2.uk/plu-65d879bd0d4561000805d190.m3u8"
+        "https://jmp2.uk/plu-65d87f53ec9fda0008a5b810.m3u8",
+        "https://jmp2.uk/plu-65d879bd0d4561000805d190.m3u8",
+        "https://jmp2.uk/plu-65d880cea25d5e0008315b0a.m3u8"
       ],
       "category": "Kids",
       "languages": [],
@@ -44515,8 +44523,9 @@
       "name": "South Park: Kyle Collection",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-65d88004ec9fda0008a5b8b3.m3u8",
-        "https://jmp2.uk/plu-65d87a908145cb0008265c6d.m3u8"
+        "https://jmp2.uk/plu-65d87a908145cb0008265c6d.m3u8",
+        "https://jmp2.uk/plu-65d882394e01740008a36768.m3u8",
+        "https://jmp2.uk/plu-65d88004ec9fda0008a5b8b3.m3u8"
       ],
       "category": "Kids",
       "languages": [],
@@ -44538,7 +44547,6 @@
       "name": "South Park: Stan Collection",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-65d881914e01740008a36603.m3u8",
         "https://jmp2.uk/plu-65d87f7a28730900088e7fbf.m3u8",
         "https://jmp2.uk/plu-65d879e266eec8000887e91b.m3u8"
       ],
@@ -44573,7 +44581,6 @@
       "name": "SvampeBob Firkant",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-61c09ac98a80a4000703f992.m3u8",
         "https://jmp2.uk/plu-61c1d59a244e500007581861.m3u8"
       ],
       "category": "Kids",
@@ -44608,8 +44615,9 @@
       "name": "Totally Turtles",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
+        "https://jmp2.uk/plu-61c1da718a80a4000704013e.m3u8",
         "https://jmp2.uk/plu-61c0bbd95df1da0007bed5a0.m3u8",
-        "https://jmp2.uk/plu-61c1da718a80a4000704013e.m3u8"
+        "https://jmp2.uk/plu-61c185e36faf920007f04b6e.m3u8"
       ],
       "category": "Kids",
       "languages": [],
@@ -44634,8 +44642,8 @@
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
         "https://jmp2.uk/plu-61c0b9aab7facb0007913908.m3u8",
-        "https://jmp2.uk/plu-61c185049e0bde0007820039.m3u8",
-        "https://jmp2.uk/plu-61c1d9b31a9c310008f8ee57.m3u8"
+        "https://jmp2.uk/plu-61c1d9b31a9c310008f8ee57.m3u8",
+        "https://jmp2.uk/plu-61c185049e0bde0007820039.m3u8"
       ],
       "category": "Kids",
       "languages": [],
@@ -46946,6 +46954,17 @@
       "_category": "iraq"
     },
     {
+      "id": "AlIraqiaSport.iq",
+      "name": "Al Iraqia Sport",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/iq/AlIraqiaSport.iq.png",
+      "streamUrls": [
+        "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8"
+      ],
+      "category": "Iraq",
+      "languages": [],
+      "_category": "iraq"
+    },
+    {
       "id": "3CatCameresdeltemps.es",
       "name": "3Cat Cameres del temps",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/3CatCameresdeltemps.es.png",
@@ -49055,17 +49074,6 @@
       "_category": "russia"
     },
     {
-      "id": "Football.ru",
-      "name": "Football",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Football.ru.png",
-      "streamUrls": [
-        "http://str2.iptvhd.ru:8080/Futbol/index.m3u8"
-      ],
-      "category": "Russia",
-      "languages": [],
-      "_category": "russia"
-    },
-    {
       "id": "Friday.ru",
       "name": "Friday!",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Friday.ru.png",
@@ -49442,8 +49450,8 @@
       "name": "Mir Belogorya",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/MirBelogorya.ru.png",
       "streamUrls": [
-        "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
-        "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8"
+        "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
+        "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8"
       ],
       "category": "Russia",
       "languages": [],
@@ -51945,8 +51953,8 @@
       "name": "Univer TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/UniverTV.ru.png",
       "streamUrls": [
-        "https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8",
-        "https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8"
+        "https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8",
+        "https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8"
       ],
       "country": "RU",
       "category": "Russia",
@@ -52248,8 +52256,8 @@
       "name": "Tochka otryva",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Tochkaotryva.ru.png",
       "streamUrls": [
-        "https://stream8.cinerama.uz/1031/tracks-v1a1/mono.m3u8",
-        "https://fs.uplink.kz/tochka_otriva/mono.m3u8?token=onlinetv"
+        "https://fs.uplink.kz/tochka_otriva/mono.m3u8?token=onlinetv",
+        "https://stream8.cinerama.uz/1031/tracks-v1a1/mono.m3u8"
       ],
       "category": "Russia",
       "languages": [],
@@ -52426,9 +52434,9 @@
       "name": "Bollywood",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Bollywood.ru.png",
       "streamUrls": [
-        "http://str2.iptvhd.ru:8080/Bollywood_HD/index.m3u8",
+        "http://176.118.197.101/Bollywood_HD/index.m3u8",
         "http://str2.iptvhd.ru:8080/bollywood/index.m3u8",
-        "http://176.118.197.101/Bollywood_HD/index.m3u8"
+        "http://str2.iptvhd.ru:8080/Bollywood_HD/index.m3u8"
       ],
       "category": "Russia",
       "languages": [],
@@ -54325,8 +54333,8 @@
       "name": "ETV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/ETV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/ETV/DASH-FTA/ETV.mpd",
-        "https://cdn4.skygo.mn/live/disk1/ETV/HLSv3-FTA/ETV.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/ETV/HLSv3-FTA/ETV.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/ETV/DASH-FTA/ETV.mpd"
       ],
       "category": "News",
       "languages": [],
@@ -55399,8 +55407,8 @@
       "name": "Mongolian News Channel",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/MongolianNewsChannel.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/MNCTV/HLSv3-FTA/MNCTV.m3u8",
-        "https://cdn4.skygo.mn/live/disk1/MNCTV/DASH-FTA/MNCTV.mpd"
+        "https://cdn4.skygo.mn/live/disk1/MNCTV/DASH-FTA/MNCTV.mpd",
+        "https://cdn4.skygo.mn/live/disk1/MNCTV/HLSv3-FTA/MNCTV.m3u8"
       ],
       "category": "News",
       "languages": [],
@@ -57197,17 +57205,6 @@
       "_category": "news"
     },
     {
-      "id": "VerginaTV.gr",
-      "name": "Vergina TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gr/VerginaTV.gr.png",
-      "streamUrls": [
-        "https://verginanews.gr:8443/hls_live/stream1.m3u8"
-      ],
-      "category": "News",
-      "languages": [],
-      "_category": "news"
-    },
-    {
       "id": "Visir.is",
       "name": "Visir",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/is/Visir.is.png",
@@ -58464,17 +58461,6 @@
       "_category": "news"
     },
     {
-      "id": "EkamraBharatOdia.in",
-      "name": "Ekamra Bharat Odia",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://live.ekamraott.com/bharat/bharat/index.m3u8"
-      ],
-      "category": "News",
-      "languages": [],
-      "_category": "news"
-    },
-    {
       "id": "TVRInfo.ro",
       "name": "TVR Info",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ro/TVRInfo.ro.png",
@@ -58958,17 +58944,6 @@
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=365news.pk",
       "streamUrls": [
         "https://cdn4.mjunoon.tv:8087/streamtest/140M/chunks.m3u8"
-      ],
-      "category": "News",
-      "languages": [],
-      "_category": "news"
-    },
-    {
-      "id": "7News.pk",
-      "name": "7 News",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/OneNewsPH_logo.svg/330px-OneNewsPH_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "streamUrls": [
-        "https://sscsott.com/7news/live/index.m3u8"
       ],
       "category": "News",
       "languages": [],
@@ -59833,6 +59808,17 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/Cablenoticias.co.png",
       "streamUrls": [
         "http://181.78.211.244:8005/play/a09u/index.m3u8"
+      ],
+      "category": "News",
+      "languages": [],
+      "_category": "news"
+    },
+    {
+      "id": "TurkHaberTV.tr",
+      "name": "TurkHaber TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/TurkHaberTV.tr.png",
+      "streamUrls": [
+        "https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8"
       ],
       "category": "News",
       "languages": [],
@@ -61587,17 +61573,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cl/CanalISB.cl.png",
       "streamUrls": [
         "https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8"
-      ],
-      "category": "Religious",
-      "languages": [],
-      "_category": "religious"
-    },
-    {
-      "id": "CanalOracionConSon.co",
-      "name": "Canal Oracion Con Son",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/CanalOracionConSon.co.png",
-      "streamUrls": [
-        "https://canal.mediaserver.com.co/live/oracionconson.m3u8"
       ],
       "category": "Religious",
       "languages": [],
@@ -66499,6 +66474,40 @@
       "_category": "religious"
     },
     {
+      "id": "IAmChannel.id",
+      "name": "I Am Channel",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/IAmChannel.id.png",
+      "streamUrls": [
+        "https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist.m3u8"
+      ],
+      "category": "Religious",
+      "languages": [],
+      "_category": "religious"
+    },
+    {
+      "id": "IshtarTV.iq",
+      "name": "Ishtar TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/iq/IshtarTV.iq.png",
+      "streamUrls": [
+        "https://stream.ishtartv.com/live/iShtarHD/playlist.m3u8"
+      ],
+      "category": "Religious",
+      "languages": [],
+      "_category": "religious"
+    },
+    {
+      "id": "MissionTV.us",
+      "name": "Mission TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/MissionTV.us.png",
+      "streamUrls": [
+        "http://stream.missiontv.com:1935/live/missiontv_720p/playlist.m3u8",
+        "https://6096a9cf11ae5.streamlock.net:1943/live/missiontv/playlist.m3u8"
+      ],
+      "category": "Religious",
+      "languages": [],
+      "_category": "religious"
+    },
+    {
       "id": "111TV.it",
       "name": "111 TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/it/111TV.it.png",
@@ -68666,8 +68675,9 @@
       "name": "Central TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/CentralTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/Ekh_Oron/HLSv3-FTA/Ekh_Oron.m3u8",
-        "https://cdn1.skygo.mn/live/disk1/Ekh_Oron/HLS-FTA/Ekh_Oron.m3u8"
+        "https://cdn1.skygo.mn/live/disk1/Ekh_Oron/HLS-FTA/Ekh_Oron.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/Ekh_Oron/DASH-FTA/Ekh_Oron.mpd",
+        "https://cdn4.skygo.mn/live/disk1/Ekh_Oron/HLSv3-FTA/Ekh_Oron.m3u8"
       ],
       "category": "Other",
       "languages": [],
@@ -72916,18 +72926,6 @@
       "_category": "entertainment"
     },
     {
-      "id": "NBCUniverso.us",
-      "name": "NBC Universo",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/NBCUniverso.us.png",
-      "streamUrls": [
-        "http://187.102.210.46/universo/index.m3u8",
-        "http://190.11.225.124:5000/live/universo_hd/playlist.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": [],
-      "_category": "entertainment"
-    },
-    {
       "id": "NBCLX.us",
       "name": "NBCLX",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/NBCLX.us.png",
@@ -77141,17 +77139,6 @@
       "_category": "entertainment"
     },
     {
-      "id": "VerginaTV.gr",
-      "name": "Vergina TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gr/VerginaTV.gr.png",
-      "streamUrls": [
-        "https://verginanews.gr:8443/hls_live/stream1.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": [],
-      "_category": "entertainment"
-    },
-    {
       "id": "ViaAltomayo.pe",
       "name": "Via Altomayo",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pe/ViaAltomayo.pe.png",
@@ -79211,10 +79198,10 @@
     {
       "id": "AreYouTheOne.se",
       "name": "Are You The One?",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/AreYoutheOneLogo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-61c0ac242bb0cf0007015f89.m3u8",
-        "https://jmp2.uk/plu-61c091c39863900007ac9e8f.m3u8"
+        "https://jmp2.uk/plu-61c091c39863900007ac9e8f.m3u8",
+        "https://jmp2.uk/plu-61c0ac242bb0cf0007015f89.m3u8"
       ],
       "category": "Entertainment",
       "languages": [],
@@ -79235,11 +79222,10 @@
     {
       "id": "BestofMTV.se",
       "name": "Best of MTV",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/330px-MTV_Logo_2010.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/330px-MTV_2021_%28brand_version%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
-        "https://jmp2.uk/plu-632aff5e44111b00076ad9b1.m3u8",
-        "https://jmp2.uk/plu-632afdf820e83e000710ea12.m3u8",
-        "https://jmp2.uk/plu-632afc466699570007ed1106.m3u8"
+        "https://jmp2.uk/plu-632afc466699570007ed1106.m3u8",
+        "https://jmp2.uk/plu-632afdf820e83e000710ea12.m3u8"
       ],
       "category": "Entertainment",
       "languages": [],
@@ -79272,8 +79258,6 @@
       "name": "Best of The Drew Barrymore Show",
       "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Drew_Barrymore_Show_logo.svg/330px-Drew_Barrymore_Show_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
-        "https://jmp2.uk/plu-630478cfdb5a4a0007ec255e.m3u8",
-        "https://jmp2.uk/plu-630483153a21200007f1920f.m3u8",
         "https://jmp2.uk/plu-62beb692cda2b10007d5fd76.m3u8"
       ],
       "category": "Entertainment",
@@ -79285,8 +79269,8 @@
       "name": "Camp Kulinaris",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-6400bf66dff38e00083f4ee8.m3u8",
-        "https://jmp2.uk/plu-61c1dce2fb9ae40007d0ac15.m3u8"
+        "https://jmp2.uk/plu-61c1dce2fb9ae40007d0ac15.m3u8",
+        "https://jmp2.uk/plu-6400bf66dff38e00083f4ee8.m3u8"
       ],
       "category": "Entertainment",
       "languages": [],
@@ -79342,8 +79326,7 @@
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
         "https://jmp2.uk/plu-6442512cee6a2f0008d3351f.m3u8",
-        "https://jmp2.uk/plu-64424a1d5a0cd500083ed27c.m3u8",
-        "https://jmp2.uk/plu-64424be3e94c380008d0a66d.m3u8"
+        "https://jmp2.uk/plu-64424a1d5a0cd500083ed27c.m3u8"
       ],
       "category": "Entertainment",
       "languages": [],
@@ -79367,6 +79350,7 @@
       "name": "Jersey Shore Family Vacation",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
+        "https://jmp2.uk/plu-6728c831c7626f0008b28127.m3u8",
         "https://jmp2.uk/plu-6728c8b45534bb0008b31f35.m3u8",
         "https://jmp2.uk/plu-6728c87cc7626f0008b28149.m3u8"
       ],
@@ -79423,8 +79407,7 @@
       "name": "MTV Catfish",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-61781a52a3638a00078fa57e.m3u8",
-        "https://jmp2.uk/plu-6177fe76691b2e000702c7fc.m3u8"
+        "https://jmp2.uk/plu-61781a52a3638a00078fa57e.m3u8"
       ],
       "category": "Entertainment",
       "languages": [],
@@ -79459,9 +79442,9 @@
       "name": "MTV Ex On The Beach",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-61c0909b872c650008ed42e4.m3u8",
         "https://jmp2.uk/plu-61c09072a09bbe00078f5692.m3u8",
-        "https://jmp2.uk/plu-61c1d66518447e000717e4c2.m3u8"
+        "https://jmp2.uk/plu-61c1d66518447e000717e4c2.m3u8",
+        "https://jmp2.uk/plu-61c0909b872c650008ed42e4.m3u8"
       ],
       "category": "Entertainment",
       "languages": [],
@@ -79516,9 +79499,9 @@
       "name": "MTV Reality",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-685139b0f7d8b74b62f41c96.m3u8",
+        "https://jmp2.uk/plu-685137f4a1e091e16f2dd471.m3u8",
         "https://jmp2.uk/plu-68513950f212bedacf8ec48f.m3u8",
-        "https://jmp2.uk/plu-685137f4a1e091e16f2dd471.m3u8"
+        "https://jmp2.uk/plu-685139b0f7d8b74b62f41c96.m3u8"
       ],
       "category": "Entertainment",
       "languages": [],
@@ -79577,7 +79560,8 @@
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
         "https://jmp2.uk/plu-61c1df62b7672a0007b6c9ba.m3u8",
-        "https://jmp2.uk/plu-61c092157e1b8b0007372a35.m3u8"
+        "https://jmp2.uk/plu-61c092157e1b8b0007372a35.m3u8",
+        "https://jmp2.uk/plu-61c09342b3a6230007a45119.m3u8"
       ],
       "category": "Entertainment",
       "languages": [],
@@ -79588,7 +79572,6 @@
       "name": "MTV The Hills",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-61c08d7c73bdb800070eef0a.m3u8",
         "https://jmp2.uk/plu-61c1d56f28e94c0007827bdb.m3u8",
         "https://jmp2.uk/plu-61c09039ebd75200072587f9.m3u8"
       ],
@@ -79601,7 +79584,6 @@
       "name": "Paradise",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-6380c73f76e43f000721f73b.m3u8",
         "https://jmp2.uk/plu-629e095e511d4b00070c9f44.m3u8"
       ],
       "category": "Entertainment",
@@ -79613,8 +79595,8 @@
       "name": "Paradise Hotel",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-61c1db901346480007b7c345.m3u8",
         "https://jmp2.uk/plu-61c19af83fae0a00078c8918.m3u8",
+        "https://jmp2.uk/plu-61c1db901346480007b7c345.m3u8",
         "https://jmp2.uk/plu-61c18e1e0cd4cc00076bc4b3.m3u8"
       ],
       "category": "Entertainment",
@@ -79626,7 +79608,6 @@
       "name": "Pimp My Ride",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-61c1d6e1f5acaf0007f8381d.m3u8",
         "https://jmp2.uk/plu-61c09a3894aa450007814aea.m3u8",
         "https://jmp2.uk/plu-61c091343bf4940007803e03.m3u8"
       ],
@@ -79707,8 +79688,9 @@
       "name": "The Daily Show",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-65c0978360eb870008bc9d5b.m3u8",
-        "https://jmp2.uk/plu-65c0973311ced7000808d255.m3u8"
+        "https://jmp2.uk/plu-65c096d23ba51e0008305a75.m3u8",
+        "https://jmp2.uk/plu-65c0973311ced7000808d255.m3u8",
+        "https://jmp2.uk/plu-65c0978360eb870008bc9d5b.m3u8"
       ],
       "category": "Entertainment",
       "languages": [],
@@ -79720,6 +79702,7 @@
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
         "https://jmp2.uk/plu-69afeefa0a7f2095e768401c.m3u8",
+        "https://jmp2.uk/plu-69afef233bd16a4ed07108e9.m3u8",
         "https://jmp2.uk/plu-69afef4b0306b277744de1e4.m3u8"
       ],
       "category": "Entertainment",
@@ -80001,7 +79984,7 @@
       "name": "TV9",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/TV9.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/TV9HD/HLSv3-FTA/TV9HD.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/TV9HD/DASH-FTA/TV9HD.mpd"
       ],
       "country": "MN",
       "category": "Entertainment",
@@ -81174,10 +81157,8 @@
     {
       "id": "MTVDating.se",
       "name": "MTV Dating",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/330px-MTV_Hits_2021.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/330px-MTV_2021_%28brand_version%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
-        "https://jmp2.uk/plu-6851407c21f49d1b9d177493.m3u8",
-        "https://jmp2.uk/plu-685140bd21f49d1b9d177e21.m3u8",
         "https://jmp2.uk/plu-685140f121f49d1b9d178249.m3u8"
       ],
       "country": "SE",
@@ -82244,7 +82225,7 @@
     {
       "id": "Frasier.se",
       "name": "Frasier",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Frasier_title_logo.svg/330px-Frasier_title_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "https://jmp2.uk/plu-6400c095498393000878a634.m3u8"
       ],
@@ -82696,17 +82677,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/ColorsRishteyAmericas.in.png",
       "streamUrls": [
         "https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": [],
-      "_category": "entertainment"
-    },
-    {
-      "id": "OnePaschima.in",
-      "name": "One Paschima",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://live.ekamraott.com/onepaschima/onepaschima/index.m3u8"
       ],
       "category": "Entertainment",
       "languages": [],
@@ -84520,7 +84490,7 @@
       "name": "Ulzii TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/UlziiTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/UlziiTV/DASH-FTA/UlziiTV.mpd"
+        "https://cdn4.skygo.mn/live/disk1/UlziiTV/HLSv3-FTA/UlziiTV.m3u8"
       ],
       "country": "MN",
       "category": "Entertainment",
@@ -85298,7 +85268,6 @@
       "name": "Edutainment TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/EdutainmentTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/Education/HLSv3-FTA/Education.m3u8",
         "https://cdn4.skygo.mn/live/disk1/Education/DASH-FTA/Education.mpd"
       ],
       "category": "Entertainment",
@@ -86486,8 +86455,8 @@
       "name": "Ray TV HD",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=raynewsdaily.com",
       "streamUrls": [
-        "https://streaming.tvnepal.com:19360/raynewsdaily/720p.m3u8",
-        "https://streaming.tvnepal.com:19360/raynewsdaily/480p.m3u8"
+        "https://streaming.tvnepal.com:19360/raynewsdaily/480p.m3u8",
+        "https://streaming.tvnepal.com:19360/raynewsdaily/720p.m3u8"
       ],
       "country": "NP",
       "category": "Entertainment",
@@ -86863,7 +86832,7 @@
       "name": "Star TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/StarTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd"
+        "https://cdn4.skygo.mn/live/disk1/Star/HLSv3-FTA/Star.m3u8"
       ],
       "country": "MN",
       "category": "Entertainment",
@@ -86899,8 +86868,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/TopGear.uk.png",
       "streamUrls": [
         "https://jmp2.uk/plu-638e10220aa6a6000726979f.m3u8",
-        "https://jmp2.uk/plu-64c1093824ade50008bd117f.m3u8",
-        "https://jmp2.uk/plu-620234d766314700075cac86.m3u8"
+        "https://jmp2.uk/plu-620239894757070008d4812d.m3u8",
+        "https://jmp2.uk/plu-64c109a4798def0008a6e03e.m3u8"
       ],
       "category": "Entertainment",
       "languages": [],
@@ -87065,8 +87034,8 @@
       "name": "D3 TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ml/D3TV.ml.png",
       "streamUrls": [
-        "https://lbgo.bozztv.com/ssh101/ssh101/d3tvnet/playlist.m3u8",
-        "https://live20.bozztv.com/akamaissh101/ssh101/d3tvnet/playlist.m3u8"
+        "https://live20.bozztv.com/akamaissh101/ssh101/d3tvnet/playlist.m3u8",
+        "https://lbgo.bozztv.com/ssh101/ssh101/d3tvnet/playlist.m3u8"
       ],
       "category": "Entertainment",
       "languages": [],
@@ -87078,6 +87047,29 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": [],
+      "_category": "entertainment"
+    },
+    {
+      "id": "AnadoluNetTV.tr",
+      "name": "Anadolu Net TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/AnadoluNetTV.tr.png",
+      "streamUrls": [
+        "https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": [],
+      "_category": "entertainment"
+    },
+    {
+      "id": "ITV.ua",
+      "name": "ITV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/ITV.ua.png",
+      "streamUrls": [
+        "http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8",
+        "https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8"
       ],
       "category": "Entertainment",
       "languages": [],
@@ -87677,6 +87669,17 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/MusicInformationChannel.id.png",
       "streamUrls": [
         "https://mic.siar.us/mic/live/mic.m3u8"
+      ],
+      "category": "Indonesia",
+      "languages": [],
+      "_category": "indonesia"
+    },
+    {
+      "id": "IAmChannel.id",
+      "name": "I Am Channel",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/IAmChannel.id.png",
+      "streamUrls": [
+        "https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist.m3u8"
       ],
       "category": "Indonesia",
       "languages": [],
@@ -91466,6 +91469,17 @@
       "_category": "italy"
     },
     {
+      "id": "50Canale.it",
+      "name": "50 Canale",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/it/50Canale.it.png",
+      "streamUrls": [
+        "https://load-balancer.azotosolutions.com/cdnedge37/canale50/playlist.m3u8"
+      ],
+      "category": "Italy",
+      "languages": [],
+      "_category": "italy"
+    },
+    {
       "id": "MaahTV.my",
       "name": "Maah TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/my/MaahTV.my.png",
@@ -91723,17 +91737,6 @@
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=365news.pk",
       "streamUrls": [
         "https://cdn4.mjunoon.tv:8087/streamtest/140M/chunks.m3u8"
-      ],
-      "category": "Pakistan",
-      "languages": [],
-      "_category": "pakistan"
-    },
-    {
-      "id": "7News.pk",
-      "name": "7 News",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/OneNewsPH_logo.svg/330px-OneNewsPH_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "streamUrls": [
-        "https://sscsott.com/7news/live/index.m3u8"
       ],
       "category": "Pakistan",
       "languages": [],
@@ -93172,6 +93175,6 @@
       "_category": "south_korea"
     }
   ],
-  "count": 8248,
-  "generated_at": "2026-09-25T09:24:05.622725"
+  "count": 8249,
+  "generated_at": "2026-09-25T16:37:03.372200"
 }

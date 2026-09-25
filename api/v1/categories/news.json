@@ -1505,8 +1505,8 @@
       "name": "ETV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/ETV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/ETV/DASH-FTA/ETV.mpd",
-        "https://cdn4.skygo.mn/live/disk1/ETV/HLSv3-FTA/ETV.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/ETV/HLSv3-FTA/ETV.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/ETV/DASH-FTA/ETV.mpd"
       ],
       "category": "News",
       "languages": []
@@ -2486,8 +2486,8 @@
       "name": "Mongolian News Channel",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/MongolianNewsChannel.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/MNCTV/HLSv3-FTA/MNCTV.m3u8",
-        "https://cdn4.skygo.mn/live/disk1/MNCTV/DASH-FTA/MNCTV.mpd"
+        "https://cdn4.skygo.mn/live/disk1/MNCTV/DASH-FTA/MNCTV.mpd",
+        "https://cdn4.skygo.mn/live/disk1/MNCTV/HLSv3-FTA/MNCTV.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -4128,16 +4128,6 @@
       "languages": []
     },
     {
-      "id": "VerginaTV.gr",
-      "name": "Vergina TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gr/VerginaTV.gr.png",
-      "streamUrls": [
-        "https://verginanews.gr:8443/hls_live/stream1.m3u8"
-      ],
-      "category": "News",
-      "languages": []
-    },
-    {
       "id": "Visir.is",
       "name": "Visir",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/is/Visir.is.png",
@@ -5282,16 +5272,6 @@
       "languages": []
     },
     {
-      "id": "EkamraBharatOdia.in",
-      "name": "Ekamra Bharat Odia",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://live.ekamraott.com/bharat/bharat/index.m3u8"
-      ],
-      "category": "News",
-      "languages": []
-    },
-    {
       "id": "TVRInfo.ro",
       "name": "TVR Info",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ro/TVRInfo.ro.png",
@@ -5732,16 +5712,6 @@
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=365news.pk",
       "streamUrls": [
         "https://cdn4.mjunoon.tv:8087/streamtest/140M/chunks.m3u8"
-      ],
-      "category": "News",
-      "languages": []
-    },
-    {
-      "id": "7News.pk",
-      "name": "7 News",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/OneNewsPH_logo.svg/330px-OneNewsPH_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "streamUrls": [
-        "https://sscsott.com/7news/live/index.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -6531,8 +6501,18 @@
       ],
       "category": "News",
       "languages": []
+    },
+    {
+      "id": "TurkHaberTV.tr",
+      "name": "TurkHaber TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/TurkHaberTV.tr.png",
+      "streamUrls": [
+        "https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8"
+      ],
+      "category": "News",
+      "languages": []
     }
   ],
-  "count": 628,
-  "generated_at": "2026-09-25T09:24:05.848710"
+  "count": 626,
+  "generated_at": "2026-09-25T16:37:03.555557"
 }
