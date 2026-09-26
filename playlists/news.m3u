@@ -1,4 +1,8 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/bd.xml" url-tvg="https://iptv-org.github.io/epg/guides/in.xml" url-tvg="https://iptv-org.github.io/epg/guides/us.xml" url-tvg="https://iptv-org.github.io/epg/guides/gb.xml" url-tvg="https://iptv-org.github.io/epg/guides/ae.xml" url-tvg="https://iptv-org.github.io/epg/guides/pk.xml" url-tvg="https://iptv-org.github.io/epg/guides/au.xml" url-tvg="https://iptv-org.github.io/epg/guides/de.xml" url-tvg="https://iptv-org.github.io/epg/guides/fr.xml" url-tvg="https://iptv-org.github.io/epg/guides/it.xml" url-tvg="https://iptv-org.github.io/epg/guides/es.xml" url-tvg="https://iptv-org.github.io/epg/guides/br.xml" url-tvg="https://iptv-org.github.io/epg/guides/tr.xml" url-tvg="https://iptv-org.github.io/epg/guides/sa.xml" refresh="3600"
+#EXTINF:-1 tvg-id="24Horas.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/24Horas.es.png" group-title="News [HD]",24 Horas [HD]
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 tvg-id="24HorasCatalunya.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/24HorasCatalunya.es.png" group-title="News [HD]",24 Horas Catalunya [HD]
+https://ztnr.rtve.es/ztnr/4952053.m3u8
 #EXTINF:-1 tvg-id="24News.in" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/24News.in.png" group-title="News [SD]",24 News [SD]
 https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
 #EXTINF:-1 tvg-id="24TV.tr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/24TV.tr.png" group-title="News",24 TV
@@ -78,11 +82,11 @@ https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8
 #EXTINF:-1 tvg-id="AlJazeera2.qa" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/qa/AlJazeera2.qa.png" group-title="News [FHD]",Al Jazeera 2 [FHD]
 https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraMubasher.qa" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/qa/AlJazeeraMubasher.qa.png" group-title="News [FHD]",Al Jazeera Mubasher [FHD]
-https://live-hls-web-ajm-fa.thehlive.com/AJM/index.m3u8
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraMubasher24.qa" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/qa/AlJazeeraMubasher24.qa.png" group-title="News [FHD]",Al Jazeera Mubasher 24 [FHD]
-https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8
+https://live-hls-web-ajm24-fa.getaj.net/AJM24/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraMubasherBroadcast2.qa" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/qa/AlJazeeraMubasherBroadcast2.qa.png" group-title="News [FHD]",Al Jazeera Mubasher Broadcast 2 [FHD]
-https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8
+https://live-hls-web-ajm2-fa.getaj.net/AJM2/index.m3u8
 #EXTINF:-1 tvg-id="AlMasarTV.ly" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ly/AlMasarTV.ly.png" group-title="News",Al Masar TV
 https://starmenajo.com/hls/almasar/index.m3u8
 #EXTINF:-1 tvg-id="AlMasirah.ye" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ye/AlMasirah.ye.png" group-title="News [FHD]",Al Masirah [FHD]
@@ -128,9 +132,9 @@ https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
 #EXTINF:-1 tvg-id="AtacamaNoticias.cl" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cl/AtacamaNoticias.cl.png" group-title="News [FHD]",Atacama Noticias [FHD]
 https://v2.tustreaming.cl/atacamanoticias/index.m3u8
 #EXTINF:-1 tvg-id="BBCArabic.uk" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/BBCArabic.uk.png" group-title="News [SD]",BBC Arabic [SD]
-https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/BBCNews.uk.png" group-title="News [HD]",BBC News [HD]
-https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/hevc_iptv_mse_v0.mpd
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
 #EXTINF:-1 tvg-id="BBCPersian.uk" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/BBCPersian.uk.png" group-title="News [SD]",BBC Persian [SD]
 https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-id="BEKNews.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/BEKNews.us.png" group-title="News [HD]",BEK News [HD]
@@ -214,7 +218,7 @@ https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 #EXTINF:-1 tvg-id="CNA.sg" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/sg/CNA.sg.png" group-title="News [SD]",CNA [SD]
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="CNBCUK.uk" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/CNBCUK.uk.png" group-title="News [SD]",CNBC UK [SD]
-https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
+https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CNews.fr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/fr/CNews.fr.png" group-title="News [SD]",CNews [SD]
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3u8
 #EXTINF:-1 tvg-id="CT24.cz" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cz/CT24.cz.png" group-title="News",CT24
@@ -277,10 +281,14 @@ http://118.107.85.4:1935/live/smil:DNTV1.smil/chunklist.m3u8
 https://live.dottotv.ro/index.m3u8
 #EXTINF:-1 tvg-id="DunyaNews.pk" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pk/DunyaNews.pk.png" group-title="News [HD]",Dunya News [HD]
 https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
+#EXTINF:-1 tvg-id="ERTNews.gr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gr/ERTNews.gr.png" group-title="News [SD]",ERT News [SD]
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8
 #EXTINF:-1 tvg-id="ETV.mn" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/ETV.mn.png" group-title="News [SD]",ETV [SD]
 https://cdn4.skygo.mn/live/disk1/ETV/DASH-FTA/ETV.mpd
 #EXTINF:-1 tvg-id="ETVNews.in" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/ETVNews.in.png" group-title="News [FHD]",ETV News [FHD]
 https://cc-3448kp65yhc5w.akamaized.net/WWBI/Amagi/ETV_News_IN/playlist.m3u8
+#EXTINF:-1 tvg-id="EagleNews.mn" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/EagleNews.mn.png" group-title="News [SD]",Eagle News [SD]
+https://cdn4.skygo.mn/live/disk1/Eagle/HLSv3-FTA/Eagle.m3u8
 #EXTINF:-1 tvg-id="EcotelTV.ec" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ec/EcotelTV.ec.png" group-title="News",Ecotel TV
 https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 #EXTINF:-1 tvg-id="EgnatiaTV.gr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gr/EgnatiaTV.gr.png" group-title="News [SD]",Egnatia TV [SD]
@@ -313,6 +321,8 @@ https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/play
 http://62.1.176.18:8888/extra/index.m3u8
 #EXTINF:-1 tvg-id="FREEDOM.ua" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/FREEDOM.ua.png" group-title="News",FREEDOM
 https://dash2.antik.sk/live/test_uatv/playlist.m3u8
+#EXTINF:-1 tvg-id="FirstChannelNews.am" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/am/FirstChannelNews.am.png" group-title="News [SD]",First Channel News [SD]
+https://amtvusdvr.tulix.tv/am3abr/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/FoxNewsChannel.us.png" group-title="News [SD]",Fox News Channel [SD]
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 #EXTINF:-1 tvg-id="FoxNewsRadio.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/FoxNewsRadio.us.png" group-title="News [HD]",Fox News Radio [HD]
@@ -382,7 +392,7 @@ https://livehub-voidnet.onrender.com/cluster/streamcore/in/INDIATODAY_StreamOrch
 #EXTINF:-1 tvg-id="InformatiaTV.ro" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ro/InformatiaTV.ro.png" group-title="News",Informatia TV
 https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8
 #EXTINF:-1 tvg-id="IranInternational.uk" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/IranInternational.uk.png" group-title="News [HD]",Iran International [HD]
-https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
+https://live.livetvstream.co.uk/LS-63503-4/index.m3u8
 #EXTINF:-1 tvg-id="Izvestia.ru" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Izvestia.ru.png" group-title="News [FHD]",Izvestia [FHD]
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:-1 tvg-id="JanamTV.in" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/JanamTV.in.png" group-title="News [SD]",Janam TV [SD]
@@ -394,7 +404,7 @@ https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="KTV2.kw" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/kw/KTV2.kw.png" group-title="News [SD]",KTV 2 [SD]
 https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="KTVNews.kw" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/kw/KTVNews.kw.png" group-title="News [SD]",KTV News [SD]
-https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8
+https://cdn-globecast.akamaized.net/live/eds/ktv_al_akhbar/hls_roku/ktv_al_akhbar.m3u8
 #EXTINF:-1 tvg-id="KairaliNews.in" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/KairaliNews.in.png" group-title="News [SD]",Kairali News [SD]
 https://cdn-3.pishow.tv/live/1469/master.m3u8
 #EXTINF:-1 tvg-id="KalingaTV.in" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/KalingaTV.in.png" group-title="News [SD]",Kalinga TV [SD]
@@ -440,9 +450,9 @@ https://mmtvnews1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab
 #EXTINF:-1 tvg-id="MathrubhumiNews.in" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/MathrubhumiNews.in.png" group-title="News [SD]",Mathrubhumi News [SD]
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mathrubhuminews_nim_https/110322/mathrubhuminews/playlist.m3u8
 #EXTINF:-1 tvg-id="Medi1TVAfrique.ma" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ma/Medi1TVAfrique.ma.png" group-title="News [SD]",Medi1TV Afrique [SD]
-https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist.m3u8
+https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="Medi1TVArabic.ma" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ma/Medi1TVArabic.ma.png" group-title="News [SD]",Medi1TV Arabic [SD]
-https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist.m3u8
+https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="Medi1TVMaghreb.ma" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ma/Medi1TVMaghreb.ma.png" group-title="News [SD]",Medi1TV Maghreb [SD]
 https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="MediaOne.in" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/MediaOne.in.png" group-title="News [SD]",Media One [SD]
@@ -595,12 +605,14 @@ https://cdn-3.pishow.tv/live/439/master.m3u8
 https://pnt.janusmedia.tv/hls/pnt.m3u8
 #EXTINF:-1 tvg-id="PuthiyaThalaimurai.in" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/PuthiyaThalaimurai.in.png" group-title="News [SD]",Puthiya Thalaimurai [SD]
 https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
+#EXTINF:-1 tvg-id="QTV1.cn" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cn/QTV1.cn.png" group-title="News",QTV-1
+http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
 #EXTINF:-1 tvg-id="RCVTV.hn" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/hn/RCVTV.hn.png" group-title="News [FHD]",RCV TV [FHD]
 https://59d39900ebfb8.streamlock.net/rcv/rcv/playlist.m3u8
 #EXTINF:-1 tvg-id="RDN.do" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/RDN.do.png" group-title="News",RDN
 https://edge.essastream.com/rdntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RNN.do" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/RNN.do.png" group-title="News [HD]",RNN [HD]
-https://2-fss-2.streamhoster.com/pl_138/206532-6829912-1/playlist.m3u8
+https://2-fss-2.streamhoster.com/pl_138/206532-6829902-1/playlist.m3u8
 #EXTINF:-1 tvg-id="RPPTV.pe" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pe/RPPTV.pe.png" group-title="News [SD]",RPP TV [SD]
 http://190.93.224.42/RPP/index.m3u8
 #EXTINF:-1 tvg-id="RSelvaTV.pe" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pe/RSelvaTV.pe.png" group-title="News [HD]",RSelvaTV [HD]
@@ -686,7 +698,7 @@ https://mumbai-edge.smartplaytv.in/SwatantraTV/index.m3u8
 #EXTINF:-1 tvg-id="Syri.al" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/al/Syri.al.png" group-title="News",Syri
 https://stream.syritv.al/live/syritv/playlist.m3u8
 #EXTINF:-1 tvg-id="SyriaTV.sy" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/sy/SyriaTV.sy.png" group-title="News [HD]",Syria TV [HD]
-https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6017
 #EXTINF:-1 tvg-id="TNews.in" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/TNews.in.png" group-title="News [SD]",T News [SD]
 https://cdn-1.pishow.tv/live/385/master.m3u8
 #EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/TGRTHaber.tr.png" group-title="News",TGRT Haber
@@ -695,8 +707,6 @@ https://canli.tgrthaber.com/tgrt.m3u8
 https://server.thelegitpro.in/tnpnews/tnpnews/index.m3u8
 #EXTINF:-1 tvg-id="TODAYAllDay.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/TODAYAllDay.us.png" group-title="News [SD]",TODAY All Day [SD]
 https://d37kx062o4ii0p.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="TOIGlobal.in" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/TOIGlobal.in.png" group-title="News [HD]",TOI Global [HD]
-https://live.sli.ke/live/npnhm84gz9/master.m3u8
 #EXTINF:-1 tvg-id="TRT.gr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gr/TRT.gr.png" group-title="News",TRT
 https://av.hellasnet.tv/rst/trt/main_stream.m3u8
 #EXTINF:-1 tvg-id="TRTArabi.tr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/TRTArabi.tr.png" group-title="News [FHD]",TRT Arabi [FHD]
@@ -739,8 +749,6 @@ https://cdn-3.pishow.tv/live/1612/master.m3u8
 https://thefirst-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TheYoungTurks.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/TheYoungTurks.us.png" group-title="News [SD]",The Young Turks [SD]
 https://amg01220-amg01220c1-firetv-us-5111.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TimesBrasil.br" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/TimesBrasil.br.png" group-title="News [HD]",Times Brasil [HD]
-https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8
 #EXTINF:-1 tvg-id="TimesNowNavbharat.in" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/TimesNowNavbharat.in.png" group-title="News [SD]",Times Now Navbharat [SD]
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/TimesNowNavbharat.m3u8
 #EXTINF:-1 tvg-id="Tolk.ru" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Tolk.ru.png" group-title="News [HD]",Tolk [HD]
@@ -892,13 +900,13 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnew
 #EXTINF:-1 tvg-id="CRTVNews.cm" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cm/CRTVNews.cm.png" group-title="News [FHD]",CRTV News [FHD]
 https://live1.acangroup.org:1929/publiclive/crtv_news/playlist.m3u8
 #EXTINF:-1 tvg-id="LatinaNoticias247.pe" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=latina.pe" group-title="News [FHD]",Latina Noticias 24/7 [FHD]
-https://dai.google.com/linear/hls/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AL24News.dz" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/dz/AL24News.dz.png" group-title="News",AL24 News
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_240p/chunks.m3u8
 #EXTINF:-1 tvg-id="EuroTV.gr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gr/EuroTV.gr.png" group-title="News [SD]",Euro TV [SD]
 https://lbgo.bozztv.com/ssh101/ssh101/eurotvlive/playlist.m3u8
 #EXTINF:-1 tvg-id="i24NEWSArabic.il" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/il/i24NEWSArabic.il.png" group-title="News [SD]",i24NEWS Arabic [SD]
-https://hlspackager.akamaized.net/live/DB/i24_ARABIC/HLS/i24_ARABIC.m3u8
+https://i24newsarabic-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-id="T13EnVivo.cl" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=t13.cl" group-title="News [HD]",T13 En Vivo [HD]
 https://redirector.dps.live/hls/t13/playlist.m3u8
 #EXTINF:-1 tvg-id="AgroMais.br" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/AgroMais.br.png" group-title="News [HD]",AgroMais [HD]
@@ -929,12 +937,8 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/play
 https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8
 #EXTINF:-1 tvg-id="VEJAPlusTV.br" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=veja.abril.com.br" group-title="News [HD]",VEJA+ TV [HD]
 https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8
-#EXTINF:-1 tvg-id="MyUkrainaTV.ua" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/MyUkrainaTV.ua.png" group-title="News [FHD]",My-Ukraina TV [FHD]
-http://stream.mcquack.net/442/index.m3u8
 #EXTINF:-1 tvg-id="NewsoftheWorld.us" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=newsoftheworld.us" group-title="News [FHD]",News of the World [FHD]
 https://live.nowtelly.com/now_usa/live_usa/playlist.m3u8
-#EXTINF:-1 tvg-id="OstWest24.de" tvg-logo="https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png" group-title="News [FHD]",Ost West 24 [FHD]
-http://stream.mcquack.net/455/index.m3u8
 #EXTINF:-1 tvg-id="TCM10HD.br" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/TCM10HD.br.png" group-title="News [HD]",TCM 10 HD [HD]
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
 #EXTINF:-1 tvg-id="AsharqRadio.sa" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/sa/AsharqRadio.sa.png" group-title="News [FHD]",Asharq Radio [FHD]
@@ -1050,7 +1054,7 @@ https://www.desde-paraguay.com/mega.m3u8
 #EXTINF:-1 tvg-id="TeleCauquenes.cl" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cl/TeleCauquenes.cl.png" group-title="News [HD]",TeleCauquenes [HD]
 https://lbgo.bozztv.com/ssh101/ssh101/telecauquenestv/playlist.m3u8
 #EXTINF:-1 tvg-id="HalabTodayTV.sy" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/sy/HalabTodayTV.sy.png" group-title="News [FHD]",Halab Today TV [FHD]
-https://mn-nl.mncdn.com/halabtoday/livestream/index.m3u8
+https://halabtoday-live.lg.mncdn.com/halabtoday/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/247CanaldeNoticias.ar.png" group-title="News [HD]",24/7 Canal de Noticias [HD]
 https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
 #EXTINF:-1 tvg-id="Crimea24.ru" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Crimea24.ru.png" group-title="News [SD]",Crimea 24 [SD]
@@ -1225,22 +1229,20 @@ https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlis
 http://181.78.211.244:8005/play/a09u/index.m3u8
 #EXTINF:-1 tvg-id="TurkHaberTV.tr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/TurkHaberTV.tr.png" group-title="News [FHD]",TurkHaber TV [FHD]
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="24HorasCatalunya.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/24HorasCatalunya.es.png" group-title="News [HD]",24 Horas Catalunya [HD]
-https://ztnr.rtve.es/ztnr/4952053.m3u8
-#EXTINF:-1 tvg-id="ERTNews.gr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gr/ERTNews.gr.png" group-title="News [SD]",ERT News [SD]
-https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8
-#EXTINF:-1 tvg-id="EagleNews.mn" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/EagleNews.mn.png" group-title="News [SD]",Eagle News [SD]
-https://cdn4.skygo.mn/live/disk1/Eagle/HLSv3-FTA/Eagle.m3u8
-#EXTINF:-1 tvg-id="FirstChannelNews.am" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/am/FirstChannelNews.am.png" group-title="News [SD]",First Channel News [SD]
-https://amtvusdvr.tulix.tv/am3abr/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="TVPWorld.pl" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/TVPWorld.pl.png" group-title="News",TVP World
+https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
 #EXTINF:-1 tvg-id="Makan33.il" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/il/Makan33.il.png" group-title="News [SD]",Makan 33 [SD]
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="MongolianNewsChannel.mn" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/MongolianNewsChannel.mn.png" group-title="News [SD]",Mongolian News Channel [SD]
 https://cdn4.skygo.mn/live/disk1/MNCTV/DASH-FTA/MNCTV.mpd
-#EXTINF:-1 tvg-id="QTV1.cn" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cn/QTV1.cn.png" group-title="News",QTV-1
-http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
-#EXTINF:-1 tvg-id="24Horas.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/24Horas.es.png" group-title="News [HD]",24 Horas [HD]
-https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 tvg-id="TOIGlobal.in" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/TOIGlobal.in.png" group-title="News [HD]",TOI Global [HD]
+https://live.sli.ke/live/npnhm84gz9/master.m3u8
+#EXTINF:-1 tvg-id="TimesBrasil.br" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/TimesBrasil.br.png" group-title="News [HD]",Times Brasil [HD]
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8
+#EXTINF:-1 tvg-id="MyUkrainaTV.ua" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/MyUkrainaTV.ua.png" group-title="News [FHD]",My-Ukraina TV [FHD]
+http://stream.mcquack.net/442/index.m3u8
+#EXTINF:-1 tvg-id="OstWest24.de" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/TV2_regions.png/330px-TV2_regions.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail" group-title="News [FHD]",Ost West 24 [FHD]
+http://stream.mcquack.net/455/index.m3u8
 #EXTINF:-1 tvg-id="MaanTV.ps" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ps/MaanTV.ps.png" group-title="News [HD]",Ma'an TV [HD]
 https://htvmada.mada.ps:4443/maannews/index.m3u8
 #EXTINF:-1 tvg-id="NewsNation81.in" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Doordarshan_Bhawan%2C_Copernicus_Marg%2C_Delhi.jpg/330px-Doordarshan_Bhawan%2C_Copernicus_Marg%2C_Delhi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail" group-title="News [FHD]",News Nation 81 [FHD]
