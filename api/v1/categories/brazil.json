@@ -161,9 +161,7 @@
       "name": "Jovem Pan News",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/JovemPanNews.br.png",
       "streamUrls": [
-        "http://186.219.52.187/jp_news/index.m3u8",
-        "http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8",
-        "https://jmp2.uk/plu-6317ba014d4d040007227f72.m3u8"
+        "http://186.219.52.187/jp_news/index.m3u8"
       ],
       "category": "Brazil",
       "languages": []
@@ -213,9 +211,9 @@
       "name": "Play TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/PlayTV.br.png",
       "streamUrls": [
-        "http://45.177.114.115/PLAY_TV/index.m3u8",
         "http://168.197.104.22/PLAY_TV/index.m3u8",
-        "http://45.162.64.114/PLAY_TV/index.m3u8"
+        "http://45.162.64.114/PLAY_TV/index.m3u8",
+        "https://isaocorp.cloudecast.com/playtv/index.m3u8"
       ],
       "category": "Brazil",
       "languages": []
@@ -312,7 +310,7 @@
       "streamUrls": [
         "http://45.177.114.115/TV_APARECIDA_HD/index.m3u8",
         "http://168.197.104.22/TV_APARECIDA/index.m3u8",
-        "http://170.83.49.66:8083/TVAPARECIDAHD/index.m3u8"
+        "http://170.83.16.50/TV_APARECIDA/index.m3u8"
       ],
       "category": "Brazil",
       "languages": []
@@ -366,7 +364,7 @@
       "streamUrls": [
         "http://168.197.104.22/CANCAO_NOVA/index.m3u8",
         "http://186.219.52.187/cancao_nova/index.m3u8",
-        "http://45.162.64.114/CANCAO_NOVA/index.m3u8"
+        "http://170.83.16.50/CANCAO_NOVA/index.m3u8"
       ],
       "category": "Brazil",
       "languages": []
@@ -571,7 +569,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/RITTV.br.png",
       "streamUrls": [
         "http://45.177.114.115/RIT_TV/index.m3u8",
-        "http://170.83.49.66:8083/RITHD/index.m3u8",
         "https://acesso.ecast.site:3648/live/ritlive.m3u8"
       ],
       "category": "Brazil",
@@ -612,6 +609,7 @@
       "name": "Band Sports",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/BandSports.br.png",
       "streamUrls": [
+        "http://170.83.16.50/BAND_SPORTS/index.m3u8",
         "http://45.162.64.114/BAND_SPORTS/index.m3u8",
         "http://170.83.49.66:8083/BANDSPORTSHD/index.m3u8"
       ],
@@ -635,7 +633,7 @@
       "streamUrls": [
         "http://45.177.114.115/BAND_NEWS/index.m3u8",
         "http://168.197.104.22/BAND_NEWS/index.m3u8",
-        "http://45.162.64.114/BAND_NEWS/index.m3u8"
+        "http://170.83.16.50/BAND_NEWS/index.m3u8"
       ],
       "category": "Brazil",
       "languages": []
@@ -647,7 +645,7 @@
       "streamUrls": [
         "http://45.177.114.115/ARTE1/index.m3u8",
         "http://168.197.104.22/ARTE1/index.m3u8",
-        "http://45.162.64.114/ARTE1/index.m3u8"
+        "http://170.83.16.50/ARTE_1/index.m3u8"
       ],
       "category": "Brazil",
       "languages": []
@@ -657,9 +655,9 @@
       "name": "WooHoo",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/WooHoo.br.png",
       "streamUrls": [
-        "http://168.197.104.22/WOOHOO/index.m3u8",
+        "http://170.83.16.50/WOOHOO/index.m3u8",
         "http://186.219.52.187/woohoo/index.m3u8",
-        "http://45.162.64.114/WOOHOO/index.m3u8"
+        "http://168.197.104.22/WOOHOO/index.m3u8"
       ],
       "category": "Brazil",
       "languages": []
@@ -730,8 +728,8 @@
       "name": "AgroCanal",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/AgroCanal.br.png",
       "streamUrls": [
-        "http://168.197.104.22/AGRO_CANAL/index.m3u8",
         "http://186.219.52.187/agro_canal/index.m3u8",
+        "http://168.197.104.22/AGRO_CANAL/index.m3u8",
         "http://45.162.64.114/AGRO_CANAL/index.m3u8"
       ],
       "category": "Brazil",
@@ -755,6 +753,7 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/CanalFutura.br.png",
       "streamUrls": [
         "http://186.219.52.187/futura/index.m3u8",
+        "http://170.83.16.50/FUTURA/index.m3u8",
         "http://45.162.64.114/FUTURA/index.m3u8"
       ],
       "category": "Brazil",
@@ -766,8 +765,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/CanaldoBoi.br.png",
       "streamUrls": [
         "http://168.197.104.22/CANAL_DO_BOI/index.m3u8",
-        "http://186.219.52.187/canal_do_boi/index.m3u8",
-        "http://45.162.64.114/CANAL_DO_BOI/index.m3u8"
+        "http://170.83.16.50/CANAL_DO_BOI/index.m3u8",
+        "http://186.219.52.187/canal_do_boi/index.m3u8"
       ],
       "category": "Brazil",
       "languages": []
@@ -789,6 +788,7 @@
       "name": "Fish TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/FishTV.br.png",
       "streamUrls": [
+        "http://170.83.16.50/FISH_TV/index.m3u8",
         "http://168.197.104.22/FISH_TV/index.m3u8",
         "http://45.162.64.114/FISH_TV/index.m3u8"
       ],
@@ -800,7 +800,8 @@
       "name": "History",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/History.br.png",
       "streamUrls": [
-        "http://45.177.114.114/HISTORY/index.m3u8"
+        "http://45.177.114.114/HISTORY/index.m3u8",
+        "http://170.83.16.50/HISTORY/index.m3u8"
       ],
       "category": "Brazil",
       "languages": []
@@ -822,9 +823,9 @@
       "name": "TV Gazeta",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/TVGazeta.br.png",
       "streamUrls": [
-        "http://168.197.104.22/GAZETA/index.m3u8",
         "http://186.219.52.187/gazeta/index.m3u8",
-        "http://45.162.64.114/GAZETA/index.m3u8"
+        "http://168.197.104.22/GAZETA/index.m3u8",
+        "http://45.162.64.114/TV_GAZETA/index.m3u8"
       ],
       "category": "Brazil",
       "languages": []
@@ -834,9 +835,9 @@
       "name": "TV Justica",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/TVJustica.br.png",
       "streamUrls": [
-        "http://168.197.104.22/TV_JUSTICA/index.m3u8",
         "http://186.219.52.187/tv_justica/index.m3u8",
-        "http://45.162.64.114/TV_JUSTICA/index.m3u8"
+        "http://168.197.104.22/TV_JUSTICA/index.m3u8",
+        "http://170.83.16.50/TV_JUSTICA/index.m3u8"
       ],
       "category": "Brazil",
       "languages": []
@@ -846,8 +847,8 @@
       "name": "TV Pai Eterno",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/TVPaiEterno.br.png",
       "streamUrls": [
-        "http://186.219.52.187/pai_eterno/index.m3u8",
         "http://168.197.104.22/TV_PAI_ETERNO/index.m3u8",
+        "http://186.219.52.187/pai_eterno/index.m3u8",
         "http://45.162.64.114/TV_PAI_ETERNO/index.m3u8"
       ],
       "category": "Brazil",
@@ -858,8 +859,8 @@
       "name": "TV Ra Tim Bum",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/TVRaTimBum.br.png",
       "streamUrls": [
-        "http://45.177.114.115/TV_RA_TIM_BUM/index.m3u8",
         "http://168.197.104.22/RA_TIM_BUM/index.m3u8",
+        "http://45.177.114.115/TV_RA_TIM_BUM/index.m3u8",
         "http://186.219.52.187/ratimbum/index.m3u8"
       ],
       "category": "Brazil",
@@ -870,9 +871,9 @@
       "name": "Terra Viva",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/TerraViva.br.png",
       "streamUrls": [
-        "https://9ada494d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfVXBseW5rLU5ld2NvX0hMUw/playlist.m3u8",
         "http://45.177.114.115/TERRAVIVA/index.m3u8",
-        "http://168.197.104.22/TERRAVIVA/index.m3u8"
+        "http://168.197.104.22/TERRAVIVA/index.m3u8",
+        "http://170.83.16.50/TERRA_VIVA/index.m3u8"
       ],
       "category": "Brazil",
       "languages": []
@@ -902,9 +903,9 @@
       "name": "TV Senado",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/TVSenado.br.png",
       "streamUrls": [
+        "http://170.83.16.50/TV_SENADO/index.m3u8",
         "http://168.197.104.22/TV_SENADO/index.m3u8",
-        "http://186.219.52.187/tv_senado/index.m3u8",
-        "http://45.162.64.114/TV_SENADO/index.m3u8"
+        "http://186.219.52.187/tv_senado/index.m3u8"
       ],
       "category": "Brazil",
       "languages": []
@@ -916,7 +917,7 @@
       "streamUrls": [
         "http://45.177.114.115/SONY_MOVIES/index.m3u8",
         "http://168.197.104.22/SONY_MOVIES/index.m3u8",
-        "http://45.162.64.114/SONY_MOVIES/index.m3u8"
+        "http://170.83.16.50/SONY_MOVIES/index.m3u8"
       ],
       "category": "Brazil",
       "languages": []
@@ -961,6 +962,7 @@
       "name": "AXN",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/AXN.br.png",
       "streamUrls": [
+        "http://170.83.16.50/AXN/index.m3u8",
         "http://170.83.49.66:8083/AXNHD/index.m3u8"
       ],
       "country": "BR",
@@ -1033,7 +1035,7 @@
     {
       "id": "CanalUOL.br",
       "name": "Canal UOL",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Globoplay_Novelas_2025_%28Solid%29.svg/330px-Globoplay_Novelas_2025_%28Solid%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=uol.com.br",
       "streamUrls": [
         "https://video24.mais.uol.com.br/live/6146.m3u8"
       ],
@@ -1098,8 +1100,7 @@
       "name": "Futura",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/Futura.br.png",
       "streamUrls": [
-        "http://168.197.104.22/FUTURA/index.m3u8",
-        "http://170.83.49.66:8083/FUTURAHD/index.m3u8"
+        "http://168.197.104.22/FUTURA/index.m3u8"
       ],
       "country": "BR",
       "category": "Brazil",
@@ -1351,5 +1352,5 @@
     }
   ],
   "count": 127,
-  "generated_at": "2026-09-26T09:08:44.191732"
+  "generated_at": "2026-09-26T15:51:01.218002"
 }

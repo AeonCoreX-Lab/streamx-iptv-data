@@ -6,8 +6,8 @@
       "name": "24 TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/24TV.tr.png",
       "streamUrls": [
-        "https://turkmedya-live.ercdn.net/tv24/tv24.m3u8",
-        "https://tv.ensonhaber.com/tv24/tv24.m3u8"
+        "https://tv.ensonhaber.com/tv24/tv24.m3u8",
+        "https://turkmedya-live.ercdn.net/tv24/tv24.m3u8"
       ],
       "category": "Turkey",
       "languages": []
@@ -47,7 +47,8 @@
       "name": "ATV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/ATV.tr.png",
       "streamUrls": [
-        "http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8"
+        "http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8",
+        "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8"
       ],
       "category": "Turkey",
       "languages": []
@@ -702,8 +703,8 @@
       "name": "Power TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/PowerTV.tr.png",
       "streamUrls": [
-        "https://live.artidijitalmedya.com/artidijital_powertv/powertv/playlist.m3u8",
-        "https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8"
+        "https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8",
+        "https://live.artidijitalmedya.com/artidijital_powertv/powertv/playlist.m3u8"
       ],
       "category": "Turkey",
       "languages": []
@@ -917,6 +918,7 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/TRTWorld.tr.png",
       "streamUrls": [
         "https://tv-trtworld.medya.trt.com.tr/master.m3u8",
+        "https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8",
         "https://mumbai-edge.smartplaytv.in/TRTWorld/index.m3u8"
       ],
       "category": "Turkey",
@@ -1343,8 +1345,18 @@
       ],
       "category": "Turkey",
       "languages": []
+    },
+    {
+      "id": "MTurkTV.tr",
+      "name": "MTurk TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/MTurkTV.tr.png",
+      "streamUrls": [
+        "https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8"
+      ],
+      "category": "Turkey",
+      "languages": []
     }
   ],
-  "count": 133,
-  "generated_at": "2026-09-26T09:08:44.163243"
+  "count": 134,
+  "generated_at": "2026-09-26T15:51:01.104002"
 }

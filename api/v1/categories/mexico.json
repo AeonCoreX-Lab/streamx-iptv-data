@@ -350,8 +350,8 @@
       "name": "Teleplay Sureste",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/TeleplaySureste.mx.png",
       "streamUrls": [
-        "https://player.tvstream.mx/livestream/teleplay/livesd/playlist.m3u8",
-        "https://player.tvstream.mx/livestream/teleplay/livehd/playlist.m3u8"
+        "https://player.tvstream.mx/livestream/teleplay/livehd/playlist.m3u8",
+        "https://player.tvstream.mx/livestream/teleplay/livesd/playlist.m3u8"
       ],
       "category": "Mexico",
       "languages": []
@@ -452,8 +452,8 @@
       "name": "Imagen TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/ImagenTV.mx.png",
       "streamUrls": [
-        "https://igd-it-runtime.otteravision.com/igd/it/it.m3u8",
-        "https://jmp2.uk/plu-64e35aff6b1fdb0008ea8441.m3u8"
+        "https://jmp2.uk/plu-64e35aff6b1fdb0008ea8441.m3u8",
+        "https://igd-it-runtime.otteravision.com/igd/it/it.m3u8"
       ],
       "category": "Mexico",
       "languages": []
@@ -483,6 +483,7 @@
       "name": "Univision Latin America",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/UnivisionLatinAmerica.mx.png",
       "streamUrls": [
+        "http://15.204.246.24:8080/UnivisionHD/index.m3u8",
         "http://138.121.15.230:9002/UNIVISION/index.m3u8",
         "http://190.93.224.42/UNIVISION/index.m3u8"
       ],
@@ -515,8 +516,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/LasEstrellasLatinAmerica.mx.png",
       "streamUrls": [
         "http://15.204.246.24:8080/LasEstrellasHD/index.m3u8",
-        "http://190.93.224.42/CANAL-LAS-ESTRELLAS/index.m3u8",
-        "http://138.121.15.230:9002/LAS-ESTRELLAS/index.m3u8"
+        "http://138.121.15.230:9002/LAS-ESTRELLAS/index.m3u8",
+        "http://190.93.224.42/CANAL-LAS-ESTRELLAS/index.m3u8"
       ],
       "category": "Mexico",
       "languages": []
@@ -819,8 +820,19 @@
       ],
       "category": "Mexico",
       "languages": []
+    },
+    {
+      "id": "TransmediaTelevisionMorelia.mx",
+      "name": "Transmedia Television Morelia",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/TransmediaTelevisionMorelia.mx.png",
+      "streamUrls": [
+        "http://streamingcws20.com:1935/tmtv/videotmtv/playlist.m3u8"
+      ],
+      "country": "MX",
+      "category": "Mexico",
+      "languages": []
     }
   ],
-  "count": 80,
-  "generated_at": "2026-09-26T09:08:44.204262"
+  "count": 81,
+  "generated_at": "2026-09-26T15:51:01.305969"
 }

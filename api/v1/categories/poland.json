@@ -200,8 +200,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/TOPBarca.pl.png",
       "streamUrls": [
         "https://amg17560-fcb-amg17560c1-samsung-gb-9839.playouts.now.amagi.tv/playlist.m3u8",
-        "https://jmp2.uk/plu-6793ac47f5c74bff95d18a99.m3u8",
-        "https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8"
+        "https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8",
+        "https://jmp2.uk/plu-6793ac47f5c74bff95d18a99.m3u8"
       ],
       "category": "Poland",
       "languages": []
@@ -352,7 +352,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/PixelTV.pl.png",
       "streamUrls": [
         "https://jmp2.uk/plu-66bb36e03a4ad200082bb8fe.m3u8",
-        "https://jmp2.uk/plu-66bb374ba4ee27000841a62c.m3u8"
+        "https://jmp2.uk/plu-66bb374ba4ee27000841a62c.m3u8",
+        "https://jmp2.uk/plu-62790dc1c733e8000733ba4d.m3u8"
       ],
       "category": "Poland",
       "languages": []
@@ -362,8 +363,8 @@
       "name": "FILMBOX+ Emotion",
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
-        "http://88.212.15.19/live/test_filmbox_extra_hd_hun_atk_1200/playlist.m3u8",
         "http://88.212.15.19/live/test_film_boxextra_hd_hevc/playlist.m3u8",
+        "http://88.212.15.19/live/test_filmbox_extra_hd_hun_atk_1200/playlist.m3u8",
         "https://webtvstream.bhtelecom.ba/filmbox_extra.m3u8"
       ],
       "category": "Poland",
@@ -387,7 +388,7 @@
       "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/DTX_Logo.png/330px-DTX_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "http://88.212.15.19/live/fb_premium_hungary/index.m3u8",
-        "http://88.212.15.19/live/test_film_boxpremium_hd_hevc/playlist.m3u8",
+        "https://webtvstream.bhtelecom.ba/filmbox_premium.m3u8",
         "https://nosignal1.antenaplay.ro/hls/fb-hits-sd/index.m3u8"
       ],
       "category": "Poland",
@@ -411,7 +412,7 @@
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg/330px-Crime_%2B_Investigation_Logo_10.2019.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "http://46.149.191.219:9100/play/a015",
-        "http://88.212.15.19/live/test_filmbox/playlist.m3u8",
+        "http://88.212.15.19/live/test_filmbox_plus_hun_atk_1200/playlist.m3u8",
         "https://atlantida1.aquax1.cfd/fboz/usergendx7tc9brnd.m3u8"
       ],
       "category": "Poland",
@@ -542,8 +543,29 @@
       ],
       "category": "Poland",
       "languages": []
+    },
+    {
+      "id": "TVPWorld.pl",
+      "name": "TVP World",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/TVPWorld.pl.png",
+      "streamUrls": [
+        "https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8"
+      ],
+      "country": "PL",
+      "category": "Poland",
+      "languages": []
+    },
+    {
+      "id": "TelewizjaLuban.pl",
+      "name": "Telewizja Luban",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/TelewizjaLuban.pl.png",
+      "streamUrls": [
+        "http://stream.herissons.cloud/hls/tvluban.m3u8"
+      ],
+      "category": "Poland",
+      "languages": []
     }
   ],
-  "count": 52,
-  "generated_at": "2026-09-26T09:08:44.159645"
+  "count": 54,
+  "generated_at": "2026-09-26T15:51:01.082184"
 }
