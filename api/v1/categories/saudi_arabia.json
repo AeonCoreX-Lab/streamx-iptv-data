@@ -36,8 +36,8 @@
       "name": "Al Ekhbariya",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/sa/AlEkhbariya.sa.png",
       "streamUrls": [
-        "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8",
-        "https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8"
+        "https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8",
+        "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8"
       ],
       "category": "Saudi Arabia",
       "languages": []
@@ -47,9 +47,9 @@
       "name": "Al Hadath",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/sa/AlHadath.sa.png",
       "streamUrls": [
-        "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8",
         "https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
-        "https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8"
+        "https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
+        "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8"
       ],
       "category": "Saudi Arabia",
       "languages": []
@@ -80,8 +80,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/sa/AlSaudiya.sa.png",
       "streamUrls": [
         "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8",
-        "https://cdn-globecast.akamaized.net/live/eds/saudi_tv/hls_roku/index.m3u8",
-        "https://list.iptvcat.com/my_list/s/c40a8dcdb403912a5a3d6a2a7b6be679.m3u8"
+        "https://list.iptvcat.com/my_list/s/c40a8dcdb403912a5a3d6a2a7b6be679.m3u8",
+        "https://cdn-globecast.akamaized.net/live/eds/saudi_tv/hls_roku/index.m3u8"
       ],
       "category": "Saudi Arabia",
       "languages": []
@@ -132,8 +132,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/sa/AsharqNews.sa.png",
       "streamUrls": [
         "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-asharq/10ae30c64e21402c8116a7fb1e5aa789/index.m3u8",
-        "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/manifest.mpd",
-        "https://live-news.asharq.com/asharq.m3u8"
+        "https://live-news.asharq.com/asharq.m3u8",
+        "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/manifest.mpd"
       ],
       "category": "Saudi Arabia",
       "languages": []
@@ -143,8 +143,8 @@
       "name": "Atfal & Mawaheb TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/sa/AtfalMawahebTV.sa.png",
       "streamUrls": [
-        "https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8",
-        "https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8"
+        "https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8",
+        "https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8"
       ],
       "category": "Saudi Arabia",
       "languages": []
@@ -355,8 +355,8 @@
       "name": "MBC Mood",
       "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/MBC_Group_Logo.svg/330px-MBC_Group_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
-        "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-mood/78367bf48ccdba501d0d014a10c21031/index.m3u8",
-        "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8"
+        "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8",
+        "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-mood/78367bf48ccdba501d0d014a10c21031/index.m3u8"
       ],
       "category": "Saudi Arabia",
       "languages": []
@@ -400,8 +400,18 @@
       ],
       "category": "Saudi Arabia",
       "languages": []
+    },
+    {
+      "id": "HolyQuranRadio.sa",
+      "name": "Holy Quran Radio",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=radioplus.sba.sa",
+      "streamUrls": [
+        "https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8"
+      ],
+      "category": "Saudi Arabia",
+      "languages": []
     }
   ],
-  "count": 39,
-  "generated_at": "2026-09-26T22:23:00.872942"
+  "count": 40,
+  "generated_at": "2026-09-27T03:49:54.805585"
 }
