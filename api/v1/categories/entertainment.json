@@ -1963,7 +1963,8 @@
       "name": "Central TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/CentralTV.mn.png",
       "streamUrls": [
-        "https://cdn1.skygo.mn/live/disk1/Ekh_Oron/HLS-FTA/Ekh_Oron.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/Ekh_Oron/HLSv3-FTA/Ekh_Oron.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/Ekh_Oron/DASH-FTA/Ekh_Oron.mpd"
       ],
       "category": "Other",
       "languages": []
@@ -9488,6 +9489,7 @@
       "name": "UBS",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/UBS.mn.png",
       "streamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/UBSHD/HLSv3-FTA/UBSHD.m3u8",
         "https://cdn4.skygo.mn/live/disk1/UBSHD/DASH-FTA/UBSHD.mpd"
       ],
       "category": "Other",
@@ -10385,16 +10387,6 @@
       "streamUrls": [
         "http://vps.chasquirouter.com/salida/ozono.m3u8",
         "https://live-evg8.tv360.bitel.com.pe/bitel/ozonotv/playlist.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
-      "id": "PointeTV.ag",
-      "name": "Pointe TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ag/PointeTV.ag.png",
-      "streamUrls": [
-        "https://tv.pointville.ag/hls/mystream.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -11448,7 +11440,6 @@
       "name": "Are You The One?",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-61c1db8ed6d97900076ea15c.m3u8",
         "https://jmp2.uk/plu-61c0ac242bb0cf0007015f89.m3u8"
       ],
       "category": "Entertainment",
@@ -11470,8 +11461,9 @@
       "name": "Best of MTV",
       "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/330px-MTV_2021_%28brand_version%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
+        "https://jmp2.uk/plu-632afc466699570007ed1106.m3u8",
         "https://jmp2.uk/plu-632afdf820e83e000710ea12.m3u8",
-        "https://jmp2.uk/plu-632afc466699570007ed1106.m3u8"
+        "https://jmp2.uk/plu-632aff5e44111b00076ad9b1.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -11563,9 +11555,9 @@
       "name": "Geordie Shore",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
+        "https://jmp2.uk/plu-64424be3e94c380008d0a66d.m3u8",
         "https://jmp2.uk/plu-64424a1d5a0cd500083ed27c.m3u8",
-        "https://jmp2.uk/plu-6442512cee6a2f0008d3351f.m3u8",
-        "https://jmp2.uk/plu-64424be3e94c380008d0a66d.m3u8"
+        "https://jmp2.uk/plu-6442512cee6a2f0008d3351f.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -11575,8 +11567,8 @@
       "name": "Jersey Shore",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-64424c1be94c380008d0a98c.m3u8",
         "https://jmp2.uk/plu-6442508e5a0cd500083edd3c.m3u8",
+        "https://jmp2.uk/plu-64424c1be94c380008d0a98c.m3u8",
         "https://jmp2.uk/plu-64424b21e1979c0008379681.m3u8"
       ],
       "category": "Entertainment",
@@ -11639,8 +11631,9 @@
       "name": "MTV Catfish",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-61780d4267bf4d00077ddd73.m3u8",
-        "https://jmp2.uk/plu-6177fe76691b2e000702c7fc.m3u8"
+        "https://jmp2.uk/plu-61781a52a3638a00078fa57e.m3u8",
+        "https://jmp2.uk/plu-6177fe76691b2e000702c7fc.m3u8",
+        "https://jmp2.uk/plu-61780d4267bf4d00077ddd73.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -11674,8 +11667,9 @@
       "name": "MTV Ex On The Beach",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-61c1d66518447e000717e4c2.m3u8",
-        "https://jmp2.uk/plu-61c09072a09bbe00078f5692.m3u8"
+        "https://jmp2.uk/plu-61c0909b872c650008ed42e4.m3u8",
+        "https://jmp2.uk/plu-61c09072a09bbe00078f5692.m3u8",
+        "https://jmp2.uk/plu-61c1d66518447e000717e4c2.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -11725,9 +11719,9 @@
       "name": "MTV Reality",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
+        "https://jmp2.uk/plu-685137f4a1e091e16f2dd471.m3u8",
         "https://jmp2.uk/plu-685139b0f7d8b74b62f41c96.m3u8",
-        "https://jmp2.uk/plu-68513950f212bedacf8ec48f.m3u8",
-        "https://jmp2.uk/plu-685137f4a1e091e16f2dd471.m3u8"
+        "https://jmp2.uk/plu-68513950f212bedacf8ec48f.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -11748,8 +11742,8 @@
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
         "https://jmp2.uk/plu-62cda0dfddc1040008fccacc.m3u8",
-        "https://jmp2.uk/plu-62cd9e0d10bb020007005628.m3u8",
-        "https://jmp2.uk/plu-62cd9641393d8400076f34db.m3u8"
+        "https://jmp2.uk/plu-62cd9641393d8400076f34db.m3u8",
+        "https://jmp2.uk/plu-62cd9e0d10bb020007005628.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -11781,7 +11775,6 @@
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
         "https://jmp2.uk/plu-61c092157e1b8b0007372a35.m3u8",
-        "https://jmp2.uk/plu-61c1df62b7672a0007b6c9ba.m3u8",
         "https://jmp2.uk/plu-61c09342b3a6230007a45119.m3u8"
       ],
       "category": "Entertainment",
@@ -11792,8 +11785,9 @@
       "name": "MTV The Hills",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
+        "https://jmp2.uk/plu-61c08d7c73bdb800070eef0a.m3u8",
         "https://jmp2.uk/plu-61c09039ebd75200072587f9.m3u8",
-        "https://jmp2.uk/plu-61c08d7c73bdb800070eef0a.m3u8"
+        "https://jmp2.uk/plu-61c1d56f28e94c0007827bdb.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -11803,8 +11797,8 @@
       "name": "Paradise",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-6380c73f76e43f000721f73b.m3u8",
-        "https://jmp2.uk/plu-629e095e511d4b00070c9f44.m3u8"
+        "https://jmp2.uk/plu-629e095e511d4b00070c9f44.m3u8",
+        "https://jmp2.uk/plu-6380c73f76e43f000721f73b.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -11814,9 +11808,8 @@
       "name": "Paradise Hotel",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-61c19af83fae0a00078c8918.m3u8",
         "https://jmp2.uk/plu-61c18e1e0cd4cc00076bc4b3.m3u8",
-        "https://jmp2.uk/plu-61c1db901346480007b7c345.m3u8"
+        "https://jmp2.uk/plu-61c19af83fae0a00078c8918.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -11826,9 +11819,9 @@
       "name": "Pimp My Ride",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-61c1d6e1f5acaf0007f8381d.m3u8",
+        "https://jmp2.uk/plu-61c091343bf4940007803e03.m3u8",
         "https://jmp2.uk/plu-61c09a3894aa450007814aea.m3u8",
-        "https://jmp2.uk/plu-61c091343bf4940007803e03.m3u8"
+        "https://jmp2.uk/plu-61c1d6e1f5acaf0007f8381d.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -11899,7 +11892,8 @@
       "name": "The Daily Show",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-65c0973311ced7000808d255.m3u8"
+        "https://jmp2.uk/plu-65c0973311ced7000808d255.m3u8",
+        "https://jmp2.uk/plu-65c0978360eb870008bc9d5b.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -11909,6 +11903,8 @@
       "name": "The Millers",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
+        "https://jmp2.uk/plu-69afef4b0306b277744de1e4.m3u8",
+        "https://jmp2.uk/plu-69afeefa0a7f2095e768401c.m3u8",
         "https://jmp2.uk/plu-69afef233bd16a4ed07108e9.m3u8"
       ],
       "category": "Entertainment",
@@ -13193,8 +13189,8 @@
       "name": "MTV Dating",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-685140f121f49d1b9d178249.m3u8",
-        "https://jmp2.uk/plu-685140bd21f49d1b9d177e21.m3u8"
+        "https://jmp2.uk/plu-685140bd21f49d1b9d177e21.m3u8",
+        "https://jmp2.uk/plu-685140f121f49d1b9d178249.m3u8"
       ],
       "country": "SE",
       "category": "Entertainment",
@@ -17764,10 +17760,9 @@
     {
       "id": "RayTVHD.np",
       "name": "Ray TV HD",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/330px-TBS_2020.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=raynewsdaily.com",
       "streamUrls": [
-        "https://streaming.tvnepal.com:19360/raynewsdaily/480p.m3u8",
-        "https://streaming.tvnepal.com:19360/raynewsdaily/720p.m3u8"
+        "https://streaming.tvnepal.com:19360/raynewsdaily/480p.m3u8"
       ],
       "country": "NP",
       "category": "Entertainment",
@@ -18539,7 +18534,8 @@
       "name": "Ve Plus",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ve/VePlus.ve.png",
       "streamUrls": [
-        "http://190.61.114.186:8000/play/a03i/index.m3u8"
+        "http://190.61.114.186:8000/play/a03i/index.m3u8",
+        "http://186.148.196.100:8000/play/a01d"
       ],
       "category": "Entertainment",
       "languages": []
@@ -18775,8 +18771,61 @@
       ],
       "category": "Entertainment",
       "languages": []
+    },
+    {
+      "id": "SBN.mn",
+      "name": "SBN",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/SBN.mn.png",
+      "streamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/SBN/HLSv3-FTA/SBN.m3u8"
+      ],
+      "country": "MN",
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "CEACOMTV.bo",
+      "name": "CEACOM TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bo/CEACOMTV.bo.png",
+      "streamUrls": [
+        "https://eu1.servers10.com:8081/ceacom/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "TVWEST.ng",
+      "name": "TV-WEST",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=tvwest.ng",
+      "streamUrls": [
+        "https://tv-west.lg.mncdn.com/tv_west/tv_west.stream/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "TeleRegencyTV.ng",
+      "name": "Tele Regency TV",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/b/bb/Three_NZ_2023.svg/330px-Three_NZ_2023.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "streamUrls": [
+        "https://streams.playtv.com.ng/Tele-Regency_TRTV/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "Teleislas.co",
+      "name": "Teleislas",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/Teleislas.co.png",
+      "streamUrls": [
+        "http://190.61.47.54:8000/play/a015/index.m3u8",
+        "http://181.78.211.244:8005/play/a08d/index.m3u8",
+        "https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
     }
   ],
-  "count": 1828,
-  "generated_at": "2026-09-29T10:25:37.357875"
+  "count": 1832,
+  "generated_at": "2026-09-29T17:42:08.812916"
 }
