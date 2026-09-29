@@ -8564,7 +8564,9 @@
       "name": "TV8",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/TV8.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/TV8HD/HLSv3-FTA/TV8HD.m3u8"
+        "https://cdn1.skygo.mn/live/disk1/TV8HD/HLS-FTA/TV8HD.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/TV8HD/HLSv3-FTA/TV8HD.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/TV8HD/DASH-FTA/TV8HD.mpd"
       ],
       "category": "News",
       "languages": []
@@ -13858,16 +13860,6 @@
       "languages": []
     },
     {
-      "id": "Canal7Neuquen.ar",
-      "name": "Canal 7 Neuquen",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/Canal7Neuquen.ar.png",
-      "streamUrls": [
-        "https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "RalyTV.mx",
       "name": "Raly TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/RalyTV.mx.png",
@@ -16142,16 +16134,6 @@
       "languages": []
     },
     {
-      "id": "Oruzhie.ru",
-      "name": "Oruzhie",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Oruzhie.ru.png",
-      "streamUrls": [
-        "https://fs.uplink.kz/oruzhie/mono.m3u8?token=onlinetv"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "RumboMineroTV.pe",
       "name": "Rumbo Minero TV",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=rumbominero.com",
@@ -17021,16 +17003,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/DhohoTV.id.png",
       "streamUrls": [
         "https://dhohotv.siar.us/dhohotv/live/playlist.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
-      "id": "KCTV.kr",
-      "name": "KCTV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/kr/KCTV.kr.png",
-      "streamUrls": [
-        "http://119.77.96.184:1935/chn05/chn05/playlist.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -18038,17 +18010,6 @@
       "languages": []
     },
     {
-      "id": "StarTV.mn",
-      "name": "Star TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/StarTV.mn.png",
-      "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd"
-      ],
-      "country": "MN",
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "MTVRocks.us",
       "name": "MTV Rocks",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
@@ -18600,16 +18561,6 @@
       "languages": []
     },
     {
-      "id": "RedTVEVentanas.ec",
-      "name": "Red TVE Ventanas",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ec/RedTVEVentanas.ec.png",
-      "streamUrls": [
-        "https://s2.tvdatta.com:3825/live/redtvelive.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "SurenaTV.cl",
       "name": "Surena TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cl/SurenaTV.cl.png",
@@ -18731,16 +18682,6 @@
       "languages": []
     },
     {
-      "id": "PolsatReality.pl",
-      "name": "Polsat Reality",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/PolsatReality.pl.png",
-      "streamUrls": [
-        "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatReality.stream/playlist.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "VH1QueensofReality.us",
       "name": "VH1 Queens of Reality",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
@@ -18809,6 +18750,36 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/SIPSETV81.mx.png",
       "streamUrls": [
         "https://webprod.sipse.com.mx:8080/show/merida.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "FX2.ir",
+      "name": "FX 2",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ir/FX2.ir.png",
+      "streamUrls": [
+        "https://toonixhls.wns.live/hls/stream.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "OndaTV.pe",
+      "name": "Onda TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pe/OndaTV.pe.png",
+      "streamUrls": [
+        "https://live-evg5.tv360.bitel.com.pe/bitel/onda/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "RBATV.br",
+      "name": "RBATV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/RBATV.br.png",
+      "streamUrls": [
+        "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
