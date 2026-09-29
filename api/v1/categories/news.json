@@ -1505,6 +1505,7 @@
       "name": "ETV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/ETV.mn.png",
       "streamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/ETV/HLSv3-FTA/ETV.m3u8",
         "https://cdn4.skygo.mn/live/disk1/ETV/DASH-FTA/ETV.mpd"
       ],
       "category": "News",
@@ -4359,16 +4360,6 @@
       "languages": []
     },
     {
-      "id": "eTvRete7.it",
-      "name": "eTv Rete 7",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/it/eTvRete7.it.png",
-      "streamUrls": [
-        "https://live.ipstream.it/etv/etv.stream/playlist.m3u8"
-      ],
-      "category": "News",
-      "languages": []
-    },
-    {
       "id": "tv9Telemaremma.it",
       "name": "tv9 Telemaremma",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/it/tv9Telemaremma.it.png",
@@ -5282,16 +5273,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/PSNCanal452.mx.png",
       "streamUrls": [
         "https://srspsn2.live/live/livestream.m3u8"
-      ],
-      "category": "News",
-      "languages": []
-    },
-    {
-      "id": "MSNOW.us",
-      "name": "MS NOW",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/MSNOW.us.png",
-      "streamUrls": [
-        "https://tvsen6.aynaott.com/msnbc/index.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -6300,8 +6281,8 @@
       "name": "Palitra News",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ge/PalitraNews.ge.png",
       "streamUrls": [
-        "https://live.palitranews.ge/hls/palitratv/index.m3u8",
-        "https://livestream.palitra.ge/hls/palitratv/index.m3u8"
+        "https://livestream.palitra.ge/hls/palitratv/index.m3u8",
+        "https://live.palitranews.ge/hls/palitratv/index.m3u8"
       ],
       "country": "GE",
       "category": "News",
@@ -6457,8 +6438,18 @@
       ],
       "category": "News",
       "languages": []
+    },
+    {
+      "id": "SuchTV.pk",
+      "name": "Such TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pk/SuchTV.pk.png",
+      "streamUrls": [
+        "https://video.primexsports.com/suchnews/live/playlist.m3u8"
+      ],
+      "category": "News",
+      "languages": []
     }
   ],
-  "count": 621,
-  "generated_at": "2026-09-28T19:21:22.058367"
+  "count": 620,
+  "generated_at": "2026-09-29T00:12:17.523511"
 }
