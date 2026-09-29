@@ -96,7 +96,7 @@ http://92.63.196.180:8080/live/74173747597177/7vfxky4rjx3j/10209.m3u8?token=Q0Fa
 #EXTINF:-1 tvg-id="TVKStella.pl" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/TVKStella.pl.png" group-title="Poland",TVK Stella
 https://stream.tvkstella.pl/stella/stella.m3u8
 #EXTINF:-1 tvg-id="TwojaTV.pl" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/TwojaTV.pl.png" group-title="Poland [HD]",Twoja.TV [HD]
-https://stream.twoja.tv/ttv_hls/live_720p/index.m3u8
+https://stream.twoja.tv/ttv_hls/live.m3u8
 #EXTINF:-1 tvg-id="DiscoPoloMusic.pl" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/DiscoPoloMusic.pl.png" group-title="Poland [SD]",Disco Polo Music [SD]
 http://185.227.34.179:8080/disco-polo-music/index.m3u8
 #EXTINF:-1 tvg-id="TelewizjaRelax.pl" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/TelewizjaRelax.pl.png" group-title="Poland [HD]",Telewizja Relax [HD]
@@ -107,6 +107,14 @@ https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
 http://stream.herissons.cloud/hls/tvluban.m3u8
 #EXTINF:-1 tvg-id="BTB.pl" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/BTB.pl.png" group-title="Poland",BTB
 https://emisja.btb.j00r.us/iptv/session/1/hls.m3u8
+#EXTINF:-1 tvg-id="TVPRozrywka.pl" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/TVPRozrywka.pl.png" group-title="Poland [SD]",TVP Rozrywka [SD]
+http://185.227.34.179:8080/tvp-rozrywka/index.m3u8
+#EXTINF:-1 tvg-id="PolsatFilm2.pl" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/PolsatFilm2.pl.png" group-title="Poland [HD]",Polsat Film 2 [HD]
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatFilm2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="PolsatReality.pl" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/PolsatReality.pl.png" group-title="Poland [HD]",Polsat Reality [HD]
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatReality.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="PolsatX.pl" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/PolsatX.pl.png" group-title="Poland [HD]",Polsat X [HD]
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatX.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="EskaTV.pl" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/EskaTV.pl.png" group-title="Poland [HD]",Eska TV [HD]
 https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_eskatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="EskaTVExtra.pl" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/EskaTVExtra.pl.png" group-title="Poland [HD]",Eska TV Extra [HD]
@@ -119,17 +127,7 @@ https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatPlay.stream/playlist.m3u8
 https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_TVPHD.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPKultura.pl" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/TVPKultura.pl.png" group-title="Poland [HD]",TVP Kultura [HD]
 https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_TVPKultura.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPRozrywka.pl" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/TVPRozrywka.pl.png" group-title="Poland [SD]",TVP Rozrywka [SD]
-http://185.227.34.179:8080/tvp-rozrywka/index.m3u8
 #EXTINF:-1 tvg-id="TVPSeriale.pl" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/TVPSeriale.pl.png" group-title="Poland [HD]",TVP Seriale [HD]
 https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_TVPSERIALE.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalZEROTV.pl" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/KanalZEROTV.pl.png" group-title="Poland",Kanal ZERO TV
 https://racitonsen.s.gy/ZERO_PL
-#EXTINF:-1 tvg-id="PolsatFilm2.pl" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/PolsatFilm2.pl.png" group-title="Poland [HD]",Polsat Film 2 [HD]
-https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatFilm2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="PolsatReality.pl" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/PolsatReality.pl.png" group-title="Poland [HD]",Polsat Reality [HD]
-https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatReality.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="PolsatX.pl" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/PolsatX.pl.png" group-title="Poland [HD]",Polsat X [HD]
-https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatX.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="4FunKids.pl" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/4FunKids.pl.png" group-title="Poland",4 Fun Kids
-https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8
