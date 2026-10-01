@@ -884,16 +884,6 @@
       "languages": []
     },
     {
-      "id": "CopticTV.eg",
-      "name": "Coptic TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/eg/CopticTV.eg.png",
-      "streamUrls": [
-        "https://ctv.icopts.app/CTV/index.fmp4.m3u8"
-      ],
-      "category": "Religious",
-      "languages": []
-    },
-    {
       "id": "CornerstoneTV.us",
       "name": "Cornerstone TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/CornerstoneTV.us.png",
@@ -1153,8 +1143,8 @@
       "name": "Enlace",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cr/Enlace.cr.png",
       "streamUrls": [
-        "http://138.121.15.230:9002/ENLACE/index.m3u8",
         "http://177.234.247.66:9975/Enlace/index.m3u8",
+        "http://138.121.15.230:9002/ENLACE/index.m3u8",
         "http://187.102.208.209:8000/play/a0ae/index.m3u8"
       ],
       "category": "Religious",
@@ -1296,7 +1286,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/GODTV.uk.png",
       "streamUrls": [
         "https://d1msejlow1t3l4.cloudfront.net/211125/godtv/chunks.m3u8",
-        "https://fl-dvr.iptvcdn.tv/chid_1/playlist.m3u8"
+        "https://fl-dvr.iptvcdn.tv/chid_1/playlist.m3u8",
+        "https://cdn.pishow.tv/ott/live/1391/master.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -2304,16 +2295,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/NabawiTV.id.png",
       "streamUrls": [
         "http://202.150.161.117:8000/play/NabawiTV"
-      ],
-      "category": "Religious",
-      "languages": []
-    },
-    {
-      "id": "NewVisionTV.ng",
-      "name": "New Vision TV",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/RPTV_%282024%29.svg/330px-RPTV_%282024%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "streamUrls": [
-        "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_027/Stream/playlist.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -3425,6 +3406,7 @@
       "name": "Andes Television",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pe/AndesTelevision.pe.png",
       "streamUrls": [
+        "https://stmv2.srvif.com/tvsicuani/tvsicuani/playlist.m3u8",
         "https://live-evg7.tv360.bitel.com.pe/bitel/andestvSRT/playlist.m3u8"
       ],
       "category": "Religious",
@@ -3597,8 +3579,8 @@
       "name": "KSTV Uganda",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ug/KSTVUganda.ug.png",
       "streamUrls": [
-        "https://unseenlive.s3.eu-west-1.amazonaws.com/kstv/hls/0/stream.m3u8",
-        "https://live.esteem.africa/kstv/hls/0/stream.m3u8"
+        "https://live.esteem.africa/kstv/hls/0/stream.m3u8",
+        "https://unseenlive.s3.eu-west-1.amazonaws.com/kstv/hls/0/stream.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -3973,17 +3955,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/HebronTV.in.png",
       "streamUrls": [
         "https://account20.livebox.co.in/charleshls/live.m3u8"
-      ],
-      "category": "Religious",
-      "languages": []
-    },
-    {
-      "id": "MohabatTV.ir",
-      "name": "Mohabat TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ir/MohabatTV.ir.png",
-      "streamUrls": [
-        "http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8",
-        "https://5acf9f9415a10.streamlock.net/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -5193,8 +5164,69 @@
       ],
       "category": "Religious",
       "languages": []
+    },
+    {
+      "id": "BVTV.in",
+      "name": "BVTV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://51.75.127.199:3141/bvtv/index.m3u8"
+      ],
+      "category": "Religious",
+      "languages": []
+    },
+    {
+      "id": "SadvidyaTV.in",
+      "name": "Sadvidya TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/SadvidyaTV.in.png",
+      "streamUrls": [
+        "http://51.75.127.199:3141/sadvidyatv/index.m3u8"
+      ],
+      "category": "Religious",
+      "languages": []
+    },
+    {
+      "id": "SidharthUtsav.in",
+      "name": "Sidharth Utsav",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://51.75.127.199:3141/sidharthbhakti/index.m3u8"
+      ],
+      "category": "Religious",
+      "languages": []
+    },
+    {
+      "id": "TuljaBhavani.in",
+      "name": "Tulja Bhavani",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://51.75.127.199:3141/tuljabhavani/index.m3u8"
+      ],
+      "category": "Religious",
+      "languages": []
+    },
+    {
+      "id": "ValamTVDayro.in",
+      "name": "Valam TV Dayro",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://51.75.127.199:3141/valamtv/index.m3u8",
+        "https://mumt03.tangotv.in/Dsly5z3HVALAMDAIRO/index.m3u8"
+      ],
+      "category": "Religious",
+      "languages": []
+    },
+    {
+      "id": "AlImanTV.lb",
+      "name": "Al-Iman TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/lb/AlImanTV.lb.png",
+      "streamUrls": [
+        "https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8"
+      ],
+      "category": "Religious",
+      "languages": []
     }
   ],
-  "count": 510,
-  "generated_at": "2026-10-01T04:19:44.031351"
+  "count": 513,
+  "generated_at": "2026-10-01T15:07:08.230665"
 }
