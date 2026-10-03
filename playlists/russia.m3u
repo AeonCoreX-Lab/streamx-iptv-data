@@ -554,7 +554,9 @@ http://stream.mcquack.net/152/index.m3u8
 #EXTINF:-1 tvg-id="Muzyka1.ru" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Muzyka1.ru.png" group-title="Russia",Muzyka 1
 https://kino-1.catcast.tv/content/37742/index.m3u8
 #EXTINF:-1 tvg-id="UniverTV.ru" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/UniverTV.ru.png" group-title="Russia [FHD]",Univer TV [FHD]
-https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
+https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Svoboda.ru" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/At%C3%A9ny_1969.jpg/330px-At%C3%A9ny_1969.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail" group-title="Russia",Svoboda
+http://88.212.15.19/live/svoboda/index.m3u8
 #EXTINF:-1 tvg-id="Enisey.ru" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Enisey.ru.png" group-title="Russia [FHD]",Enisey [FHD]
 http://tshift-1.telecoma.tv/enisei/index.m3u8
 #EXTINF:-1 tvg-id="AbazaTV.ru" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/AbazaTV.ru.png" group-title="Russia [FHD]",Abaza TV [FHD]
@@ -592,7 +594,7 @@ http://176.118.197.101/1HD/index.m3u8
 #EXTINF:-1 tvg-id="Arsenal.ru" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Arsenal.ru.png" group-title="Russia",Arsenal
 https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Bober.ru" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Bober.ru.png" group-title="Russia",Bober
-http://88.212.15.19/live/test_bober/playlist.m3u8
+https://fs.uplink.kz/bober/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="DomashnieZhivotnye.ru" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/DomashnieZhivotnye.ru.png" group-title="Russia",Domashnie Zhivotnye
 https://fs.uplink.kz/domashnie_zhivotnie/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="FONMusic.ru" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=fonmusic.ru" group-title="Russia [SD]",FON Music [SD]
@@ -632,18 +634,14 @@ https://v4.proofix.ru/0mir/index.m3u8
 #EXTINF:-1 tvg-id="NovorossiyaTV.ru" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/NovorossiyaTV.ru.png" group-title="Russia",Novorossiya TV
 http://31.131.139.253:9002/novoros/index.m3u8
 #EXTINF:-1 tvg-id="OplotTV.ru" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/OplotTV.ru.png" group-title="Russia [HD]",Oplot TV [HD]
-http://31.131.139.253:9002/oplot_hd/index.m3u8
+http://31.131.141.195:8000/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="Channel8International.ru" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Channel8International.ru.png" group-title="Russia [SD]",Channel 8 International [SD]
 http://live-11cinema.cdnvideo.net/11cinemanet/11cinemanet/playlist.m3u8
 #EXTINF:-1 tvg-id="YaltaTV.ru" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg/330px-1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail" group-title="Russia",Yalta TV
 http://195.26.83.96:7029/play/a006
+#EXTINF:-1 tvg-id="Rossiya1Vainah.ru" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Rossiya1Vainah.ru.png" group-title="Russia [SD]",Rossiya 1 Vainah [SD]
+https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Gorodskoytelekanal.ru" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Gorodskoytelekanal.ru.png" group-title="Russia",Gorodskoy telekanal
 https://gtk.tv/hls/gtyar.m3u8
 #EXTINF:-1 tvg-id="Rus.ru" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Rus.ru.png" group-title="Russia [SD]",Rus [SD]
 http://31.148.5.241/kanal_21/index.m3u8
-#EXTINF:-1 tvg-id="RTVi.ru" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/RTVi.ru.png" group-title="Russia [SD]",RTVi [SD]
-https://shift03.isp.bg/RTVi/index.m3u8
-#EXTINF:-1 tvg-id="Svoboda.ru" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/At%C3%A9ny_1969.jpg/330px-At%C3%A9ny_1969.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail" group-title="Russia",Svoboda
-http://88.212.15.19/live/svoboda/index.m3u8
-#EXTINF:-1 tvg-id="Rossiya1Vainah.ru" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Rossiya1Vainah.ru.png" group-title="Russia [SD]",Rossiya 1 Vainah [SD]
-https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/playlist.m3u8
