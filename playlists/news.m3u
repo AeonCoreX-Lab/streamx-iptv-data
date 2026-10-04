@@ -280,7 +280,7 @@ https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ERTNews.gr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gr/ERTNews.gr.png" group-title="News [SD]",ERT News [SD]
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8
 #EXTINF:-1 tvg-id="ETV.mn" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/ETV.mn.png" group-title="News [SD]",ETV [SD]
-https://cdn4.skygo.mn/live/disk1/ETV/HLSv3-FTA/ETV.m3u8
+https://cdn4.skygo.mn/live/disk1/ETV/DASH-FTA/ETV.mpd
 #EXTINF:-1 tvg-id="ETVNews.in" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/ETVNews.in.png" group-title="News [FHD]",ETV News [FHD]
 https://cc-3448kp65yhc5w.akamaized.net/WWBI/Amagi/ETV_News_IN/playlist.m3u8
 #EXTINF:-1 tvg-id="EagleNews.mn" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/EagleNews.mn.png" group-title="News [SD]",Eagle News [SD]
@@ -1135,6 +1135,8 @@ https://vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/playlist.m3u8
 https://stream.ottlive.co.in/4sidestv/index.m3u8
 #EXTINF:-1 tvg-id="9PlusNews.in" tvg-logo="https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png" group-title="News [FHD]",9 Plus News [FHD]
 https://stream.ottlive.co.in/9plusnews/index.m3u8
+#EXTINF:-1 tvg-id="AkhonKolkata.in" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Azizul_Hakim_%284%29_%28cropped%29.jpg/330px-Azizul_Hakim_%284%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail" group-title="News [FHD]",Akhon Kolkata [FHD]
+https://server.playontv.in/ekhonkolkata/ekhonkolkata/index.m3u8
 #EXTINF:-1 tvg-id="HeadlinesTripura.in" tvg-logo="https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png" group-title="News [HD]",Headlines Tripura [HD]
 https://distro.ottlive.co.in/headlinestripura/headlinestripura/index.m3u8
 #EXTINF:-1 tvg-id="KBCNews.in" tvg-logo="https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png" group-title="News [FHD]",KBC News [FHD]
@@ -1145,6 +1147,8 @@ https://kbpnews.cloud/Kbptimes/Kbptimeslive/video.m3u8
 https://n18syndication.akamaized.net/bpk-tv/Kadak_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="NSC9News.in" tvg-logo="https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png" group-title="News [FHD]",NSC9 News [FHD]
 https://legitpro.co.in/nsc9/index.m3u8
+#EXTINF:-1 tvg-id="NationNews.in" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/News_nation_logo.jpg/330px-News_nation_logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail" group-title="News [HD]",Nation News [HD]
+https://server.playontv.in/nationnews/index.m3u8
 #EXTINF:-1 tvg-id="NewsCapitalGujarat.in" tvg-logo="https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png" group-title="News",News Capital Gujarat
 https://newscapital.com/hls/main4/stream.m3u8
 #EXTINF:-1 tvg-id="NewsMarathi24x7.in" tvg-logo="https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png" group-title="News [HD]",News Marathi 24x7 [HD]
@@ -1217,6 +1221,8 @@ https://cdn.pishow.tv/ott/live/339/master.m3u8
 http://51.75.127.199:3141/buletinindia/index.m3u8
 #EXTINF:-1 tvg-id="DNN.in" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/DNN.in.png" group-title="News [SD]",DNN [SD]
 http://51.75.127.199:3141/dnn/index.m3u8
+#EXTINF:-1 tvg-id="IN24News.in" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/330px-BBC_News_2022_%28Alt%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail" group-title="News [FHD]",IN 24 News [FHD]
+http://51.75.127.199:3141/in24news/index.m3u8
 #EXTINF:-1 tvg-id="India24x7.in" tvg-logo="https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png" group-title="News [FHD]",India 24x7 [FHD]
 http://51.75.127.199:3141/india24x7/index.m3u8
 #EXTINF:-1 tvg-id="NewsFlash.in" tvg-logo="https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png" group-title="News [SD]",News Flash [SD]
@@ -1241,19 +1247,15 @@ http://45.122.122.61:8080/UPNOW/video.m3u8
 http://85.132.78.122:8050/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="CanalTDC.ar" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/CanalTDC.ar.png" group-title="News [SD]",Canal TDC [SD]
 https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
+#EXTINF:-1 tvg-id="24Horas.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/24Horas.es.png" group-title="News",24 Horas
+https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-id="AlalamNewsChannelSyria.sy" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/sy/AlalamNewsChannelSyria.sy.png" group-title="News",Alalam News Channel Syria
 http://live2.alalam.ir/live/Alalam/index.m3u8
-#EXTINF:-1 tvg-id="AkhonKolkata.in" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Azizul_Hakim_%284%29_%28cropped%29.jpg/330px-Azizul_Hakim_%284%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail" group-title="News [FHD]",Akhon Kolkata [FHD]
-https://server.playontv.in/ekhonkolkata/ekhonkolkata/index.m3u8
-#EXTINF:-1 tvg-id="NationNews.in" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/News_nation_logo.jpg/330px-News_nation_logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail" group-title="News [HD]",Nation News [HD]
-https://server.playontv.in/nationnews/index.m3u8
 #EXTINF:-1 tvg-id="TVPunjab.ca" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ca/TVPunjab.ca.png" group-title="News [HD]",TV Punjab [HD]
 https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="SuchTV.pk" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pk/SuchTV.pk.png" group-title="News [FHD]",Such TV [FHD]
 https://video.primexsports.com/suchnews/live/playlist.m3u8
 #EXTINF:-1 tvg-id="News12PlusConnecticut.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/News12PlusConnecticut.us.png" group-title="News",News12+ Connecticut
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8
-#EXTINF:-1 tvg-id="IN24News.in" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/330px-BBC_News_2022_%28Alt%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail" group-title="News [FHD]",IN 24 News [FHD]
-http://51.75.127.199:3141/in24news/index.m3u8
 #EXTINF:-1 tvg-id="News21.in" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/0/04/GMA_News_TV_Logo_Vector.svg/330px-GMA_News_TV_Logo_Vector.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail" group-title="News [FHD]",News 21 [FHD]
 http://51.75.127.199:3141/news21/index.m3u8
