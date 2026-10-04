@@ -1485,7 +1485,7 @@
       "name": "ETV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/ETV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/ETV/HLSv3-FTA/ETV.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/ETV/DASH-FTA/ETV.mpd"
       ],
       "category": "News",
       "languages": []
@@ -2465,8 +2465,7 @@
       "name": "Mongolian News Channel",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/MongolianNewsChannel.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/MNCTV/DASH-FTA/MNCTV.mpd",
-        "https://cdn4.skygo.mn/live/disk1/MNCTV/HLSv3-FTA/MNCTV.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/MNCTV/DASH-FTA/MNCTV.mpd"
       ],
       "category": "News",
       "languages": []
@@ -6541,8 +6540,18 @@
       ],
       "category": "News",
       "languages": []
+    },
+    {
+      "id": "24Horas.es",
+      "name": "24 Horas",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/24Horas.es.png",
+      "streamUrls": [
+        "https://ztnr.rtve.es/ztnr/1694255.m3u8"
+      ],
+      "category": "News",
+      "languages": []
     }
   ],
-  "count": 629,
-  "generated_at": "2026-10-03T22:42:00.616474"
+  "count": 630,
+  "generated_at": "2026-10-04T04:28:22.489911"
 }

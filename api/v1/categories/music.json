@@ -80,7 +80,7 @@
       "streamUrls": [
         "https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8",
         "https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8",
-        "https://cdn-3.pishow.tv/live/6/master.m3u8"
+        "https://cdn.pishow.tv/ott/live/6/master.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -90,9 +90,9 @@
       "name": "9X Tashan",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/9XTashan.in.png",
       "streamUrls": [
-        "https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8",
         "https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8",
-        "https://cdn-2.pishow.tv/live/1613/master.m3u8"
+        "https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8",
+        "https://cdn.pishow.tv/ott/live/1613/master.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -3847,7 +3847,7 @@
     {
       "id": "RadioClasicaTV.bo",
       "name": "Radio Clasica TV",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Clan_2026.svg/330px-Clan_2026.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/24h_2026.svg/330px-24h_2026.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8"
       ],
@@ -4113,8 +4113,8 @@
       "name": "Radio Rumba TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pe/RadioRumbaTV.pe.png",
       "streamUrls": [
-        "https://tv.sistemasandinos.org/rumbatv/video.m3u8",
-        "https://live-evg7.tv360.bitel.com.pe/bitel/rumba/playlist.m3u8"
+        "https://live-evg7.tv360.bitel.com.pe/bitel/rumba/playlist.m3u8",
+        "https://tv.sistemasandinos.org/rumbatv/video.m3u8"
       ],
       "country": "PE",
       "category": "Music",
@@ -4697,8 +4697,48 @@
       ],
       "category": "Music",
       "languages": []
+    },
+    {
+      "id": "HtMusicChannel.ro",
+      "name": "H!t Music Channel",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ro/HtMusicChannel.ro.png",
+      "streamUrls": [
+        "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-mooz-dance/live_hq?offsetSeconds=0"
+      ],
+      "category": "Music",
+      "languages": []
+    },
+    {
+      "id": "MCMPop.fr",
+      "name": "MCM Pop",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/fr/MCMPop.fr.png",
+      "streamUrls": [
+        "http://188.115.15.121:8000/play/a014"
+      ],
+      "category": "Music",
+      "languages": []
+    },
+    {
+      "id": "MusicChannel.ro",
+      "name": "Music Channel",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ro/MusicChannel.ro.png",
+      "streamUrls": [
+        "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-ncn/live_hq?offsetSeconds=0"
+      ],
+      "category": "Music",
+      "languages": []
+    },
+    {
+      "id": "RadioBrunoTV.it",
+      "name": "Radio Bruno TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/it/RadioBrunoTV.it.png",
+      "streamUrls": [
+        "http://stream7.xdevel.com/video0s975758-1051/stream/playlist.m3u8"
+      ],
+      "category": "Music",
+      "languages": []
     }
   ],
-  "count": 455,
-  "generated_at": "2026-10-03T22:42:00.562606"
+  "count": 459,
+  "generated_at": "2026-10-04T04:28:22.189001"
 }

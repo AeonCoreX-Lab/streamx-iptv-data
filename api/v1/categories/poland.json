@@ -504,8 +504,8 @@
       "name": "Twoja.TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/TwojaTV.pl.png",
       "streamUrls": [
-        "https://stream.twoja.tv/ttv_hls/live_720p/index.m3u8",
-        "https://stream.twoja.tv/ttv_hls/live.m3u8"
+        "https://stream.twoja.tv/ttv_hls/live.m3u8",
+        "https://stream.twoja.tv/ttv_hls/live_720p/index.m3u8"
       ],
       "country": "PL",
       "category": "Poland",
@@ -662,8 +662,18 @@
       ],
       "category": "Poland",
       "languages": []
+    },
+    {
+      "id": "SzlagierTV.pl",
+      "name": "Szlagier TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/SzlagierTV.pl.png",
+      "streamUrls": [
+        "http://92.114.85.87:8010/play/a00l/index.m3u8"
+      ],
+      "category": "Poland",
+      "languages": []
     }
   ],
-  "count": 64,
-  "generated_at": "2026-10-03T22:42:00.579140"
+  "count": 65,
+  "generated_at": "2026-10-04T04:28:22.248893"
 }
