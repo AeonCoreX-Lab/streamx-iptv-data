@@ -893,18 +893,6 @@
       "languages": []
     },
     {
-      "id": "CBSNews247.us",
-      "name": "CBS News 24/7",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/CBSNews247.us.png",
-      "streamUrls": [
-        "https://jmp2.uk/plu-6231ede1be5b460007f91bc1.m3u8",
-        "https://jmp2.uk/plu-6231e909bc960f00075d8e7c.m3u8",
-        "https://jmp2.uk/plu-62441d6ded1827000763dcda.m3u8"
-      ],
-      "category": "News",
-      "languages": []
-    },
-    {
       "id": "CBSNewsBaltimore.us",
       "name": "CBS News Baltimore",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/CBSNewsBaltimore.us.png",
@@ -1484,8 +1472,7 @@
       "name": "ETV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/ETV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/ETV/HLSv3-FTA/ETV.m3u8",
-        "https://cdn4.skygo.mn/live/disk1/ETV/DASH-FTA/ETV.mpd"
+        "https://cdn4.skygo.mn/live/disk1/ETV/HLSv3-FTA/ETV.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -2465,7 +2452,6 @@
       "name": "Mongolian News Channel",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/MongolianNewsChannel.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/MNCTV/DASH-FTA/MNCTV.mpd",
         "https://cdn4.skygo.mn/live/disk1/MNCTV/HLSv3-FTA/MNCTV.m3u8"
       ],
       "category": "News",
@@ -6058,16 +6044,6 @@
       "languages": []
     },
     {
-      "id": "Pradesh24Gujarati.in",
-      "name": "Pradesh24 Gujarati",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://stream2.livebox.co.in/pradesh24hls/live.m3u8"
-      ],
-      "category": "News",
-      "languages": []
-    },
-    {
       "id": "SathiyamTV.in",
       "name": "Sathiyam TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/SathiyamTV.in.png",
@@ -6173,8 +6149,8 @@
       "name": "Palitra News",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ge/PalitraNews.ge.png",
       "streamUrls": [
-        "https://live.palitranews.ge/hls/palitratv/index.m3u8",
-        "https://livestream.palitra.ge/hls/palitratv/index.m3u8"
+        "https://livestream.palitra.ge/hls/palitratv/index.m3u8",
+        "https://live.palitranews.ge/hls/palitratv/index.m3u8"
       ],
       "country": "GE",
       "category": "News",
@@ -6286,17 +6262,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bd/News21BanglaTV.bd.png",
       "streamUrls": [
         "http://103.190.133.68:1935/news21live/live/playlist.m3u8"
-      ],
-      "category": "News",
-      "languages": []
-    },
-    {
-      "id": "NoticiasRCN.co",
-      "name": "Noticias RCN",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/NoticiasRCN.co.png",
-      "streamUrls": [
-        "https://jmp2.uk/plu-67d9b0ebc290c9499046e88f.m3u8",
-        "https://xyktmobile00.s.gy/PPV937_NUESTRA_TELE"
       ],
       "category": "News",
       "languages": []
@@ -6601,8 +6566,38 @@
       ],
       "category": "News",
       "languages": []
+    },
+    {
+      "id": "AlMashhad.ae",
+      "name": "Al Mashhad",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ae/AlMashhad.ae.png",
+      "streamUrls": [
+        "https://amg30483-amg30483c23-amgplt0794.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30483-amg30483c23-amgplt0794/playlist.m3u8?ads.appversion=[APP_VERSION]&ads.devicemodel=[DEVICE_MODEL]&ads.lat=[LMT]&ads.bundleid=[APP_BUNDLE]&ads.donotsell=[DNS]&ads.ifa=[IFA]&ads.targetad=[TARGETAD_ALLOWED]&ads.appstoreurl=[APP_STOREURL]&ads.deviceid=[DEVICE_ID]&ads.devicemake=[DEVICE_MAKE]&ads.devicetype=[DEVICE_TYPE]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.ifatype=[IFA_TYPE]&ads.ip=[IP]&ads.appname=[APP_NAME]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.givn=[NONCE]&ads.ua=[UA]&ads.usprivacy=[US_PRIVACY]&ads.viewsize=[VIEWSIZE]&ads.coppa=0&ads.ic=[IC]&ads.network_name=[networkname]"
+      ],
+      "category": "News",
+      "languages": []
+    },
+    {
+      "id": "EspaceTV.gn",
+      "name": "Espace TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gn/EspaceTV.gn.png",
+      "streamUrls": [
+        "https://edge11.vedge.infomaniak.com/livecast/ik:espacetv/manifest.m3u8"
+      ],
+      "category": "News",
+      "languages": []
+    },
+    {
+      "id": "Europe1TV.fr",
+      "name": "Europe 1 TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/fr/Europe1TV.fr.png",
+      "streamUrls": [
+        "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/misc/europe-1-tv-dm.m3u8"
+      ],
+      "category": "News",
+      "languages": []
     }
   ],
   "count": 635,
-  "generated_at": "2026-10-06T01:07:51.845364"
+  "generated_at": "2026-10-06T11:01:37.389130"
 }
