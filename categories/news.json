@@ -762,16 +762,6 @@
       "languages": []
     },
     {
-      "id": "BNChannel.id",
-      "name": "BN Channel",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/BNChannel.id.png",
-      "streamUrls": [
-        "https://flv.intechmedia.net/live/ch112.m3u8"
-      ],
-      "category": "News",
-      "languages": []
-    },
-    {
       "id": "BRKNews.in",
       "name": "BRK News",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/BRKNews.in.png",
@@ -1471,6 +1461,7 @@
       "name": "ETV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/ETV.mn.png",
       "streamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/ETV/DASH-FTA/ETV.mpd",
         "https://cdn4.skygo.mn/live/disk1/ETV/HLSv3-FTA/ETV.m3u8"
       ],
       "category": "News",
@@ -2450,7 +2441,8 @@
       "name": "Mongolian News Channel",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/MongolianNewsChannel.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/MNCTV/HLSv3-FTA/MNCTV.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/MNCTV/HLSv3-FTA/MNCTV.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/MNCTV/DASH-FTA/MNCTV.mpd"
       ],
       "category": "News",
       "languages": []
@@ -6149,8 +6141,8 @@
       "name": "Palitra News",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ge/PalitraNews.ge.png",
       "streamUrls": [
-        "https://livestream.palitra.ge/hls/palitratv/index.m3u8",
-        "https://live.palitranews.ge/hls/palitratv/index.m3u8"
+        "https://live.palitranews.ge/hls/palitratv/index.m3u8",
+        "https://livestream.palitra.ge/hls/palitratv/index.m3u8"
       ],
       "country": "GE",
       "category": "News",
@@ -6347,16 +6339,6 @@
       "languages": []
     },
     {
-      "id": "BuletinIndia.in",
-      "name": "Buletin India",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/PriyaBhavaniShankar2024.jpg/330px-PriyaBhavaniShankar2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "streamUrls": [
-        "http://51.75.127.199:3141/buletinindia/index.m3u8"
-      ],
-      "category": "News",
-      "languages": []
-    },
-    {
       "id": "DNN.in",
       "name": "DNN",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/DNN.in.png",
@@ -6518,16 +6500,6 @@
       "languages": []
     },
     {
-      "id": "MRTVNews.mm",
-      "name": "MRTV News",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mm/MRTVNews.mm.png",
-      "streamUrls": [
-        "https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8"
-      ],
-      "category": "News",
-      "languages": []
-    },
-    {
       "id": "Africa24.fr",
       "name": "Africa 24",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/fr/Africa24.fr.png",
@@ -6613,6 +6585,26 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/CronicaTV.ar.png",
       "streamUrls": [
         "http://190.128.214.97:64333/play/a010/index.m3u8"
+      ],
+      "category": "News",
+      "languages": []
+    },
+    {
+      "id": "AnandaBarta.in",
+      "name": "Ananda Barta",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/AnandaBarta.in.png",
+      "streamUrls": [
+        "https://account19.livebox.co.in/Anandabarta2hls/live.m3u8"
+      ],
+      "category": "News",
+      "languages": []
+    },
+    {
+      "id": "DVBTV.mm",
+      "name": "DVB TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mm/DVBTV.mm.png",
+      "streamUrls": [
+        "https://live-stream.dvb.no/hls/stream_src/index.m3u8"
       ],
       "category": "News",
       "languages": []
