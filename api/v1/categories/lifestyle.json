@@ -225,8 +225,8 @@
       "name": "Canal Motor",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/no/CanalMotor.no.png",
       "streamUrls": [
-        "https://digicom.hls.iptvdc.com/canalmotor/index.m3u8",
-        "https://digicom.hls.iptvdc.com/motorstv/index.m3u8"
+        "https://digicom.hls.iptvdc.com/motorstv/index.m3u8",
+        "https://digicom.hls.iptvdc.com/canalmotor/index.m3u8"
       ],
       "category": "Lifestyle",
       "languages": []
@@ -1323,8 +1323,8 @@
       "name": "TJC",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/TJC.uk.png",
       "streamUrls": [
-        "https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8",
-        "https://cdn-shop-lc-01.vos360.video/Content/HLS_HLS/Live/channel(HDTJCcustomGFX)/master.m3u8"
+        "https://cdn-shop-lc-01.vos360.video/Content/HLS_HLS/Live/channel(HDTJCcustomGFX)/master.m3u8",
+        "https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8"
       ],
       "category": "Lifestyle",
       "languages": []
@@ -2093,16 +2093,6 @@
       "languages": []
     },
     {
-      "id": "CEACOMTV.bo",
-      "name": "CEACOM TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bo/CEACOMTV.bo.png",
-      "streamUrls": [
-        "https://eu1.servers10.com:8081/ceacom/index.m3u8"
-      ],
-      "category": "Lifestyle",
-      "languages": []
-    },
-    {
       "id": "TVPaprika.hu",
       "name": "TV Paprika",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/hu/TVPaprika.hu.png",
@@ -2121,8 +2111,28 @@
       ],
       "category": "Lifestyle",
       "languages": []
+    },
+    {
+      "id": "Aunar.ar",
+      "name": "Aunar",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/Aunar.ar.png",
+      "streamUrls": [
+        "http://190.128.214.97:64333/play/a057/index.m3u8"
+      ],
+      "category": "Lifestyle",
+      "languages": []
+    },
+    {
+      "id": "CEACOMTV.bo",
+      "name": "CEACOM TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bo/CEACOMTV.bo.png",
+      "streamUrls": [
+        "https://eu1.servers10.com:8081/ceacom/index.m3u8"
+      ],
+      "category": "Lifestyle",
+      "languages": []
     }
   ],
-  "count": 205,
-  "generated_at": "2026-10-07T04:28:48.629804"
+  "count": 206,
+  "generated_at": "2026-10-07T21:01:39.966117"
 }
