@@ -85,8 +85,8 @@
       "name": "Euronews",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/Euronews.pl.png",
       "streamUrls": [
-        "https://7060743b4b224241b86325460b14d152.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6769/bitok/eyJzdGlkIjoiMTE3OTllNGEtYmU1OC00ZjQyLTkxOTYtY2VlYWQzZGU2MDJjIiwibWt0IjoicGwiLCJjaCI6Njc2OSwicHRmIjo1fQ==/26235/euronews-pl.m3u8",
-        "https://cdn-euronews.akamaized.net/live/eds/euronews-pl/26382/index.m3u8"
+        "https://cdn-euronews.akamaized.net/live/eds/euronews-pl/26382/index.m3u8",
+        "https://7060743b4b224241b86325460b14d152.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6769/bitok/eyJzdGlkIjoiMTE3OTllNGEtYmU1OC00ZjQyLTkxOTYtY2VlYWQzZGU2MDJjIiwibWt0IjoicGwiLCJjaCI6Njc2OSwicHRmIjo1fQ==/26235/euronews-pl.m3u8"
       ],
       "category": "Poland",
       "languages": []
@@ -348,7 +348,9 @@
       "name": "FILMBOX+ Emotion",
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
-        "http://88.212.15.19/live/test_film_boxextra_hd_hevc/playlist.m3u8"
+        "http://88.212.15.19/live/test_film_boxextra_hd_hevc/playlist.m3u8",
+        "http://88.212.15.19/live/test_filmbox_extra_hd_hun_atk_1200/playlist.m3u8",
+        "https://webtvstream.bhtelecom.ba/filmbox_extra.m3u8"
       ],
       "category": "Poland",
       "languages": []
@@ -358,8 +360,9 @@
       "name": "FILMBOX+ Festival",
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
-        "https://dash3.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8",
-        "https://nosignal1.antenaplay.ro/hls/fb-festival-hd/index.m3u8"
+        "http://92.114.85.87:8018/play/a009/index.m3u8",
+        "https://nosignal1.antenaplay.ro/hls/fb-festival-hd/index.m3u8",
+        "https://dash3.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8"
       ],
       "category": "Poland",
       "languages": []
@@ -370,6 +373,7 @@
       "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/DTX_Logo.png/330px-DTX_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "http://88.212.15.19/live/test_film_boxpremium_hd_hevc/playlist.m3u8",
+        "http://88.212.15.19/live/fb_premium_hungary/index.m3u8",
         "https://nosignal1.antenaplay.ro/hls/fb-hits-sd/index.m3u8"
       ],
       "category": "Poland",
@@ -380,8 +384,8 @@
       "name": "FILMBOX+ Love & Crime",
       "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg/330px-Crime_%2B_Investigation_Logo_10.2019.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
-        "http://88.212.15.19/live/test_filmbox_plus_atk_1200/playlist.m3u8",
-        "https://nosignal1.antenaplay.ro/hls/fb-love-and-crime-sd/index.m3u8"
+        "https://nosignal1.antenaplay.ro/hls/fb-love-and-crime-sd/index.m3u8",
+        "https://webtvstream.bhtelecom.ba/filmbox_stars.m3u8"
       ],
       "category": "Poland",
       "languages": []
@@ -391,9 +395,9 @@
       "name": "FILMBOX+ One",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg/330px-Crime_%2B_Investigation_Logo_10.2019.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
-        "http://46.149.191.219:9100/play/a015",
         "http://57.128.231.171:8080/236/index.m3u8",
-        "http://88.212.15.19/live/test_filmbox/playlist.m3u8"
+        "http://88.212.15.19/live/test_filmbox/playlist.m3u8",
+        "http://46.149.191.219:9100/play/a015"
       ],
       "category": "Poland",
       "languages": []
@@ -424,6 +428,7 @@
       "name": "Viasat True Crime",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/ViasatTrueCrime.pl.png",
       "streamUrls": [
+        "http://92.114.85.87:8010/play/a00a/index.m3u8",
         "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoMjgvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3MDczMDImc3Q9ZzIyOUNTdUZudUd6dm9UbkJNNzJ6dw%3D%3D&master=1091"
       ],
       "category": "Poland",
@@ -735,6 +740,46 @@
         "http://92.114.85.87:8016/play/a008/index.m3u8"
       ],
       "country": "PL",
+      "category": "Poland",
+      "languages": []
+    },
+    {
+      "id": "AntenaHD.pl",
+      "name": "Antena HD",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/AntenaHD.pl.png",
+      "streamUrls": [
+        "http://92.114.85.87:8010/play/a00g/index.m3u8"
+      ],
+      "category": "Poland",
+      "languages": []
+    },
+    {
+      "id": "HomeTV.pl",
+      "name": "Home TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/HomeTV.pl.png",
+      "streamUrls": [
+        "http://92.114.85.87:8010/play/a00h/index.m3u8"
+      ],
+      "category": "Poland",
+      "languages": []
+    },
+    {
+      "id": "PolsatRodzina.pl",
+      "name": "Polsat Rodzina",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/PolsatRodzina.pl.png",
+      "streamUrls": [
+        "http://92.114.85.87:8014/play/a00i/index.m3u8"
+      ],
+      "category": "Poland",
+      "languages": []
+    },
+    {
+      "id": "PowerTV.pl",
+      "name": "Power TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/PowerTV.pl.png",
+      "streamUrls": [
+        "http://92.114.85.87:8010/play/a00k/index.m3u8"
+      ],
       "category": "Poland",
       "languages": []
     }

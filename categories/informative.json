@@ -101,9 +101,9 @@
       "name": "BBC Earth",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/BBCEarth.uk.png",
       "streamUrls": [
-        "http://88.212.15.29/live/test_bbc_eartch_hevc/playlist.m3u8",
         "http://57.128.231.171:8080/307/index.m3u8",
-        "http://88.212.15.19/live/bbce_hun/index.m3u8"
+        "http://88.212.15.19/live/bbce_hun/index.m3u8",
+        "http://88.212.15.29/live/test_bbc_eartch_hevc/playlist.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -1301,8 +1301,8 @@
       "name": "Wonder",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/Wonder.uk.png",
       "streamUrls": [
-        "https://wonder-samsung-uk.amagi.tv/playlist.m3u8",
         "https://lds-wonder-rakuten.amagi.tv/playlist.m3u8",
+        "https://lds-wonder-plex.amagi.tv/playlist.m3u8",
         "https://lds-wonder-samsungau.amagi.tv/playlist.m3u8"
       ],
       "category": "Informative",
@@ -1489,9 +1489,7 @@
       "name": "Pluto TV True Crime",
       "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Pluto_TV_logo_2024_black.svg/330px-Pluto_TV_logo_2024_black.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
-        "https://jmp2.uk/plu-61c097ec8bb1830008e3f962.m3u8",
-        "https://jmp2.uk/plu-61c1e51354d923000731bf78.m3u8",
-        "https://jmp2.uk/plu-61c0b438244e50000758083b.m3u8"
+        "https://jmp2.uk/plu-61c1e51354d923000731bf78.m3u8"
       ],
       "category": "Informative",
       "languages": []
@@ -1969,17 +1967,6 @@
       "languages": []
     },
     {
-      "id": "BTBInfo.pl",
-      "name": "BTB Info",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/BTBInfo.pl.png",
-      "streamUrls": [
-        "https://panel.btb.j00r.us/memfs/928cfb64-fed7-4c27-9937-f5ad72d9d73c.m3u8",
-        "https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8"
-      ],
-      "category": "Informative",
-      "languages": []
-    },
-    {
       "id": "UTalcaTV.cl",
       "name": "UTalca TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cl/UTalcaTV.cl.png",
@@ -2002,7 +1989,7 @@
     {
       "id": "RChannel.th",
       "name": "R Channel",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/2024_Disney_Channel_text_logo.svg/330px-2024_Disney_Channel_text_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=r-channel.net",
       "streamUrls": [
         "http://180.180.243.239/streams/3/hls"
       ],
@@ -2156,6 +2143,16 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/hu/OzoneTV.hu.png",
       "streamUrls": [
         "http://88.212.15.19/live/ozone/index.m3u8"
+      ],
+      "category": "Informative",
+      "languages": []
+    },
+    {
+      "id": "DeParintiro.ro",
+      "name": "DeParinti.ro",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=deparinti.ro",
+      "streamUrls": [
+        "https://live77cdn2.antenaplay.ro/live2_fast/ch4/stream.m3u8"
       ],
       "category": "Informative",
       "languages": []
