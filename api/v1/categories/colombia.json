@@ -170,9 +170,9 @@
       "name": "RCN Mas",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/RCNMas.co.png",
       "streamUrls": [
-        "http://45.226.205.96:48000/play/a0af/index.m3u8",
         "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8",
-        "https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8"
+        "https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8",
+        "https://rcntv-rcnmas-1-us.roku.wurl.tv/3000.m3u8"
       ],
       "category": "Colombia",
       "languages": []
@@ -306,8 +306,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/CanalRCN.co.png",
       "streamUrls": [
         "http://181.205.130.194:4000/play/a0dl",
-        "http://38.134.250.110:8000/play/a00i/index.m3u8",
-        "http://181.78.17.228:8081/RCN-HD/index.m3u8"
+        "http://181.78.17.228:8081/RCN-HD/index.m3u8",
+        "http://138.121.15.230:9002/RCN/index.m3u8"
       ],
       "category": "Colombia",
       "languages": []
@@ -319,7 +319,7 @@
       "streamUrls": [
         "http://168.228.44.241:9997/play/a03t/index.m3u8",
         "http://181.205.130.194:4000/play/a0dz",
-        "http://181.79.86.130:8000/play/a04w/index.m3u8"
+        "http://181.79.86.130:8000/play/a077/index.m3u8"
       ],
       "category": "Colombia",
       "languages": []
@@ -351,8 +351,8 @@
       "name": "NTN24",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/NTN24.co.png",
       "streamUrls": [
-        "http://181.78.8.199:8000/play/a0a6/index.m3u8",
         "http://181.78.12.119:16123/play/ch80/index.m3u8",
+        "http://181.78.8.199:8000/play/a0a6/index.m3u8",
         "https://stream1.bitred.cl/ntn24/index.m3u8"
       ],
       "category": "Colombia",
@@ -363,8 +363,8 @@
       "name": "Nuestra Tele Internacional",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/NuestraTeleInternacional.co.png",
       "streamUrls": [
-        "http://181.78.8.199:8000/play/a0a8/index.m3u8",
         "http://45.173.231.22:8000/play/a0cr/index.m3u8",
+        "http://181.78.8.199:8000/play/a0a8/index.m3u8",
         "http://170.238.200.199/nuestra-tele/index.m3u8"
       ],
       "category": "Colombia",
@@ -376,8 +376,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/RCNNovelas.co.png",
       "streamUrls": [
         "https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8",
-        "http://170.238.200.199/rcn-novelas/index.m3u8",
-        "http://181.78.8.199:8000/play/a0a7/index.m3u8"
+        "http://181.78.8.199:8000/play/a0a7/index.m3u8",
+        "http://170.238.200.199/rcn-novelas/index.m3u8"
       ],
       "category": "Colombia",
       "languages": []
@@ -573,9 +573,9 @@
       "name": "Caracol Internacional",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/CaracolInternacional.co.png",
       "streamUrls": [
-        "http://168.196.127.137:6001/play/a09m/index.m3u8",
         "http://190.123.76.22:8002/play/a06j/index.m3u8",
-        "http://200.115.120.1:8000/play/ca067/index.m3u8"
+        "http://168.196.127.137:6001/play/a09m/index.m3u8",
+        "http://167.249.23.102:8000/play/a0ax/index.m3u8"
       ],
       "category": "Colombia",
       "languages": []
@@ -668,8 +668,8 @@
       "name": "CNC Bugavision",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/CNCBugavision.co.png",
       "streamUrls": [
-        "https://video.ejeserver.com/live/cncbuga.m3u8",
-        "https://movil.ejeserver.com/live/cncbuga.m3u8"
+        "https://movil.ejeserver.com/live/cncbuga.m3u8",
+        "https://video.ejeserver.com/live/cncbuga.m3u8"
       ],
       "country": "CO",
       "category": "Colombia",
@@ -708,8 +708,18 @@
       ],
       "category": "Colombia",
       "languages": []
+    },
+    {
+      "id": "RaizalTV.co",
+      "name": "Raizal TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/RaizalTV.co.png",
+      "streamUrls": [
+        "http://200.122.223.13:55000/play/raizal-tv-ses-6/index.m3u8"
+      ],
+      "category": "Colombia",
+      "languages": []
     }
   ],
-  "count": 67,
-  "generated_at": "2026-10-07T21:01:39.962418"
+  "count": 68,
+  "generated_at": "2026-10-08T04:39:43.751371"
 }

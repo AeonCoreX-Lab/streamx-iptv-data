@@ -129,8 +129,8 @@
       "name": "Balapan",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/kz/Balapan.kz.png",
       "streamUrls": [
-        "https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8",
-        "https://fs.uplink.kz/balapan/mono.m3u8?token=onlinetv"
+        "https://fs.uplink.kz/balapan/mono.m3u8?token=onlinetv",
+        "https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8"
       ],
       "category": "Kids",
       "genre": "Kids"
@@ -804,8 +804,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/sk/ducktv.sk.png",
       "streamUrls": [
         "https://mmm-dk.otteravision.com/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/playlist.m3u8",
-        "https://stream.ads.ottera.tv/playlist.m3u8?network_id=13168",
-        "https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8"
+        "https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8",
+        "https://stream.ads.ottera.tv/playlist.m3u8?network_id=13168"
       ],
       "category": "Kids",
       "genre": "Kids"
@@ -864,7 +864,7 @@
       "streamUrls": [
         "https://d2t1w90tnft92.cloudfront.net/Mr_Bean_Animated.m3u8",
         "https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8",
-        "https://amg00627-amg00627c23-samsung-gb-3927.playouts.now.amagi.tv/playlist.m3u8"
+        "https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8"
       ],
       "category": "Kids",
       "languages": [],
@@ -1106,6 +1106,7 @@
       "name": "Pluto TV Ungdomsserier",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
+        "https://jmp2.uk/plu-67f3fb7d07d2ba4121bd0c8b.m3u8",
         "https://jmp2.uk/plu-67f3fc1707d2ba4121bd34a8.m3u8"
       ],
       "category": "Kids",
@@ -1208,6 +1209,7 @@
       "name": "SvampeBob Firkant",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
+        "https://jmp2.uk/plu-61c1d59a244e500007581861.m3u8",
         "https://jmp2.uk/plu-61c09ac98a80a4000703f992.m3u8"
       ],
       "category": "Kids",
@@ -1228,7 +1230,6 @@
       "name": "Totally Turtles",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-61c1da718a80a4000704013e.m3u8",
         "https://jmp2.uk/plu-61c185e36faf920007f04b6e.m3u8"
       ],
       "category": "Kids",
@@ -1251,6 +1252,7 @@
       "name": "iCarly",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
+        "https://jmp2.uk/plu-61c0b9aab7facb0007913908.m3u8",
         "https://jmp2.uk/plu-61c185049e0bde0007820039.m3u8",
         "https://jmp2.uk/plu-61c1d9b31a9c310008f8ee57.m3u8"
       ],
@@ -1715,16 +1717,6 @@
       "languages": []
     },
     {
-      "id": "JimJam.hu",
-      "name": "JimJam",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/hu/JimJam.hu.png",
-      "streamUrls": [
-        "http://88.212.15.19/live/jim_jam_hun/index.m3u8"
-      ],
-      "category": "Kids",
-      "languages": []
-    },
-    {
       "id": "SCorbyTV.us",
       "name": "S Corby TV",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=sites.google.com",
@@ -1898,8 +1890,39 @@
       ],
       "category": "Kids",
       "languages": []
+    },
+    {
+      "id": "CartoonNetworkLatinAmerica.us",
+      "name": "Cartoon Network Latin America",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/CartoonNetworkLatinAmerica.us.png",
+      "streamUrls": [
+        "http://38.252.238.18:8000/play/a053/index.m3u8",
+        "http://158.172.217.18:8000/play/a03a/index.m3u8"
+      ],
+      "category": "Kids",
+      "languages": []
+    },
+    {
+      "id": "DiscoveryKidsLatinAmerica.us",
+      "name": "Discovery Kids Latin America",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/DiscoveryKidsLatinAmerica.us.png",
+      "streamUrls": [
+        "http://38.65.175.84:8000/play/a0an/index.m3u8"
+      ],
+      "category": "Kids",
+      "languages": []
+    },
+    {
+      "id": "Tooncast.us",
+      "name": "Tooncast",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/Tooncast.us.png",
+      "streamUrls": [
+        "http://38.134.250.110:8000/play/a01t/index.m3u8"
+      ],
+      "category": "Kids",
+      "languages": []
     }
   ],
-  "count": 181,
-  "generated_at": "2026-10-07T21:01:39.995884"
+  "count": 183,
+  "generated_at": "2026-10-08T04:39:43.782260"
 }

@@ -57,8 +57,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cn/CCTV1.cn.png",
       "streamUrls": [
         "http://69.30.245.50/live/cctv1.m3u8",
-        "http://198.204.240.250:82/live/cctv1.m3u8",
-        "http://74.91.26.218:82/live/cctv1hd.m3u8"
+        "http://74.91.26.218:82/live/cctv1hd.m3u8",
+        "http://198.204.240.250:82/live/cctv1.m3u8"
       ],
       "category": "China",
       "languages": []
@@ -68,8 +68,7 @@
       "name": "CCTV-10",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cn/CCTV10.cn.png",
       "streamUrls": [
-        "http://74.91.26.218:82/live/cctv10hd.m3u8",
-        "https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8"
+        "http://74.91.26.218:82/live/cctv10hd.m3u8"
       ],
       "category": "China",
       "languages": []
@@ -344,8 +343,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cn/CGTN.cn.png",
       "streamUrls": [
         "https://0472.org/hls/cgtn.m3u8",
-        "https://hlspackager.akamaized.net/live/DB/CGTN_ENGLISH/HLS/CGTN_ENGLISH.m3u8",
-        "https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8"
+        "https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8",
+        "https://hlspackager.akamaized.net/live/DB/CGTN_ENGLISH/HLS/CGTN_ENGLISH.m3u8"
       ],
       "category": "China",
       "languages": []
@@ -368,7 +367,7 @@
       "streamUrls": [
         "https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8",
         "https://h5cul1yar48um3t.wcetv.com/hls/cgtnd.m3u8",
-        "https://hlspackager.akamaized.net/live/DB/CGTN_DOCUMENTARY/HLS/CGTN_DOCUMENTARY.m3u8"
+        "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8"
       ],
       "category": "China",
       "languages": []
@@ -379,8 +378,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cn/CGTNFrench.cn.png",
       "streamUrls": [
         "https://news.cgtn.com/resource/live/french/cgtn-f.m3u8",
-        "https://h5cul1yar48um3t.wcetv.com/hls/cgtnf.m3u8",
-        "http://145.239.5.177/214/index.m3u8"
+        "http://145.239.5.177/214/index.m3u8",
+        "https://h5cul1yar48um3t.wcetv.com/hls/cgtnf.m3u8"
       ],
       "category": "China",
       "languages": []
@@ -390,8 +389,8 @@
       "name": "CGTN Global Biz",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cn/CGTNGlobalBiz.cn.png",
       "streamUrls": [
-        "https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8",
-        "https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8"
+        "https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8",
+        "https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8"
       ],
       "category": "China",
       "languages": []
@@ -412,9 +411,9 @@
       "name": "CGTN Spanish",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cn/CGTNSpanish.cn.png",
       "streamUrls": [
+        "http://45.186.106.147:8880/play/a06f/index.m3u8",
         "https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8",
-        "https://h5cul1yar48um3t.wcetv.com/hls/cgtne.m3u8",
-        "https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8"
+        "https://h5cul1yar48um3t.wcetv.com/hls/cgtne.m3u8"
       ],
       "category": "China",
       "languages": []
@@ -725,8 +724,19 @@
       ],
       "category": "China",
       "languages": []
+    },
+    {
+      "id": "DongguanComprehensiveNewsChannel.cn",
+      "name": "Dongguan Comprehensive News Channel",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cn/DongguanComprehensiveNewsChannel.cn.png",
+      "streamUrls": [
+        "http://stream.sun0769.com/dgrtv1/mp4tv1_1500.flv",
+        "https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8"
+      ],
+      "category": "China",
+      "languages": []
     }
   ],
-  "count": 70,
-  "generated_at": "2026-10-07T21:01:40.048085"
+  "count": 71,
+  "generated_at": "2026-10-08T04:39:43.830753"
 }

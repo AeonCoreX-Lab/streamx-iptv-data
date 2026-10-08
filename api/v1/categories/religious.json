@@ -465,17 +465,6 @@
       "languages": []
     },
     {
-      "id": "AmazingDiscoveriesTV.ca",
-      "name": "Amazing Discoveries TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ca/AmazingDiscoveriesTV.ca.png",
-      "streamUrls": [
-        "https://rpn.bozztv.com/gfaith/gfaith-amazing/index.m3u8",
-        "https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8"
-      ],
-      "category": "Religious",
-      "languages": []
-    },
-    {
       "id": "AmigosTVChiquimula.gt",
       "name": "Amigos TV Chiquimula",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gt/AmigosTVChiquimula.gt.png",
@@ -1145,8 +1134,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cr/Enlace.cr.png",
       "streamUrls": [
         "http://200.115.120.1:8000/play/ca114/index.m3u8",
-        "http://181.78.106.127:5000/play/ca042/index.m3u8",
-        "http://45.5.118.152:8000/play/a026/index.m3u8"
+        "http://45.5.118.152:8000/play/a026/index.m3u8",
+        "http://181.78.106.127:5000/play/ca042/index.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -2619,8 +2608,8 @@
       "name": "Rhema TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gt/RhemaTV.gt.png",
       "streamUrls": [
-        "http://45.171.64.30:6060/play/a04k/index.m3u8",
         "http://190.61.90.17:40000/play/a0iw/index.m3u8",
+        "http://45.171.64.30:6060/play/a04k/index.m3u8",
         "https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8"
       ],
       "category": "Religious",
@@ -3541,7 +3530,6 @@
       "name": "KSTV Uganda",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ug/KSTVUganda.ug.png",
       "streamUrls": [
-        "https://unseenlive.s3.eu-west-1.amazonaws.com/kstv/hls/0/stream.m3u8",
         "https://live.esteem.africa/kstv/hls/0/stream.m3u8"
       ],
       "category": "Religious",
@@ -4322,7 +4310,8 @@
       "name": "ADA TV",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Ada_Nicodemou_%2824990407747%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "streamUrls": [
-        "https://v4.tustreaming.cl/adatvchile/index.m3u8"
+        "https://v4.tustreaming.cl/adatvchile/index.m3u8",
+        "https://live-evg10.tv360.bitel.com.pe/bitel/alasdeaguilaSRT/playlist.m3u8"
       ],
       "country": "CL",
       "category": "Religious",
@@ -5213,8 +5202,8 @@
       "name": "Divya Darshan TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/np/DivyaDarshanTV.np.png",
       "streamUrls": [
-        "http://live.divyadarshantv.com/hls/stream.m3u8",
-        "https://live.divyadarshantv.com/hls/0/stream.m3u8"
+        "https://live.divyadarshantv.com/hls/0/stream.m3u8",
+        "http://live.divyadarshantv.com/hls/stream.m3u8"
       ],
       "country": "NP",
       "category": "Religious",
@@ -5269,8 +5258,19 @@
       ],
       "category": "Religious",
       "languages": []
+    },
+    {
+      "id": "TBN.us",
+      "name": "TBN",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/TBN.us.png",
+      "streamUrls": [
+        "http://212.5.144.156:8080/tbn/index.m3u8",
+        "https://a-cdn.klowdtv.com/live3/tbn_720p/playlist.m3u8"
+      ],
+      "category": "Religious",
+      "languages": []
     }
   ],
   "count": 517,
-  "generated_at": "2026-10-07T21:01:40.015332"
+  "generated_at": "2026-10-08T04:39:43.800115"
 }
