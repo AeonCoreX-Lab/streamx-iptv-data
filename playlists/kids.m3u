@@ -49,6 +49,8 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
 https://s.emisoras.tv:8081/diostevekids/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.pt" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pt/DisneyChannel.pt.png" group-title="Kids [SD]",Disney Channel [SD]
 http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJr.fr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/fr/DisneyJr.fr.png" group-title="Kids [SD]",Disney Jr. [SD]
+http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
 #EXTINF:-1 tvg-id="EBSKids.kr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/kr/EBSKids.kr.png" group-title="Kids [SD]",EBS Kids [SD]
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="ETV2.ee" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ee/ETV2.ee.png" group-title="Kids",ETV 2
@@ -195,8 +197,6 @@ https://toy.vcdn.fyi/placid/index.m3u8
 https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SuperGeroi.ru" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/SuperGeroi.ru.png" group-title="Kids [FHD]",SuperGeroi [FHD]
 http://109.94.1.3:8080/132/index.m3u8
-#EXTINF:-1 tvg-id="PlutoTVKids.de" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Pluto_TV_logo_2024_black.svg/330px-Pluto_TV_logo_2024_black.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail" group-title="Kids [HD]",Pluto TV Kids [HD]
-https://jmp2.uk/plu-5f1aab1d29b39600073e243f.m3u8
 #EXTINF:-1 tvg-id="PlutoTVTeen.de" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids [HD]",Pluto TV Teen [HD]
 https://jmp2.uk/plu-63eb944dc111bc0008fe7021.m3u8
 #EXTINF:-1 tvg-id="PlutoTVUngdomsserier.se" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids [HD]",Pluto TV Ungdomsserier [HD]
@@ -213,14 +213,16 @@ https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8
 http://78.108.244.134:8899/ekids
 #EXTINF:-1 tvg-id="BobEsponja.de" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/MTV_Tres_2010_logo.svg/330px-MTV_Tres_2010_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail" group-title="Kids",Bob Esponja
 https://jmp2.uk/plu-5f1aca0b4e448e00075e7c5e.m3u8
+#EXTINF:-1 tvg-id="Bobleponge.de" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/330px-Nickelodeon_2023_logo_%28outline%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail" group-title="Kids [HD]",Bob l'eponge [HD]
+https://jmp2.uk/plu-5ffc8c345822750007e167de.m3u8
 #EXTINF:-1 tvg-id="SpongeBobSchwammkopf.de" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids",SpongeBob Schwammkopf
 https://jmp2.uk/plu-5d00e8adaab96b5635b2a005.m3u8
 #EXTINF:-1 tvg-id="SvampeBobFirkant.se" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids [HD]",SvampeBob Firkant [HD]
-https://jmp2.uk/plu-61c09ac98a80a4000703f992.m3u8
+https://jmp2.uk/plu-61c1d59a244e500007581861.m3u8
 #EXTINF:-1 tvg-id="TortuesNinjaTV.de" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Nicktoons_Logo_2023.svg/330px-Nicktoons_Logo_2023.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail" group-title="Kids",Tortues Ninja TV
 https://jmp2.uk/plu-5f8ecc1b37867f00071469e9.m3u8
 #EXTINF:-1 tvg-id="TotallyTurtles.se" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids",Totally Turtles
-https://jmp2.uk/plu-61c1da718a80a4000704013e.m3u8
+https://jmp2.uk/plu-61c185e36faf920007f04b6e.m3u8
 #EXTINF:-1 tvg-id="iCarly.de" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids",iCarly
 https://jmp2.uk/plu-6181404ef48321000797bc41.m3u8
 #EXTINF:-1 tvg-id="iCarly.se" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids",iCarly
@@ -345,14 +347,18 @@ https://live77cdn2.antenaplay.ro/live2_fast/ch4/stream.m3u8
 http://212.5.144.156/disneyjr/index.m3u8
 #EXTINF:-1 tvg-id="GiggleMug.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/GiggleMug.us.png" group-title="Kids [SD]",Giggle Mug [SD]
 https://tvsen3.aynaott.com/uYpFg3RV/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJr.fr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/fr/DisneyJr.fr.png" group-title="Kids [SD]",Disney Jr. [SD]
-http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/CartoonNetworkLatinAmerica.us.png" group-title="Kids",Cartoon Network Latin America
+http://38.252.238.18:8000/play/a053/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/DiscoveryKidsLatinAmerica.us.png" group-title="Kids",Discovery Kids Latin America
+http://38.65.175.84:8000/play/a0an/index.m3u8
+#EXTINF:-1 tvg-id="Tooncast.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/Tooncast.us.png" group-title="Kids",Tooncast
+http://38.134.250.110:8000/play/a01t/index.m3u8
 #EXTINF:-1 tvg-id="TeenNick.il" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/il/TeenNick.il.png" group-title="Kids [SD]",TeenNick [SD]
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/2334/index.m3u8
 #EXTINF:-1 tvg-id="LasTortugasNinja.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/LasTortugasNinja.us.png" group-title="Kids",Las Tortugas Ninja
 https://jmp2.uk/plu-63dd5d7a4e83e700088fbca8.m3u8
-#EXTINF:-1 tvg-id="Bobleponge.de" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/330px-Nickelodeon_2023_logo_%28outline%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail" group-title="Kids [HD]",Bob l'eponge [HD]
-https://jmp2.uk/plu-5ffc8c345822750007e167de.m3u8
+#EXTINF:-1 tvg-id="PlutoTVKids.de" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Pluto_TV_logo_2024_black.svg/330px-Pluto_TV_logo_2024_black.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail" group-title="Kids [HD]",Pluto TV Kids [HD]
+https://jmp2.uk/plu-5f1aab1d29b39600073e243f.m3u8
 #EXTINF:-1 tvg-id="SvampBobFyrkant.se" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Kids [HD]",SvampBob Fyrkant [HD]
 https://jmp2.uk/plu-61c0ba0816e2fd00086cb6b1.m3u8
 #EXTINF:-1 tvg-id="Minimax.hu" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/hu/Minimax.hu.png" group-title="Kids",Minimax
