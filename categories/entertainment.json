@@ -1903,7 +1903,8 @@
       "name": "Central TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/CentralTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/Ekh_Oron/DASH-FTA/Ekh_Oron.mpd"
+        "https://cdn4.skygo.mn/live/disk1/Ekh_Oron/HLSv3-FTA/Ekh_Oron.m3u8",
+        "https://cdn1.skygo.mn/live/disk1/Ekh_Oron/HLS-FTA/Ekh_Oron.m3u8"
       ],
       "category": "Other",
       "languages": []
@@ -7587,8 +7588,8 @@
       "name": "Sarapiqui TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cr/SarapiquiTV.cr.png",
       "streamUrls": [
-        "http://tiquiciatv.com:1935/stv/web/playlist.m3u8",
-        "https://lstv.duckdns.org:449/hls/stv.m3u8"
+        "https://lstv.duckdns.org:449/hls/stv.m3u8",
+        "http://tiquiciatv.com:1935/stv/web/playlist.m3u8"
       ],
       "category": "Other",
       "languages": []
@@ -10227,8 +10228,7 @@
       "name": "America Television",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pe/AmericaTelevision.pe.png",
       "streamUrls": [
-        "http://190.93.224.42/AMERICA-TV/index.m3u8",
-        "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/america.stream/playlist.m3u8"
+        "http://190.93.224.42/AMERICA-TV/index.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -10634,16 +10634,6 @@
       "languages": []
     },
     {
-      "id": "AYNITV.bo",
-      "name": "AYNI TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bo/AYNITV.bo.png",
-      "streamUrls": [
-        "https://59d39900ebfb8.streamlock.net/Aynitv/Aynitv/playlist.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "Antena1.pe",
       "name": "Antena 1",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pe/Antena1.pe.png",
@@ -10739,7 +10729,6 @@
       "name": "NTV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/NTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/NTVHD/DASH-FTA/NTVHD.mpd",
         "https://cdn4.skygo.mn/live/disk1/NTVHD/HLSv3-FTA/NTVHD.m3u8"
       ],
       "country": "MN",
@@ -11062,8 +11051,7 @@
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
         "https://jmp2.uk/plu-64424c1be94c380008d0a98c.m3u8",
-        "https://jmp2.uk/plu-64424b21e1979c0008379681.m3u8",
-        "https://jmp2.uk/plu-6442508e5a0cd500083edd3c.m3u8"
+        "https://jmp2.uk/plu-64424b21e1979c0008379681.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -11093,8 +11081,9 @@
       "name": "MTV Catfish",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-6177fe76691b2e000702c7fc.m3u8",
-        "https://jmp2.uk/plu-61780d4267bf4d00077ddd73.m3u8"
+        "https://jmp2.uk/plu-61780d4267bf4d00077ddd73.m3u8",
+        "https://jmp2.uk/plu-61781a52a3638a00078fa57e.m3u8",
+        "https://jmp2.uk/plu-6177fe76691b2e000702c7fc.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -11128,8 +11117,8 @@
       "name": "MTV Ex On The Beach",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-61c0909b872c650008ed42e4.m3u8",
-        "https://jmp2.uk/plu-61c1d66518447e000717e4c2.m3u8"
+        "https://jmp2.uk/plu-61c1d66518447e000717e4c2.m3u8",
+        "https://jmp2.uk/plu-61c0909b872c650008ed42e4.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -11160,8 +11149,9 @@
       "name": "MTV Teen Mom",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-61c1df62b7672a0007b6c9ba.m3u8",
-        "https://jmp2.uk/plu-61c09342b3a6230007a45119.m3u8"
+        "https://jmp2.uk/plu-61c09342b3a6230007a45119.m3u8",
+        "https://jmp2.uk/plu-61c092157e1b8b0007372a35.m3u8",
+        "https://jmp2.uk/plu-61c1df62b7672a0007b6c9ba.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -13370,7 +13360,7 @@
     {
       "id": "TVN.do",
       "name": "TVN",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/TVN_logo_2024.svg/330px-TVN_logo_2024.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=vivalivetv.com",
       "streamUrls": [
         "https://5790d294af2dc.streamlock.net/tvn/tvn/playlist.m3u8"
       ],
@@ -13769,17 +13759,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cl/13Realities.cl.png",
       "streamUrls": [
         "https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
-      "id": "ApprovalTV.ng",
-      "name": "Approval TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ng/ApprovalTV.ng.png",
-      "streamUrls": [
-        "https://live.approvaltv.com/approvaltv/index.m3u8",
-        "https://tv.bigicloud.com/hls/approvaltv/approvaltv.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -14297,7 +14276,8 @@
       "name": "TenGer TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/TenGerTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/VTV/HLSv3-FTA/VTV.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/VTV/HLSv3-FTA/VTV.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/VTV/DASH-FTA/VTV.mpd"
       ],
       "country": "MN",
       "category": "Entertainment",
@@ -14963,7 +14943,8 @@
       "name": "Ulzii TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/UlziiTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/UlziiTV/DASH-FTA/UlziiTV.mpd"
+        "https://cdn4.skygo.mn/live/disk1/UlziiTV/DASH-FTA/UlziiTV.mpd",
+        "https://cdn4.skygo.mn/live/disk1/UlziiTV/HLSv3-FTA/UlziiTV.m3u8"
       ],
       "country": "MN",
       "category": "Entertainment",
@@ -15546,16 +15527,6 @@
       "languages": []
     },
     {
-      "id": "AmericaEstereoTulcan.ec",
-      "name": "America Estereo Tulcan",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ec/AmericaEstereoTulcan.ec.png",
-      "streamUrls": [
-        "https://video.makrodigital.com/americaestereotulcan/americaestereotulcan/playlist.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "PrimaTV.ro",
       "name": "Prima TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ro/PrimaTV.ro.png",
@@ -15570,6 +15541,7 @@
       "name": "AsianBox",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/AsianBox.mn.png",
       "streamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX.m3u8",
         "https://cdn4.skygo.mn/live/disk1/AsianBOX/DASH-FTA/AsianBOX.mpd"
       ],
       "country": "MN",
@@ -16491,7 +16463,7 @@
     {
       "id": "RayTVHD.np",
       "name": "Ray TV HD",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=raynewsdaily.com",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/330px-TBS_2020.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "https://streaming.tvnepal.com:19360/raynewsdaily/480p.m3u8",
         "https://streaming.tvnepal.com:19360/raynewsdaily/720p.m3u8"
@@ -17190,7 +17162,8 @@
       "name": "SBN",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/SBN.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/SBN/HLSv3-FTA/SBN.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/SBN/HLSv3-FTA/SBN.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/SBN/DASH-FTA/SBN.mpd"
       ],
       "country": "MN",
       "category": "Entertainment",
@@ -17263,7 +17236,7 @@
       "name": "Star TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/StarTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/Star/HLSv3-FTA/Star.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd"
       ],
       "country": "MN",
       "category": "Entertainment",
@@ -17355,16 +17328,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/hu/MezokovesdiTelevizio.hu.png",
       "streamUrls": [
         "https://cloudfront44.lexanetwork.com:1344/freerelay/mezokovesdvtv.sdp/playlist.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
-      "id": "SidharthTV.in",
-      "name": "Sidharth TV",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "http://51.75.127.199:3141/sidharthtv/index.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -17711,7 +17674,7 @@
     {
       "id": "ONVieDrama.vn",
       "name": "ON Vie Drama",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=vtvcab.vn",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Vie_Channel_by_DatViet_VAC_logo.png/330px-Vie_Channel_by_DatViet_VAC_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8"
       ],
@@ -17901,16 +17864,6 @@
       "languages": []
     },
     {
-      "id": "RedRubi.bo",
-      "name": "Red Rubi",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bo/RedRubi.bo.png",
-      "streamUrls": [
-        "https://59d39900ebfb8.streamlock.net/asiesmipueblo/asiesmipueblo/playlist.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "TVMAR.pe",
       "name": "TV MAR",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pe/TVMAR.pe.png",
@@ -17936,16 +17889,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/TVCRio.br.png",
       "streamUrls": [
         "https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
-      "id": "TeleFeBolivia.bo",
-      "name": "Tele Fe Bolivia",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bo/TeleFeBolivia.bo.png",
-      "streamUrls": [
-        "https://59d39900ebfb8.streamlock.net/telefehd/telefehd/playlist.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -18210,6 +18153,26 @@
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=tvpublica.com.ar",
       "streamUrls": [
         "http://190.128.214.97:64333/play/a008/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "LombardiaTV.it",
+      "name": "Lombardia TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/it/LombardiaTV.it.png",
+      "streamUrls": [
+        "https://5db313b643fd8.streamlock.net/lmbiatv/lmbiatv/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "PromovideoTV.it",
+      "name": "Promovideo TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/it/PromovideoTV.it.png",
+      "streamUrls": [
+        "https://media2021.rtvweb.com/promovideo_web/promovideo/playlist.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
