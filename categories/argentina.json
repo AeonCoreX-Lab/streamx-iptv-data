@@ -109,8 +109,8 @@
       "name": "Canal 7 TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/Canal7TV.ar.png",
       "streamUrls": [
-        "https://k-fra32.x10.network/Clrs/test/hls/1158394/playlist.m3u8",
-        "https://stream.arcast.com.ar/envivo/castv/playlist.m3u8"
+        "https://stream.arcast.com.ar/envivo/castv/playlist.m3u8",
+        "https://k-fra32.x10.network/Clrs/test/hls/1158394/playlist.m3u8"
       ],
       "category": "Argentina",
       "languages": []
@@ -396,9 +396,9 @@
       "name": "El Gourmet",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/ElGourmet.ar.png",
       "streamUrls": [
+        "http://15.204.246.24:8080/ElGourmetHD/index.m3u8",
         "http://190.61.101.11:7050/play/a09s/index.m3u8?hls",
-        "http://138.121.15.230:9002/EL-GOURMET/index.m3u8",
-        "https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8"
+        "http://138.121.15.230:9002/EL-GOURMET/index.m3u8"
       ],
       "category": "Argentina",
       "languages": []
@@ -536,7 +536,7 @@
     {
       "id": "Canal4VillaDolores.ar",
       "name": "Canal 4 Villa Dolores",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Silvia_Santelices.jpg/330px-Silvia_Santelices.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/CerroDelCuatro.jpg/330px-CerroDelCuatro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "https://stmvideo3.livecastv.com/canal4vd/canal4vd/playlist.m3u8"
       ],
@@ -558,8 +558,8 @@
       "name": "NET TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/NETTV.ar.png",
       "streamUrls": [
-        "http://45.134.141.161:2200/ARG/Net_TV/index.m3u8",
         "https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8",
+        "http://45.134.141.161:2200/ARG/Net_TV/index.m3u8",
         "https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8"
       ],
       "country": "AR",
@@ -784,8 +784,8 @@
       "name": "5tv",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/5tv.ar.png",
       "streamUrls": [
-        "https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8",
-        "http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8"
+        "http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8",
+        "https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8"
       ],
       "country": "AR",
       "category": "Argentina",
@@ -817,8 +817,8 @@
       "name": "NG Federal",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/NGFederal.ar.png",
       "streamUrls": [
-        "http://www.coninfo.net:1935/tvlink/live/playlist.m3u8",
-        "https://617c5175c970b.streamlock.net:4444/tvlink/live/playlist.m3u8"
+        "https://617c5175c970b.streamlock.net:4444/tvlink/live/playlist.m3u8",
+        "http://www.coninfo.net:1935/tvlink/live/playlist.m3u8"
       ],
       "country": "AR",
       "category": "Argentina",
@@ -940,8 +940,8 @@
       "name": "Encuentro",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/Encuentro.ar.png",
       "streamUrls": [
-        "http://138.59.227.20:8000/play/a05s/index.m3u8",
-        "http://190.128.214.97:64333/play/a014/index.m3u8"
+        "http://190.128.214.97:64333/play/a014/index.m3u8",
+        "http://138.59.227.20:8000/play/a05s/index.m3u8"
       ],
       "country": "AR",
       "category": "Argentina",
@@ -984,6 +984,26 @@
       "logoUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/3/36/Pop_UK_TV_Logo_%282015%29.svg/330px-Pop_UK_TV_Logo_%282015%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "http://190.128.214.97:64333/play/a032/index.m3u8"
+      ],
+      "category": "Argentina",
+      "languages": []
+    },
+    {
+      "id": "Space.ar",
+      "name": "Space",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/Space.ar.png",
+      "streamUrls": [
+        "http://45.171.64.30:6060/play/a04n/index.m3u8"
+      ],
+      "category": "Argentina",
+      "languages": []
+    },
+    {
+      "id": "TelevisionPublica.ar",
+      "name": "Television Publica",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Canal_7_Argentina.JPG/330px-Canal_7_Argentina.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "streamUrls": [
+        "http://190.128.214.97:64333/play/a008/index.m3u8"
       ],
       "category": "Argentina",
       "languages": []
