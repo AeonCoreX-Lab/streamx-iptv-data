@@ -127,8 +127,8 @@
       "name": "NewTV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/NewTV.pl.png",
       "streamUrls": [
-        "https://1409502578.rsc.cdn77.org/live/stream-1/playlist.m3u8",
-        "https://1409502578.rsc.cdn77.org/live/stream-1/chunklist.m3u8"
+        "https://1409502578.rsc.cdn77.org/live/stream-1/chunklist.m3u8",
+        "https://1409502578.rsc.cdn77.org/live/stream-1/playlist.m3u8"
       ],
       "category": "Poland",
       "languages": []
@@ -349,8 +349,9 @@
       "name": "FILMBOX+ Emotion",
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
+        "http://88.212.15.19/live/test_filmbox_extra_hd_hun_atk_1200/playlist.m3u8",
         "http://88.212.15.19/live/test_film_boxextra_hd_hevc/playlist.m3u8",
-        "http://88.212.15.19/live/test_filmbox_extra_hd_hun_atk_1200/playlist.m3u8"
+        "https://webtvstream.bhtelecom.ba/filmbox_extra.m3u8"
       ],
       "category": "Poland",
       "languages": []
@@ -361,8 +362,8 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://92.114.85.87:8018/play/a009/index.m3u8",
-        "https://nosignal1.antenaplay.ro/hls/fb-festival-hd/index.m3u8",
-        "https://dash3.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8"
+        "https://dash3.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8",
+        "https://nosignal1.antenaplay.ro/hls/fb-festival-hd/index.m3u8"
       ],
       "category": "Poland",
       "languages": []
@@ -373,6 +374,7 @@
       "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/DTX_Logo.png/330px-DTX_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "http://88.212.15.19/live/fb_premium_hungary/index.m3u8",
+        "https://webtvstream.bhtelecom.ba/filmbox_premium.m3u8",
         "https://nosignal1.antenaplay.ro/hls/fb-hits-sd/index.m3u8"
       ],
       "category": "Poland",
@@ -384,8 +386,8 @@
       "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg/330px-Crime_%2B_Investigation_Logo_10.2019.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "http://88.212.15.19/live/test_filmbox_plus_atk_1200/playlist.m3u8",
-        "https://nosignal1.antenaplay.ro/hls/fb-love-and-crime-sd/index.m3u8",
-        "https://webtvstream.bhtelecom.ba/filmbox_stars.m3u8"
+        "https://webtvstream.bhtelecom.ba/filmbox_stars.m3u8",
+        "https://nosignal1.antenaplay.ro/hls/fb-love-and-crime-sd/index.m3u8"
       ],
       "category": "Poland",
       "languages": []
@@ -395,8 +397,8 @@
       "name": "FILMBOX+ One",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg/330px-Crime_%2B_Investigation_Logo_10.2019.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
-        "http://57.128.231.171:8080/236/index.m3u8",
         "http://88.212.15.19/live/test_filmbox/playlist.m3u8",
+        "http://57.128.231.171:8080/236/index.m3u8",
         "http://46.149.191.219:9100/play/a015"
       ],
       "category": "Poland",
@@ -783,8 +785,18 @@
       "country": "PL",
       "category": "Poland",
       "languages": []
+    },
+    {
+      "id": "GolfZone.pl",
+      "name": "Golf Zone",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/GolfZone.pl.png",
+      "streamUrls": [
+        "http://57.128.231.171:8080/248/index.m3u8"
+      ],
+      "category": "Poland",
+      "languages": []
     }
   ],
-  "count": 76,
-  "generated_at": "2026-10-09T04:42:54.588537"
+  "count": 77,
+  "generated_at": "2026-10-09T14:59:20.175027"
 }

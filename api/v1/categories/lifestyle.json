@@ -1323,8 +1323,8 @@
       "name": "TJC",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/TJC.uk.png",
       "streamUrls": [
-        "https://cdn-shop-lc-01.vos360.video/Content/HLS_HLS/Live/channel(HDTJCcustomGFX)/master.m3u8",
-        "https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8"
+        "https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8",
+        "https://cdn-shop-lc-01.vos360.video/Content/HLS_HLS/Live/channel(HDTJCcustomGFX)/master.m3u8"
       ],
       "category": "Lifestyle",
       "languages": []
@@ -2043,16 +2043,6 @@
       "languages": []
     },
     {
-      "id": "FashionTV.in",
-      "name": "FashionTV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/FashionTV.in.png",
-      "streamUrls": [
-        "http://51.75.127.199:3141/ftvhd/index.m3u8"
-      ],
-      "category": "Lifestyle",
-      "languages": []
-    },
-    {
       "id": "TuristikTV.mx",
       "name": "Turistik TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/TuristikTV.mx.png",
@@ -2131,8 +2121,59 @@
       ],
       "category": "Lifestyle",
       "languages": []
+    },
+    {
+      "id": "CookingChannel.us",
+      "name": "Cooking Channel",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/CookingChannel.us.png",
+      "streamUrls": [
+        "http://23.237.104.106:8080/USA_COOKING/index.m3u8"
+      ],
+      "category": "Lifestyle",
+      "languages": []
+    },
+    {
+      "id": "FoodNetwork.us",
+      "name": "Food Network",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/FoodNetwork.us.png",
+      "streamUrls": [
+        "http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8",
+        "http://212.5.144.156:8080/foodnetwork/index.m3u8"
+      ],
+      "category": "Lifestyle",
+      "languages": []
+    },
+    {
+      "id": "MagnoliaNetwork.us",
+      "name": "Magnolia Network",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/MagnoliaNetwork.us.png",
+      "streamUrls": [
+        "http://190.197.41.183/MAGNOLIA_NETWORK/index.m3u8"
+      ],
+      "category": "Lifestyle",
+      "languages": []
+    },
+    {
+      "id": "OWN.us",
+      "name": "OWN",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/OWN.us.png",
+      "streamUrls": [
+        "http://23.237.104.106:8080/USA_OWN/index.m3u8"
+      ],
+      "category": "Lifestyle",
+      "languages": []
+    },
+    {
+      "id": "TLCLatinAmerica.us",
+      "name": "TLC Latin America",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/TLCLatinAmerica.us.png",
+      "streamUrls": [
+        "http://38.134.250.110:8000/play/a00n/index.m3u8"
+      ],
+      "category": "Lifestyle",
+      "languages": []
     }
   ],
-  "count": 206,
-  "generated_at": "2026-10-09T04:42:54.586159"
+  "count": 210,
+  "generated_at": "2026-10-09T14:59:20.098242"
 }
