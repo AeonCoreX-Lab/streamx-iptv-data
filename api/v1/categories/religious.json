@@ -1134,8 +1134,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cr/Enlace.cr.png",
       "streamUrls": [
         "http://200.115.120.1:8000/play/ca114/index.m3u8",
-        "http://45.5.118.152:8000/play/a026/index.m3u8",
-        "http://181.78.106.127:5000/play/ca042/index.m3u8"
+        "http://177.234.247.66:9975/Enlace/index.m3u8",
+        "http://138.121.15.230:9002/ENLACE/index.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -1275,6 +1275,7 @@
       "name": "GOD TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/GODTV.uk.png",
       "streamUrls": [
+        "https://d1msejlow1t3l4.cloudfront.net/211125/godtv/chunks.m3u8",
         "https://fl-dvr.iptvcdn.tv/chid_1/playlist.m3u8",
         "https://cdn.pishow.tv/ott/live/1391/master.m3u8"
       ],
@@ -2607,8 +2608,6 @@
       "name": "Rhema TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gt/RhemaTV.gt.png",
       "streamUrls": [
-        "http://190.61.90.17:40000/play/a0iw/index.m3u8",
-        "http://45.171.64.30:6060/play/a04k/index.m3u8",
         "https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8"
       ],
       "category": "Religious",
@@ -3520,16 +3519,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bh/BahrainQuran.bh.png",
       "streamUrls": [
         "https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8"
-      ],
-      "category": "Religious",
-      "languages": []
-    },
-    {
-      "id": "KSTVUganda.ug",
-      "name": "KSTV Uganda",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ug/KSTVUganda.ug.png",
-      "streamUrls": [
-        "https://live.esteem.africa/kstv/hls/0/stream.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -5140,8 +5129,8 @@
       "name": "Divya Darshan TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/np/DivyaDarshanTV.np.png",
       "streamUrls": [
-        "http://live.divyadarshantv.com/hls/stream.m3u8",
-        "https://live.divyadarshantv.com/hls/0/stream.m3u8"
+        "https://live.divyadarshantv.com/hls/0/stream.m3u8",
+        "http://live.divyadarshantv.com/hls/stream.m3u8"
       ],
       "country": "NP",
       "category": "Religious",
@@ -5238,8 +5227,18 @@
       ],
       "category": "Religious",
       "languages": []
+    },
+    {
+      "id": "SangkemTV.kh",
+      "name": "Sangkem TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/kh/SangkemTV.kh.png",
+      "streamUrls": [
+        "https://live.sangkemtv.com/memfs/sangkem.m3u8"
+      ],
+      "category": "Religious",
+      "languages": []
     }
   ],
   "count": 514,
-  "generated_at": "2026-10-09T20:33:47.521295"
+  "generated_at": "2026-10-10T04:28:33.985837"
 }
