@@ -127,8 +127,8 @@
       "name": "NewTV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/NewTV.pl.png",
       "streamUrls": [
-        "https://1409502578.rsc.cdn77.org/live/stream-1/chunklist.m3u8",
-        "https://1409502578.rsc.cdn77.org/live/stream-1/playlist.m3u8"
+        "https://1409502578.rsc.cdn77.org/live/stream-1/playlist.m3u8",
+        "https://1409502578.rsc.cdn77.org/live/stream-1/chunklist.m3u8"
       ],
       "category": "Poland",
       "languages": []
@@ -363,7 +363,7 @@
       "streamUrls": [
         "http://92.114.85.87:8018/play/a009/index.m3u8",
         "https://dash3.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8",
-        "https://webtvstream.bhtelecom.ba/filmbox_arthouse.m3u8"
+        "https://nosignal1.antenaplay.ro/hls/fb-festival-hd/index.m3u8"
       ],
       "category": "Poland",
       "languages": []
@@ -373,7 +373,7 @@
       "name": "FILMBOX+ Hits",
       "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/DTX_Logo.png/330px-DTX_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
-        "http://88.212.15.19/live/fb_premium_hungary/index.m3u8",
+        "http://88.212.15.19/live/test_film_boxpremium_hd_hevc/playlist.m3u8",
         "https://nosignal1.antenaplay.ro/hls/fb-hits-sd/index.m3u8"
       ],
       "category": "Poland",
@@ -384,6 +384,7 @@
       "name": "FILMBOX+ Love & Crime",
       "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg/330px-Crime_%2B_Investigation_Logo_10.2019.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
+        "http://88.212.15.19/live/test_filmbox_plus_atk_1200/playlist.m3u8",
         "https://nosignal1.antenaplay.ro/hls/fb-love-and-crime-sd/index.m3u8"
       ],
       "category": "Poland",
@@ -394,9 +395,9 @@
       "name": "FILMBOX+ One",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg/330px-Crime_%2B_Investigation_Logo_10.2019.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
-        "http://88.212.15.19/live/test_filmbox/playlist.m3u8",
-        "http://88.212.15.19/live/test_filmbox_plus_hun_atk_1200/playlist.m3u8",
-        "http://57.128.231.171:8080/236/index.m3u8"
+        "http://46.149.191.219:9100/play/a015",
+        "http://57.128.231.171:8080/236/index.m3u8",
+        "http://88.212.15.19/live/test_filmbox_plus_hun_atk_1200/playlist.m3u8"
       ],
       "category": "Poland",
       "languages": []
@@ -792,8 +793,18 @@
       ],
       "category": "Poland",
       "languages": []
+    },
+    {
+      "id": "PolsatFilm.pl",
+      "name": "Polsat Film",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/PolsatFilm.pl.png",
+      "streamUrls": [
+        "http://92.63.196.180:8080/live/74173747597177/7vfxky4rjx3j/10208.m3u8?token=Q0FaWEpZFFsXAwNWUFMEBwJXAwMDVlpTBgVTVwEHAQNeWgoACVVXVQAVGEZGFUdTUl9qWwIVAlBSAQBdGENHQ10RbVBdEwxDAgANUAJVFxoRRlxfAxUCUU4RQA1QQwheTQ9eFRtUThVQRVoFWT5RU0VbVldEDVYUDl8cRlsPbVRdDlNXXRMMQwQVGEZcEkUUCVxAXgobGgMLR0IFQAQQClYWXlUVE1UOQFlAFkxDDxRjfhceRFJAFQddQw1bDxAKGg4BTAETGkNcRGsWUBJBRFZTWFcUFQJDUhEcRlkASm9bDFxXXFJCCFpZR0YPQwQUHxBYXQheTA4QbEANUEMIXk0PXkQ="
+      ],
+      "category": "Poland",
+      "languages": []
     }
   ],
-  "count": 77,
-  "generated_at": "2026-10-10T04:28:33.425998"
+  "count": 78,
+  "generated_at": "2026-10-10T14:15:03.841328"
 }

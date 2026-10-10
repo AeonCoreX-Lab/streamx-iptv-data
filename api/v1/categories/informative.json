@@ -104,7 +104,7 @@
       "streamUrls": [
         "http://88.212.15.29/live/test_bbc_eartch_hevc/playlist.m3u8",
         "http://57.128.231.171:8080/307/index.m3u8",
-        "https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8"
+        "http://88.212.15.19/live/bbce_hun/index.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -1037,8 +1037,8 @@
       "name": "Yaslyk",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tm/Yaslyk.tm.png",
       "streamUrls": [
-        "https://alpha.tv.online.tm/legacyhls/ch002.m3u8",
-        "https://alpha.tv.online.tm/hls/ch002.m3u8"
+        "https://alpha.tv.online.tm/hls/ch002.m3u8",
+        "https://alpha.tv.online.tm/legacyhls/ch002.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -1303,8 +1303,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/Wonder.uk.png",
       "streamUrls": [
         "https://lds-wonder-rakuten.amagi.tv/playlist.m3u8",
-        "https://lds-wonder-plex.amagi.tv/playlist.m3u8",
-        "https://lds-wonder-samsungau.amagi.tv/playlist.m3u8"
+        "https://lds-wonder-samsungau.amagi.tv/playlist.m3u8",
+        "https://wonder-samsung-uk.amagi.tv/playlist.m3u8"
       ],
       "category": "Informative",
       "languages": [],
@@ -1316,8 +1316,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/HistoryHit.uk.png",
       "streamUrls": [
         "https://lds-timeline-rakuten.amagi.tv/playlist.m3u8",
-        "https://timeline-samsung-uk.amagi.tv/playlist.m3u8",
-        "https://lds-timeline-plex.amagi.tv/playlist.m3u8"
+        "https://lds-timeline-plex.amagi.tv/playlist.m3u8",
+        "https://timeline-samsung-uk.amagi.tv/playlist.m3u8"
       ],
       "category": "Informative",
       "languages": [],
@@ -1479,8 +1479,7 @@
       "name": "Pluto TV Science",
       "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Pluto_TV_logo_2024_black.svg/330px-Pluto_TV_logo_2024_black.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
-        "https://jmp2.uk/plu-5d767b4889bca2ce7b73ef2e.m3u8",
-        "https://jmp2.uk/plu-5d9492c77ea6f99188738ff1.m3u8"
+        "https://jmp2.uk/plu-5d767b4889bca2ce7b73ef2e.m3u8"
       ],
       "category": "Informative",
       "languages": []
@@ -1488,10 +1487,11 @@
     {
       "id": "PlutoTVTrueCrime.se",
       "name": "Pluto TV True Crime",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Pluto_TV_logo_2024_black.svg/330px-Pluto_TV_logo_2024_black.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
         "https://jmp2.uk/plu-61c1e51354d923000731bf78.m3u8",
-        "https://jmp2.uk/plu-61c097ec8bb1830008e3f962.m3u8"
+        "https://jmp2.uk/plu-61c097ec8bb1830008e3f962.m3u8",
+        "https://jmp2.uk/plu-61c0b438244e50000758083b.m3u8"
       ],
       "category": "Informative",
       "languages": []
@@ -2090,16 +2090,6 @@
       "languages": []
     },
     {
-      "id": "History.ro",
-      "name": "History",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ro/History.ro.png",
-      "streamUrls": [
-        "https://dokagents.site/live/history/mono.m3u8"
-      ],
-      "category": "Informative",
-      "languages": []
-    },
-    {
       "id": "RadioUniversitariaSanAndres.bo",
       "name": "Radio Universitaria San Andres",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=tvu.umsa.bo",
@@ -2209,8 +2199,18 @@
       ],
       "category": "Informative",
       "languages": []
+    },
+    {
+      "id": "DiscoveryScienceLatinAmerica.us",
+      "name": "Discovery Science Latin America",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/DiscoveryScienceLatinAmerica.us.png",
+      "streamUrls": [
+        "http://45.171.64.30:6060/play/a007/index.m3u8"
+      ],
+      "category": "Informative",
+      "languages": []
     }
   ],
   "count": 210,
-  "generated_at": "2026-10-10T04:28:33.654674"
+  "generated_at": "2026-10-10T14:15:03.861848"
 }
