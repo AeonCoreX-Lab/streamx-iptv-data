@@ -67,9 +67,9 @@
       "name": "Belarus-5",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/by/Belarus5.by.png",
       "streamUrls": [
+        "http://178.124.179.122:8080/BT5/index.m3u8",
         "http://stream.mcquack.net/33/index.m3u8",
-        "https://streaming.thestream.cyou/live/7001.m3u8",
-        "http://178.124.179.122:8080/BT5/index.m3u8"
+        "https://streaming.thestream.cyou/live/7001.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -324,7 +324,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/MNBSport.mn.png",
       "streamUrls": [
         "https://live.mnb.mn/hls/mnb_sport.stream.m3u8",
-        "https://cdn4.skygo.mn/live/disk1/MNBSport/DASH-FTA/MNBSport.mpd"
+        "https://cdn4.skygo.mn/live/disk1/MNBSport/DASH-FTA/MNBSport.mpd",
+        "https://cdn4.skygo.mn/live/disk1/MNBSport/HLSv3-FTA/MNBSport.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -748,8 +749,8 @@
       "name": "Turkmenistan Sport",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tm/TurkmenistanSport.tm.png",
       "streamUrls": [
-        "https://alpha.tv.online.tm/hls/ch004.m3u8",
-        "https://alpha.tv.online.tm/legacyhls/ch004.m3u8"
+        "https://alpha.tv.online.tm/legacyhls/ch004.m3u8",
+        "https://alpha.tv.online.tm/hls/ch004.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -1220,9 +1221,9 @@
       "name": "Strongman Champions League",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/StrongmanChampionsLeague.uk.png",
       "streamUrls": [
-        "https://cb4748b76e2c4b11bb5790666256964b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_StrongmanChampionsLeague/playlist.m3u8",
-        "https://rightsboosterltd-scl-1-dk.samsung.wurl.tv/playlist.m3u8",
-        "https://rightsboosterltd-scl-1-no.samsung.wurl.tv/playlist.m3u8"
+        "https://rightsboosterltd-scl-1-no.samsung.wurl.tv/playlist.m3u8",
+        "https://rightsboosterltd-scl-1-us.xumo.wurl.tv/playlist.m3u8",
+        "https://cb4748b76e2c4b11bb5790666256964b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_StrongmanChampionsLeague/playlist.m3u8"
       ],
       "category": "Sports",
       "languages": []
@@ -2062,8 +2063,265 @@
       ],
       "category": "Sports",
       "languages": []
+    },
+    {
+      "id": "Arena4.hu",
+      "name": "Arena4",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/hu/Arena4.hu.png",
+      "streamUrls": [
+        "http://88.212.15.17/live/arena4/index.m3u8"
+      ],
+      "category": "Sports",
+      "languages": []
+    },
+    {
+      "id": "ESPN.us",
+      "name": "ESPN",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/ESPN.us.png",
+      "streamUrls": [
+        "http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8"
+      ],
+      "category": "Sports",
+      "languages": []
+    },
+    {
+      "id": "ESPN.nl",
+      "name": "ESPN",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/nl/ESPN.nl.png",
+      "streamUrls": [
+        "https://lb.iptvnetwork.net/ls28/10041/playlist.m3u8"
+      ],
+      "category": "Sports",
+      "languages": []
+    },
+    {
+      "id": "ESPN2.us",
+      "name": "ESPN 2",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/ESPN2.us.png",
+      "streamUrls": [
+        "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
+      ],
+      "category": "Sports",
+      "languages": []
+    },
+    {
+      "id": "ESPN2.nl",
+      "name": "ESPN 2",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/nl/ESPN2.nl.png",
+      "streamUrls": [
+        "https://lb.iptvnetwork.net/ls28/10042/playlist.m3u8"
+      ],
+      "category": "Sports",
+      "languages": []
+    },
+    {
+      "id": "ESPN2LatinAmerica.us",
+      "name": "ESPN 2 Latin America",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/ESPN2LatinAmerica.us.png",
+      "streamUrls": [
+        "https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8",
+        "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn2-mux/playlist.m3u8"
+      ],
+      "category": "Sports",
+      "languages": []
+    },
+    {
+      "id": "ESPN3.nl",
+      "name": "ESPN 3",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/nl/ESPN3.nl.png",
+      "streamUrls": [
+        "https://lb.iptvnetwork.net/ls28/10043/playlist.m3u8"
+      ],
+      "category": "Sports",
+      "languages": []
+    },
+    {
+      "id": "ESPN3LatinAmerica.us",
+      "name": "ESPN 3 Latin America",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/ESPN3LatinAmerica.us.png",
+      "streamUrls": [
+        "https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8",
+        "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn3-mux/playlist.m3u8"
+      ],
+      "category": "Sports",
+      "languages": []
+    },
+    {
+      "id": "ESPN4.nl",
+      "name": "ESPN 4",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/nl/ESPN4.nl.png",
+      "streamUrls": [
+        "https://lb.iptvnetwork.net/ls28/10044/playlist.m3u8"
+      ],
+      "category": "Sports",
+      "languages": []
+    },
+    {
+      "id": "ESPN4LatinAmerica.us",
+      "name": "ESPN 4 Latin America",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/ESPN4LatinAmerica.us.png",
+      "streamUrls": [
+        "https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8"
+      ],
+      "category": "Sports",
+      "languages": []
+    },
+    {
+      "id": "ESPN5LatinAmerica.us",
+      "name": "ESPN 5 Latin America",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/ESPN5LatinAmerica.us.png",
+      "streamUrls": [
+        "https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8",
+        "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn5-mux/playlist.m3u8"
+      ],
+      "category": "Sports",
+      "languages": []
+    },
+    {
+      "id": "ESPN6LatinAmerica.us",
+      "name": "ESPN 6 Latin America",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/ESPN6LatinAmerica.us.png",
+      "streamUrls": [
+        "https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8"
+      ],
+      "category": "Sports",
+      "languages": []
+    },
+    {
+      "id": "ESPN7LatinAmerica.us",
+      "name": "ESPN 7 Latin America",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/ESPN7LatinAmerica.us.png",
+      "streamUrls": [
+        "https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8"
+      ],
+      "category": "Sports",
+      "languages": []
+    },
+    {
+      "id": "ESPNLatinAmerica.us",
+      "name": "ESPN Latin America",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/ESPNLatinAmerica.us.png",
+      "streamUrls": [
+        "https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8",
+        "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn-mux/chunks.m3u8"
+      ],
+      "category": "Sports",
+      "languages": []
+    },
+    {
+      "id": "ESPNPremium.cl",
+      "name": "ESPN Premium",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cl/ESPNPremium.cl.png",
+      "streamUrls": [
+        "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn_premium.stream/playlist.m3u8"
+      ],
+      "category": "Sports",
+      "languages": []
+    },
+    {
+      "id": "ElevenSports1.pl",
+      "name": "Eleven Sports 1",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/ElevenSports1.pl.png",
+      "streamUrls": [
+        "http://92.114.85.87:8002/play/a00e/index.m3u8"
+      ],
+      "category": "Sports",
+      "languages": []
+    },
+    {
+      "id": "Eurosport1.fr",
+      "name": "Eurosport 1",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/fr/Eurosport1.fr.png",
+      "streamUrls": [
+        "http://88.212.15.17/live/esp1_hun/index.m3u8",
+        "http://stream.mcquack.net/176/index.m3u8",
+        "https://andro.mangeinde4.lat/checklist/androstreamlivees1.m3u8"
+      ],
+      "category": "Sports",
+      "languages": []
+    },
+    {
+      "id": "Eurosport1Polska.pl",
+      "name": "Eurosport 1 Polska",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://57.128.210.196:8080/264/index.m3u8"
+      ],
+      "category": "Sports",
+      "languages": []
+    },
+    {
+      "id": "Eurosport2.fr",
+      "name": "Eurosport 2",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/fr/Eurosport2.fr.png",
+      "streamUrls": [
+        "https://andro.mangeinde4.lat/checklist/androstreamlivees2.m3u8",
+        "http://stream.mcquack.net/192/index.m3u8"
+      ],
+      "category": "Sports",
+      "languages": []
+    },
+    {
+      "id": "Eurosport2Polska.pl",
+      "name": "Eurosport 2 Polska",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://57.128.210.196:8080/263/index.m3u8"
+      ],
+      "category": "Sports",
+      "languages": []
+    },
+    {
+      "id": "Eurosport3Polska.pl",
+      "name": "Eurosport 3 Polska",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://91.228.35.249:8001/1:0:1:3D:1964:13E:820000:0:0:0"
+      ],
+      "category": "Sports",
+      "languages": []
+    },
+    {
+      "id": "Eurosport4Polska.pl",
+      "name": "Eurosport 4 Polska",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://57.128.231.171:8080/291/index.m3u8"
+      ],
+      "category": "Sports",
+      "languages": []
+    },
+    {
+      "id": "Formula1AntenaPlay.ro",
+      "name": "Formula 1 AntenaPlay",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Antena_1_Logo_%282022-present%29.svg/330px-Antena_1_Logo_%282022-present%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "streamUrls": [
+        "https://live4dai.antenaplay.ro/live2_sdi09/live2_sdi09_600k.m3u8"
+      ],
+      "category": "Sports",
+      "languages": []
+    },
+    {
+      "id": "MatchPremier.ru",
+      "name": "Match! Premier",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/MatchPremier.ru.png",
+      "streamUrls": [
+        "http://192.162.64.99:5000/play/a02b/index.m3u8"
+      ],
+      "category": "Sports",
+      "languages": []
+    },
+    {
+      "id": "TVPSport.pl",
+      "name": "TVP Sport",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/TVPSport.pl.png",
+      "streamUrls": [
+        "http://57.128.210.196:8080/134/index.m3u8"
+      ],
+      "category": "Sports",
+      "languages": []
     }
   ],
-  "count": 194,
-  "generated_at": "2026-10-11T04:10:56.004710"
+  "count": 219,
+  "generated_at": "2026-10-11T14:39:57.868330"
 }

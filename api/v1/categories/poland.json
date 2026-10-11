@@ -127,8 +127,8 @@
       "name": "NewTV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/NewTV.pl.png",
       "streamUrls": [
-        "https://1409502578.rsc.cdn77.org/live/stream-1/playlist.m3u8",
-        "https://1409502578.rsc.cdn77.org/live/stream-1/chunklist.m3u8"
+        "https://1409502578.rsc.cdn77.org/live/stream-1/chunklist.m3u8",
+        "https://1409502578.rsc.cdn77.org/live/stream-1/playlist.m3u8"
       ],
       "category": "Poland",
       "languages": []
@@ -362,8 +362,8 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://92.114.85.87:8018/play/a009/index.m3u8",
-        "https://dash3.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8",
-        "https://nosignal1.antenaplay.ro/hls/fb-festival-hd/index.m3u8"
+        "https://nosignal1.antenaplay.ro/hls/fb-festival-hd/index.m3u8",
+        "https://dash3.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8"
       ],
       "category": "Poland",
       "languages": []
@@ -373,6 +373,7 @@
       "name": "FILMBOX+ Hits",
       "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/DTX_Logo.png/330px-DTX_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
+        "http://88.212.15.19/live/fb_premium_hungary/index.m3u8",
         "http://88.212.15.19/live/test_film_boxpremium_hd_hevc/playlist.m3u8",
         "https://nosignal1.antenaplay.ro/hls/fb-hits-sd/index.m3u8"
       ],
@@ -384,7 +385,7 @@
       "name": "FILMBOX+ Love & Crime",
       "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg/330px-Crime_%2B_Investigation_Logo_10.2019.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
-        "http://88.212.15.19/live/test_filmbox_plus_atk_1200/playlist.m3u8",
+        "https://webtvstream.bhtelecom.ba/filmbox_stars.m3u8",
         "https://nosignal1.antenaplay.ro/hls/fb-love-and-crime-sd/index.m3u8"
       ],
       "category": "Poland",
@@ -395,8 +396,8 @@
       "name": "FILMBOX+ One",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg/330px-Crime_%2B_Investigation_Logo_10.2019.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
-        "http://46.149.191.219:9100/play/a015",
         "http://57.128.231.171:8080/236/index.m3u8",
+        "http://46.149.191.219:9100/play/a015",
         "http://88.212.15.19/live/test_filmbox_plus_hun_atk_1200/playlist.m3u8"
       ],
       "category": "Poland",
@@ -470,8 +471,8 @@
       "name": "Twoja.TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/TwojaTV.pl.png",
       "streamUrls": [
-        "https://stream.twoja.tv/ttv_hls/live.m3u8",
-        "https://stream.twoja.tv/ttv_hls/live_720p/index.m3u8"
+        "https://stream.twoja.tv/ttv_hls/live_720p/index.m3u8",
+        "https://stream.twoja.tv/ttv_hls/live.m3u8"
       ],
       "country": "PL",
       "category": "Poland",
@@ -758,7 +759,8 @@
       "name": "Polsat Rodzina",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/PolsatRodzina.pl.png",
       "streamUrls": [
-        "http://92.114.85.87:8014/play/a00i/index.m3u8"
+        "http://92.114.85.87:8014/play/a00i/index.m3u8",
+        "http://57.128.210.196:8080/197/index.m3u8"
       ],
       "category": "Poland",
       "languages": []
@@ -803,8 +805,140 @@
       ],
       "category": "Poland",
       "languages": []
+    },
+    {
+      "id": "ElevenSports1.pl",
+      "name": "Eleven Sports 1",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/ElevenSports1.pl.png",
+      "streamUrls": [
+        "http://92.114.85.87:8002/play/a00e/index.m3u8"
+      ],
+      "category": "Poland",
+      "languages": []
+    },
+    {
+      "id": "Eurosport1Polska.pl",
+      "name": "Eurosport 1 Polska",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://57.128.210.196:8080/264/index.m3u8"
+      ],
+      "category": "Poland",
+      "languages": []
+    },
+    {
+      "id": "Eurosport2Polska.pl",
+      "name": "Eurosport 2 Polska",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://57.128.210.196:8080/263/index.m3u8"
+      ],
+      "category": "Poland",
+      "languages": []
+    },
+    {
+      "id": "Eurosport3Polska.pl",
+      "name": "Eurosport 3 Polska",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://91.228.35.249:8001/1:0:1:3D:1964:13E:820000:0:0:0"
+      ],
+      "category": "Poland",
+      "languages": []
+    },
+    {
+      "id": "Eurosport4Polska.pl",
+      "name": "Eurosport 4 Polska",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://57.128.231.171:8080/291/index.m3u8"
+      ],
+      "category": "Poland",
+      "languages": []
+    },
+    {
+      "id": "PolsatSport2.pl",
+      "name": "Polsat Sport 2",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/PolsatSport2.pl.png",
+      "streamUrls": [
+        "http://57.128.210.196:8080/195/index.m3u8"
+      ],
+      "category": "Poland",
+      "languages": []
+    },
+    {
+      "id": "PolsatSport3.pl",
+      "name": "Polsat Sport 3",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/PolsatSport3.pl.png",
+      "streamUrls": [
+        "http://57.128.210.196:8080/192/index.m3u8"
+      ],
+      "category": "Poland",
+      "languages": []
+    },
+    {
+      "id": "TV6.pl",
+      "name": "TV6",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/TV6.pl.png",
+      "streamUrls": [
+        "http://57.128.210.196:8080/160/index.m3u8"
+      ],
+      "category": "Poland",
+      "languages": []
+    },
+    {
+      "id": "TVPWilno.pl",
+      "name": "TVP Wilno",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/TVPWilno.pl.png",
+      "streamUrls": [
+        "http://78.62.9.23:55555/TVP%20Wilno%20HD"
+      ],
+      "category": "Poland",
+      "languages": []
+    },
+    {
+      "id": "TVP2.pl",
+      "name": "TVP2",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/TVP2.pl.png",
+      "streamUrls": [
+        "http://57.128.210.196:8080/143/index.m3u8"
+      ],
+      "category": "Poland",
+      "languages": []
+    },
+    {
+      "id": "V90.pl",
+      "name": "V90",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://57.128.231.171:8080/228/index.m3u8"
+      ],
+      "category": "Poland",
+      "languages": []
+    },
+    {
+      "id": "TVPSport.pl",
+      "name": "TVP Sport",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/TVPSport.pl.png",
+      "streamUrls": [
+        "http://57.128.210.196:8080/134/index.m3u8"
+      ],
+      "country": "PL",
+      "category": "Poland",
+      "languages": []
+    },
+    {
+      "id": "TVPHD.pl",
+      "name": "TVP HD",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/TVPHD.pl.png",
+      "streamUrls": [
+        "http://57.128.210.196:8080/141/index.m3u8"
+      ],
+      "country": "PL",
+      "category": "Poland",
+      "languages": []
     }
   ],
-  "count": 78,
-  "generated_at": "2026-10-11T04:10:55.990050"
+  "count": 91,
+  "generated_at": "2026-10-11T14:39:57.866858"
 }
