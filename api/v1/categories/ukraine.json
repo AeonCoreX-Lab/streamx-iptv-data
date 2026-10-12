@@ -46,7 +46,7 @@
     {
       "id": "EWTNUkraine.ua",
       "name": "EWTN Ukraine",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/330px-Fox_News_Channel_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=ewtn.org.ua",
       "streamUrls": [
         "https://cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8"
       ],
@@ -70,8 +70,8 @@
       "name": "FREEDOM",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/FREEDOM.ua.png",
       "streamUrls": [
-        "https://dash2.antik.sk/live/test_uatv/playlist.m3u8",
-        "https://dash4.antik.sk/live/test_uatv/playlist.m3u8"
+        "https://dash4.antik.sk/live/test_uatv/playlist.m3u8",
+        "https://dash2.antik.sk/live/test_uatv/playlist.m3u8"
       ],
       "category": "Ukraine",
       "languages": []
@@ -141,8 +141,8 @@
       "name": "NTN",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/NTN.ua.png",
       "streamUrls": [
-        "https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8",
-        "http://stream.mcquack.net/326/index.m3u8"
+        "http://stream.mcquack.net/326/index.m3u8",
+        "https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8"
       ],
       "category": "Ukraine",
       "languages": []
@@ -245,7 +245,8 @@
       "name": "DIM",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/DIM.ua.png",
       "streamUrls": [
-        "https://dash2.antik.sk/live/telekanal_dim/playlist.m3u8"
+        "https://dash2.antik.sk/live/telekanal_dim/playlist.m3u8",
+        "http://stream.mcquack.net/383/index.m3u8"
       ],
       "category": "Ukraine",
       "languages": []
@@ -424,8 +425,8 @@
       "name": "Pixel TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/PixelTV.ua.png",
       "streamUrls": [
-        "https://cdn15.live-tv.cloud/ua_infinitas_tv/pixel-abr/playlist.m3u8",
-        "http://stream.mcquack.net/323/index.m3u8"
+        "http://stream.mcquack.net/323/index.m3u8",
+        "https://cdn15.live-tv.cloud/ua_infinitas_tv/pixel-abr/playlist.m3u8"
       ],
       "country": "UA",
       "category": "Ukraine",
@@ -562,9 +563,9 @@
       "name": "TVA",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/TVA.ua.png",
       "streamUrls": [
-        "http://hls.cdn.ua/tva.ua_live/livestream/chunklist_w396178779.m3u8",
         "http://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8",
-        "http://rtsp.cdn.ua/tva.ua_live/livestream/playlist.m3u8"
+        "http://rtsp.cdn.ua/tva.ua_live/livestream/playlist.m3u8",
+        "http://hls.cdn.ua/tva.ua_live/livestream/chunklist_w396178779.m3u8"
       ],
       "country": "UA",
       "category": "Ukraine",
@@ -703,7 +704,7 @@
     {
       "id": "UAMusic.ua",
       "name": "UA Music",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/SUN_network_office.JPG/330px-SUN_network_office.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/English_Club_TV_logo.png/330px-English_Club_TV_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "http://stream.mcquack.net/281/index.m3u8"
       ],
@@ -856,8 +857,19 @@
       "country": "UA",
       "category": "Ukraine",
       "languages": []
+    },
+    {
+      "id": "PervyygorodskoyOdessa.ua",
+      "name": "Pervyy gorodskoy. Odessa",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/PervyygorodskoyOdessa.ua.png",
+      "streamUrls": [
+        "http://91.194.79.46:8081/stream1/channel1/playlist.m3u8"
+      ],
+      "country": "UA",
+      "category": "Ukraine",
+      "languages": []
     }
   ],
-  "count": 82,
-  "generated_at": "2026-10-12T04:29:05.338726"
+  "count": 83,
+  "generated_at": "2026-10-12T17:24:48.899827"
 }
