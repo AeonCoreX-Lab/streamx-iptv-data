@@ -252,26 +252,6 @@
       "genre": "Kids"
     },
     {
-      "id": "DisneyChannel.pt",
-      "name": "Disney Channel",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pt/DisneyChannel.pt.png",
-      "streamUrls": [
-        "http://151.80.18.177:86/Disney_Channel_HD/index.m3u8"
-      ],
-      "category": "Kids",
-      "genre": "Kids"
-    },
-    {
-      "id": "DisneyJr.fr",
-      "name": "Disney Jr.",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/fr/DisneyJr.fr.png",
-      "streamUrls": [
-        "http://151.80.18.177:86/Disney_Junior_HD/index.m3u8"
-      ],
-      "category": "Kids",
-      "genre": "Kids"
-    },
-    {
       "id": "EBSKids.kr",
       "name": "EBS Kids",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/kr/EBSKids.kr.png",
@@ -1208,8 +1188,9 @@
       "name": "Totally Turtles",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-61c1da718a80a4000704013e.m3u8",
-        "https://jmp2.uk/plu-61c185e36faf920007f04b6e.m3u8"
+        "https://jmp2.uk/plu-61c0bbd95df1da0007bed5a0.m3u8",
+        "https://jmp2.uk/plu-61c185e36faf920007f04b6e.m3u8",
+        "https://jmp2.uk/plu-61c1da718a80a4000704013e.m3u8"
       ],
       "category": "Kids",
       "languages": []
@@ -1479,16 +1460,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/StarzKidsFamily.us.png",
       "streamUrls": [
         "http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8"
-      ],
-      "category": "Kids",
-      "languages": []
-    },
-    {
-      "id": "NickelodeonJunior.fr",
-      "name": "Nickelodeon Junior",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/fr/NickelodeonJunior.fr.png",
-      "streamUrls": [
-        "http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8"
       ],
       "category": "Kids",
       "languages": []
@@ -1821,16 +1792,6 @@
       "languages": []
     },
     {
-      "id": "Nickelodeon.fr",
-      "name": "Nickelodeon",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/fr/Nickelodeon.fr.png",
-      "streamUrls": [
-        "http://151.80.18.177:86/Nickelodeon_FR/index.m3u8"
-      ],
-      "category": "Kids",
-      "languages": []
-    },
-    {
       "id": "TraLaLaDSN.ro",
       "name": "TraLaLa DSN",
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
@@ -1911,8 +1872,184 @@
       ],
       "category": "Kids",
       "languages": []
+    },
+    {
+      "id": "PlutoTVAnime.de",
+      "name": "Unknown Channel",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://jmp2.uk/plu-608181d420fc8500075f612a.m3u8"
+      ],
+      "country": "",
+      "category": "Kids",
+      "languages": []
+    },
+    {
+      "id": "PlutoTVTegnefilm.se",
+      "name": "Pluto TV Tegnefilm",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
+      "streamUrls": [
+        "https://jmp2.uk/plu-61c09938e0d3a700072b68b1.m3u8"
+      ],
+      "country": "SE",
+      "category": "Kids",
+      "languages": []
+    },
+    {
+      "id": "PlutoTVJuniorklubben.se",
+      "name": "Pluto TV Juniorklubben",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
+      "streamUrls": [
+        "https://jmp2.uk/plu-61c0b7eb8929e40007ff5125.m3u8"
+      ],
+      "country": "SE",
+      "category": "Kids",
+      "languages": []
+    },
+    {
+      "id": "SouthParkArmageddon.se",
+      "name": "South Park Armageddon",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
+      "streamUrls": [
+        "https://jmp2.uk/plu-660bff28516d260008479e23.m3u8"
+      ],
+      "country": "SE",
+      "category": "Kids",
+      "languages": []
+    },
+    {
+      "id": "SouthParkButtersCollection.se",
+      "name": "South Park: Butters Collection",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
+      "streamUrls": [
+        "https://jmp2.uk/plu-65d87fcb66eec8000887f4aa.m3u8"
+      ],
+      "country": "SE",
+      "category": "Kids",
+      "languages": []
+    },
+    {
+      "id": "SouthParkCartmanCollection.se",
+      "name": "South Park: Cartman Collection",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
+      "streamUrls": [
+        "https://jmp2.uk/plu-65d87fa0f7f0af0008b2358b.m3u8"
+      ],
+      "country": "SE",
+      "category": "Kids",
+      "languages": []
+    },
+    {
+      "id": "SouthPark.se",
+      "name": "South Park",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
+      "streamUrls": [
+        "https://jmp2.uk/plu-61c098df897b9d00070375c8.m3u8"
+      ],
+      "country": "SE",
+      "category": "Kids",
+      "languages": []
+    },
+    {
+      "id": "SouthParkIntotheStars.se",
+      "name": "South Park: Into the Stars",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
+      "streamUrls": [
+        "https://jmp2.uk/plu-664f0ecc41af640008e37b43.m3u8"
+      ],
+      "country": "SE",
+      "category": "Kids",
+      "languages": []
+    },
+    {
+      "id": "SouthParkKyleCollection.se",
+      "name": "South Park: Kyle Collection",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
+      "streamUrls": [
+        "https://jmp2.uk/plu-65d88004ec9fda0008a5b8b3.m3u8"
+      ],
+      "country": "SE",
+      "category": "Kids",
+      "languages": []
+    },
+    {
+      "id": "SouthParkRockinOut.se",
+      "name": "South Park Rockin' Out",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
+      "streamUrls": [
+        "https://jmp2.uk/plu-664f132c8ea5560008ce4d86.m3u8"
+      ],
+      "country": "SE",
+      "category": "Kids",
+      "languages": []
+    },
+    {
+      "id": "SouthParkKennyCollection.se",
+      "name": "South Park: Kenny Collection",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
+      "streamUrls": [
+        "https://jmp2.uk/plu-65d879bd0d4561000805d190.m3u8"
+      ],
+      "country": "SE",
+      "category": "Kids",
+      "languages": []
+    },
+    {
+      "id": "SouthParkStanCollection.se",
+      "name": "South Park: Stan Collection",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
+      "streamUrls": [
+        "https://jmp2.uk/plu-65d879e266eec8000887e91b.m3u8"
+      ],
+      "country": "SE",
+      "category": "Kids",
+      "languages": []
+    },
+    {
+      "id": "NickelodeonToons.us",
+      "name": "Nickelodeon Toons",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Nicktoons_Logo_2023.svg/330px-Nicktoons_Logo_2023.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "streamUrls": [
+        "https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8",
+        "https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8"
+      ],
+      "category": "Kids",
+      "languages": []
+    },
+    {
+      "id": "PlutoTVRetroToons.de",
+      "name": "Pluto TV Retro Toons",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/9/91/Network_10_logo_2025.svg/330px-Network_10_logo_2025.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "streamUrls": [
+        "https://jmp2.uk/plu-611e6a9b4bb5790007a6f0f8.m3u8",
+        "https://jmp2.uk/plu-5c5c2b9d8002db3c3e0b1c6d.m3u8"
+      ],
+      "category": "Kids",
+      "languages": []
+    },
+    {
+      "id": "SouthPark.de",
+      "name": "South Park",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
+      "streamUrls": [
+        "https://jmp2.uk/plu-62bc1f502b70e3000706298e.m3u8",
+        "https://jmp2.uk/plu-628751bb7154a40007168843.m3u8",
+        "https://jmp2.uk/plu-64edf6eaa7ec0d000812f58c.m3u8"
+      ],
+      "category": "Kids",
+      "languages": []
+    },
+    {
+      "id": "TotallyTurtles.de",
+      "name": "Totally Turtles",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
+      "streamUrls": [
+        "https://jmp2.uk/plu-5d6792bd6be2998ad0ccce30.m3u8"
+      ],
+      "category": "Kids",
+      "languages": []
     }
   ],
-  "count": 182,
-  "generated_at": "2026-10-13T11:26:47.671790"
+  "count": 194,
+  "generated_at": "2026-10-13T18:54:41.729872"
 }
