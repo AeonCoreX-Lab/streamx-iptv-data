@@ -1870,9 +1870,8 @@
       "name": "Central TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/CentralTV.mn.png",
       "streamUrls": [
-        "https://cdn1.skygo.mn/live/disk1/Ekh_Oron/HLS-FTA/Ekh_Oron.m3u8",
         "https://cdn4.skygo.mn/live/disk1/Ekh_Oron/HLSv3-FTA/Ekh_Oron.m3u8",
-        "https://cdn4.skygo.mn/live/disk1/Ekh_Oron/DASH-FTA/Ekh_Oron.mpd"
+        "https://cdn1.skygo.mn/live/disk1/Ekh_Oron/HLS-FTA/Ekh_Oron.m3u8"
       ],
       "category": "Other",
       "languages": []
@@ -6377,16 +6376,6 @@
       "languages": []
     },
     {
-      "id": "OntarioPublicAccessChannel.us",
-      "name": "Ontario Public Access Channel",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/OntarioPublicAccessChannel.us.png",
-      "streamUrls": [
-        "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/ontarioca/G2446_002/playlist.m3u8"
-      ],
-      "category": "Other",
-      "languages": []
-    },
-    {
       "id": "OromarTV.ec",
       "name": "Oromar TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ec/OromarTV.ec.png",
@@ -7469,16 +7458,6 @@
         "https://lstv.duckdns.org:449/hls/stv.m3u8"
       ],
       "category": "Other",
-      "languages": []
-    },
-    {
-      "id": "ScottsdaleChannel11.us",
-      "name": "Scottsdale Channel 11",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/ScottsdaleChannel11.us.png",
-      "streamUrls": [
-        "https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/scottsdale/G0040_007/chunklist.m3u8"
-      ],
-      "category": "Lifestyle",
       "languages": []
     },
     {
@@ -9137,6 +9116,7 @@
       "name": "UBS",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/UBS.mn.png",
       "streamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/UBSHD/DASH-FTA/UBSHD.mpd",
         "https://cdn4.skygo.mn/live/disk1/UBSHD/HLSv3-FTA/UBSHD.m3u8"
       ],
       "category": "Other",
@@ -9885,7 +9865,8 @@
       "name": "ONTV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/ONTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd"
+        "https://cdn4.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd",
+        "https://cdn4.skygo.mn/live/disk1/ONTV/HLSv3-FTA/ONTV.m3u8"
       ],
       "country": "MN",
       "category": "Entertainment",
@@ -10204,17 +10185,6 @@
       "languages": []
     },
     {
-      "id": "Fuse.us",
-      "name": "Fuse",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/Fuse.us.png",
-      "streamUrls": [
-        "http://23.237.104.106:8080/USA_FUSE/index.m3u8",
-        "https://gpuserver3.tier1streams.com/FUSE/index.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "GlobalTV.pe",
       "name": "Global TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pe/GlobalTV.pe.png",
@@ -10222,18 +10192,6 @@
         "http://190.93.224.42/GLOBAL/index.m3u8",
         "https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/playlist.m3u8",
         "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/global.stream/playlist.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
-      "id": "E.us",
-      "name": "E!",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/E.us.png",
-      "streamUrls": [
-        "http://23.237.104.106:8080/USA_E/index.m3u8",
-        "https://gpuserver3.tier1streams.com/E_ENTERTAINMENT_EAST/index.m3u8",
-        "https://gpuserver3.tier1streams.com/E_ENTERTAINMENT_WEST/index.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -10566,8 +10524,8 @@
       "name": "NTV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/NTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/NTVHD/DASH-FTA/NTVHD.mpd",
-        "https://cdn4.skygo.mn/live/disk1/NTVHD/HLSv3-FTA/NTVHD.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/NTVHD/HLSv3-FTA/NTVHD.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/NTVHD/DASH-FTA/NTVHD.mpd"
       ],
       "country": "MN",
       "category": "Entertainment",
@@ -11195,7 +11153,7 @@
       "name": "TV9",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/TV9.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/TV9HD/DASH-FTA/TV9HD.mpd"
+        "https://cdn4.skygo.mn/live/disk1/TV9HD/HLSv3-FTA/TV9HD.m3u8"
       ],
       "country": "MN",
       "category": "Entertainment",
@@ -13394,16 +13352,6 @@
       "languages": []
     },
     {
-      "id": "CrimePlusInvestigation.us",
-      "name": "Crime + Investigation",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/CrimePlusInvestigation.us.png",
-      "streamUrls": [
-        "http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "Novoetelevidenie.kz",
       "name": "Novoe televidenie",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/kz/Novoetelevidenie.kz.png",
@@ -15095,7 +15043,6 @@
       "name": "AsianBox",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/AsianBox.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/AsianBOX/DASH-FTA/AsianBOX.mpd",
         "https://cdn4.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX.m3u8"
       ],
       "country": "MN",
@@ -15656,16 +15603,6 @@
         "https://live.dc.beltelecom.by/trkgomel/trkgomel.stream/playlist.m3u8"
       ],
       "country": "BY",
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
-      "id": "KBSV231.us",
-      "name": "KBSV 23.1",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/KBSV231.us.png",
-      "streamUrls": [
-        "http://66.242.170.53/hls/live/temp/index.m3u8"
-      ],
       "category": "Entertainment",
       "languages": []
     },
@@ -16762,6 +16699,7 @@
       "name": "C1",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/C1.mn.png",
       "streamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/C1/HLSv3-FTA/C1.m3u8",
         "https://cdn4.skygo.mn/live/disk1/C1/DASH-FTA/C1.mpd"
       ],
       "country": "MN",
@@ -16924,7 +16862,7 @@
     {
       "id": "ONVieDrama.vn",
       "name": "ON Vie Drama",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=vtvcab.vn",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Vie_Channel_by_DatViet_VAC_logo.png/330px-Vie_Channel_by_DatViet_VAC_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8"
       ],
@@ -17358,16 +17296,6 @@
       "languages": []
     },
     {
-      "id": "TelevisionPublica.ar",
-      "name": "Television Publica",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Canal_7_Argentina.JPG/330px-Canal_7_Argentina.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "streamUrls": [
-        "http://190.128.214.97:64333/play/a008/index.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "LombardiaTV.it",
       "name": "Lombardia TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/it/LombardiaTV.it.png",
@@ -17709,8 +17637,8 @@
       "name": "¡OPA!",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cr/OPA.cr.png",
       "streamUrls": [
-        "https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8",
-        "https://5f1af61612fb5.streamlock.net/genteopa/videogenteopa_720p/playlist.m3u8"
+        "https://5f1af61612fb5.streamlock.net/genteopa/videogenteopa_720p/playlist.m3u8",
+        "https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8"
       ],
       "country": "CR",
       "category": "Entertainment",
@@ -17805,9 +17733,9 @@
       "name": "MTV Reality",
       "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/330px-MTV_2021_%28brand_version%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
-        "https://jmp2.uk/plu-685139b0f7d8b74b62f41c96.m3u8",
+        "https://jmp2.uk/plu-68513950f212bedacf8ec48f.m3u8",
         "https://jmp2.uk/plu-685137f4a1e091e16f2dd471.m3u8",
-        "https://jmp2.uk/plu-68513950f212bedacf8ec48f.m3u8"
+        "https://jmp2.uk/plu-685139b0f7d8b74b62f41c96.m3u8"
       ],
       "country": "SE",
       "category": "Entertainment",
@@ -17818,7 +17746,9 @@
       "name": "Best of MTV",
       "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/MTV_Live.svg/330px-MTV_Live.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
-        "https://jmp2.uk/plu-632afc466699570007ed1106.m3u8"
+        "https://jmp2.uk/plu-632afdf820e83e000710ea12.m3u8",
+        "https://jmp2.uk/plu-632afc466699570007ed1106.m3u8",
+        "https://jmp2.uk/plu-632aff5e44111b00076ad9b1.m3u8"
       ],
       "country": "SE",
       "category": "Entertainment",
@@ -17840,10 +17770,11 @@
     {
       "id": "AreYouTheOne.se",
       "name": "Are You The One?",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/AreYoutheOneLogo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "streamUrls": [
-        "https://jmp2.uk/plu-61c091c39863900007ac9e8f.m3u8",
-        "https://jmp2.uk/plu-61c0ac242bb0cf0007015f89.m3u8"
+        "https://jmp2.uk/plu-61c0ac242bb0cf0007015f89.m3u8",
+        "https://jmp2.uk/plu-61c1db8ed6d97900076ea15c.m3u8",
+        "https://jmp2.uk/plu-61c091c39863900007ac9e8f.m3u8"
       ],
       "country": "SE",
       "category": "Entertainment",
@@ -17852,9 +17783,10 @@
     {
       "id": "BestofTheDrewBarrymoreShow.se",
       "name": "Best of The Drew Barrymore Show",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Drew_Barrymore_Show_logo.svg/330px-Drew_Barrymore_Show_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "https://jmp2.uk/plu-630483153a21200007f1920f.m3u8",
+        "https://jmp2.uk/plu-62beb692cda2b10007d5fd76.m3u8",
         "https://jmp2.uk/plu-630478cfdb5a4a0007ec255e.m3u8"
       ],
       "country": "SE",
@@ -17878,6 +17810,8 @@
       "name": "Geordie Shore",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
+        "https://jmp2.uk/plu-64424be3e94c380008d0a66d.m3u8",
+        "https://jmp2.uk/plu-6442512cee6a2f0008d3351f.m3u8",
         "https://jmp2.uk/plu-64424a1d5a0cd500083ed27c.m3u8"
       ],
       "country": "SE",
@@ -17889,9 +17823,9 @@
       "name": "Jersey Shore Family Vacation",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-6728c831c7626f0008b28127.m3u8",
         "https://jmp2.uk/plu-6728c87cc7626f0008b28149.m3u8",
-        "https://jmp2.uk/plu-6728c8b45534bb0008b31f35.m3u8"
+        "https://jmp2.uk/plu-6728c8b45534bb0008b31f35.m3u8",
+        "https://jmp2.uk/plu-6728c831c7626f0008b28127.m3u8"
       ],
       "country": "SE",
       "category": "Entertainment",
@@ -17915,8 +17849,9 @@
       "name": "MTV The Hills",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-61c09039ebd75200072587f9.m3u8",
-        "https://jmp2.uk/plu-61c08d7c73bdb800070eef0a.m3u8"
+        "https://jmp2.uk/plu-61c1d56f28e94c0007827bdb.m3u8",
+        "https://jmp2.uk/plu-61c08d7c73bdb800070eef0a.m3u8",
+        "https://jmp2.uk/plu-61c09039ebd75200072587f9.m3u8"
       ],
       "country": "SE",
       "category": "Entertainment",
@@ -17940,6 +17875,7 @@
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
         "https://jmp2.uk/plu-61c091343bf4940007803e03.m3u8",
+        "https://jmp2.uk/plu-61c09a3894aa450007814aea.m3u8",
         "https://jmp2.uk/plu-61c1d6e1f5acaf0007f8381d.m3u8"
       ],
       "country": "SE",
@@ -17951,9 +17887,9 @@
       "name": "MTV Ridiculousness",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
+        "https://jmp2.uk/plu-62cd9e0d10bb020007005628.m3u8",
         "https://jmp2.uk/plu-62cda0dfddc1040008fccacc.m3u8",
-        "https://jmp2.uk/plu-62cd9641393d8400076f34db.m3u8",
-        "https://jmp2.uk/plu-62cd9e0d10bb020007005628.m3u8"
+        "https://jmp2.uk/plu-62cd9641393d8400076f34db.m3u8"
       ],
       "country": "SE",
       "category": "Entertainment",
@@ -17964,8 +17900,8 @@
       "name": "Paradise Hotel",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-61c1db901346480007b7c345.m3u8",
         "https://jmp2.uk/plu-61c19af83fae0a00078c8918.m3u8",
+        "https://jmp2.uk/plu-61c1db901346480007b7c345.m3u8",
         "https://jmp2.uk/plu-61c18e1e0cd4cc00076bc4b3.m3u8"
       ],
       "country": "SE",
@@ -17977,9 +17913,9 @@
       "name": "The Daily Show",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-65c096d23ba51e0008305a75.m3u8",
         "https://jmp2.uk/plu-65c0973311ced7000808d255.m3u8",
-        "https://jmp2.uk/plu-65c0978360eb870008bc9d5b.m3u8"
+        "https://jmp2.uk/plu-65c0978360eb870008bc9d5b.m3u8",
+        "https://jmp2.uk/plu-65c096d23ba51e0008305a75.m3u8"
       ],
       "country": "SE",
       "category": "Entertainment",
@@ -18063,9 +17999,9 @@
       "name": "Top Gear",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/TopGear.uk.png",
       "streamUrls": [
-        "https://jmp2.uk/plu-638e10220aa6a6000726979f.m3u8",
-        "https://jmp2.uk/plu-64c109735dc1660008a4a2dc.m3u8",
-        "https://jmp2.uk/plu-6202357dea93940007d723ca.m3u8"
+        "https://jmp2.uk/plu-620239894757070008d4812d.m3u8",
+        "https://jmp2.uk/plu-64c109a4798def0008a6e03e.m3u8",
+        "https://jmp2.uk/plu-620234d766314700075cac86.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
