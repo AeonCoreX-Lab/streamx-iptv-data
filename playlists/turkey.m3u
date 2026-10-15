@@ -56,7 +56,7 @@ https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 #EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/HaberGlobal.tr.png" group-title="Turkey",Haber Global
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 #EXTINF:-1 tvg-id="Haber61TV.tr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/Haber61TV.tr.png" group-title="Turkey [HD]",Haber61 TV [HD]
-https://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
+https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8
 #EXTINF:-1 tvg-id="HaberturkTV.tr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/HaberturkTV.tr.png" group-title="Turkey [HD]",Haberturk TV [HD]
 https://tv.ensonhaber.com/haberturk/haberturk.m3u8
 #EXTINF:-1 tvg-id="HalkTV.tr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/HalkTV.tr.png" group-title="Turkey [FHD]",Halk TV [FHD]
@@ -203,12 +203,8 @@ http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8
 #EXTINF:-1 tvg-id="LalegulTV.tr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/LalegulTV.tr.png" group-title="Turkey",Lalegul TV
 https://lbl.netmedya.net/hls/lalegultv.m3u8
-#EXTINF:-1 tvg-id="FortunaTV.tr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/FortunaTV.tr.png" group-title="Turkey [FHD]",Fortuna TV [FHD]
-https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="MeltemTV.tr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/MeltemTV.tr.png" group-title="Turkey [FHD]",Meltem TV [FHD]
 https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
-#EXTINF:-1 tvg-id="KanalHayat.tr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/KanalHayat.tr.png" group-title="Turkey [FHD]",Kanal Hayat [FHD]
-https://tbn02a.ltnschedule.com/hls/nx21i.m3u8
 #EXTINF:-1 tvg-id="Ekoturk.tr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/Ekoturk.tr.png" group-title="Turkey [HD]",Ekoturk [HD]
 https://cdn.ekoturk.net/hls/master.m3u8
 #EXTINF:-1 tvg-id="FlashHaberTV.tr" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Flash_TV_logo.png/330px-Flash_TV_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail" group-title="Turkey [FHD]",Flash Haber TV [FHD]
@@ -221,5 +217,11 @@ https://yayin30.haber100.com/live/finansturk/playlist.m3u8
 http://139.162.182.79/live/test/index.m3u8
 #EXTINF:-1 tvg-id="TurksatTanitim.tr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/TurksatTanitim.tr.png" group-title="Turkey",Turksat Tanitim
 http://176.65.153.26:6004/play/a02s/index.m3u8
+#EXTINF:-1 tvg-id="ERTV.tr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/ERTV.tr.png" group-title="Turkey [FHD]",ERTV [FHD]
+https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8
+#EXTINF:-1 tvg-id="FortunaTV.tr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/FortunaTV.tr.png" group-title="Turkey [FHD]",Fortuna TV [FHD]
+https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="KanalHayat.tr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/KanalHayat.tr.png" group-title="Turkey [FHD]",Kanal Hayat [FHD]
+https://tbn02a.ltnschedule.com/hls/nx21i.m3u8
 #EXTINF:-1 tvg-id="KocaeliTV.tr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/KocaeliTV.tr.png" group-title="Turkey [FHD]",Kocaeli TV [FHD]
 https://edge.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8
