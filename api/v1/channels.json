@@ -4390,19 +4390,6 @@
       "_category": "music"
     },
     {
-      "id": "FarraPlay.py",
-      "name": "Farra Play",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/py/FarraPlay.py.png",
-      "streamUrls": [
-        "http://159.203.148.226/live/farra.m3u8",
-        "https://stream.farra.com.py/live/farra_low.m3u8"
-      ],
-      "country": "PY",
-      "category": "Music",
-      "languages": [],
-      "_category": "music"
-    },
-    {
       "id": "LaGranjaTV.cl",
       "name": "La Granja TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cl/LaGranjaTV.cl.png",
@@ -12811,6 +12798,17 @@
       "_category": "france"
     },
     {
+      "id": "HANDICAPTV.fr",
+      "name": "HANDICAP TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/fr/HANDICAPTV.fr.png",
+      "streamUrls": [
+        "https://srv.webtvmanager.fr:3697/stream/play.m3u8"
+      ],
+      "category": "France",
+      "languages": [],
+      "_category": "france"
+    },
+    {
       "id": "ArmyTV.ua",
       "name": "Army TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/ArmyTV.ua.png",
@@ -16255,6 +16253,17 @@
       "_category": "lifestyle"
     },
     {
+      "id": "HANDICAPTV.fr",
+      "name": "HANDICAP TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/fr/HANDICAPTV.fr.png",
+      "streamUrls": [
+        "https://srv.webtvmanager.fr:3697/stream/play.m3u8"
+      ],
+      "category": "Lifestyle",
+      "languages": [],
+      "_category": "lifestyle"
+    },
+    {
       "id": "AmericanCrimeChannel.pl",
       "name": "American Crime Channel",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=rakuten.tv",
@@ -19580,17 +19589,6 @@
       "_category": "sports"
     },
     {
-      "id": "SportPlusQazaqstan.kz",
-      "name": "Sport+ Qazaqstan",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/kz/SportPlusQazaqstan.kz.png",
-      "streamUrls": [
-        "https://fs.uplink.kz/sport+/mono.m3u8?token=onlinetv"
-      ],
-      "category": "Sports",
-      "languages": [],
-      "_category": "sports"
-    },
-    {
       "id": "PKSports.pk",
       "name": "PK Sports",
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
@@ -22567,6 +22565,17 @@
         "https://iptv.ixfo.com.ar:30443/live/TelePosadasTv/playlist.m3u8"
       ],
       "country": "AR",
+      "category": "Argentina",
+      "languages": [],
+      "_category": "argentina"
+    },
+    {
+      "id": "Canal3Tacural.ar",
+      "name": "Canal 3 Tacural",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/Canal3Tacural.ar.png",
+      "streamUrls": [
+        "http://vivo.canal3tacural.com.ar:8081/hls/stream.m3u8"
+      ],
       "category": "Argentina",
       "languages": [],
       "_category": "argentina"
@@ -35691,17 +35700,6 @@
       "_category": "usa"
     },
     {
-      "id": "News12PlusConnecticut.us",
-      "name": "News12+ Connecticut",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/News12PlusConnecticut.us.png",
-      "streamUrls": [
-        "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8"
-      ],
-      "category": "USA",
-      "languages": [],
-      "_category": "usa"
-    },
-    {
       "id": "DisneyJunior.us",
       "name": "Disney Junior",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/DisneyJunior.us.png",
@@ -37910,18 +37908,6 @@
         "https://iptv.ebc.edu.kh/iptv/channel/1.m3u8"
       ],
       "category": "Informative",
-      "genre": "Informative",
-      "_category": "informative"
-    },
-    {
-      "id": "OneTVESchoolCambodia.kh",
-      "name": "One TV E-School Cambodia",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/kh/OneTVESchoolCambodia.kh.png",
-      "streamUrls": [
-        "http://49.156.33.114:5080/live/streams/elearning.playlist.m3u8"
-      ],
-      "category": "Informative",
-      "languages": [],
       "genre": "Informative",
       "_category": "informative"
     },
@@ -40514,7 +40500,7 @@
     {
       "id": "MTVOriginals.de",
       "name": "MTV Originals",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Disney_Channel_Original_Movie_logo.svg/330px-Disney_Channel_Original_Movie_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "https://jmp2.uk/plu-5f1aadf373bed3000794d1d7.m3u8"
       ],
@@ -40787,6 +40773,7 @@
       "name": "Unknown Channel",
       "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/330px-Colors_TV_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
+        "https://jmp2.uk/plu-62f4f4b88157cf00075c22db.m3u8",
         "https://jmp2.uk/plu-6267d4d1fb694f0007a6af0e.m3u8",
         "https://jmp2.uk/plu-61c09e3ac210ed0007606620.m3u8"
       ],
@@ -44328,7 +44315,8 @@
       "name": "Bloomberg TV Mongolia",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/BloombergTVMongolia.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/BloombergMon/DASH-FTA/BloombergMon.mpd"
+        "https://cdn4.skygo.mn/live/disk1/BloombergMon/DASH-FTA/BloombergMon.mpd",
+        "https://cdn4.skygo.mn/live/disk1/BloombergMon/HLSv3-FTA/BloombergMon.m3u8"
       ],
       "category": "Business",
       "languages": [],
@@ -44685,17 +44673,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/py/CanalPro.py.png",
       "streamUrls": [
         "https://www.desde-paraguay.com/pro.m3u8"
-      ],
-      "category": "Business",
-      "languages": [],
-      "_category": "business"
-    },
-    {
-      "id": "AtamekenBusiness.kz",
-      "name": "Atameken Business",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/kz/AtamekenBusiness.kz.png",
-      "streamUrls": [
-        "https://fs.uplink.kz/atameken/mono.m3u8?token=onlinetv"
       ],
       "category": "Business",
       "languages": [],
@@ -50588,17 +50565,6 @@
       "_category": "russia"
     },
     {
-      "id": "LapkiLive.ru",
-      "name": "Lapki Live",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/330px-REN_TV_logo_2017.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "streamUrls": [
-        "https://fs.uplink.kz/lapki_live/mono.m3u8?token=onlinetv"
-      ],
-      "category": "Russia",
-      "languages": [],
-      "_category": "russia"
-    },
-    {
       "id": "RENTVInternational.ru",
       "name": "REN TV International",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/RENTVInternational.ru.png",
@@ -50712,17 +50678,6 @@
       "_category": "russia"
     },
     {
-      "id": "Bober.ru",
-      "name": "Bober",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Bober.ru.png",
-      "streamUrls": [
-        "https://fs.uplink.kz/bober/mono.m3u8?token=onlinetv"
-      ],
-      "category": "Russia",
-      "languages": [],
-      "_category": "russia"
-    },
-    {
       "id": "DomashnieZhivotnye.ru",
       "name": "Domashnie Zhivotnye",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/DomashnieZhivotnye.ru.png",
@@ -50818,17 +50773,6 @@
       "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/330px-REN_TV_logo_2017.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8"
-      ],
-      "category": "Russia",
-      "languages": [],
-      "_category": "russia"
-    },
-    {
-      "id": "Rybalkaiokhota.ru",
-      "name": "Rybalka i okhota",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/330px-REN_TV_logo_2017.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "streamUrls": [
-        "https://fs.uplink.kz/ohota_i_ribalka/mono.m3u8?token=onlinetv"
       ],
       "category": "Russia",
       "languages": [],
@@ -57888,17 +57832,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bo/CEACOMTV.bo.png",
       "streamUrls": [
         "https://eu1.servers10.com:8081/ceacom/index.m3u8"
-      ],
-      "category": "News",
-      "languages": [],
-      "_category": "news"
-    },
-    {
-      "id": "News12PlusConnecticut.us",
-      "name": "News12+ Connecticut",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/News12PlusConnecticut.us.png",
-      "streamUrls": [
-        "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8"
       ],
       "category": "News",
       "languages": [],
@@ -77938,17 +77871,6 @@
       "_category": "entertainment"
     },
     {
-      "id": "KanalS.az",
-      "name": "Kanal S",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Kanal_D_Logo3.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "streamUrls": [
-        "https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": [],
-      "_category": "entertainment"
-    },
-    {
       "id": "NBCLXHome.us",
       "name": "NBC LX Home",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=lx.com",
@@ -78738,17 +78660,6 @@
         "http://stream.mcquack.net/76/index.m3u8"
       ],
       "category": "Entertainment",
-      "languages": [],
-      "_category": "entertainment"
-    },
-    {
-      "id": "AdaTV.cy",
-      "name": "Ada TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cy/AdaTV.cy.png",
-      "streamUrls": [
-        "https://yayin1.canlitv.fun/live/kibrisadatv.stream/playlist.m3u8"
-      ],
-      "category": "Other",
       "languages": [],
       "_category": "entertainment"
     },
@@ -80789,33 +80700,11 @@
       "_category": "entertainment"
     },
     {
-      "id": "AlmatyTV.kz",
-      "name": "Almaty TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/kz/AlmatyTV.kz.png",
-      "streamUrls": [
-        "https://fs.uplink.kz/almaty/mono.m3u8?token=onlinetv"
-      ],
-      "category": "Entertainment",
-      "languages": [],
-      "_category": "entertainment"
-    },
-    {
       "id": "Channel7.kz",
       "name": "Channel 7",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=tv7.kz",
       "streamUrls": [
         "http://stream.mcquack.net/27/index.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": [],
-      "_category": "entertainment"
-    },
-    {
-      "id": "Khabar.kz",
-      "name": "Khabar",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/kz/Khabar.kz.png",
-      "streamUrls": [
-        "https://fs.uplink.kz/habar/mono.m3u8?token=onlinetv"
       ],
       "category": "Entertainment",
       "languages": [],
@@ -81723,17 +81612,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/py/UnionTV.py.png",
       "streamUrls": [
         "https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": [],
-      "_category": "entertainment"
-    },
-    {
-      "id": "ChannelOneEurasia.kz",
-      "name": "Channel One Eurasia",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/kz/ChannelOneEurasia.kz.png",
-      "streamUrls": [
-        "https://fs.uplink.kz/perviy_kanal_evrasia/mono.m3u8?token=onlinetv"
       ],
       "category": "Entertainment",
       "languages": [],
@@ -83032,17 +82910,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/it/A2iTV.it.png",
       "streamUrls": [
         "https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": [],
-      "_category": "entertainment"
-    },
-    {
-      "id": "LaRed.cl",
-      "name": "La Red",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cl/LaRed.cl.png",
-      "streamUrls": [
-        "https://tv-mgmt.gtd.cl/bpk-tv/LARED/default/index.m3u8"
       ],
       "category": "Entertainment",
       "languages": [],
@@ -84733,6 +84600,28 @@
       "streamUrls": [
         "http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8",
         "https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": [],
+      "_category": "entertainment"
+    },
+    {
+      "id": "Canal3Tacural.ar",
+      "name": "Canal 3 Tacural",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/Canal3Tacural.ar.png",
+      "streamUrls": [
+        "http://vivo.canal3tacural.com.ar:8081/hls/stream.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": [],
+      "_category": "entertainment"
+    },
+    {
+      "id": "VTVMor.hu",
+      "name": "VTV Mor",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/hu/VTVMor.hu.png",
+      "streamUrls": [
+        "https://cloudfront44.lexanetwork.com:1344/freerelay/morvtv.sdp/playlist.m3u8"
       ],
       "category": "Entertainment",
       "languages": [],
@@ -90576,6 +90465,6 @@
       "_category": "south_korea"
     }
   ],
-  "count": 8009,
-  "generated_at": "2026-10-16T16:07:56.613530"
+  "count": 7999,
+  "generated_at": "2026-10-16T22:33:14.876286"
 }
