@@ -9756,7 +9756,8 @@
       "name": "ONTV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/ONTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd"
+        "https://cdn4.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd",
+        "https://cdn4.skygo.mn/live/disk1/ONTV/HLSv3-FTA/ONTV.m3u8"
       ],
       "country": "MN",
       "category": "Entertainment",
@@ -10583,16 +10584,6 @@
       "languages": []
     },
     {
-      "id": "GeniosTV.pe",
-      "name": "Genios TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pe/GeniosTV.pe.png",
-      "streamUrls": [
-        "https://sc3.wasidata.com/Genios2_1902/video.m3u8"
-      ],
-      "category": "News",
-      "languages": []
-    },
-    {
       "id": "LiderTV.pe",
       "name": "Lider TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pe/LiderTV.pe.png",
@@ -10652,17 +10643,6 @@
       "streamUrls": [
         "https://astl-mainstr.qvixsolutions.com/asltvtu_ext/index.m3u8"
       ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
-      "id": "Canal10.sv",
-      "name": "Canal 10",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/sv/Canal10.sv.png",
-      "streamUrls": [
-        "https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8"
-      ],
-      "country": "SV",
       "category": "Entertainment",
       "languages": []
     },
@@ -14558,16 +14538,6 @@
       "languages": []
     },
     {
-      "id": "ATMRozrywkaREWORK.pl",
-      "name": "ATM Rozrywka REWORK",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/ATMRozrywkaREWORK.pl.png",
-      "streamUrls": [
-        "https://grupaatmrr.org.pl:8888/fallback/index.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "GiTelevision.do",
       "name": "Gi Television",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/GiTelevision.do.png",
@@ -15537,16 +15507,6 @@
       "languages": []
     },
     {
-      "id": "SiembraTV.ve",
-      "name": "Siembra TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ve/SiembraTV.ve.png",
-      "streamUrls": [
-        "https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/playlist.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "VidusdaugavasTelevizija.lv",
       "name": "Vidusdaugavas Televizija",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/lv/VidusdaugavasTelevizija.lv.png",
@@ -16436,16 +16396,6 @@
       "languages": []
     },
     {
-      "id": "CanalTRV.sv",
-      "name": "Canal TRV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/sv/CanalTRV.sv.png",
-      "streamUrls": [
-        "https://stream.ontvmx.com/ontv/CNMLXR0Z6FPtGdjcI4/playlist.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "DigitalVision63.do",
       "name": "Digital Vision 63",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/DigitalVision63.do.png",
@@ -16877,16 +16827,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pe/IntuitivaTV.pe.png",
       "streamUrls": [
         "https://video2.lhdserver.es/cableperu/live.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
-      "id": "TelePoderTV.do",
-      "name": "Tele Poder TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/TelePoderTV.do.png",
-      "streamUrls": [
-        "https://cdn.telepoder.online:3229/dash/stream.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -17904,8 +17844,28 @@
       ],
       "category": "Entertainment",
       "languages": []
+    },
+    {
+      "id": "ConstanzaTV.do",
+      "name": "ConstanzaTV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/ConstanzaTV.do.png",
+      "streamUrls": [
+        "https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "ParadiseHotelUnderlagnerne.se",
+      "name": "Paradise Hotel: Under lagnerne",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
+      "streamUrls": [
+        "https://jmp2.uk/plu-662b71658dd8160008fc3abf.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
     }
   ],
-  "count": 1740,
-  "generated_at": "2026-10-17T18:10:02.588839"
+  "count": 1736,
+  "generated_at": "2026-10-17T21:58:25.911549"
 }
