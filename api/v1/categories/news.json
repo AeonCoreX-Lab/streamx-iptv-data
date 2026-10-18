@@ -1453,7 +1453,7 @@
       "name": "ETV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/ETV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/ETV/HLSv3-FTA/ETV.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/ETV/DASH-FTA/ETV.mpd"
       ],
       "category": "News",
       "languages": []
@@ -6533,8 +6533,18 @@
       ],
       "category": "News",
       "languages": []
+    },
+    {
+      "id": "BalafonTV.cm",
+      "name": "Balafon TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cm/BalafonTV.cm.png",
+      "streamUrls": [
+        "https://broadcasting-channels.com:9044/hls/test.m3u8"
+      ],
+      "category": "News",
+      "languages": []
     }
   ],
-  "count": 628,
-  "generated_at": "2026-10-17T21:58:25.898000"
+  "count": 629,
+  "generated_at": "2026-10-18T03:09:44.648202"
 }
