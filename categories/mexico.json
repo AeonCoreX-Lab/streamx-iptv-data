@@ -107,9 +107,9 @@
       "name": "Golden",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/Golden.mx.png",
       "streamUrls": [
-        "http://168.196.127.137:6001/play/a06y/index.m3u8",
-        "http://138.121.15.230:9002/GOLDEN/index.m3u8",
-        "https://rpn.bozztv.com/gusa/gusa-goldentv/index.m3u8"
+        "http://15.204.196.147:22880/RECEPCION-GOLDEN_LAT-FHD/video.m3u8",
+        "https://rpn.bozztv.com/gusa/gusa-goldentv/index.m3u8",
+        "http://138.121.15.230:9002/GOLDEN/index.m3u8"
       ],
       "category": "Mexico",
       "languages": []
@@ -119,7 +119,8 @@
       "name": "ITV Deportes",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/ITVDeportes.mx.png",
       "streamUrls": [
-        "https://thm-it-roku.otteravision.com/thm/it/it.m3u8"
+        "https://thm-it-roku.otteravision.com/thm/it/it.m3u8",
+        "https://jmp2.uk/plu-63f7e3f9dff38e00082a57af.m3u8"
       ],
       "category": "Mexico",
       "languages": []
@@ -430,6 +431,7 @@
       "name": "De Pelicula Latin America",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/DePeliculaLatinAmerica.mx.png",
       "streamUrls": [
+        "http://15.204.196.147:22880/RECEPCION-DPELICULA-LATAM-FHD/video.m3u8",
         "http://38.19.41.46:8081/DEPELICULA/index.m3u8",
         "http://181.224.200.5:2277/play/a0d1/index.m3u8"
       ],
@@ -660,9 +662,9 @@
       "name": "Golden Edge",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/GoldenEdge.mx.png",
       "streamUrls": [
+        "http://15.204.196.147:22880/RECEPCION-GOLDEN_EDGE-LATAM-FHD/video.m3u8",
         "http://168.196.127.137:6001/play/a09p/index.m3u8",
-        "http://38.19.41.46:8081/GOLDENEDGE/index.m3u8",
-        "http://138.121.15.230:9002/GOLDEN-EDGE/index.m3u8"
+        "http://38.19.41.46:8081/GOLDENEDGE/index.m3u8"
       ],
       "country": "MX",
       "category": "Mexico",
@@ -673,8 +675,8 @@
       "name": "SICOM Television",
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
-        "https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/playlist.m3u8",
-        "https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8"
+        "https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8",
+        "https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/playlist.m3u8"
       ],
       "country": "MX",
       "category": "Mexico",
@@ -766,8 +768,8 @@
       "name": "MC",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/MC.mx.png",
       "streamUrls": [
-        "http://168.196.127.137:6001/play/a070/index.m3u8",
-        "http://45.5.118.152:8000/play/a03r/index.m3u8"
+        "http://45.5.118.152:8000/play/a03r/index.m3u8",
+        "http://168.196.127.137:6001/play/a070/index.m3u8"
       ],
       "category": "Mexico",
       "languages": []
@@ -894,6 +896,17 @@
       "streamUrls": [
         "https://webprod.sipse.com.mx:8080/show/tvcun.m3u8"
       ],
+      "category": "Mexico",
+      "languages": []
+    },
+    {
+      "id": "PXSports.mx",
+      "name": "PX Sports",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/PXSports.mx.png",
+      "streamUrls": [
+        "http://38.65.175.84:8000/play/a0ku/index.m3u8"
+      ],
+      "country": "MX",
       "category": "Mexico",
       "languages": []
     }
