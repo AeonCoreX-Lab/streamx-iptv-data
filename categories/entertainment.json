@@ -2543,16 +2543,6 @@
       "languages": []
     },
     {
-      "id": "DaoLaneXangTV.la",
-      "name": "Dao Lane Xang TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/la/DaoLaneXangTV.la.png",
-      "streamUrls": [
-        "https://livefta.malimarcdn.com/ftaedge00/khaomwungmai.sdp/playlist.m3u8"
-      ],
-      "category": "Movies",
-      "languages": []
-    },
-    {
       "id": "DasErste.de",
       "name": "Das Erste",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/de/DasErste.de.png",
@@ -8984,6 +8974,7 @@
       "name": "UBS",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/UBS.mn.png",
       "streamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/UBSHD/HLSv3-FTA/UBSHD.m3u8",
         "https://cdn4.skygo.mn/live/disk1/UBSHD/DASH-FTA/UBSHD.mpd"
       ],
       "category": "Other",
@@ -15481,16 +15472,6 @@
       "languages": []
     },
     {
-      "id": "DaNangTV2.vn",
-      "name": "Da Nang TV2",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Digital_terrestrial_television_standards.svg/330px-Digital_terrestrial_television_standards.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "streamUrls": [
-        "https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "ChaozhouPublicChannel.cn",
       "name": "Chaozhou Public Channel",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cn/ChaozhouPublicChannel.cn.png",
@@ -17293,16 +17274,6 @@
       "languages": []
     },
     {
-      "id": "MaxivisionCanal8.ec",
-      "name": "Maxivision Canal 8",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ec/MaxivisionCanal8.ec.png",
-      "streamUrls": [
-        "http://181.119.97.124:8080/play/a00w/index.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "PAT.bo",
       "name": "PAT",
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
@@ -17348,6 +17319,7 @@
       "name": "Star TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/StarTV.mn.png",
       "streamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/Star/HLSv3-FTA/Star.m3u8",
         "https://cdn4.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd"
       ],
       "country": "MN",
@@ -17707,16 +17679,6 @@
       "languages": []
     },
     {
-      "id": "RTNC.cd",
-      "name": "RTNC",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cd/RTNC.cd.png",
-      "streamUrls": [
-        "https://kali.vdopanel.com:3850/live/masterlive.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "SpektrumHome.cz",
       "name": "Spektrum Home",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cz/SpektrumHome.cz.png",
@@ -17978,6 +17940,69 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/DutaTV.id.png",
       "streamUrls": [
         "https://dutatv.siar.us/dutatv/live/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "7TV.es",
+      "name": "7TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/7TV.es.png",
+      "streamUrls": [
+        "https://especial7tv.gestec-video.com/hls/regional.m3u8",
+        "https://streaming004.gestec-video.com/hls/7TVJEREZ.m3u8",
+        "https://streaming004.gestec-video.com/hls/7TVJAEN.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "CNCBugavision.co",
+      "name": "CNC Bugavision",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/CNCBugavision.co.png",
+      "streamUrls": [
+        "https://video.ejeserver.com/live/cncbuga.m3u8",
+        "https://movil.ejeserver.com/live/cncbuga.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "Canal4.cr",
+      "name": "Canal 4",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cr/Canal4.cr.png",
+      "streamUrls": [
+        "http://45.186.106.207:8000/play/a09t/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "Giallo.it",
+      "name": "Giallo",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/it/Giallo.it.png",
+      "streamUrls": [
+        "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/GIALLO/CMAF/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "Nove.it",
+      "name": "Nove",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/it/Nove.it.png",
+      "streamUrls": [
+        "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "PlutoTVAmoryMentiras.us",
+      "name": "Pluto TV Amor y Mentiras",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
+      "streamUrls": [
+        "https://jmp2.uk/plu-698a45156dc3c71eb1ba6599.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
