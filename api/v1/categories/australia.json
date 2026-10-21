@@ -77,9 +77,9 @@
       "name": "ABC TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/au/ABCTV.au.png",
       "streamUrls": [
-        "https://c.mjh.nz/abc-tas.m3u8",
-        "https://c.mjh.nz/abc-nsw.m3u8",
-        "https://c.mjh.nz/abc-wa.m3u8"
+        "https://c.mjh.nz/abc-sa.m3u8",
+        "https://c.mjh.nz/abc-wa.m3u8",
+        "https://c.mjh.nz/abc-nsw.m3u8"
       ],
       "category": "Australia",
       "languages": []
@@ -129,9 +129,9 @@
       "name": "Channel 9",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/au/Channel9.au.png",
       "streamUrls": [
-        "https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/per/ch9/hls/r1/index.m3u8",
-        "https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/bne/ch9/hls/r1/index.m3u8",
-        "https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/syd/ch9/hls/r1/index.m3u8"
+        "https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/adl/ch9/hls/r1/index.m3u8",
+        "https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/syd/ch9/hls/r1/index.m3u8",
+        "https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/per/ch9/hls/r1/index.m3u8"
       ],
       "category": "Australia",
       "languages": []
@@ -297,8 +297,18 @@
       ],
       "category": "Australia",
       "languages": []
+    },
+    {
+      "id": "News24Weather.au",
+      "name": "News24 Weather",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=news24.com.au",
+      "streamUrls": [
+        "https://skynewsau-live-premium.akamaized.net/hls/live/2105305/skynewsweather/live_540p.m3u8"
+      ],
+      "category": "Australia",
+      "languages": []
     }
   ],
-  "count": 29,
-  "generated_at": "2026-10-21T03:26:17.393884"
+  "count": 30,
+  "generated_at": "2026-10-21T09:08:17.477103"
 }
