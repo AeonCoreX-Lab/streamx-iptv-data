@@ -103,7 +103,7 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/BBCEarth.uk.png",
       "streamUrls": [
         "https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8",
-        "https://jmp2.uk/plu-656535fc2c46f30008870fae.m3u8",
+        "http://88.212.15.17/live/bbce_hun/index.m3u8",
         "http://88.212.15.17/live/test_bbc_eartch_hevc/playlist.m3u8"
       ],
       "category": "Informative",
@@ -1018,8 +1018,8 @@
       "name": "Yaslyk",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tm/Yaslyk.tm.png",
       "streamUrls": [
-        "https://alpha.tv.online.tm/hls/ch002.m3u8",
-        "https://alpha.tv.online.tm/legacyhls/ch002.m3u8"
+        "https://alpha.tv.online.tm/legacyhls/ch002.m3u8",
+        "https://alpha.tv.online.tm/hls/ch002.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -1251,9 +1251,9 @@
       "name": "Wonder",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/Wonder.uk.png",
       "streamUrls": [
-        "https://lds-wonder-rakuten.amagi.tv/playlist.m3u8",
         "https://lds-wonder-plex.amagi.tv/playlist.m3u8",
-        "https://wonder-samsung-uk.amagi.tv/playlist.m3u8"
+        "https://wonder-samsung-uk.amagi.tv/playlist.m3u8",
+        "https://lds-wonder-samsungau.amagi.tv/playlist.m3u8"
       ],
       "category": "Informative",
       "languages": [],
@@ -1265,8 +1265,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/HistoryHit.uk.png",
       "streamUrls": [
         "https://lds-timeline-rakuten.amagi.tv/playlist.m3u8",
-        "https://lds-timeline-plex.amagi.tv/playlist.m3u8",
-        "https://timeline-samsung-uk.amagi.tv/playlist.m3u8"
+        "https://timeline-samsung-uk.amagi.tv/playlist.m3u8",
+        "https://lds-timeline-plex.amagi.tv/playlist.m3u8"
       ],
       "category": "Informative",
       "languages": [],
@@ -1429,7 +1429,9 @@
       "name": "Pluto TV True Crime",
       "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Pluto_TV_logo_2024_black.svg/330px-Pluto_TV_logo_2024_black.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
-        "https://jmp2.uk/plu-61c1e51354d923000731bf78.m3u8"
+        "https://jmp2.uk/plu-61c0b438244e50000758083b.m3u8",
+        "https://jmp2.uk/plu-61c1e51354d923000731bf78.m3u8",
+        "https://jmp2.uk/plu-61c097ec8bb1830008e3f962.m3u8"
       ],
       "category": "Informative",
       "languages": []
@@ -2084,6 +2086,7 @@
       "name": "Pluto TV Verdenskrigene",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
+        "https://jmp2.uk/plu-677d3a424bd63600082f7baf.m3u8",
         "https://jmp2.uk/plu-677d397b60fbeb00084b0bff.m3u8"
       ],
       "country": "SE",
@@ -2095,7 +2098,6 @@
       "name": "Pluto TV Dokumentar",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-62b30b0060a9ca0007d628b4.m3u8",
         "https://jmp2.uk/plu-62b1e2498261390007f25c98.m3u8"
       ],
       "country": "SE",
@@ -2288,8 +2290,58 @@
       "country": "HU",
       "category": "Informative",
       "languages": []
+    },
+    {
+      "id": "PlutoTVAliens.us",
+      "name": "Pluto TV Aliens",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
+      "streamUrls": [
+        "https://jmp2.uk/plu-6806d65e84f24b70109485fa.m3u8"
+      ],
+      "category": "Informative",
+      "languages": []
+    },
+    {
+      "id": "PlutoTVAnimais.us",
+      "name": "Pluto TV Animais",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
+      "streamUrls": [
+        "https://jmp2.uk/plu-6474aa984cfc2c0008883a92.m3u8"
+      ],
+      "category": "Informative",
+      "languages": []
+    },
+    {
+      "id": "PlutoTVHistoria.de",
+      "name": "Pluto TV Historia",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
+      "streamUrls": [
+        "https://jmp2.uk/plu-61cd7b49543066000713b620.m3u8"
+      ],
+      "category": "Informative",
+      "languages": []
+    },
+    {
+      "id": "PlutoTVNatura.de",
+      "name": "Pluto TV Natura",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
+      "streamUrls": [
+        "https://jmp2.uk/plu-60802b37709d6b0007b0c549.m3u8"
+      ],
+      "category": "Informative",
+      "languages": []
+    },
+    {
+      "id": "PlutoTVPolicial.us",
+      "name": "Pluto TV Policial",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
+      "streamUrls": [
+        "https://jmp2.uk/plu-678fdf9e3de7c8cf948e8824.m3u8"
+      ],
+      "category": "Informative",
+      "languages": []
     }
   ],
-  "count": 216,
-  "generated_at": "2026-10-22T09:10:19.781550"
+  "count": 221,
+  "generated_at": "2026-10-22T16:41:34.385280"
 }
