@@ -1989,7 +1989,8 @@
       "name": "Unknown Channel",
       "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/330px-Colors_TV_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
-        "https://jmp2.uk/plu-5f8ecb336537e8000764a17f.m3u8"
+        "https://jmp2.uk/plu-5f8ecb336537e8000764a17f.m3u8",
+        "https://jmp2.uk/plu-5f1aa9bcd8160700076d45d1.m3u8"
       ],
       "country": "",
       "category": "Kids",
@@ -2236,8 +2237,28 @@
       "country": "RO",
       "category": "Kids",
       "languages": []
+    },
+    {
+      "id": "CartoonNetwork.pk",
+      "name": "Cartoon Network",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pk/CartoonNetwork.pk.png",
+      "streamUrls": [
+        "https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8"
+      ],
+      "category": "Kids",
+      "languages": []
+    },
+    {
+      "id": "CartoonNetworkArabic.ae",
+      "name": "Cartoon Network Arabic",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ae/CartoonNetworkArabic.ae.png",
+      "streamUrls": [
+        "http://149.100.11.252:8000/play/a056/index.m3u8"
+      ],
+      "category": "Kids",
+      "languages": []
     }
   ],
-  "count": 210,
-  "generated_at": "2026-10-21T23:01:36.661636"
+  "count": 212,
+  "generated_at": "2026-10-22T03:28:27.911106"
 }
