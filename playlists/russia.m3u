@@ -220,7 +220,7 @@ http://stream.mcquack.net/109/index.m3u8
 #EXTINF:-1 tvg-id="RadioShanson.ru" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/RadioShanson.ru.png" group-title="Russia [SD]",Radio Shanson [SD]
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 #EXTINF:-1 tvg-id="RadostMoya.ru" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/RadostMoya.ru.png" group-title="Russia [SD]",Radost Moya [SD]
-https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
 #EXTINF:-1 tvg-id="RedLine.ru" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/RedLine.ru.png" group-title="Russia [SD]",Red Line [SD]
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_low/index.m3u8
 #EXTINF:-1 tvg-id="RodnoeKino.ru" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/RodnoeKino.ru.png" group-title="Russia [SD]",Rodnoe Kino [SD]
@@ -381,7 +381,7 @@ http://178.134.1.158:8081/5channel/index.m3u8
 http://45.11.139.43:8555/8kanal/index.m3u8
 #EXTINF:-1 tvg-id="Maidan.ru" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Maidan.ru.png" group-title="Russia [SD]",Maidan [SD]
 https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTBalkan.ru" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/330px-Russia-today-logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail" group-title="Russia [SD]",RT Balkan [SD]
+#EXTINF:-1 tvg-id="RTBalkan.ru" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=rt.rs" group-title="Russia [SD]",RT Balkan [SD]
 https://rt-srb.rttv.com/dvr/rtbalkan/playlist.m3u8
 #EXTINF:-1 tvg-id="Sportivnyy.ru" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Sportivnyy.ru.png" group-title="Russia [SD]",Sportivnyy [SD]
 https://live-3.otcnet.ru/sportivny/index.m3u8
@@ -605,8 +605,6 @@ http://31.131.139.253:9002/novoros/index.m3u8
 http://31.131.139.253:9002/oplot_hd/index.m3u8
 #EXTINF:-1 tvg-id="Channel8International.ru" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Channel8International.ru.png" group-title="Russia [SD]",Channel 8 International [SD]
 http://live-11cinema.cdnvideo.net/11cinemanet/11cinemanet/playlist.m3u8
-#EXTINF:-1 tvg-id="YaltaTV.ru" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg/330px-1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail" group-title="Russia",Yalta TV
-http://195.26.83.96:7029/play/a006
 #EXTINF:-1 tvg-id="Rossiya1Vainah.ru" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Rossiya1Vainah.ru.png" group-title="Russia [SD]",Rossiya 1 Vainah [SD]
 https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Rus.ru" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Rus.ru.png" group-title="Russia [SD]",Rus [SD]
@@ -643,11 +641,13 @@ https://shift03.isp.bg/RTVi/index.m3u8
 https://stream.radio1.ru/memfs/49dee7fe-77ba-4e6b-8cdc-fa840535b242.m3u8
 #EXTINF:-1 tvg-id="NTS.ru" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/NTS.ru.png" group-title="Russia [FHD]",NTS [FHD]
 https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Poehali.ru" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Poehali.ru.png" group-title="Russia",Poehali!
+http://88.212.15.17/live/test_poehali/playlist.m3u8
 #EXTINF:-1 tvg-id="Svoboda.ru" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/At%C3%A9ny_1969.jpg/330px-At%C3%A9ny_1969.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail" group-title="Russia",Svoboda
 http://88.212.15.17/live/svoboda/index.m3u8
 #EXTINF:-1 tvg-id="Bober.ru" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Bober.ru.png" group-title="Russia",Bober
 http://88.212.15.17/live/test_bober/playlist.m3u8
 #EXTINF:-1 tvg-id="Patriot.ru" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Patriot.ru.png" group-title="Russia [SD]",Patriot [SD]
 https://stream.smotrim.ru/hls2/static/playlist_4.m3u8
-#EXTINF:-1 tvg-id="Poehali.ru" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Poehali.ru.png" group-title="Russia",Poehali!
-http://88.212.15.17/live/test_poehali/playlist.m3u8
+#EXTINF:-1 tvg-id="YaltaTV.ru" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg/330px-1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail" group-title="Russia",Yalta TV
+http://195.26.83.96:7029/play/a006
