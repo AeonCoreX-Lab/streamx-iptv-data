@@ -494,7 +494,7 @@ https://eu1.servers10.com:8081/8230/index.m3u8
 #EXTINF:-1 tvg-id="RedeGospel.br" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/RedeGospel.br.png" group-title="Religious [HD]",Rede Gospel [HD]
 http://45.177.114.115:80/REDE_GOSPEL/index.m3u8
 #EXTINF:-1 tvg-id="RhemaTV.gt" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gt/RhemaTV.gt.png" group-title="Religious [FHD]",Rhema TV [FHD]
-http://45.171.64.30:6060/play/a04k/index.m3u8
+http://190.61.90.17:40000/play/a0iw/index.m3u8
 #EXTINF:-1 tvg-id="SUMtvEnglish.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/SUMtvEnglish.us.png" group-title="Religious [SD]",SUMtv English [SD]
 https://bozztv.com/uni10rtmp/ssstv1-cdn/smil:ssstv1web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SUMtvLatino.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/SUMtvLatino.us.png" group-title="Religious [SD]",SUMtv Latino [SD]
@@ -715,8 +715,6 @@ https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
 https://cnn.hostlagarto.com/televida/playlist.m3u8
 #EXTINF:-1 tvg-id="LivingFaithTV.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/LivingFaithTV.us.png" group-title="Religious [HD]",Living Faith TV [HD]
 https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/playlist.m3u8?origin=1
-#EXTINF:-1 tvg-id="KTV.at" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/at/KTV.at.png" group-title="Religious [SD]",K-TV [SD]
-https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
 #EXTINF:-1 tvg-id="ItsSupernaturalNetwork.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/ItsSupernaturalNetwork.us.png" group-title="Religious [SD]",It's Supernatural! Network [SD]
 https://content.uplynk.com/channel/b880a791bf95426d917a509e0c44796a.m3u8
 #EXTINF:-1 tvg-id="MercyTV.in" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/MercyTV.in.png" group-title="Religious [FHD]",Mercy TV [FHD]
@@ -946,7 +944,7 @@ https://5790d294af2dc.streamlock.net/8124/8124/playlist.m3u8
 #EXTINF:-1 tvg-id="ArkTV.ug" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ug/ArkTV.ug.png" group-title="Religious [FHD]",Ark TV [FHD]
 https://stream.hydeinnovations.com/arktv-international/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="CanalMas.uy" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uy/CanalMas.uy.png" group-title="Religious [HD]",Canal Mas [HD]
-https://canalmasuruguay.com/hls/720p/index.m3u8
+https://canalmasuruguay.com/hls/master-abr.m3u8
 #EXTINF:-1 tvg-id="AlMaarefTV.qa" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/qa/AlMaarefTV.qa.png" group-title="Religious [SD]",Al Maaref TV [SD]
 https://bucharest.zeuscdn724.com/lb0/CH-AL-MA/index.m3u8
 #EXTINF:-1 tvg-id="MinisterioLaVozDeUnRemanenteTV.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/MinisterioLaVozDeUnRemanenteTV.us.png" group-title="Religious",Ministerio La Voz De Un Remanente TV
@@ -967,6 +965,8 @@ https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
 https://afghantv.app/hls2/muslimnetwork/index.m3u8
 #EXTINF:-1 tvg-id="ApprovalTV.ng" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ng/ApprovalTV.ng.png" group-title="Religious [HD]",Approval TV [HD]
 https://tv.bigicloud.com/hls/approvaltv/approvaltv.m3u8
+#EXTINF:-1 tvg-id="LingkarTV.id" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/LingkarTV.id.png" group-title="Religious",Lingkar TV
+https://lingkartv.my.id/hls/lingkartv.m3u8
 #EXTINF:-1 tvg-id="Esaie45Tele.cg" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cg/Esaie45Tele.cg.png" group-title="Religious",Esaie 45 Tele
 https://stream.berosat.live/hls/esaie45-tv/esaie45-tv.m3u8
 #EXTINF:-1 tvg-id="AmazingDiscoveriesTV.ca" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ca/AmazingDiscoveriesTV.ca.png" group-title="Religious [SD]",Amazing Discoveries TV [SD]
@@ -1029,9 +1029,11 @@ https://samitaorigin.tangotv.in/SHREEHAZURSAHIBJI/SAMITAORIGIN/index.m3u8
 https://samitaorigin.tangotv.in/SINDHTV/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="ThePointTelevsionNetwork.us" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=thepointtv.org" group-title="Religious [FHD]",The Point Televsion Network [FHD]
 https://tgn.bozztv.com/watc57/watc57-2/watc57-2/index.m3u8
+#EXTINF:-1 tvg-id="MissionTV.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/MissionTV.us.png" group-title="Religious [HD]",Mission TV [HD]
+http://stream.missiontv.com:1935/live/missiontv_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="KTV.at" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/at/KTV.at.png" group-title="Religious [SD]",K-TV [SD]
+https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
 #EXTINF:-1 tvg-id="MiracleTVPlus.ci" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ci/MiracleTVPlus.ci.png" group-title="Religious [FHD]",Miracle TV+ [FHD]
 https://strhlslb01.streamakaci.tv/str_mtv_mtv/str_mtv_multi/playlist.m3u8
-#EXTINF:-1 tvg-id="LingkarTV.id" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/LingkarTV.id.png" group-title="Religious",Lingkar TV
-https://lingkartv.my.id/hls/lingkartv.m3u8
 #EXTINF:-1 tvg-id="LGDTelevision.ve" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ve/LGDTelevision.ve.png" group-title="Religious",LGD Television
 https://streamtv.intervenhosting.net:3403/hybrid/play.m3u8
