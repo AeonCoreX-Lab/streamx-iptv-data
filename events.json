@@ -1,46 +1,87 @@
 {
-  "last_updated": "2026-10-23T10:17:17Z",
+  "last_updated": "2026-10-23T15:13:02Z",
   "strict_mode": true,
   "requires_stream": true,
   "requires_thumbnail": true,
-  "total_live": 15,
-  "total_upcoming": 155,
-  "total_streamed": 170,
+  "total_live": 19,
+  "total_upcoming": 153,
+  "total_streamed": 172,
   "active_events": [
     {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_afl___carlton_blues_",
-      "title": "AFL : Carlton Blues vs Hawthorn Hawks",
-      "sport": "Other",
-      "sport_icon": "live_tv",
-      "sport_color": "#E53935",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_afl___carlton_blues_",
-      "start_time": "2026-10-23T08:30:00Z",
-      "end_time": "2026-10-23T11:30:00Z",
+      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_khl___sibir_novosibi",
+      "title": "KHL : Sibir Novosibirsk vs Salavat Yulaev Ufa",
+      "sport": "Hockey",
+      "sport_icon": "sports_hockey",
+      "sport_color": "#1565C0",
+      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_khl___sibir_novosibi",
+      "start_time": "2026-10-23T12:30:00Z",
+      "end_time": "2026-10-23T15:30:00Z",
       "is_live": true,
       "streams": [
         {
-          "name": "FOX Sports 2 USA (cast)",
-          "url": "https://dlhd.pk/cast/stream-758.php"
+          "name": "KHL TV (plus)",
+          "url": "https://dlhd.pk/plus/stream-7.php"
         },
         {
-          "name": "FOX Sports 2 USA (plus)",
-          "url": "https://dlhd.pk/plus/stream-758.php"
+          "name": "KHL TV (watch)",
+          "url": "https://dlhd.pk/watch/stream-7.php"
         },
         {
-          "name": "TNT Sports 1 UK (watch)",
-          "url": "https://dlhd.pk/watch/stream-31.php"
+          "name": "KHL TV (cast)",
+          "url": "https://dlhd.pk/cast/stream-7.php"
         },
         {
-          "name": "TNT Sports 1 UK (casting)",
-          "url": "https://dlhd.pk/casting/stream-31.php"
+          "name": "KHL TV (player)",
+          "url": "https://dlhd.pk/player/stream-7.php"
         },
         {
-          "name": "TNT Sports 1 UK (plus)",
-          "url": "https://dlhd.pk/plus/stream-31.php"
+          "name": "KHL TV",
+          "url": "https://dlhd.pk/stream/stream-7.php"
         },
         {
-          "name": "FOX Sports 2 USA",
-          "url": "https://dlhd.pk/stream/stream-758.php"
+          "name": "KHL TV (casting)",
+          "url": "https://dlhd.pk/casting/stream-7.php"
+        }
+      ],
+      "stream_count": 6,
+      "has_stream": true,
+      "source": "DaddyLiveHD",
+      "thumbnail": "https://streamed.pk/api/images/badge/ice-hockey.webp"
+    },
+    {
+      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_live_players_champio",
+      "title": "Live Players Championship - Telford, England",
+      "sport": "Other",
+      "sport_icon": "live_tv",
+      "sport_color": "#E53935",
+      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_live_players_champio",
+      "start_time": "2026-10-23T13:00:00Z",
+      "end_time": "2026-10-23T16:00:00Z",
+      "is_live": true,
+      "streams": [
+        {
+          "name": "ITV 4 UK",
+          "url": "https://dlhd.pk/stream/stream-353.php"
+        },
+        {
+          "name": "EuroSport 1 France (cast)",
+          "url": "https://dlhd.pk/cast/stream-772.php"
+        },
+        {
+          "name": "ITV 4 UK (player)",
+          "url": "https://dlhd.pk/player/stream-353.php"
+        },
+        {
+          "name": "ITV 4 UK (plus)",
+          "url": "https://dlhd.pk/plus/stream-353.php"
+        },
+        {
+          "name": "ITV 4 UK (watch)",
+          "url": "https://dlhd.pk/watch/stream-353.php"
+        },
+        {
+          "name": "EuroSport 1 France",
+          "url": "https://dlhd.pk/stream/stream-772.php"
         }
       ],
       "stream_count": 6,
@@ -49,101 +90,39 @@
       "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
     },
     {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_national_rugby_leagu",
-      "title": "National Rugby League : Melbourne Storm vs Penrith Panthers",
-      "sport": "Rugby",
-      "sport_icon": "sports_rugby",
-      "sport_color": "#00BFA5",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_national_rugby_leagu",
-      "start_time": "2026-10-23T09:00:00Z",
-      "end_time": "2026-10-23T12:00:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "Fox Soccer Plus (plus)",
-          "url": "https://dlhd.pk/plus/stream-756.php"
-        },
-        {
-          "name": "Sky Sport 1 NZ (watch)",
-          "url": "https://dlhd.pk/watch/stream-588.php"
-        },
-        {
-          "name": "Sky Sport 1 NZ (plus)",
-          "url": "https://dlhd.pk/plus/stream-588.php"
-        },
-        {
-          "name": "beIN Sports 3 France (player)",
-          "url": "https://dlhd.pk/player/stream-118.php"
-        },
-        {
-          "name": "Sky Sports Action UK",
-          "url": "https://dlhd.pk/stream/stream-37.php"
-        },
-        {
-          "name": "beIN Sports 3 France (watch)",
-          "url": "https://dlhd.pk/watch/stream-118.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/rugby.webp"
-    },
-    {
-      "event_id": "se_865433",
-      "title": "Estudiantes de La Plata vs Flamengo",
-      "sport": "Football",
-      "sport_icon": "sports_soccer",
-      "sport_color": "#2962FF",
-      "tvg_id": "se_865433",
-      "start_time": "2026-10-23T09:00:00Z",
-      "end_time": "2026-10-23T12:00:00Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "StreamEast HD",
-          "url": "https://beststreameast.xyz/match/perth-glory-fc-vs-brisbane-roar-fc/22107/"
-        }
-      ],
-      "stream_count": 1,
-      "has_stream": true,
-      "source": "StreamEast",
-      "thumbnail": "https://streamed.pk/api/images/poster/estudiantes-de-la-plata/flamengo.webp"
-    },
-    {
       "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_world_cup_qualifying",
-      "title": "World Cup Qualifying : Australia vs Indonesia",
+      "title": "World Cup Qualifying : Mozambique vs Uganda",
       "sport": "Football",
       "sport_icon": "sports_soccer",
       "sport_color": "#2962FF",
       "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_world_cup_qualifying",
-      "start_time": "2026-10-23T09:10:00Z",
-      "end_time": "2026-10-23T12:10:00Z",
+      "start_time": "2026-10-23T13:00:00Z",
+      "end_time": "2026-10-23T16:00:00Z",
       "is_live": true,
       "streams": [
         {
-          "name": "Nova Sport Bulgaria (cast)",
-          "url": "https://dlhd.pk/cast/stream-468.php"
+          "name": "Sport TV1 Portugal (watch)",
+          "url": "https://dlhd.pk/watch/stream-49.php"
         },
         {
-          "name": "Nova Sport Bulgaria (plus)",
-          "url": "https://dlhd.pk/plus/stream-468.php"
+          "name": "Sport Klub 1 Serbia (watch)",
+          "url": "https://dlhd.pk/watch/stream-101.php"
         },
         {
-          "name": "ESPN 1 NL (plus)",
-          "url": "https://dlhd.pk/plus/stream-379.php"
+          "name": "Sportdigital FUSSBALL DE",
+          "url": "https://dlhd.pk/stream/stream-571.php"
         },
         {
-          "name": "ESPN 1 NL (player)",
-          "url": "https://dlhd.pk/player/stream-379.php"
+          "name": "Sportdigital FUSSBALL DE (watch)",
+          "url": "https://dlhd.pk/watch/stream-571.php"
         },
         {
-          "name": "ESPN 1 NL (casting)",
-          "url": "https://dlhd.pk/casting/stream-379.php"
+          "name": "Sport TV1 Portugal",
+          "url": "https://dlhd.pk/stream/stream-49.php"
         },
         {
-          "name": "ESPN 1 NL (watch)",
-          "url": "https://dlhd.pk/watch/stream-379.php"
+          "name": "Sportdigital FUSSBALL DE (plus)",
+          "url": "https://dlhd.pk/plus/stream-571.php"
         }
       ],
       "stream_count": 6,
@@ -152,61 +131,203 @@
       "thumbnail": "https://streamed.pk/api/images/badge/football.webp"
     },
     {
-      "event_id": "spk_rally-six-cities-north-of-portugal-qualifying-stage-luilhas-european-rally-championship-1792747860",
-      "title": "Rally Six Cities North of Portugal — Qualifying Stage - Luilhas",
-      "sport": "Formula 1",
-      "sport_icon": "directions_car",
-      "sport_color": "#FF1744",
-      "tvg_id": "spk_rally-six-cities-north-of-portugal-qualifying-stage-luilhas-european-rally-championship-1792747860",
-      "start_time": "2026-10-23T09:31:00Z",
-      "end_time": "2026-10-23T12:31:00Z",
+      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_live_racing_from_che",
+      "title": "Live racing from Chepstow, Sedgfield and Newcastle",
+      "sport": "Other",
+      "sport_icon": "live_tv",
+      "sport_color": "#E53935",
+      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_live_racing_from_che",
+      "start_time": "2026-10-23T13:30:00Z",
+      "end_time": "2026-10-23T16:30:00Z",
       "is_live": true,
       "streams": [
         {
-          "name": "StreamedPK Hotel HD #1 (Main)",
-          "url": "https://embed.st/embed/hotel/rally-six-cities-north-of-portugal-qualifying-stage-luilhas-european-rally-championship-1792747860/1"
+          "name": "Sky Sports Racing UK",
+          "url": "https://dlhd.pk/stream/stream-554.php"
+        },
+        {
+          "name": "Sky Sports Racing UK (watch)",
+          "url": "https://dlhd.pk/watch/stream-554.php"
+        },
+        {
+          "name": "Sky Sports Racing UK (casting)",
+          "url": "https://dlhd.pk/casting/stream-554.php"
+        },
+        {
+          "name": "Sky Sports Racing UK (cast)",
+          "url": "https://dlhd.pk/cast/stream-554.php"
+        },
+        {
+          "name": "Sky Sports Racing UK (player)",
+          "url": "https://dlhd.pk/player/stream-554.php"
+        },
+        {
+          "name": "Sky Sports Racing UK (plus)",
+          "url": "https://dlhd.pk/plus/stream-554.php"
         }
       ],
-      "stream_count": 1,
+      "stream_count": 6,
       "has_stream": true,
-      "source": "StreamedPK",
-      "thumbnail": "https://streamed.pk/api/images/badge/formula-1.webp",
-      "league": "motor-sports"
+      "source": "DaddyLiveHD",
+      "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
+    },
+    {
+      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_world___friendly___t",
+      "title": "World - Friendly : Türkiye U20 vs Italy U20",
+      "sport": "Football",
+      "sport_icon": "sports_soccer",
+      "sport_color": "#2962FF",
+      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_world___friendly___t",
+      "start_time": "2026-10-23T14:00:00Z",
+      "end_time": "2026-10-23T17:00:00Z",
+      "is_live": true,
+      "streams": [
+        {
+          "name": "TRT Spor Turkey (player)",
+          "url": "https://dlhd.pk/player/stream-889.php"
+        },
+        {
+          "name": "TRT Spor Turkey (casting)",
+          "url": "https://dlhd.pk/casting/stream-889.php"
+        },
+        {
+          "name": "TRT Spor Turkey (plus)",
+          "url": "https://dlhd.pk/plus/stream-889.php"
+        },
+        {
+          "name": "TRT Spor Turkey (watch)",
+          "url": "https://dlhd.pk/watch/stream-889.php"
+        },
+        {
+          "name": "TRT Spor Turkey (cast)",
+          "url": "https://dlhd.pk/cast/stream-889.php"
+        },
+        {
+          "name": "TRT Spor Turkey",
+          "url": "https://dlhd.pk/stream/stream-889.php"
+        }
+      ],
+      "stream_count": 6,
+      "has_stream": true,
+      "source": "DaddyLiveHD",
+      "thumbnail": "https://streamed.pk/api/images/badge/football.webp"
+    },
+    {
+      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_russia_superliga___t",
+      "title": "Russia Superliga : Tyumen vs Torpedo Nizhny Novgorod",
+      "sport": "Other",
+      "sport_icon": "live_tv",
+      "sport_color": "#E53935",
+      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_russia_superliga___t",
+      "start_time": "2026-10-23T14:00:00Z",
+      "end_time": "2026-10-23T17:00:00Z",
+      "is_live": true,
+      "streams": [
+        {
+          "name": "Match Igra Russia (plus)",
+          "url": "https://dlhd.pk/plus/stream-76.php"
+        },
+        {
+          "name": "Match Igra Russia",
+          "url": "https://dlhd.pk/stream/stream-76.php"
+        },
+        {
+          "name": "Match Igra Russia (cast)",
+          "url": "https://dlhd.pk/cast/stream-76.php"
+        },
+        {
+          "name": "Match Igra Russia (casting)",
+          "url": "https://dlhd.pk/casting/stream-76.php"
+        },
+        {
+          "name": "Match Igra Russia (watch)",
+          "url": "https://dlhd.pk/watch/stream-76.php"
+        },
+        {
+          "name": "Match Igra Russia (player)",
+          "url": "https://dlhd.pk/player/stream-76.php"
+        }
+      ],
+      "stream_count": 6,
+      "has_stream": true,
+      "source": "DaddyLiveHD",
+      "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
+    },
+    {
+      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_khl___yekaterinburg_",
+      "title": "KHL : Yekaterinburg vs SKA St. Petersburg",
+      "sport": "Hockey",
+      "sport_icon": "sports_hockey",
+      "sport_color": "#1565C0",
+      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_khl___yekaterinburg_",
+      "start_time": "2026-10-23T14:00:00Z",
+      "end_time": "2026-10-23T17:00:00Z",
+      "is_live": true,
+      "streams": [
+        {
+          "name": "Match TV Russia (casting)",
+          "url": "https://dlhd.pk/casting/stream-127.php"
+        },
+        {
+          "name": "Match TV Russia (plus)",
+          "url": "https://dlhd.pk/plus/stream-127.php"
+        },
+        {
+          "name": "Match TV Russia (cast)",
+          "url": "https://dlhd.pk/cast/stream-127.php"
+        },
+        {
+          "name": "Match TV Russia (player)",
+          "url": "https://dlhd.pk/player/stream-127.php"
+        },
+        {
+          "name": "Match TV Russia (watch)",
+          "url": "https://dlhd.pk/watch/stream-127.php"
+        },
+        {
+          "name": "Match TV Russia",
+          "url": "https://dlhd.pk/stream/stream-127.php"
+        }
+      ],
+      "stream_count": 6,
+      "has_stream": true,
+      "source": "DaddyLiveHD",
+      "thumbnail": "https://streamed.pk/api/images/badge/ice-hockey.webp"
     },
     {
       "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_wrc_safari_rally_ken",
-      "title": "WRC Safari Rally Kenya | Special Stage 1 | Day 1",
+      "title": "WRC Safari Rally Kenya | Special Stage 2 | Day 1",
       "sport": "Other",
       "sport_icon": "live_tv",
       "sport_color": "#E53935",
       "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_wrc_safari_rally_ken",
-      "start_time": "2026-10-23T10:00:00Z",
-      "end_time": "2026-10-23T13:00:00Z",
+      "start_time": "2026-10-23T14:00:00Z",
+      "end_time": "2026-10-23T17:00:00Z",
       "is_live": true,
       "streams": [
         {
-          "name": "Motowizja Poland (watch)",
-          "url": "https://dlhd.pk/watch/stream-563.php"
-        },
-        {
-          "name": "Canal+ Sport360 (cast)",
-          "url": "https://dlhd.pk/cast/stream-464.php"
+          "name": "Rally Tv",
+          "url": "https://dlhd.pk/stream/stream-607.php"
         },
         {
           "name": "TNT Sports 2 UK (cast)",
           "url": "https://dlhd.pk/cast/stream-32.php"
         },
         {
-          "name": "Canal+ Sport360 (watch)",
-          "url": "https://dlhd.pk/watch/stream-464.php"
+          "name": "Motowizja Poland (watch)",
+          "url": "https://dlhd.pk/watch/stream-563.php"
         },
         {
-          "name": "TNT Sports 2 UK (casting)",
-          "url": "https://dlhd.pk/casting/stream-32.php"
+          "name": "Sport TV2 Portugal (cast)",
+          "url": "https://dlhd.pk/cast/stream-74.php"
         },
         {
-          "name": "Rally Tv (player)",
-          "url": "https://dlhd.pk/player/stream-607.php"
+          "name": "Motowizja Poland (casting)",
+          "url": "https://dlhd.pk/casting/stream-563.php"
+        },
+        {
+          "name": "Rally Tv (casting)",
+          "url": "https://dlhd.pk/casting/stream-607.php"
         }
       ],
       "stream_count": 6,
@@ -215,112 +336,168 @@
       "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
     },
     {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_absa_cape_epic__25__",
-      "title": "Absa Cape Epic '25: Stage 4",
-      "sport": "Cycling",
-      "sport_icon": "directions_bike",
-      "sport_color": "#0288D1",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_absa_cape_epic__25__",
-      "start_time": "2026-10-23T10:00:00Z",
-      "end_time": "2026-10-23T13:00:00Z",
+      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_nba_g_league___delaw",
+      "title": "NBA G-League : Delaware 87ers vs Fort Wayne Mad Ants",
+      "sport": "Basketball",
+      "sport_icon": "sports_basketball",
+      "sport_color": "#FF6D00",
+      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_nba_g_league___delaw",
+      "start_time": "2026-10-23T15:00:00Z",
+      "end_time": "2026-10-23T18:00:00Z",
       "is_live": true,
       "streams": [
         {
-          "name": "SuperSport Grandstand (casting)",
-          "url": "https://dlhd.pk/casting/stream-412.php"
+          "name": "ESPN+ USA",
+          "url": "https://dlhd.pk/stream/stream-69.php"
         },
         {
-          "name": "SuperSport Grandstand (cast)",
-          "url": "https://dlhd.pk/cast/stream-412.php"
+          "name": "ESPN+ USA (player)",
+          "url": "https://dlhd.pk/player/stream-69.php"
         },
         {
-          "name": "SuperSport Grandstand (watch)",
-          "url": "https://dlhd.pk/watch/stream-412.php"
+          "name": "ESPN+ USA (cast)",
+          "url": "https://dlhd.pk/cast/stream-69.php"
         },
         {
-          "name": "SuperSport Grandstand (player)",
-          "url": "https://dlhd.pk/player/stream-412.php"
+          "name": "ESPN+ USA (watch)",
+          "url": "https://dlhd.pk/watch/stream-69.php"
         },
         {
-          "name": "SuperSport Grandstand",
-          "url": "https://dlhd.pk/stream/stream-412.php"
+          "name": "ESPN+ USA (plus)",
+          "url": "https://dlhd.pk/plus/stream-69.php"
         },
         {
-          "name": "SuperSport Grandstand (plus)",
-          "url": "https://dlhd.pk/plus/stream-412.php"
+          "name": "ESPN+ USA (casting)",
+          "url": "https://dlhd.pk/casting/stream-69.php"
         }
       ],
       "stream_count": 6,
       "has_stream": true,
       "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/cycling.webp"
+      "thumbnail": "https://streamed.pk/api/images/badge/basketball.webp"
     },
     {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_women_s___group_stag",
-      "title": "Women's | Group Stage | World Championship : United States vs Norway",
-      "sport": "Other",
-      "sport_icon": "live_tv",
-      "sport_color": "#E53935",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_women_s___group_stag",
-      "start_time": "2026-10-23T10:00:00Z",
-      "end_time": "2026-10-23T13:00:00Z",
+      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_women_s_futsal_2025_",
+      "title": "Women's Futsal 2025 World Cup Qualifiers : Hungary vs Portugal",
+      "sport": "Football",
+      "sport_icon": "sports_soccer",
+      "sport_color": "#2962FF",
+      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_women_s_futsal_2025_",
+      "start_time": "2026-10-23T15:00:00Z",
+      "end_time": "2026-10-23T18:00:00Z",
       "is_live": true,
       "streams": [
         {
-          "name": "EuroSport 1 Poland (player)",
-          "url": "https://dlhd.pk/player/stream-57.php"
+          "name": "Canal 11 Portugal (player)",
+          "url": "https://dlhd.pk/player/stream-540.php"
         },
         {
-          "name": "EuroSport 1 France (watch)",
-          "url": "https://dlhd.pk/watch/stream-772.php"
+          "name": "Canal 11 Portugal (watch)",
+          "url": "https://dlhd.pk/watch/stream-540.php"
         },
         {
-          "name": "EuroSport 1 Spain",
-          "url": "https://dlhd.pk/stream/stream-524.php"
+          "name": "Canal 11 Portugal (casting)",
+          "url": "https://dlhd.pk/casting/stream-540.php"
         },
         {
-          "name": "EuroSport 1 France",
-          "url": "https://dlhd.pk/stream/stream-772.php"
+          "name": "Canal 11 Portugal",
+          "url": "https://dlhd.pk/stream/stream-540.php"
         },
         {
-          "name": "EuroSport 1 Spain (casting)",
-          "url": "https://dlhd.pk/casting/stream-524.php"
+          "name": "Canal 11 Portugal (cast)",
+          "url": "https://dlhd.pk/cast/stream-540.php"
         },
         {
-          "name": "EuroSport 1 Poland (plus)",
-          "url": "https://dlhd.pk/plus/stream-57.php"
+          "name": "Canal 11 Portugal (plus)",
+          "url": "https://dlhd.pk/plus/stream-540.php"
         }
       ],
       "stream_count": 6,
       "has_stream": true,
       "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
+      "thumbnail": "https://streamed.pk/api/images/badge/football.webp"
     },
     {
-      "event_id": "spk_admin-tennis-channel",
-      "title": "Tennis Channel",
+      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_european_open_classi",
+      "title": "European Open Classic Powerlifting Championships Session 3 | Malaga",
+      "sport": "Football",
+      "sport_icon": "sports_soccer",
+      "sport_color": "#2962FF",
+      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_european_open_classi",
+      "start_time": "2026-10-23T15:00:00Z",
+      "end_time": "2026-10-23T18:00:00Z",
+      "is_live": true,
+      "streams": [
+        {
+          "name": "EuroSport 2 Spain (casting)",
+          "url": "https://dlhd.pk/casting/stream-525.php"
+        },
+        {
+          "name": "EuroSport 2 France",
+          "url": "https://dlhd.pk/stream/stream-773.php"
+        },
+        {
+          "name": "EuroSport 2 Spain (cast)",
+          "url": "https://dlhd.pk/cast/stream-525.php"
+        },
+        {
+          "name": "EuroSport 2 Poland (plus)",
+          "url": "https://dlhd.pk/plus/stream-58.php"
+        },
+        {
+          "name": "EuroSport 2 Poland (cast)",
+          "url": "https://dlhd.pk/cast/stream-58.php"
+        },
+        {
+          "name": "TNT Sports 4 UK (cast)",
+          "url": "https://dlhd.pk/cast/stream-34.php"
+        }
+      ],
+      "stream_count": 6,
+      "has_stream": true,
+      "source": "DaddyLiveHD",
+      "thumbnail": "https://streamed.pk/api/images/badge/football.webp"
+    },
+    {
+      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_2025_miami_open_tenn",
+      "title": "2025 Miami Open Tennis ATP 1st Round; WTA 2nd Round",
       "sport": "Tennis",
       "sport_icon": "sports_tennis",
       "sport_color": "#FFD600",
-      "tvg_id": "spk_admin-tennis-channel",
-      "start_time": "2026-10-23T10:15:36Z",
-      "end_time": "2026-10-23T13:15:36Z",
+      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_2025_miami_open_tenn",
+      "start_time": "2026-10-23T15:00:00Z",
+      "end_time": "2026-10-23T18:00:00Z",
       "is_live": true,
       "streams": [
         {
-          "name": "StreamedPK Admin HD #1 (English)",
-          "url": "https://embed.st/embed/admin/admin-tennis-channel/1"
+          "name": "TSN2 (cast)",
+          "url": "https://dlhd.pk/cast/stream-112.php"
         },
         {
-          "name": "StreamedPK Admin SD #2 (English)",
-          "url": "https://embed.st/embed/admin/admin-tennis-channel/2"
+          "name": "TSN3 (cast)",
+          "url": "https://dlhd.pk/cast/stream-113.php"
+        },
+        {
+          "name": "Tennis Channel (watch)",
+          "url": "https://dlhd.pk/watch/stream-40.php"
+        },
+        {
+          "name": "TSN2 (casting)",
+          "url": "https://dlhd.pk/casting/stream-112.php"
+        },
+        {
+          "name": "Tennis Channel (casting)",
+          "url": "https://dlhd.pk/casting/stream-40.php"
+        },
+        {
+          "name": "Sky Sports Tennis UK",
+          "url": "https://dlhd.pk/stream/stream-46.php"
         }
       ],
-      "stream_count": 2,
+      "stream_count": 6,
       "has_stream": true,
-      "source": "StreamedPK",
-      "thumbnail": "https://streamed.pk/api/images/proxy//api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBDXsQZgdgwwRgBOYAU0hDpqxQFZh5Tg0wmJgATMNTTAWkVqNri0LIinbQ61OvHS5CISiCggGIRPzWq0hNTTV5s2AMb6NNFif4h+VFxux5bFLXnk3aASx2PV0+LRRNR0hAtjYUBHZQYkk2JjBHEFsaOxytGFZYSWt5YFIVGOVgeTYOMl5AiCA.webp.webp",
-      "league": "tennis"
+      "source": "DaddyLiveHD",
+      "thumbnail": "https://streamed.pk/api/images/badge/tennis.webp"
     },
     {
       "event_id": "spk_ppv-nhl-network",
@@ -329,8 +506,8 @@
       "sport_icon": "sports_hockey",
       "sport_color": "#1565C0",
       "tvg_id": "spk_ppv-nhl-network",
-      "start_time": "2026-10-23T10:15:36Z",
-      "end_time": "2026-10-23T13:15:36Z",
+      "start_time": "2026-10-23T15:11:34Z",
+      "end_time": "2026-10-23T18:11:34Z",
       "is_live": true,
       "streams": [
         {
@@ -349,14 +526,62 @@
       "league": "hockey"
     },
     {
+      "event_id": "spk_admin-rally-tv",
+      "title": "Rally TV",
+      "sport": "Other",
+      "sport_icon": "live_tv",
+      "sport_color": "#E53935",
+      "tvg_id": "spk_admin-rally-tv",
+      "start_time": "2026-10-23T15:11:34Z",
+      "end_time": "2026-10-23T18:11:34Z",
+      "is_live": true,
+      "streams": [
+        {
+          "name": "StreamedPK Admin HD #1 (English)",
+          "url": "https://embed.st/embed/admin/admin-rally-tv/1"
+        }
+      ],
+      "stream_count": 1,
+      "has_stream": true,
+      "source": "StreamedPK",
+      "thumbnail": "https://streamed.pk/api/images/proxy//api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuMFBWLwBTYCbYAQxSzPzLCWDWB12Hga00quAGNCF0GdCBQhqjEM1Y4AJhixo5YXLCa8uwMAQSRgATkKk8bMFuKGIQA.webp.webp",
+      "league": "motor-sports"
+    },
+    {
+      "event_id": "spk_admin-tennis-channel",
+      "title": "Tennis Channel",
+      "sport": "Tennis",
+      "sport_icon": "sports_tennis",
+      "sport_color": "#FFD600",
+      "tvg_id": "spk_admin-tennis-channel",
+      "start_time": "2026-10-23T15:11:34Z",
+      "end_time": "2026-10-23T18:11:34Z",
+      "is_live": true,
+      "streams": [
+        {
+          "name": "StreamedPK Admin HD #1 (English)",
+          "url": "https://embed.st/embed/admin/admin-tennis-channel/1"
+        },
+        {
+          "name": "StreamedPK Admin SD #2 (English)",
+          "url": "https://embed.st/embed/admin/admin-tennis-channel/2"
+        }
+      ],
+      "stream_count": 2,
+      "has_stream": true,
+      "source": "StreamedPK",
+      "thumbnail": "https://streamed.pk/api/images/proxy//api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBDXsQZgdgwwRgBOYAU0hDpqxQFZh5Tg0wmJgATMNTTAWkVqNri0LIinbQ61OvHS5CISiCggGIRPzWq0hNTTV5s2AMb6NNFif4h+VFxux5bFLXnk3aASx2PV0+LRRNR0hAtjYUBHZQYkk2JjBHEFsaOxytGFZYSWt5YFIVGOVgeTYOMl5AiCA.webp.webp",
+      "league": "tennis"
+    },
+    {
       "event_id": "spk_ppv-nfl-network",
       "title": "NFL Network",
       "sport": "Football",
       "sport_icon": "sports_soccer",
       "sport_color": "#2962FF",
       "tvg_id": "spk_ppv-nfl-network",
-      "start_time": "2026-10-23T10:15:36Z",
-      "end_time": "2026-10-23T13:15:36Z",
+      "start_time": "2026-10-23T15:11:34Z",
+      "end_time": "2026-10-23T18:11:34Z",
       "is_live": true,
       "streams": [
         {
@@ -375,36 +600,14 @@
       "league": "american-football"
     },
     {
-      "event_id": "spk_admin-rally-tv",
-      "title": "Rally TV",
-      "sport": "Other",
-      "sport_icon": "live_tv",
-      "sport_color": "#E53935",
-      "tvg_id": "spk_admin-rally-tv",
-      "start_time": "2026-10-23T10:15:36Z",
-      "end_time": "2026-10-23T13:15:36Z",
-      "is_live": true,
-      "streams": [
-        {
-          "name": "StreamedPK Admin HD #1 (English)",
-          "url": "https://embed.st/embed/admin/admin-rally-tv/1"
-        }
-      ],
-      "stream_count": 1,
-      "has_stream": true,
-      "source": "StreamedPK",
-      "thumbnail": "https://streamed.pk/api/images/proxy//api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuMFBWLwBTYCbYAQxSzPzLCWDWB12Hga00quAGNCF0GdCBQhqjEM1Y4AJhixo5YXLCa8uwMAQSRgATkKk8bMFuKGIQA.webp.webp",
-      "league": "motor-sports"
-    },
-    {
       "event_id": "spk_ppv-sky-sports-golf",
       "title": "Sky Sports Golf",
       "sport": "Golf",
       "sport_icon": "golf_course",
       "sport_color": "#388E3C",
       "tvg_id": "spk_ppv-sky-sports-golf",
-      "start_time": "2026-10-23T10:15:36Z",
-      "end_time": "2026-10-23T13:15:36Z",
+      "start_time": "2026-10-23T15:11:34Z",
+      "end_time": "2026-10-23T18:11:34Z",
       "is_live": true,
       "streams": [
         {
@@ -423,19 +626,19 @@
       "league": "golf"
     },
     {
-      "event_id": "se_af7a8b",
+      "event_id": "se_584fde",
       "title": "Perth Glory FC vs Brisbane Roar FC",
       "sport": "Football",
       "sport_icon": "sports_soccer",
       "sport_color": "#2962FF",
-      "tvg_id": "se_af7a8b",
-      "start_time": "2026-10-23T10:16:57Z",
-      "end_time": "2026-10-23T13:16:57Z",
+      "tvg_id": "se_584fde",
+      "start_time": "2026-10-23T15:12:47Z",
+      "end_time": "2026-10-23T18:12:47Z",
       "is_live": true,
       "streams": [
         {
           "name": "StreamEast HD",
-          "url": "https://beststreameast.xyz/match/perth-glory-fc-vs-brisbane-roar-fc/22107/"
+          "url": "https://beststreameast.xyz/match/al-nassr-vs-al-faisaly/21422/"
         }
       ],
       "stream_count": 1,
@@ -444,14 +647,14 @@
       "thumbnail": "https://streamed.pk/api/images/poster/perth-glory-fc/brisbane-roar-fc.webp"
     },
     {
-      "event_id": "se_a554b0",
+      "event_id": "se_a1c099",
       "title": "NFL RedZone 24/7 live channel Live",
       "sport": "Football",
       "sport_icon": "sports_soccer",
       "sport_color": "#2962FF",
-      "tvg_id": "se_a554b0",
-      "start_time": "2026-10-23T10:16:57Z",
-      "end_time": "2026-10-23T13:16:57Z",
+      "tvg_id": "se_a1c099",
+      "start_time": "2026-10-23T15:12:47Z",
+      "end_time": "2026-10-23T18:12:47Z",
       "is_live": true,
       "streams": [
         {
@@ -467,155 +670,6 @@
       "has_stream": true,
       "source": "StreamEast",
       "thumbnail": "https://streamed.pk/api/images/badge/football.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_world_surf_league__2",
-      "title": "World Surf League: 2025 WSL Championship Tour: MEO Rip Curl Pro Portugal",
-      "sport": "Other",
-      "sport_icon": "live_tv",
-      "sport_color": "#E53935",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_world_surf_league__2",
-      "start_time": "2026-10-23T07:00:00Z",
-      "end_time": "2026-10-23T10:00:00Z",
-      "is_live": false,
-      "streams": [
-        {
-          "name": "Sportv3 Brazil (casting)",
-          "url": "https://dlhd.pk/casting/stream-80.php"
-        },
-        {
-          "name": "Sportv3 Brazil (plus)",
-          "url": "https://dlhd.pk/plus/stream-80.php"
-        },
-        {
-          "name": "Sportv3 Brazil",
-          "url": "https://dlhd.pk/stream/stream-80.php"
-        },
-        {
-          "name": "Sportv3 Brazil (watch)",
-          "url": "https://dlhd.pk/watch/stream-80.php"
-        },
-        {
-          "name": "Sportv3 Brazil (cast)",
-          "url": "https://dlhd.pk/cast/stream-80.php"
-        },
-        {
-          "name": "Sportv3 Brazil (player)",
-          "url": "https://dlhd.pk/player/stream-80.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
-    },
-    {
-      "event_id": "spk_perth-wildcats-vs-melbourne-united-2487920",
-      "title": "Perth Wildcats vs Melbourne United",
-      "sport": "Basketball",
-      "sport_icon": "sports_basketball",
-      "sport_color": "#FF6D00",
-      "tvg_id": "spk_perth-wildcats-vs-melbourne-united-2487920",
-      "start_time": "2026-10-23T10:30:00Z",
-      "end_time": "2026-10-23T13:30:00Z",
-      "is_live": false,
-      "streams": [
-        {
-          "name": "StreamedPK Admin HD #1 (English - ESPN)",
-          "url": "https://embed.st/embed/admin/ppv-perth-wildcats-vs-melbourne-united/1"
-        },
-        {
-          "name": "StreamedPK Admin SD #2 (English - ESPN)",
-          "url": "https://embed.st/embed/admin/ppv-perth-wildcats-vs-melbourne-united/2"
-        }
-      ],
-      "stream_count": 2,
-      "has_stream": true,
-      "source": "StreamedPK",
-      "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhACBABjAATYEwghuqkCWNGYB3CCtaCFJnxRcwZeEXmjHTWmGdjREIA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh15Q4ogAykQ3EHxAkDekDFwgAJmZQEKTPii5gy8IvNEOmtME7GiIQA.webp",
-      "league": "basketball"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_premier_league_pool_",
-      "title": "Premier League Pool: Day 1",
-      "sport": "Football",
-      "sport_icon": "sports_soccer",
-      "sport_color": "#2962FF",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_premier_league_pool_",
-      "start_time": "2026-10-23T11:00:00Z",
-      "end_time": "2026-10-23T14:00:00Z",
-      "is_live": false,
-      "streams": [
-        {
-          "name": "Sky Sport 3 NZ (player)",
-          "url": "https://dlhd.pk/player/stream-590.php"
-        },
-        {
-          "name": "Sky Sport 3 NZ (casting)",
-          "url": "https://dlhd.pk/casting/stream-590.php"
-        },
-        {
-          "name": "Sky Sport 3 NZ",
-          "url": "https://dlhd.pk/stream/stream-590.php"
-        },
-        {
-          "name": "Sky Sport 3 NZ (plus)",
-          "url": "https://dlhd.pk/plus/stream-590.php"
-        },
-        {
-          "name": "Sky Sport 3 NZ (cast)",
-          "url": "https://dlhd.pk/cast/stream-590.php"
-        },
-        {
-          "name": "Sky Sport 3 NZ (watch)",
-          "url": "https://dlhd.pk/watch/stream-590.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/football.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_asia_cup___guam_vs_t",
-      "title": "Asia Cup : Guam vs Thailand",
-      "sport": "Cricket",
-      "sport_icon": "sports_cricket",
-      "sport_color": "#00C853",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_asia_cup___guam_vs_t",
-      "start_time": "2026-10-23T11:00:00Z",
-      "end_time": "2026-10-23T14:00:00Z",
-      "is_live": false,
-      "streams": [
-        {
-          "name": "Sport Klub 4 Serbia",
-          "url": "https://dlhd.pk/stream/stream-104.php"
-        },
-        {
-          "name": "Sport Klub 4 Serbia (watch)",
-          "url": "https://dlhd.pk/watch/stream-104.php"
-        },
-        {
-          "name": "Sport Klub 4 Serbia (casting)",
-          "url": "https://dlhd.pk/casting/stream-104.php"
-        },
-        {
-          "name": "Sport Klub 4 Serbia (player)",
-          "url": "https://dlhd.pk/player/stream-104.php"
-        },
-        {
-          "name": "Sport Klub 4 Serbia (plus)",
-          "url": "https://dlhd.pk/plus/stream-104.php"
-        },
-        {
-          "name": "Sport Klub 4 Serbia (cast)",
-          "url": "https://dlhd.pk/cast/stream-104.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/cricket.webp"
     },
     {
       "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_hell_s_kitchen_seaso",
@@ -698,416 +752,6 @@
       "has_stream": true,
       "source": "DaddyLiveHD",
       "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_khl___sibir_novosibi",
-      "title": "KHL : Sibir Novosibirsk vs Salavat Yulaev Ufa",
-      "sport": "Hockey",
-      "sport_icon": "sports_hockey",
-      "sport_color": "#1565C0",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_khl___sibir_novosibi",
-      "start_time": "2026-10-23T12:30:00Z",
-      "end_time": "2026-10-23T15:30:00Z",
-      "is_live": false,
-      "streams": [
-        {
-          "name": "KHL TV (plus)",
-          "url": "https://dlhd.pk/plus/stream-7.php"
-        },
-        {
-          "name": "KHL TV (watch)",
-          "url": "https://dlhd.pk/watch/stream-7.php"
-        },
-        {
-          "name": "KHL TV (cast)",
-          "url": "https://dlhd.pk/cast/stream-7.php"
-        },
-        {
-          "name": "KHL TV (player)",
-          "url": "https://dlhd.pk/player/stream-7.php"
-        },
-        {
-          "name": "KHL TV",
-          "url": "https://dlhd.pk/stream/stream-7.php"
-        },
-        {
-          "name": "KHL TV (casting)",
-          "url": "https://dlhd.pk/casting/stream-7.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/ice-hockey.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_live_players_champio",
-      "title": "Live Players Championship - Telford, England",
-      "sport": "Other",
-      "sport_icon": "live_tv",
-      "sport_color": "#E53935",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_live_players_champio",
-      "start_time": "2026-10-23T13:00:00Z",
-      "end_time": "2026-10-23T16:00:00Z",
-      "is_live": false,
-      "streams": [
-        {
-          "name": "ITV 4 UK",
-          "url": "https://dlhd.pk/stream/stream-353.php"
-        },
-        {
-          "name": "EuroSport 1 France (cast)",
-          "url": "https://dlhd.pk/cast/stream-772.php"
-        },
-        {
-          "name": "ITV 4 UK (player)",
-          "url": "https://dlhd.pk/player/stream-353.php"
-        },
-        {
-          "name": "ITV 4 UK (plus)",
-          "url": "https://dlhd.pk/plus/stream-353.php"
-        },
-        {
-          "name": "ITV 4 UK (watch)",
-          "url": "https://dlhd.pk/watch/stream-353.php"
-        },
-        {
-          "name": "EuroSport 1 France",
-          "url": "https://dlhd.pk/stream/stream-772.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_live_racing_from_che",
-      "title": "Live racing from Chepstow, Sedgfield and Newcastle",
-      "sport": "Other",
-      "sport_icon": "live_tv",
-      "sport_color": "#E53935",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_live_racing_from_che",
-      "start_time": "2026-10-23T13:30:00Z",
-      "end_time": "2026-10-23T16:30:00Z",
-      "is_live": false,
-      "streams": [
-        {
-          "name": "Sky Sports Racing UK",
-          "url": "https://dlhd.pk/stream/stream-554.php"
-        },
-        {
-          "name": "Sky Sports Racing UK (watch)",
-          "url": "https://dlhd.pk/watch/stream-554.php"
-        },
-        {
-          "name": "Sky Sports Racing UK (casting)",
-          "url": "https://dlhd.pk/casting/stream-554.php"
-        },
-        {
-          "name": "Sky Sports Racing UK (cast)",
-          "url": "https://dlhd.pk/cast/stream-554.php"
-        },
-        {
-          "name": "Sky Sports Racing UK (player)",
-          "url": "https://dlhd.pk/player/stream-554.php"
-        },
-        {
-          "name": "Sky Sports Racing UK (plus)",
-          "url": "https://dlhd.pk/plus/stream-554.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_world___friendly___t",
-      "title": "World - Friendly : Türkiye U20 vs Italy U20",
-      "sport": "Football",
-      "sport_icon": "sports_soccer",
-      "sport_color": "#2962FF",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_world___friendly___t",
-      "start_time": "2026-10-23T14:00:00Z",
-      "end_time": "2026-10-23T17:00:00Z",
-      "is_live": false,
-      "streams": [
-        {
-          "name": "TRT Spor Turkey (player)",
-          "url": "https://dlhd.pk/player/stream-889.php"
-        },
-        {
-          "name": "TRT Spor Turkey (casting)",
-          "url": "https://dlhd.pk/casting/stream-889.php"
-        },
-        {
-          "name": "TRT Spor Turkey (plus)",
-          "url": "https://dlhd.pk/plus/stream-889.php"
-        },
-        {
-          "name": "TRT Spor Turkey (watch)",
-          "url": "https://dlhd.pk/watch/stream-889.php"
-        },
-        {
-          "name": "TRT Spor Turkey (cast)",
-          "url": "https://dlhd.pk/cast/stream-889.php"
-        },
-        {
-          "name": "TRT Spor Turkey",
-          "url": "https://dlhd.pk/stream/stream-889.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/football.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_russia_superliga___t",
-      "title": "Russia Superliga : Tyumen vs Torpedo Nizhny Novgorod",
-      "sport": "Other",
-      "sport_icon": "live_tv",
-      "sport_color": "#E53935",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_russia_superliga___t",
-      "start_time": "2026-10-23T14:00:00Z",
-      "end_time": "2026-10-23T17:00:00Z",
-      "is_live": false,
-      "streams": [
-        {
-          "name": "Match Igra Russia (plus)",
-          "url": "https://dlhd.pk/plus/stream-76.php"
-        },
-        {
-          "name": "Match Igra Russia",
-          "url": "https://dlhd.pk/stream/stream-76.php"
-        },
-        {
-          "name": "Match Igra Russia (cast)",
-          "url": "https://dlhd.pk/cast/stream-76.php"
-        },
-        {
-          "name": "Match Igra Russia (casting)",
-          "url": "https://dlhd.pk/casting/stream-76.php"
-        },
-        {
-          "name": "Match Igra Russia (watch)",
-          "url": "https://dlhd.pk/watch/stream-76.php"
-        },
-        {
-          "name": "Match Igra Russia (player)",
-          "url": "https://dlhd.pk/player/stream-76.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_khl___yekaterinburg_",
-      "title": "KHL : Yekaterinburg vs SKA St. Petersburg",
-      "sport": "Hockey",
-      "sport_icon": "sports_hockey",
-      "sport_color": "#1565C0",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_khl___yekaterinburg_",
-      "start_time": "2026-10-23T14:00:00Z",
-      "end_time": "2026-10-23T17:00:00Z",
-      "is_live": false,
-      "streams": [
-        {
-          "name": "Match TV Russia (casting)",
-          "url": "https://dlhd.pk/casting/stream-127.php"
-        },
-        {
-          "name": "Match TV Russia (plus)",
-          "url": "https://dlhd.pk/plus/stream-127.php"
-        },
-        {
-          "name": "Match TV Russia (cast)",
-          "url": "https://dlhd.pk/cast/stream-127.php"
-        },
-        {
-          "name": "Match TV Russia (player)",
-          "url": "https://dlhd.pk/player/stream-127.php"
-        },
-        {
-          "name": "Match TV Russia (watch)",
-          "url": "https://dlhd.pk/watch/stream-127.php"
-        },
-        {
-          "name": "Match TV Russia",
-          "url": "https://dlhd.pk/stream/stream-127.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/ice-hockey.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_nba_g_league___delaw",
-      "title": "NBA G-League : Delaware 87ers vs Fort Wayne Mad Ants",
-      "sport": "Basketball",
-      "sport_icon": "sports_basketball",
-      "sport_color": "#FF6D00",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_nba_g_league___delaw",
-      "start_time": "2026-10-23T15:00:00Z",
-      "end_time": "2026-10-23T18:00:00Z",
-      "is_live": false,
-      "streams": [
-        {
-          "name": "ESPN+ USA",
-          "url": "https://dlhd.pk/stream/stream-69.php"
-        },
-        {
-          "name": "ESPN+ USA (player)",
-          "url": "https://dlhd.pk/player/stream-69.php"
-        },
-        {
-          "name": "ESPN+ USA (cast)",
-          "url": "https://dlhd.pk/cast/stream-69.php"
-        },
-        {
-          "name": "ESPN+ USA (watch)",
-          "url": "https://dlhd.pk/watch/stream-69.php"
-        },
-        {
-          "name": "ESPN+ USA (plus)",
-          "url": "https://dlhd.pk/plus/stream-69.php"
-        },
-        {
-          "name": "ESPN+ USA (casting)",
-          "url": "https://dlhd.pk/casting/stream-69.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/basketball.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_women_s_futsal_2025_",
-      "title": "Women's Futsal 2025 World Cup Qualifiers : Hungary vs Portugal",
-      "sport": "Football",
-      "sport_icon": "sports_soccer",
-      "sport_color": "#2962FF",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_women_s_futsal_2025_",
-      "start_time": "2026-10-23T15:00:00Z",
-      "end_time": "2026-10-23T18:00:00Z",
-      "is_live": false,
-      "streams": [
-        {
-          "name": "Canal 11 Portugal (player)",
-          "url": "https://dlhd.pk/player/stream-540.php"
-        },
-        {
-          "name": "Canal 11 Portugal (watch)",
-          "url": "https://dlhd.pk/watch/stream-540.php"
-        },
-        {
-          "name": "Canal 11 Portugal (casting)",
-          "url": "https://dlhd.pk/casting/stream-540.php"
-        },
-        {
-          "name": "Canal 11 Portugal",
-          "url": "https://dlhd.pk/stream/stream-540.php"
-        },
-        {
-          "name": "Canal 11 Portugal (cast)",
-          "url": "https://dlhd.pk/cast/stream-540.php"
-        },
-        {
-          "name": "Canal 11 Portugal (plus)",
-          "url": "https://dlhd.pk/plus/stream-540.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/football.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_european_open_classi",
-      "title": "European Open Classic Powerlifting Championships Session 3 | Malaga",
-      "sport": "Football",
-      "sport_icon": "sports_soccer",
-      "sport_color": "#2962FF",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_european_open_classi",
-      "start_time": "2026-10-23T15:00:00Z",
-      "end_time": "2026-10-23T18:00:00Z",
-      "is_live": false,
-      "streams": [
-        {
-          "name": "EuroSport 2 Spain (casting)",
-          "url": "https://dlhd.pk/casting/stream-525.php"
-        },
-        {
-          "name": "EuroSport 2 France",
-          "url": "https://dlhd.pk/stream/stream-773.php"
-        },
-        {
-          "name": "EuroSport 2 Spain (cast)",
-          "url": "https://dlhd.pk/cast/stream-525.php"
-        },
-        {
-          "name": "EuroSport 2 Poland (plus)",
-          "url": "https://dlhd.pk/plus/stream-58.php"
-        },
-        {
-          "name": "EuroSport 2 Poland (cast)",
-          "url": "https://dlhd.pk/cast/stream-58.php"
-        },
-        {
-          "name": "TNT Sports 4 UK (cast)",
-          "url": "https://dlhd.pk/cast/stream-34.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/football.webp"
-    },
-    {
-      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_2025_miami_open_tenn",
-      "title": "2025 Miami Open Tennis ATP 1st Round; WTA 2nd Round",
-      "sport": "Tennis",
-      "sport_icon": "sports_tennis",
-      "sport_color": "#FFD600",
-      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_2025_miami_open_tenn",
-      "start_time": "2026-10-23T15:00:00Z",
-      "end_time": "2026-10-23T18:00:00Z",
-      "is_live": false,
-      "streams": [
-        {
-          "name": "TSN2 (cast)",
-          "url": "https://dlhd.pk/cast/stream-112.php"
-        },
-        {
-          "name": "TSN3 (cast)",
-          "url": "https://dlhd.pk/cast/stream-113.php"
-        },
-        {
-          "name": "Tennis Channel (watch)",
-          "url": "https://dlhd.pk/watch/stream-40.php"
-        },
-        {
-          "name": "TSN2 (casting)",
-          "url": "https://dlhd.pk/casting/stream-112.php"
-        },
-        {
-          "name": "Tennis Channel (casting)",
-          "url": "https://dlhd.pk/casting/stream-40.php"
-        },
-        {
-          "name": "Sky Sports Tennis UK",
-          "url": "https://dlhd.pk/stream/stream-46.php"
-        }
-      ],
-      "stream_count": 6,
-      "has_stream": true,
-      "source": "DaddyLiveHD",
-      "thumbnail": "https://streamed.pk/api/images/badge/tennis.webp"
     },
     {
       "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_life_below_zero__nex",
@@ -1693,6 +1337,14 @@
         {
           "name": "StreamedPK Admin SD #2 (English - PDC.TV)",
           "url": "https://embed.st/embed/admin/ppv-2026-european-championship-day-2/2"
+        },
+        {
+          "name": "StreamedPK Admin HD #1 (English - PDC.TV)",
+          "url": "https://embed.st/embed/admin/ppv-2026-european-championship-day-3-s-1/1"
+        },
+        {
+          "name": "StreamedPK Admin SD #2 (English - PDC.TV)",
+          "url": "https://embed.st/embed/admin/ppv-2026-european-championship-day-3-s-1/2"
         }
       ],
       "stream_count": 2,
@@ -2030,6 +1682,32 @@
       "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
     },
     {
+      "event_id": "spk_machineseeker-european-championship--day-3-2619968",
+      "title": "Machineseeker European Championship  Day 3",
+      "sport": "Football",
+      "sport_icon": "sports_soccer",
+      "sport_color": "#2962FF",
+      "tvg_id": "spk_machineseeker-european-championship--day-3-2619968",
+      "start_time": "2026-10-23T17:00:00Z",
+      "end_time": "2026-10-23T20:00:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "StreamedPK Admin HD #1 (English - PDC.TV)",
+          "url": "https://embed.st/embed/admin/ppv-2026-european-championship-day-2/1"
+        },
+        {
+          "name": "StreamedPK Admin SD #2 (English - PDC.TV)",
+          "url": "https://embed.st/embed/admin/ppv-2026-european-championship-day-2/2"
+        }
+      ],
+      "stream_count": 2,
+      "has_stream": true,
+      "source": "StreamedPK",
+      "thumbnail": "https://streamed.pk/api/images/proxy//api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvhBYQ8MClAgSIXlpAoQ1QyGtHL04yyQUsIuYxRhV+jp-KNqcvr4rMBgnuJiEEA.webp.webp",
+      "league": "darts"
+    },
+    {
       "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_mlb___philadelphia_p",
       "title": "MLB : Philadelphia Phillies vs Atlanta Braves",
       "sport": "Baseball",
@@ -2202,6 +1880,47 @@
       "has_stream": true,
       "source": "DaddyLiveHD",
       "thumbnail": "https://streamed.pk/api/images/badge/live.webp"
+    },
+    {
+      "event_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_premier_league_pool_",
+      "title": "Premier League Pool: Day 1",
+      "sport": "Football",
+      "sport_icon": "sports_soccer",
+      "sport_color": "#2962FF",
+      "tvg_id": "daddy_Thursday 20th March 2025 - Schedule Time UK GMT_premier_league_pool_",
+      "start_time": "2026-10-23T17:30:00Z",
+      "end_time": "2026-10-23T20:30:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "Sky Sport 9 NZ (player)",
+          "url": "https://dlhd.pk/player/stream-596.php"
+        },
+        {
+          "name": "Sky Sport 9 NZ (casting)",
+          "url": "https://dlhd.pk/casting/stream-596.php"
+        },
+        {
+          "name": "Sky Sport 9 NZ (watch)",
+          "url": "https://dlhd.pk/watch/stream-596.php"
+        },
+        {
+          "name": "Sky Sport 9 NZ (plus)",
+          "url": "https://dlhd.pk/plus/stream-596.php"
+        },
+        {
+          "name": "Sky Sport 9 NZ (cast)",
+          "url": "https://dlhd.pk/cast/stream-596.php"
+        },
+        {
+          "name": "Sky Sport 9 NZ",
+          "url": "https://dlhd.pk/stream/stream-596.php"
+        }
+      ],
+      "stream_count": 6,
+      "has_stream": true,
+      "source": "DaddyLiveHD",
+      "thumbnail": "https://streamed.pk/api/images/badge/football.webp"
     },
     {
       "event_id": "spk_rally-six-cities-north-of-portugal-opening-ceremony-european-rally-championship-1792777500",
@@ -4960,6 +4679,10 @@
         {
           "name": "StreamedPK Admin SD #2 (English - Fox)",
           "url": "https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-milwaukee-brewers/2"
+        },
+        {
+          "name": "StreamEast HD",
+          "url": "https://beststreameast.xyz/match/tampa-bay-rays-vs-milwaukee-brewers/21852/"
         }
       ],
       "stream_count": 1,
@@ -5941,6 +5664,256 @@
       "league": "football"
     },
     {
+      "event_id": "spk_arsenal-vs-everton-2494072",
+      "title": "Arsenal vs Everton",
+      "sport": "Football",
+      "sport_icon": "sports_soccer",
+      "sport_color": "#2962FF",
+      "tvg_id": "spk_arsenal-vs-everton-2494072",
+      "start_time": "2026-10-24T14:00:00Z",
+      "end_time": "2026-10-24T17:00:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "StreamedPK Golf HD #1 (English)",
+          "url": "https://embed.st/embed/golf/2494/1"
+        },
+        {
+          "name": "StreamedPK Admin HD #1 (English - Premier League)",
+          "url": "https://embed.st/embed/admin/ppv-arsenal-vs-everton/1"
+        },
+        {
+          "name": "StreamedPK Admin SD #2 (English - Premier League)",
+          "url": "https://embed.st/embed/admin/ppv-arsenal-vs-everton/2"
+        },
+        {
+          "name": "StreamedPK Golf SD #2 (English)",
+          "url": "https://embed.st/embed/golf/2494/2"
+        }
+      ],
+      "stream_count": 4,
+      "has_stream": true,
+      "source": "StreamedPK",
+      "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjIpi8gCakQ3EBp24QEPSD4gYIRCAIUmfNWzBl4ReaLVNaYJ2NEQgA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzK9uYFNmAATENxAlcIRPpAgIIPiBTmCFJnxRcwZeEXminTWmBdjREEA.webp",
+      "league": "football"
+    },
+    {
+      "event_id": "spk_coventry-city-vs-fulham-2494079",
+      "title": "Coventry City vs Fulham",
+      "sport": "Football",
+      "sport_icon": "sports_soccer",
+      "sport_color": "#2962FF",
+      "tvg_id": "spk_coventry-city-vs-fulham-2494079",
+      "start_time": "2026-10-24T14:00:00Z",
+      "end_time": "2026-10-24T17:00:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "StreamedPK Admin HD #1 (English - Premier League)",
+          "url": "https://embed.st/embed/admin/ppv-coventry-city-vs-fulham/1"
+        },
+        {
+          "name": "StreamedPK Golf HD #1 (English)",
+          "url": "https://embed.st/embed/golf/2495/1"
+        },
+        {
+          "name": "StreamedPK Admin SD #2 (English - Premier League)",
+          "url": "https://embed.st/embed/admin/ppv-coventry-city-vs-fulham/2"
+        },
+        {
+          "name": "StreamedPK Golf SD #2 (English)",
+          "url": "https://embed.st/embed/golf/2495/2"
+        }
+      ],
+      "stream_count": 4,
+      "has_stream": true,
+      "source": "StreamedPK",
+      "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjLgUYbmHWJuICLj0gYIRIj4gUIC4RjAmfFFzBl4ReaMdNaYZ2NEQgA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnB8wagCZgUkENxAQDIY8f36YJjQQpM+KLmDLwi80faa0wjsaIhA.webp",
+      "league": "football"
+    },
+    {
+      "event_id": "spk_racing-de-santander-vs-espanyol-2506268",
+      "title": "Racing de Santander vs Espanyol",
+      "sport": "Football",
+      "sport_icon": "sports_soccer",
+      "sport_color": "#2962FF",
+      "tvg_id": "spk_racing-de-santander-vs-espanyol-2506268",
+      "start_time": "2026-10-24T14:15:00Z",
+      "end_time": "2026-10-24T17:15:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "StreamedPK Admin HD #1 (English - ESPN+)",
+          "url": "https://embed.st/embed/admin/ppv-racing-santander-vs-espanyol/1"
+        },
+        {
+          "name": "StreamedPK Admin SD #2 (English - ESPN+)",
+          "url": "https://embed.st/embed/admin/ppv-racing-santander-vs-espanyol/2"
+        }
+      ],
+      "stream_count": 2,
+      "has_stream": true,
+      "source": "StreamedPK",
+      "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAoQAgAzAtKMNxD6SIRABMQRvuYNXVhGMCZ8UXMGXhF5o501phXY0QggA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCqAJiAGEkYJCG4gNqg3xAwQiHFYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+      "league": "football"
+    },
+    {
+      "event_id": "spk_utrecht-vs-pec-zwolle-2489148",
+      "title": "Utrecht vs PEC Zwolle",
+      "sport": "Football",
+      "sport_icon": "sports_soccer",
+      "sport_color": "#2962FF",
+      "tvg_id": "spk_utrecht-vs-pec-zwolle-2489148",
+      "start_time": "2026-10-24T14:30:00Z",
+      "end_time": "2026-10-24T17:30:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "StreamedPK Admin HD #1 (Dutch - ESPN)",
+          "url": "https://embed.st/embed/admin/ppv-fc-utrecht-vs-pec-zwolle/1"
+        },
+        {
+          "name": "StreamedPK Admin SD #2 (Dutch - ESPN)",
+          "url": "https://embed.st/embed/admin/ppv-fc-utrecht-vs-pec-zwolle/2"
+        }
+      ],
+      "stream_count": 2,
+      "has_stream": true,
+      "source": "StreamedPK",
+      "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRhRIYtxB8QWgCa4QJXSAM6tMEBAIUmfFFzXl680Q6a0wasaIhA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm6wwAEzCq+YFCG4gIIPiEQlThkFZyMKTPii5gy8IvNGOmtMM7GiIQA.webp",
+      "league": "football"
+    },
+    {
+      "event_id": "spk_ppv-toulouse-vs-troyes",
+      "title": "Toulouse vs. Troyes",
+      "sport": "Football",
+      "sport_icon": "sports_soccer",
+      "sport_color": "#2962FF",
+      "tvg_id": "spk_ppv-toulouse-vs-troyes",
+      "start_time": "2026-10-24T15:15:00Z",
+      "end_time": "2026-10-24T18:15:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "StreamedPK Admin HD #1 (French - Ligue 1+)",
+          "url": "https://embed.st/embed/admin/ppv-toulouse-vs-troyes/1"
+        },
+        {
+          "name": "StreamedPK Admin SD #2 (French - Ligue 1+)",
+          "url": "https://embed.st/embed/admin/ppv-toulouse-vs-troyes/2"
+        }
+      ],
+      "stream_count": 2,
+      "has_stream": true,
+      "source": "StreamedPK",
+      "thumbnail": "https://streamed.pk/api/images/proxy//api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCBjBEAYxDyqIeMEWqV4kChBZturfK2IJifbpIhh2deamjyEUGEEimVlOULAkuGe6FPWB0sydwJpcidgBzIIIA.webp.webp",
+      "league": "football"
+    },
+    {
+      "event_id": "spk_kalmar-vs-brommapojkarna-2398947",
+      "title": "Kalmar vs Brommapojkarna",
+      "sport": "Football",
+      "sport_icon": "sports_soccer",
+      "sport_color": "#2962FF",
+      "tvg_id": "spk_kalmar-vs-brommapojkarna-2398947",
+      "start_time": "2026-10-24T15:30:00Z",
+      "end_time": "2026-10-24T18:30:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "StreamedPK Admin HD #1 (Swedish - TV4 Play)",
+          "url": "https://embed.st/embed/admin/ppv-kalmar-ff-vs-if-brommapojkarna/1"
+        },
+        {
+          "name": "StreamedPK Admin SD #2 (Swedish - TV4 Play)",
+          "url": "https://embed.st/embed/admin/ppv-kalmar-ff-vs-if-brommapojkarna/2"
+        }
+      ],
+      "stream_count": 2,
+      "has_stream": true,
+      "source": "StreamedPK",
+      "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwihEiHooQ3EABMQRoxC0gdmw4wpM+KLmDJr680faa0wjsaIhA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh0J9sIDbzAhuIACYhEKEHxMhjpxDAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+      "league": "football"
+    },
+    {
+      "event_id": "spk_djurg-rden-vs--rgryte-2398943",
+      "title": "Djurgården vs Örgryte",
+      "sport": "Football",
+      "sport_icon": "sports_soccer",
+      "sport_color": "#2962FF",
+      "tvg_id": "spk_djurg-rden-vs--rgryte-2398943",
+      "start_time": "2026-10-24T15:30:00Z",
+      "end_time": "2026-10-24T18:30:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "StreamedPK Admin HD #1 (Swedish - TV4 Play)",
+          "url": "https://embed.st/embed/admin/ppv-djurg-rden-vs-rgryte-is/1"
+        },
+        {
+          "name": "StreamedPK Admin SD #2 (Swedish - TV4 Play)",
+          "url": "https://embed.st/embed/admin/ppv-djurg-rden-vs-rgryte-is/2"
+        }
+      ],
+      "stream_count": 2,
+      "has_stream": true,
+      "source": "StreamedPK",
+      "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRgyZPtRIhuICLhDb9u3fpQh4BCkz4oua8vXmi7TWmDVjREIA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnjk4WMNzAgQ3EBBB8QiEvpAxzIFDoIUmfFFzBlV9eaMdNaYZ2NEQgA.webp",
+      "league": "football"
+    },
+    {
+      "event_id": "spk_napoli-vs-roma-2482210",
+      "title": "Napoli vs Roma",
+      "sport": "Football",
+      "sport_icon": "sports_soccer",
+      "sport_color": "#2962FF",
+      "tvg_id": "spk_napoli-vs-roma-2482210",
+      "start_time": "2026-10-24T16:00:00Z",
+      "end_time": "2026-10-24T19:00:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "StreamedPK Admin HD #1 (English - Paramount+)",
+          "url": "https://embed.st/embed/admin/ppv-napoli-vs-as-roma/1"
+        },
+        {
+          "name": "StreamedPK Admin SD #2 (English - Paramount+)",
+          "url": "https://embed.st/embed/admin/ppv-napoli-vs-as-roma/2"
+        }
+      ],
+      "stream_count": 2,
+      "has_stream": true,
+      "source": "StreamedPK",
+      "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzAhw3MClVgAJiG4g+ICLhAo1pksf0EKTPii5gy8IvNGOmtMM7GiIQA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyRg+2SrgQhuIPiAAmIGCFM4TR-RAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+      "league": "football"
+    },
+    {
+      "event_id": "spk_toledo-vs-western-michigan-2499112",
+      "title": "Toledo vs Western Michigan",
+      "sport": "Football",
+      "sport_icon": "sports_soccer",
+      "sport_color": "#2962FF",
+      "tvg_id": "spk_toledo-vs-western-michigan-2499112",
+      "start_time": "2026-10-24T16:00:00Z",
+      "end_time": "2026-10-24T19:00:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "StreamedPK Golf HD #1 (English)",
+          "url": "https://embed.st/embed/golf/2458/1"
+        },
+        {
+          "name": "StreamedPK Golf SD #2 (English)",
+          "url": "https://embed.st/embed/golf/2458/2"
+        }
+      ],
+      "stream_count": 2,
+      "has_stream": true,
+      "source": "StreamedPK",
+      "thumbnail": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyowQAEx5gy6kNxAkNICCESJdIYyD4EKTG123l680SmBNaYbWNEQgA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhD0mbXgAZgmkNxAATVXpMhDxxHwIUmVrmDLwi80SmBNaYB2NEQgA.webp",
+      "league": "american-football"
+    },
+    {
       "event_id": "se_cd7030",
       "title": "UFC 333: Volkanovski vs. Evloev",
       "sport": "MMA",
@@ -5954,12 +5927,38 @@
         {
           "name": "StreamEast HD",
           "url": "https://beststreameast.xyz/match/ufc-333-volkanovski-vs-evloev/21602/"
+        },
+        {
+          "name": "StreamedPK Admin #1",
+          "url": "https://embed.st/embed/admin/ppv-ufc-333-volkanovski-vs-evloev/1"
         }
       ],
       "stream_count": 1,
       "has_stream": true,
       "source": "StreamEast",
       "thumbnail": "https://streamed.pk/api/images/badge/mma.webp"
+    },
+    {
+      "event_id": "se_ee1025",
+      "title": "Pittsburgh Steelers vs New Orleans Saints",
+      "sport": "Football",
+      "sport_icon": "sports_soccer",
+      "sport_color": "#2962FF",
+      "tvg_id": "se_ee1025",
+      "start_time": "2026-10-25T13:30:00Z",
+      "end_time": "2026-10-25T16:30:00Z",
+      "is_live": false,
+      "streams": [
+        {
+          "name": "StreamEast HD",
+          "url": "https://beststreameast.xyz/match/pittsburgh-steelers-vs-new-orleans-saints/21702/"
+        }
+      ],
+      "stream_count": 1,
+      "has_stream": true,
+      "source": "StreamEast",
+      "thumbnail": "https://streamed.pk/api/images/poster/pittsburgh-steelers/new-orleans-saints.webp",
+      "league": "NFL"
     }
   ]
 }
