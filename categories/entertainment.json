@@ -11354,16 +11354,6 @@
       "languages": []
     },
     {
-      "id": "HLCGDTV.kr",
-      "name": "HLCG-DTV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/kr/HLCGDTV.kr.png",
-      "streamUrls": [
-        "http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8"
-      ],
-      "category": "Other",
-      "languages": []
-    },
-    {
       "id": "AceTV.us",
       "name": "Ace TV",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=acetelevisionnetwork.com",
@@ -12805,16 +12795,6 @@
       "languages": []
     },
     {
-      "id": "BoishakhiTV.bd",
-      "name": "Boishakhi TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bd/BoishakhiTV.bd.png",
-      "streamUrls": [
-        "https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "SantiagoTV.do",
       "name": "Santiago TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/SantiagoTV.do.png",
@@ -13857,6 +13837,7 @@
       "name": "Ulzii TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/UlziiTV.mn.png",
       "streamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/UlziiTV/HLSv3-FTA/UlziiTV.m3u8",
         "https://cdn4.skygo.mn/live/disk1/UlziiTV/DASH-FTA/UlziiTV.mpd"
       ],
       "country": "MN",
@@ -14128,9 +14109,9 @@
       "name": "El Watania 1",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tn/ElWatania1.tn.png",
       "streamUrls": [
-        "https://sw1.tanitweb.net/TunisiaTV/_definst_/watania2/chunklist.m3u8",
         "https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/chunklist.m3u8",
-        "https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/playlist.m3u8?DVR"
+        "https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/playlist.m3u8?DVR",
+        "https://sw1.tanitweb.net/TunisiaTV/_definst_/watania2/chunklist.m3u8"
       ],
       "country": "TN",
       "category": "Entertainment",
@@ -16442,9 +16423,10 @@
     {
       "id": "MTVReality.se",
       "name": "MTV Reality",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/330px-MTV_2021_%28brand_version%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "https://jmp2.uk/plu-68513950f212bedacf8ec48f.m3u8",
+        "https://jmp2.uk/plu-685139b0f7d8b74b62f41c96.m3u8",
         "https://jmp2.uk/plu-685137f4a1e091e16f2dd471.m3u8"
       ],
       "country": "SE",
@@ -16578,6 +16560,7 @@
       "name": "Pimp My Ride",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
+        "https://jmp2.uk/plu-61c091343bf4940007803e03.m3u8",
         "https://jmp2.uk/plu-61c09a3894aa450007814aea.m3u8",
         "https://jmp2.uk/plu-61c1d6e1f5acaf0007f8381d.m3u8"
       ],
@@ -16737,16 +16720,6 @@
       "streamUrls": [
         "https://live20.bozztv.com/akamaissh101/ssh101/bsfilm/playlist.m3u8",
         "https://lbgo.bozztv.com/ssh101/ssh101/bsfilm/playlist.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
-      "id": "BebetoTV.do",
-      "name": "Bebeto TV",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://edge.essastream.com/bebetotelevision/index.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -17112,21 +17085,9 @@
       "name": "Grande TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ve/GrandeTV.ve.png",
       "streamUrls": [
-        "https://live20.bozztv.com/akamaissh101/ssh101/grandetv2240/playlist.m3u8",
         "https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8"
       ],
       "country": "VE",
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
-      "id": "CrimePlusInvestigationCEE.uk",
-      "name": "Crime + Investigation CEE",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/CrimePlusInvestigationCEE.uk.png",
-      "streamUrls": [
-        "http://88.212.15.17/live/test_cai_hevc/playlist.m3u8"
-      ],
-      "country": "UK",
       "category": "Entertainment",
       "languages": []
     },
@@ -17149,17 +17110,6 @@
         "http://88.212.15.17/live/otv/playlist.m3u8"
       ],
       "country": "EE",
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
-      "id": "M2.hu",
-      "name": "M2",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/hu/M2.hu.png",
-      "streamUrls": [
-        "http://88.212.15.17/live/m2_hun/index.m3u8"
-      ],
-      "country": "HU",
       "category": "Entertainment",
       "languages": []
     },
@@ -17271,16 +17221,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/vn/LangSonTV.vn.png",
       "streamUrls": [
         "https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/playlist.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
-      "id": "TeleantioquiaPlus.co",
-      "name": "Teleantioquia Plus",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "http://200.122.223.13:55000/play/teleantioquia-go-tdt/index.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
