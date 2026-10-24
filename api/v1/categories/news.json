@@ -1462,6 +1462,7 @@
       "name": "Eagle News",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/EagleNews.mn.png",
       "streamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/Eagle/HLSv3-FTA/Eagle.m3u8",
         "https://cdn4.skygo.mn/live/disk1/Eagle/DASH-FTA/Eagle.mpd"
       ],
       "category": "News",
@@ -2402,7 +2403,7 @@
       "name": "Mongolian News Channel",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/MongolianNewsChannel.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/MNCTV/DASH-FTA/MNCTV.mpd"
+        "https://cdn4.skygo.mn/live/disk1/MNCTV/HLSv3-FTA/MNCTV.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -6479,8 +6480,108 @@
       ],
       "category": "News",
       "languages": []
+    },
+    {
+      "id": "ATNSamachar.in",
+      "name": "ATN Samachar",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://newsliveindia.com:4433/atn/index.m3u8"
+      ],
+      "category": "News",
+      "languages": []
+    },
+    {
+      "id": "BHIChannel.in",
+      "name": "BHI Channel",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://server.livelegitpro.in/bhichannel/bhichannel/index.m3u8"
+      ],
+      "category": "News",
+      "languages": []
+    },
+    {
+      "id": "BSTV.in",
+      "name": "BSTV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://samitaorigin.tangotv.in/BSTV/SAMITAORIGIN/index.m3u8"
+      ],
+      "category": "News",
+      "languages": []
+    },
+    {
+      "id": "BanglaJago.in",
+      "name": "Bangla Jago",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://banglajagotv.livebox.co.in/banglajagohls/24x7.m3u8"
+      ],
+      "category": "News",
+      "languages": []
+    },
+    {
+      "id": "BharatAtoZ.in",
+      "name": "Bharat AtoZ",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://live.ekamraott.com/4tv/bharata2z/index.m3u8"
+      ],
+      "category": "News",
+      "languages": []
+    },
+    {
+      "id": "GlobalIndia.in",
+      "name": "Global India",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/330px-Nickelodeon_2023_logo_%28outline%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "streamUrls": [
+        "https://server.livelegitpro.in/globalindiatv/globalindiatv/video.m3u8"
+      ],
+      "category": "News",
+      "languages": []
+    },
+    {
+      "id": "GlobeTV.in",
+      "name": "Globe TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://mumbai-edge.smartplaytv.in/GlobeTV/index.m3u8"
+      ],
+      "category": "News",
+      "languages": []
+    },
+    {
+      "id": "InfoTV.lt",
+      "name": "Info TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/lt/InfoTV.lt.png",
+      "streamUrls": [
+        "https://lnk5511.bstrm.net/live/687e3fd2679c8d4d68fab65b/hd/manifest.mpd"
+      ],
+      "category": "News",
+      "languages": []
+    },
+    {
+      "id": "MahuaKhabar.in",
+      "name": "Mahua Khabar",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cdn.ottlive.co.in/mahuakhabar/index.m3u8"
+      ],
+      "category": "News",
+      "languages": []
+    },
+    {
+      "id": "PuthiyaThalaimuraiExpress.in",
+      "name": "Puthiya Thalaimurai Express",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=puthiyathalaimurai.com",
+      "streamUrls": [
+        "https://samitaorigin.tangotv.in/PUTHIYAEXPRESS/SAMITAORIGIN/index.m3u8"
+      ],
+      "category": "News",
+      "languages": []
     }
   ],
-  "count": 623,
-  "generated_at": "2026-10-23T22:54:24.648239"
+  "count": 633,
+  "generated_at": "2026-10-24T03:24:40.998635"
 }
