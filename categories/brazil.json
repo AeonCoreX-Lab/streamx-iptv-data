@@ -320,7 +320,7 @@
       "streamUrls": [
         "http://45.177.114.115/TV_BRASIL/index.m3u8",
         "http://186.219.52.187/tv_brasil/index.m3u8",
-        "https://tvbrasil-stream.ebc.com.br/index.m3u8"
+        "http://45.162.64.114/TV_BRASIL/index.m3u8"
       ],
       "category": "Brazil",
       "languages": []
@@ -362,9 +362,9 @@
       "name": "TV Cultura",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/TVCultura.br.png",
       "streamUrls": [
+        "https://v-us-01.wisestream.io/memfs/e8740862-7a1f-45f3-acb2-4f357e144059.m3u8",
         "http://45.177.114.115/TV_CULTURA/index.m3u8",
-        "http://186.219.52.187/cultura/index.m3u8",
-        "http://170.83.16.50/CULTURA/index.m3u8"
+        "http://186.219.52.187/cultura/index.m3u8"
       ],
       "category": "Brazil",
       "languages": []
@@ -605,6 +605,7 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/WooHoo.br.png",
       "streamUrls": [
         "http://186.219.52.187/woohoo/index.m3u8",
+        "http://170.83.16.50/WOOHOO/index.m3u8",
         "http://45.162.64.114/WOOHOO/index.m3u8"
       ],
       "category": "Brazil",
@@ -688,8 +689,8 @@
       "name": "AgroMais",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/AgroMais.br.png",
       "streamUrls": [
-        "http://45.177.114.115/AGROMAIS_HD/index.m3u8",
         "http://45.177.114.115/agromais/index.m3u8",
+        "http://45.177.114.115/AGROMAIS_HD/index.m3u8",
         "http://170.83.16.50/AGRO_MAIS/index.m3u8"
       ],
       "category": "Brazil",
@@ -816,9 +817,9 @@
       "name": "Terra Viva",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/TerraViva.br.png",
       "streamUrls": [
-        "https://9ada494d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfVXBseW5rLU5ld2NvX0hMUw/playlist.m3u8",
         "http://45.177.114.115/TERRAVIVA/index.m3u8",
-        "http://170.83.16.50/TERRA_VIVA/index.m3u8"
+        "http://170.83.16.50/TERRA_VIVA/index.m3u8",
+        "https://9ada494d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfVXBseW5rLU5ld2NvX0hMUw/playlist.m3u8"
       ],
       "category": "Brazil",
       "languages": []
@@ -850,9 +851,9 @@
       "name": "Sony Movies",
       "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/330px-Sony_Movies_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
-        "http://45.177.114.115/SONY_MOVIES/index.m3u8",
         "http://170.83.16.50/SONY_MOVIES/index.m3u8",
-        "http://45.162.64.114/SONY_MOVIES/index.m3u8"
+        "http://45.162.64.114/SONY_MOVIES/index.m3u8",
+        "http://45.177.114.115/SONY_MOVIES/index.m3u8"
       ],
       "category": "Brazil",
       "languages": []
@@ -938,7 +939,7 @@
     {
       "id": "CanalUOL.br",
       "name": "Canal UOL",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=uol.com.br",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Globoplay_Novelas_2025_%28Solid%29.svg/330px-Globoplay_Novelas_2025_%28Solid%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "https://video24.mais.uol.com.br/live/6146.m3u8"
       ],
@@ -1172,7 +1173,7 @@
     {
       "id": "BemMaisTV.br",
       "name": "Bem Mais TV",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/RedeTV%21_2019_logo.png/330px-RedeTV%21_2019_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=bemmaistv.com.br",
       "streamUrls": [
         "https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8"
       ],
@@ -1398,6 +1399,16 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8"
+      ],
+      "category": "Brazil",
+      "languages": []
+    },
+    {
+      "id": "TVGloboBrasilia.br",
+      "name": "TV Globo Brasilia",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=redeglobo.globo.com",
+      "streamUrls": [
+        "http://79.127.238.228:14173/"
       ],
       "category": "Brazil",
       "languages": []
