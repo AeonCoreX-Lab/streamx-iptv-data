@@ -857,8 +857,8 @@
       "name": "Credo TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ro/CredoTV.ro.png",
       "streamUrls": [
-        "https://651c69fa2ff4e.streamlock.net/ctv/_definst_/livecredo/playlist.m3u8",
-        "http://cdn.credonet.tv:1935/ctv/livecredo/playlist.m3u8"
+        "http://cdn.credonet.tv:1935/ctv/livecredo/playlist.m3u8",
+        "https://651c69fa2ff4e.streamlock.net/ctv/_definst_/livecredo/playlist.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -2527,8 +2527,8 @@
       "name": "Rhema TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gt/RhemaTV.gt.png",
       "streamUrls": [
-        "http://45.171.64.30:6060/play/a04k/index.m3u8",
         "http://190.61.90.17:40000/play/a0iw/index.m3u8",
+        "http://45.171.64.30:6060/play/a04k/index.m3u8",
         "https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8"
       ],
       "category": "Religious",
@@ -3175,8 +3175,8 @@
       "name": "JBN TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/hn/JBNTV.hn.png",
       "streamUrls": [
-        "https://tv.webmedialive.com/jbn_live/enlace/playlist.m3u8",
-        "https://viewhn.com/jbn_live/enlace/playlist.m3u8"
+        "https://viewhn.com/jbn_live/enlace/playlist.m3u8",
+        "https://tv.webmedialive.com/jbn_live/enlace/playlist.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -5019,8 +5019,8 @@
       "name": "Divya Darshan TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/np/DivyaDarshanTV.np.png",
       "streamUrls": [
-        "http://live.divyadarshantv.com/hls/stream.m3u8",
-        "https://live.divyadarshantv.com/hls/0/stream.m3u8"
+        "https://live.divyadarshantv.com/hls/0/stream.m3u8",
+        "http://live.divyadarshantv.com/hls/stream.m3u8"
       ],
       "country": "NP",
       "category": "Religious",
@@ -5352,8 +5352,28 @@
       ],
       "category": "Religious",
       "languages": []
+    },
+    {
+      "id": "AhasaTV.lk",
+      "name": "Ahasa TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://ahasatv.lk/live-stream/rewind-3600.m3u8"
+      ],
+      "category": "Religious",
+      "languages": []
+    },
+    {
+      "id": "JosueTV.sv",
+      "name": "Josue TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/sv/JosueTV.sv.png",
+      "streamUrls": [
+        "https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8"
+      ],
+      "category": "Religious",
+      "languages": []
     }
   ],
-  "count": 525,
-  "generated_at": "2026-10-25T03:20:13.028513"
+  "count": 527,
+  "generated_at": "2026-10-25T08:57:35.607000"
 }
