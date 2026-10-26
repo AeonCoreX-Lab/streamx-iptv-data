@@ -178,7 +178,8 @@
       "name": "TNA Wrestling Channel",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/TNAWrestlingChannel.pl.png",
       "streamUrls": [
-        "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883039"
+        "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883039",
+        "https://jmp2.uk/plu-59b722526996084038c01e1b.m3u8"
       ],
       "category": "Poland",
       "languages": []
@@ -188,8 +189,8 @@
       "name": "TOP Barca",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/TOPBarca.pl.png",
       "streamUrls": [
-        "https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8",
         "https://amg17560-fcb-amg17560c1-samsung-gb-9839.playouts.now.amagi.tv/playlist.m3u8",
+        "https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8",
         "https://jmp2.uk/plu-6793ac47f5c74bff95d18a99.m3u8"
       ],
       "category": "Poland",
@@ -331,7 +332,8 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://92.114.85.87:8008/play/a008/index.m3u8",
-        "https://webtvstream.bhtelecom.ba/filmbox_extra.m3u8"
+        "http://88.212.15.50/live/test_filmbox_extra_hd_hun_atk_1200/playlist.m3u8",
+        "http://88.212.15.50/live/test_film_boxextra_hd_hevc/playlist.m3u8"
       ],
       "category": "Poland",
       "languages": []
@@ -343,7 +345,7 @@
       "streamUrls": [
         "http://92.114.85.87:8018/play/a009/index.m3u8",
         "https://dash3.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8",
-        "https://webtvstream.bhtelecom.ba/filmbox_arthouse.m3u8"
+        "https://nosignal1.antenaplay.ro/hls/fb-festival-hd/index.m3u8"
       ],
       "category": "Poland",
       "languages": []
@@ -354,7 +356,8 @@
       "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/DTX_Logo.png/330px-DTX_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "http://92.114.85.87:8008/play/a00a/index.m3u8",
-        "https://nosignal1.antenaplay.ro/hls/fb-hits-sd/index.m3u8"
+        "http://88.212.7.14/live/fb_premium_hungary/index.m3u8",
+        "http://88.212.15.50/live/test_film_boxpremium_hd_hevc/playlist.m3u8"
       ],
       "category": "Poland",
       "languages": []
@@ -364,8 +367,9 @@
       "name": "FILMBOX+ Love & Crime",
       "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg/330px-Crime_%2B_Investigation_Logo_10.2019.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
-        "https://nosignal1.antenaplay.ro/hls/fb-love-and-crime-sd/index.m3u8",
-        "https://webtvstream.bhtelecom.ba/filmbox_stars.m3u8"
+        "http://88.212.7.14/live/test_filmbox_plus_hun_atk_1200/playlist.m3u8",
+        "http://88.212.15.50/live/test_filmbox_plus_atk_1200/playlist.m3u8",
+        "https://nosignal1.antenaplay.ro/hls/fb-love-and-crime-sd/index.m3u8"
       ],
       "category": "Poland",
       "languages": []
@@ -375,6 +379,8 @@
       "name": "FILMBOX+ One",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg/330px-Crime_%2B_Investigation_Logo_10.2019.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
+        "http://88.212.7.14/live/filmbox_hungary/index.m3u8",
+        "http://88.212.15.50/live/test_filmbox/playlist.m3u8",
         "https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8"
       ],
       "category": "Poland",
@@ -437,8 +443,7 @@
       "name": "Twoja.TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/TwojaTV.pl.png",
       "streamUrls": [
-        "https://stream.twoja.tv/ttv_hls/live.m3u8",
-        "https://stream.twoja.tv/ttv_hls/live_720p/index.m3u8"
+        "https://stream.twoja.tv/ttv_hls/live.m3u8"
       ],
       "country": "PL",
       "category": "Poland",
@@ -914,8 +919,18 @@
       ],
       "category": "Poland",
       "languages": []
+    },
+    {
+      "id": "TVPPolonia.pl",
+      "name": "TVP Polonia",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/TVPPolonia.pl.png",
+      "streamUrls": [
+        "https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8"
+      ],
+      "category": "Poland",
+      "languages": []
     }
   ],
-  "count": 89,
-  "generated_at": "2026-10-26T09:44:24.678777"
+  "count": 90,
+  "generated_at": "2026-10-26T18:16:54.297117"
 }
