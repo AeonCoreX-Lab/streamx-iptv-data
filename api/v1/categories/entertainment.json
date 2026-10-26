@@ -483,16 +483,6 @@
       "languages": []
     },
     {
-      "id": "AigaioTV.gr",
-      "name": "Aigaio TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gr/AigaioTV.gr.png",
-      "streamUrls": [
-        "https://fr.crystalweb.net:1936/aigaiotv/aigaiotv/playlist.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "AiredeSantaFe.ar",
       "name": "Aire de Santa Fe",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/AiredeSantaFe.ar.png",
@@ -15524,6 +15514,7 @@
       "name": "C1",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/C1.mn.png",
       "streamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/C1/DASH-FTA/C1.mpd",
         "https://cdn4.skygo.mn/live/disk1/C1/HLSv3-FTA/C1.m3u8"
       ],
       "country": "MN",
@@ -16434,8 +16425,9 @@
       "name": "Pimp My Ride",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-61c1d6e1f5acaf0007f8381d.m3u8",
-        "https://jmp2.uk/plu-61c09a3894aa450007814aea.m3u8"
+        "https://jmp2.uk/plu-61c091343bf4940007803e03.m3u8",
+        "https://jmp2.uk/plu-61c09a3894aa450007814aea.m3u8",
+        "https://jmp2.uk/plu-61c1d6e1f5acaf0007f8381d.m3u8"
       ],
       "country": "SE",
       "category": "Entertainment",
@@ -17295,16 +17287,6 @@
       "languages": []
     },
     {
-      "id": "Mitplastikmareridt.se",
-      "name": "Mit plastikmareridt",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
-      "streamUrls": [
-        "https://jmp2.uk/plu-643814ef479f6400086ff043.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "CNCSantanderdeQuilichao.co",
       "name": "CNC Santander de Quilichao",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/CNCSantanderdeQuilichao.co.png",
@@ -17340,6 +17322,7 @@
       "name": "ON Vie Giai Tri",
       "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Vie_Channel_by_DatViet_VAC_logo.png/330px-Vie_Channel_by_DatViet_VAC_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
+        "https://tv.vietanhtv.top/vieon/vieon.php?id=vie-giai-tri-hd",
         "https://freem3u.xyz/api/live/play.m3u8?vid=180"
       ],
       "category": "Entertainment",
@@ -17860,8 +17843,69 @@
       ],
       "category": "Entertainment",
       "languages": []
+    },
+    {
+      "id": "1Plus1Marafon.ua",
+      "name": "1+1 Marafon",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/1Plus1Marafon.ua.png",
+      "streamUrls": [
+        "https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "AMNTV.in",
+      "name": "AMN TV",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Nine_Network_logo_%282008%29.svg/330px-Nine_Network_logo_%282008%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "streamUrls": [
+        "https://live.onecloudlive.in/amn/amntv/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "CCTV4Europe.cn",
+      "name": "CCTV-4 Europe",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cn/CCTV4Europe.cn.png",
+      "streamUrls": [
+        "https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "D3TV.ml",
+      "name": "D3 TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ml/D3TV.ml.png",
+      "streamUrls": [
+        "https://live20.bozztv.com/akamaissh101/ssh101/d3tvnet/playlist.m3u8",
+        "https://lbgo.bozztv.com/ssh101/ssh101/d3tvnet/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "ONVieDramas.vn",
+      "name": "ON Vie Dramas",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Vie_Channel_by_DatViet_VAC_logo.png/330px-Vie_Channel_by_DatViet_VAC_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "streamUrls": [
+        "https://freem3u.xyz/api/live/play.m3u8?vid=177"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "RapidTV.ng",
+      "name": "Rapid TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ng/RapidTV.ng.png",
+      "streamUrls": [
+        "https://stream-hls.castr-cdn.com/6a05a899db0ebd344a759542/live_9655bc604f8211f19e748901a3f596d0/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
     }
   ],
-  "count": 1735,
-  "generated_at": "2026-10-25T22:18:27.544670"
+  "count": 1739,
+  "generated_at": "2026-10-26T03:22:06.378174"
 }
