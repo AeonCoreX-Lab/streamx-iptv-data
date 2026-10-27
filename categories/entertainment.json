@@ -8811,7 +8811,7 @@
       "name": "UBS",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/UBS.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/UBSHD/HLSv3-FTA/UBSHD.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/UBSHD/DASH-FTA/UBSHD.mpd"
       ],
       "category": "Other",
       "languages": []
@@ -12516,16 +12516,6 @@
       "languages": []
     },
     {
-      "id": "Canal2NexTVRafaela.ar",
-      "name": "Canal 2 NexTV Rafaela",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/Canal2NexTVRafaela.ar.png",
-      "streamUrls": [
-        "https://edge.enhdtv.com/nexthd/index.m3u8"
-      ],
-      "category": "News",
-      "languages": []
-    },
-    {
       "id": "NBT2HD.th",
       "name": "NBT 2 HD",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/th/NBT2HD.th.png",
@@ -15663,16 +15653,6 @@
       "languages": []
     },
     {
-      "id": "VisionLatinaNetwork.us",
-      "name": "Vision Latina Network",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=visionlatina.com",
-      "streamUrls": [
-        "https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/c1804a4c-ccbf-46e5-87c3-0f8d4a94d9e3/master.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "AntenaHD.pl",
       "name": "Antena HD",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/AntenaHD.pl.png",
@@ -16164,6 +16144,7 @@
       "name": "MTV Reality",
       "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/330px-MTV_2021_%28brand_version%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
+        "https://jmp2.uk/plu-685137f4a1e091e16f2dd471.m3u8",
         "https://jmp2.uk/plu-68513950f212bedacf8ec48f.m3u8",
         "https://jmp2.uk/plu-685139b0f7d8b74b62f41c96.m3u8"
       ],
@@ -18057,6 +18038,36 @@
       "streamUrls": [
         "https://www.a1mediagroep.nl/hls/a1tv.m3u8",
         "https://stream.a1mediagroep.nl/hls/a1tv.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "AlRasheedTV.iq",
+      "name": "Al Rasheed TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/iq/AlRasheedTV.iq.png",
+      "streamUrls": [
+        "https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "HLANDTV.kr",
+      "name": "HLAN-DTV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/kr/HLANDTV.kr.png",
+      "streamUrls": [
+        "https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "MegaVisionTV.do",
+      "name": "MegaVision TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/MegaVisionTV.do.png",
+      "streamUrls": [
+        "http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
