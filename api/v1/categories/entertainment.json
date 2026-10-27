@@ -217,17 +217,6 @@
       "languages": []
     },
     {
-      "id": "A1TV.nl",
-      "name": "A1 TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/nl/A1TV.nl.png",
-      "streamUrls": [
-        "https://www.a1mediagroep.nl/hls/a1tv.m3u8",
-        "https://stream.a1mediagroep.nl/hls/a1tv.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "ABCTV.au",
       "name": "ABC TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/au/ABCTV.au.png",
@@ -9535,7 +9524,7 @@
       "name": "ONTV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/ONTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd"
+        "https://cdn4.skygo.mn/live/disk1/ONTV/HLSv3-FTA/ONTV.m3u8"
       ],
       "country": "MN",
       "category": "Entertainment",
@@ -13891,8 +13880,8 @@
       "name": "Radio Albalad TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ps/RadioAlbaladTV.ps.png",
       "streamUrls": [
-        "https://streaming.zaytonatube.com:8081/radioalbalad/radioalbalad/index.m3u8",
-        "http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/playlist.m3u8"
+        "http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/playlist.m3u8",
+        "https://streaming.zaytonatube.com:8081/radioalbalad/radioalbalad/index.m3u8"
       ],
       "country": "PS",
       "category": "Entertainment",
@@ -13998,8 +13987,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tn/ElWatania1.tn.png",
       "streamUrls": [
         "https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/playlist.m3u8?DVR",
-        "https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/chunklist.m3u8",
-        "https://sw1.tanitweb.net/TunisiaTV/_definst_/watania2/chunklist.m3u8"
+        "https://sw1.tanitweb.net/TunisiaTV/_definst_/watania2/chunklist.m3u8",
+        "https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/chunklist.m3u8"
       ],
       "country": "TN",
       "category": "Entertainment",
@@ -14754,16 +14743,6 @@
       "languages": []
     },
     {
-      "id": "NayaritComunica.mx",
-      "name": "Nayarit Comunica",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/NayaritComunica.mx.png",
-      "streamUrls": [
-        "https://live.iplanay.gob.mx/hls/nayarittv.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "PrimaFree.it",
       "name": "Prima Free",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/it/PrimaFree.it.png",
@@ -15219,7 +15198,7 @@
       "name": "SBN",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/SBN.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/SBN/HLSv3-FTA/SBN.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/SBN/DASH-FTA/SBN.mpd"
       ],
       "country": "MN",
       "category": "Entertainment",
@@ -15425,6 +15404,7 @@
       "name": "C1",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/C1.mn.png",
       "streamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/C1/DASH-FTA/C1.mpd",
         "https://cdn4.skygo.mn/live/disk1/C1/HLSv3-FTA/C1.m3u8"
       ],
       "country": "MN",
@@ -15486,7 +15466,7 @@
     {
       "id": "RadioChiloe.cl",
       "name": "Radio Chiloe",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/German_Garmendia_2023.png/330px-German_Garmendia_2023.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Digital_terrestrial_television_standards.svg/330px-Digital_terrestrial_television_standards.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "https://videostream.chileservidores.com:8081/chiloe1/index.m3u8"
       ],
@@ -16332,9 +16312,9 @@
       "name": "Pimp My Ride",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
+        "https://jmp2.uk/plu-61c091343bf4940007803e03.m3u8",
         "https://jmp2.uk/plu-61c09a3894aa450007814aea.m3u8",
-        "https://jmp2.uk/plu-61c1d6e1f5acaf0007f8381d.m3u8",
-        "https://jmp2.uk/plu-61c091343bf4940007803e03.m3u8"
+        "https://jmp2.uk/plu-61c1d6e1f5acaf0007f8381d.m3u8"
       ],
       "country": "SE",
       "category": "Entertainment",
@@ -17215,7 +17195,7 @@
     {
       "id": "ONVieGiaiTri.vn",
       "name": "ON Vie Giai Tri",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Vie_Channel_by_DatViet_VAC_logo.png/330px-Vie_Channel_by_DatViet_VAC_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=vtvcab.vn",
       "streamUrls": [
         "https://tv.vietanhtv.top/vieon/vieon.php?id=vie-giai-tri-hd",
         "https://freem3u.xyz/api/live/play.m3u8?vid=180"
@@ -17590,16 +17570,6 @@
       "languages": []
     },
     {
-      "id": "EnlaceTelevision.co",
-      "name": "Enlace Television",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/EnlaceTelevision.co.png",
-      "streamUrls": [
-        "http://181.78.12.119:16123/play/ch33/index.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "FairgroundAICreatorTV.us",
       "name": "Fairground AI Creator TV",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=fairground.tv",
@@ -17744,8 +17714,8 @@
       "name": "D3 TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ml/D3TV.ml.png",
       "streamUrls": [
-        "https://lbgo.bozztv.com/ssh101/ssh101/d3tvnet/playlist.m3u8",
-        "https://live20.bozztv.com/akamaissh101/ssh101/d3tvnet/playlist.m3u8"
+        "https://live20.bozztv.com/akamaissh101/ssh101/d3tvnet/playlist.m3u8",
+        "https://lbgo.bozztv.com/ssh101/ssh101/d3tvnet/playlist.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -17753,7 +17723,7 @@
     {
       "id": "ONVieDramas.vn",
       "name": "ON Vie Dramas",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Vie_Channel_by_DatViet_VAC_logo.png/330px-Vie_Channel_by_DatViet_VAC_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=vtvcab.vn",
       "streamUrls": [
         "https://freem3u.xyz/api/live/play.m3u8?vid=177"
       ],
@@ -18091,8 +18061,18 @@
       ],
       "category": "Entertainment",
       "languages": []
+    },
+    {
+      "id": "CanalCdelZulia.ve",
+      "name": "Canal C del Zulia",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ve/CanalCdelZulia.ve.png",
+      "streamUrls": [
+        "https://calm-forest-3478.cristianbracho904.workers.dev/live/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
     }
   ],
-  "count": 1758,
-  "generated_at": "2026-10-27T09:37:16.273368"
+  "count": 1756,
+  "generated_at": "2026-10-27T17:31:50.153009"
 }
