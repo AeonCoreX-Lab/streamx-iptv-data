@@ -6,9 +6,9 @@
       "name": "Arirang Radio",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/kr/ArirangRadio.kr.png",
       "streamUrls": [
-        "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
+        "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
         "http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
-        "http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8"
+        "http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8"
       ],
       "category": "South Korea",
       "languages": []
@@ -18,9 +18,9 @@
       "name": "Arirang TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/kr/ArirangTV.kr.png",
       "streamUrls": [
-        "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
         "http://45.162.64.114/ARIRANG/index.m3u8",
-        "http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
+        "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
       ],
       "category": "South Korea",
       "languages": []
@@ -426,8 +426,18 @@
       ],
       "category": "South Korea",
       "languages": []
+    },
+    {
+      "id": "HLANDTV.kr",
+      "name": "HLAN-DTV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/kr/HLANDTV.kr.png",
+      "streamUrls": [
+        "https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8"
+      ],
+      "category": "South Korea",
+      "languages": []
     }
   ],
-  "count": 42,
-  "generated_at": "2026-10-27T17:31:50.178864"
+  "count": 43,
+  "generated_at": "2026-10-27T23:30:14.360195"
 }
