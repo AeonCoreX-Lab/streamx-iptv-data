@@ -2527,7 +2527,6 @@
       "name": "Rhema TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gt/RhemaTV.gt.png",
       "streamUrls": [
-        "http://45.171.64.30:6060/play/a04k/index.m3u8",
         "http://190.61.90.17:40000/play/a0iw/index.m3u8",
         "https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8"
       ],
@@ -4816,8 +4815,8 @@
       "name": "Canal Mas",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uy/CanalMas.uy.png",
       "streamUrls": [
-        "https://canalmasuruguay.com/hls/master-abr.m3u8",
-        "https://canalmasuruguay.com/hls/720p/index.m3u8"
+        "https://canalmasuruguay.com/hls/720p/index.m3u8",
+        "https://canalmasuruguay.com/hls/master-abr.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -5471,8 +5470,19 @@
       ],
       "category": "Religious",
       "languages": []
+    },
+    {
+      "id": "FonteTV.br",
+      "name": "Fonte TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/FonteTV.br.png",
+      "streamUrls": [
+        "http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8",
+        "https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8"
+      ],
+      "category": "Religious",
+      "languages": []
     }
   ],
-  "count": 537,
-  "generated_at": "2026-10-28T04:08:59.730319"
+  "count": 538,
+  "generated_at": "2026-10-28T14:52:10.751948"
 }
