@@ -8797,7 +8797,8 @@
       "name": "UBS",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/UBS.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/UBSHD/DASH-FTA/UBSHD.mpd"
+        "https://cdn4.skygo.mn/live/disk1/UBSHD/DASH-FTA/UBSHD.mpd",
+        "https://cdn4.skygo.mn/live/disk1/UBSHD/HLSv3-FTA/UBSHD.m3u8"
       ],
       "category": "Other",
       "languages": []
@@ -9495,7 +9496,7 @@
       "name": "ONTV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/ONTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd"
+        "https://cdn4.skygo.mn/live/disk1/ONTV/HLSv3-FTA/ONTV.m3u8"
       ],
       "country": "MN",
       "category": "Entertainment",
@@ -13896,9 +13897,9 @@
       "name": "El Watania 1",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tn/ElWatania1.tn.png",
       "streamUrls": [
+        "https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/chunklist.m3u8",
         "https://sw1.tanitweb.net/TunisiaTV/_definst_/watania2/chunklist.m3u8",
-        "https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/playlist.m3u8?DVR",
-        "https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/chunklist.m3u8"
+        "https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/playlist.m3u8?DVR"
       ],
       "country": "TN",
       "category": "Entertainment",
@@ -14370,16 +14371,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/TVPlata.do.png",
       "streamUrls": [
         "https://ss2.tvrdomi.com:1936/tvplata/tvplata/playlist.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
-      "id": "OSN.ru",
-      "name": "OSN",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/OSN.ru.png",
-      "streamUrls": [
-        "http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -15078,7 +15069,7 @@
       "name": "SBN",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/SBN.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/SBN/DASH-FTA/SBN.mpd"
+        "https://cdn4.skygo.mn/live/disk1/SBN/HLSv3-FTA/SBN.m3u8"
       ],
       "country": "MN",
       "category": "Entertainment",
@@ -15469,16 +15460,6 @@
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=enlineamaule.cl",
       "streamUrls": [
         "https://v2.tustreaming.cl/enlineamauletv/index.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
-      "id": "EpicParivar.in",
-      "name": "Epic Parivar",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/EpicParivar.in.png",
-      "streamUrls": [
-        "http://103.151.60.162:2122/play/a01p/index.m3u8?hls"
       ],
       "category": "Entertainment",
       "languages": []
@@ -16182,8 +16163,8 @@
       "name": "Pimp My Ride",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-61c091343bf4940007803e03.m3u8",
-        "https://jmp2.uk/plu-61c1d6e1f5acaf0007f8381d.m3u8"
+        "https://jmp2.uk/plu-61c1d6e1f5acaf0007f8381d.m3u8",
+        "https://jmp2.uk/plu-61c09a3894aa450007814aea.m3u8"
       ],
       "country": "SE",
       "category": "Entertainment",
@@ -17045,6 +17026,7 @@
       "name": "ON Vie Giai Tri",
       "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/ON_Vie_GI%E1%BA%A2ITR%C3%8D.png/330px-ON_Vie_GI%E1%BA%A2ITR%C3%8D.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
+        "https://tv.vietanhtv.top/vieon/vieon.php?id=vie-giai-tri-hd",
         "https://freem3u.xyz/api/live/play.m3u8?vid=180"
       ],
       "category": "Entertainment",
@@ -17419,7 +17401,7 @@
     {
       "id": "RadioRomaniaIasi.ro",
       "name": "Radio Romania Iasi",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/TVR_logo_2022.svg/330px-TVR_logo_2022.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=radioiasi.ro",
       "streamUrls": [
         "https://stream3.srr.ro/live/radio-iasi/chunklist_w1565024915.m3u8"
       ],
@@ -18027,6 +18009,99 @@
         "https://televisioncaribe.com/index.m3u8"
       ],
       "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "LaUne.be",
+      "name": "La Une",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/be/LaUne.be.png",
+      "streamUrls": [
+        "http://41.205.93.154/LA-UNE/index.m3u8"
+      ],
+      "country": "BE",
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "BNT1.bg",
+      "name": "BNT 1",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bg/BNT1.bg.png",
+      "streamUrls": [
+        "http://213.91.179.28:8000/play/a046"
+      ],
+      "country": "BG",
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "BNT3.bg",
+      "name": "BNT 3",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bg/BNT3.bg.png",
+      "streamUrls": [
+        "http://213.91.179.28:8000/play/a03x"
+      ],
+      "country": "BG",
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "AltMediaTV.py",
+      "name": "Alt Media TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/py/AltMediaTV.py.png",
+      "streamUrls": [
+        "https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "CaracolaTV.cl",
+      "name": "Caracola TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cl/CaracolaTV.cl.png",
+      "streamUrls": [
+        "https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/chunks.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "NexTVCanal21.pa",
+      "name": "Nex TV Canal 21",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pa/NexTVCanal21.pa.png",
+      "streamUrls": [
+        "https://movil.ejeserver.com/live/nextv.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "OrbitaTV.ua",
+      "name": "Orbita TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/OrbitaTV.ua.png",
+      "streamUrls": [
+        "http://ftp.orbita.dn.ua/hls/orbita.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "PointeTV.ag",
+      "name": "Pointe TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ag/PointeTV.ag.png",
+      "streamUrls": [
+        "https://tv.pointville.ag/hls/mystream.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "RadioPanoramica.cl",
+      "name": "Radio Panoramica",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://v2.tustreaming.cl/alingeproducciones/index.m3u8"
+      ],
+      "category": "Music",
       "languages": []
     }
   ]
