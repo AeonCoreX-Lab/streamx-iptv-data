@@ -70,8 +70,8 @@
       "name": "FREEDOM",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/FREEDOM.ua.png",
       "streamUrls": [
-        "https://dash2.antik.sk/live/test_uatv/playlist.m3u8",
-        "https://dash4.antik.sk/live/test_uatv/playlist.m3u8"
+        "https://dash4.antik.sk/live/test_uatv/playlist.m3u8",
+        "https://dash2.antik.sk/live/test_uatv/playlist.m3u8"
       ],
       "category": "Ukraine",
       "languages": []
@@ -553,9 +553,9 @@
       "name": "TVA",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/TVA.ua.png",
       "streamUrls": [
+        "http://rtsp.cdn.ua/tva.ua_live/livestream/playlist.m3u8",
         "http://hls.cdn.ua/tva.ua_live/livestream/chunklist_w396178779.m3u8",
-        "http://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8",
-        "http://rtsp.cdn.ua/tva.ua_live/livestream/playlist.m3u8"
+        "http://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8"
       ],
       "country": "UA",
       "category": "Ukraine",
@@ -1212,7 +1212,7 @@
     {
       "id": "RAZ3.ua",
       "name": "RAZ 3",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Raz_3_%282026%29.png/330px-Raz_3_%282026%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g2NS90cmFja3MtdjJhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDcxMDcwMCZzdD1MXzZYc2M4elNra3RCaWYyVzU1dWF3&master=180"
       ],
@@ -1248,8 +1248,28 @@
       ],
       "category": "Ukraine",
       "languages": []
+    },
+    {
+      "id": "MEGOGOSport.ua",
+      "name": "MEGOGO Sport",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/MEGOGOSport.ua.png",
+      "streamUrls": [
+        "http://5.188.159.128:8070/megogo_sport/index.m3u8"
+      ],
+      "category": "Ukraine",
+      "languages": []
+    },
+    {
+      "id": "OrbitaTV.ua",
+      "name": "Orbita TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/OrbitaTV.ua.png",
+      "streamUrls": [
+        "http://ftp.orbita.dn.ua/hls/orbita.m3u8"
+      ],
+      "category": "Ukraine",
+      "languages": []
     }
   ],
-  "count": 121,
-  "generated_at": "2026-10-29T04:31:16.303877"
+  "count": 123,
+  "generated_at": "2026-10-29T14:57:30.118063"
 }

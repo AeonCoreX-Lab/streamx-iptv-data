@@ -2507,6 +2507,7 @@
       "name": "Rhema TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gt/RhemaTV.gt.png",
       "streamUrls": [
+        "http://45.171.64.30:6060/play/a04k/index.m3u8",
         "http://190.61.90.17:40000/play/a0iw/index.m3u8",
         "https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8"
       ],
@@ -4958,8 +4959,8 @@
       "name": "Divya Darshan TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/np/DivyaDarshanTV.np.png",
       "streamUrls": [
-        "http://live.divyadarshantv.com/hls/stream.m3u8",
-        "https://live.divyadarshantv.com/hls/0/stream.m3u8"
+        "https://live.divyadarshantv.com/hls/0/stream.m3u8",
+        "http://live.divyadarshantv.com/hls/stream.m3u8"
       ],
       "country": "NP",
       "category": "Religious",
@@ -5284,7 +5285,7 @@
     {
       "id": "AhasaTV.lk",
       "name": "Ahasa TV",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=ahasatv.lk",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Sirasa_TV_Logo.png/330px-Sirasa_TV_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "https://ahasatv.lk/live-stream/rewind-3600.m3u8"
       ],
@@ -5441,8 +5442,38 @@
       ],
       "category": "Religious",
       "languages": []
+    },
+    {
+      "id": "DGRadio.au",
+      "name": "DG:Radio",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=dg.church",
+      "streamUrls": [
+        "https://mdn.dg.church/683c0cb036885-1/index.m3u8"
+      ],
+      "category": "Religious",
+      "languages": []
+    },
+    {
+      "id": "MahdawiounTV.iq",
+      "name": "MahdawiounTV",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=mahdawioun.tv",
+      "streamUrls": [
+        "https://live.mahdawioun.tv/stream/mahdawioun/playlist.m3u8"
+      ],
+      "category": "Religious",
+      "languages": []
+    },
+    {
+      "id": "KoogiTV.eg",
+      "name": "Koogi TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/eg/KoogiTV.eg.png",
+      "streamUrls": [
+        "https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8"
+      ],
+      "category": "Religious",
+      "languages": []
     }
   ],
-  "count": 534,
-  "generated_at": "2026-10-29T04:31:16.072645"
+  "count": 537,
+  "generated_at": "2026-10-29T14:57:30.026581"
 }
