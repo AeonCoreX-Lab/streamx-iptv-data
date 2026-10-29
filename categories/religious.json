@@ -2506,6 +2506,7 @@
       "name": "Rhema TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gt/RhemaTV.gt.png",
       "streamUrls": [
+        "http://45.171.64.30:6060/play/a04k/index.m3u8",
         "http://190.61.90.17:40000/play/a0iw/index.m3u8",
         "https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8"
       ],
@@ -4957,8 +4958,8 @@
       "name": "Divya Darshan TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/np/DivyaDarshanTV.np.png",
       "streamUrls": [
-        "http://live.divyadarshantv.com/hls/stream.m3u8",
-        "https://live.divyadarshantv.com/hls/0/stream.m3u8"
+        "https://live.divyadarshantv.com/hls/0/stream.m3u8",
+        "http://live.divyadarshantv.com/hls/stream.m3u8"
       ],
       "country": "NP",
       "category": "Religious",
@@ -5437,6 +5438,26 @@
       "streamUrls": [
         "http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8",
         "https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8"
+      ],
+      "category": "Religious",
+      "languages": []
+    },
+    {
+      "id": "DGRadio.au",
+      "name": "DG:Radio",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=dg.church",
+      "streamUrls": [
+        "https://mdn.dg.church/683c0cb036885-1/index.m3u8"
+      ],
+      "category": "Religious",
+      "languages": []
+    },
+    {
+      "id": "MahdawiounTV.iq",
+      "name": "MahdawiounTV",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=mahdawioun.tv",
+      "streamUrls": [
+        "https://live.mahdawioun.tv/stream/mahdawioun/playlist.m3u8"
       ],
       "category": "Religious",
       "languages": []
