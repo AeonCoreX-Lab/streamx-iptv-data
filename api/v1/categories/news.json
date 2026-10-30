@@ -1443,7 +1443,8 @@
       "name": "ETV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/ETV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/ETV/DASH-FTA/ETV.mpd"
+        "https://cdn4.skygo.mn/live/disk1/ETV/DASH-FTA/ETV.mpd",
+        "https://cdn4.skygo.mn/live/disk1/ETV/HLSv3-FTA/ETV.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -1463,6 +1464,7 @@
       "name": "Eagle News",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/EagleNews.mn.png",
       "streamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/Eagle/DASH-FTA/Eagle.mpd",
         "https://cdn4.skygo.mn/live/disk1/Eagle/HLSv3-FTA/Eagle.m3u8"
       ],
       "category": "News",
@@ -5919,16 +5921,6 @@
       "languages": []
     },
     {
-      "id": "NovorossiyaTV.ru",
-      "name": "Novorossiya TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/NovorossiyaTV.ru.png",
-      "streamUrls": [
-        "http://31.131.139.253:9002/novoros/index.m3u8"
-      ],
-      "category": "News",
-      "languages": []
-    },
-    {
       "id": "OplotTV.ru",
       "name": "Oplot TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/OplotTV.ru.png",
@@ -6773,8 +6765,48 @@
       ],
       "category": "News",
       "languages": []
+    },
+    {
+      "id": "Telegela647.it",
+      "name": "Telegela 647",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/it/Telegela647.it.png",
+      "streamUrls": [
+        "https://64b16f23efbee.streamlock.net/telegela/telegela/playlist.m3u8"
+      ],
+      "category": "News",
+      "languages": []
+    },
+    {
+      "id": "ForYouTV.cm",
+      "name": "For You TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cm/ForYouTV.cm.png",
+      "streamUrls": [
+        "https://stream.az-multimedia.com:3325/live/foryoutvlive.m3u8"
+      ],
+      "category": "News",
+      "languages": []
+    },
+    {
+      "id": "JingmenComprehensiveNewsChannel.cn",
+      "name": "Jingmen Comprehensive News Channel",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cn/JingmenComprehensiveNewsChannel.cn.png",
+      "streamUrls": [
+        "https://stream.jmtv.com.cn/xwzh/sd/live.m3u8?_upt=341f4b8e1791883036"
+      ],
+      "category": "News",
+      "languages": []
+    },
+    {
+      "id": "TTVNews.tw",
+      "name": "TTV News",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tw/TTVNews.tw.png",
+      "streamUrls": [
+        "https://live.wcetv.com/hls/master-ttvnews.m3u8"
+      ],
+      "category": "News",
+      "languages": []
     }
   ],
-  "count": 652,
-  "generated_at": "2026-10-29T20:53:52.437675"
+  "count": 655,
+  "generated_at": "2026-10-30T04:30:56.883965"
 }
