@@ -8798,8 +8798,8 @@
       "name": "UBS",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/UBS.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/UBSHD/DASH-FTA/UBSHD.mpd",
-        "https://cdn4.skygo.mn/live/disk1/UBSHD/HLSv3-FTA/UBSHD.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/UBSHD/HLSv3-FTA/UBSHD.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/UBSHD/DASH-FTA/UBSHD.mpd"
       ],
       "category": "Other",
       "languages": []
@@ -10868,16 +10868,6 @@
         "https://2-fss-1.streamhoster.com/pl_122/206858-4405346-1/playlist.m3u8"
       ],
       "category": "Movies",
-      "languages": []
-    },
-    {
-      "id": "LaCaletaTV.do",
-      "name": "La Caleta TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/LaCaletaTV.do.png",
-      "streamUrls": [
-        "https://edge.essastream.com/lacaletatv/playlist.m3u8"
-      ],
-      "category": "Entertainment",
       "languages": []
     },
     {
@@ -13894,9 +13884,9 @@
       "name": "El Watania 1",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tn/ElWatania1.tn.png",
       "streamUrls": [
-        "https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/chunklist.m3u8",
+        "https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/playlist.m3u8?DVR",
         "https://sw1.tanitweb.net/TunisiaTV/_definst_/watania2/chunklist.m3u8",
-        "https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/playlist.m3u8?DVR"
+        "https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/chunklist.m3u8"
       ],
       "country": "TN",
       "category": "Entertainment",
@@ -16145,6 +16135,7 @@
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
         "https://jmp2.uk/plu-61c1d6e1f5acaf0007f8381d.m3u8",
+        "https://jmp2.uk/plu-61c091343bf4940007803e03.m3u8",
         "https://jmp2.uk/plu-61c09a3894aa450007814aea.m3u8"
       ],
       "country": "SE",
@@ -17057,16 +17048,6 @@
       "languages": []
     },
     {
-      "id": "TelevisionMetropolis192.hn",
-      "name": "Television Metropolis 19.2",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/hn/TelevisionMetropolis192.hn.png",
-      "streamUrls": [
-        "https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "CSIMiamienespanol.us",
       "name": "CSI: Miami en espanol",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
@@ -17825,6 +17806,7 @@
       "name": "Star TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/StarTV.mn.png",
       "streamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd",
         "https://cdn4.skygo.mn/live/disk1/Star/HLSv3-FTA/Star.m3u8"
       ],
       "country": "MN",
@@ -18009,7 +17991,8 @@
       "name": "BNT 1",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bg/BNT1.bg.png",
       "streamUrls": [
-        "http://213.91.179.28:8000/play/a046"
+        "http://213.91.179.28:8000/play/a046",
+        "https://shift03.isp.bg/BNT1_HD/index.m3u8"
       ],
       "country": "BG",
       "category": "Entertainment",
@@ -18020,7 +18003,8 @@
       "name": "BNT 3",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bg/BNT3.bg.png",
       "streamUrls": [
-        "http://213.91.179.28:8000/play/a03x"
+        "http://213.91.179.28:8000/play/a03x",
+        "https://shift03.isp.bg/BNT3_HD/index.m3u8"
       ],
       "country": "BG",
       "category": "Entertainment",
@@ -18079,7 +18063,7 @@
     {
       "id": "RadioPanoramica.cl",
       "name": "Radio Panoramica",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/JESC_2026_Map_2.svg/330px-JESC_2026_Map_2.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "https://v2.tustreaming.cl/alingeproducciones/index.m3u8"
       ],
@@ -18123,6 +18107,16 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ec/RedTVEVentanas.ec.png",
       "streamUrls": [
         "https://s2.tvdatta.com:3825/live/redtvelive.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "RBTV.py",
+      "name": "RB TV",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/5-tv_logo_%282023%29.svg/330px-5-tv_logo_%282023%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "streamUrls": [
+        "https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
