@@ -68,7 +68,8 @@
       "name": "CCTV-10",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cn/CCTV10.cn.png",
       "streamUrls": [
-        "http://74.91.26.218:82/live/cctv10hd.m3u8"
+        "http://74.91.26.218:82/live/cctv10hd.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8"
       ],
       "category": "China",
       "languages": []
@@ -98,7 +99,8 @@
       "name": "CCTV-13",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cn/CCTV13.cn.png",
       "streamUrls": [
-        "http://74.91.26.218:82/live/cctv13hd.m3u8"
+        "http://74.91.26.218:82/live/cctv13hd.m3u8",
+        "http://go.bkpcp.top/mg/cctv13"
       ],
       "category": "China",
       "languages": []
@@ -342,7 +344,7 @@
       "streamUrls": [
         "https://0472.org/hls/cgtn.m3u8",
         "https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8",
-        "https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8"
+        "https://hlspackager.akamaized.net/live/DB/CGTN_ENGLISH/HLS/CGTN_ENGLISH.m3u8"
       ],
       "category": "China",
       "languages": []
@@ -364,8 +366,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cn/CGTNDocumentary.cn.png",
       "streamUrls": [
         "https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8",
-        "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8",
-        "https://h5cul1yar48um3t.wcetv.com/hls/cgtnd.m3u8"
+        "https://h5cul1yar48um3t.wcetv.com/hls/cgtnd.m3u8",
+        "https://hlspackager.akamaized.net/live/DB/CGTN_DOCUMENTARY/HLS/CGTN_DOCUMENTARY.m3u8"
       ],
       "category": "China",
       "languages": []
@@ -387,8 +389,8 @@
       "name": "CGTN Global Biz",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cn/CGTNGlobalBiz.cn.png",
       "streamUrls": [
-        "https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8",
-        "https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8"
+        "https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8",
+        "https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8"
       ],
       "category": "China",
       "languages": []
@@ -483,8 +485,8 @@
       "name": "Hebei TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cn/HebeiTV.cn.png",
       "streamUrls": [
-        "https://event.pull.hebtv.com/live/live101.m3u8",
-        "https://restream.pdtvhd.com/memfs/1db8c005-9365-4b32-94a4-3736987b5646.m3u8"
+        "https://restream.pdtvhd.com/memfs/1db8c005-9365-4b32-94a4-3736987b5646.m3u8",
+        "https://event.pull.hebtv.com/live/live101.m3u8"
       ],
       "category": "China",
       "languages": []
@@ -606,9 +608,9 @@
       "name": "Xinjiang TV 3",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cn/XinjiangTV3.cn.png",
       "streamUrls": [
-        "http://110.153.180.106:55555/out_2/index.m3u8",
+        "http://120.70.60.179:9901/tsfile/live/1006_1.m3u8?authid=0&key=txiptv&playlive=1",
         "http://218.84.35.38:3000/m3u8/live/tctv-2/index.m3u8",
-        "http://120.70.60.179:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0"
+        "http://110.153.180.106:55555/out_2/index.m3u8"
       ],
       "category": "China",
       "languages": []
@@ -628,8 +630,7 @@
       "name": "Nei Monggol TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cn/NeiMonggolTV.cn.png",
       "streamUrls": [
-        "http://play1-qk.nmtv.cn/live/1769652018126032.m3u8",
-        "https://cdn4.skygo.mn/live/disk1/NeigMGL/HLSv3-FTA/NeigMGL.m3u8"
+        "http://play1-qk.nmtv.cn/live/1769652018126032.m3u8"
       ],
       "category": "China",
       "languages": []
@@ -754,8 +755,58 @@
       ],
       "category": "China",
       "languages": []
+    },
+    {
+      "id": "QianjiangChannel.cn",
+      "name": "Qianjiang Channel",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cn/QianjiangChannel.cn.png",
+      "streamUrls": [
+        "rtmp://splay-qukan.cztv.com/live/1792059352668052?auth_key=1886667371-a351173879224e5fbbb4412bf9f96eff-0-de13c2186941a507a27a3438213d2169"
+      ],
+      "category": "China",
+      "languages": []
+    },
+    {
+      "id": "ZhejiangChildrensChannel.cn",
+      "name": "Zhejiang Children's Channel",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cn/ZhejiangChildrensChannel.cn.png",
+      "streamUrls": [
+        "rtmp://splay-qukan.cztv.com/live/1792055184232041?auth_key=1886663369-8067bfcb3c684fe98dc7e8ab4b018582-0-3adb461e15e39f56e7a75b9b7f80377d"
+      ],
+      "category": "China",
+      "languages": []
+    },
+    {
+      "id": "ZhejiangEconomicChannel.cn",
+      "name": "Zhejiang Economic Channel",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cn/ZhejiangEconomicChannel.cn.png",
+      "streamUrls": [
+        "rtmp://splay-qukan.cztv.com/live/1792060094123056?auth_key=1886668326-379148691825438db322fe5c1545be6b-0-ae4e25174445c06889d2da4cf99c48af"
+      ],
+      "category": "China",
+      "languages": []
+    },
+    {
+      "id": "ZhejiangEducationTechnologyChannel.cn",
+      "name": "Zhejiang Education Technology Channel",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cn/ZhejiangEducationTechnologyChannel.cn.png",
+      "streamUrls": [
+        "rtmp://splay-qukan.cztv.com/live/1792059848292249?auth_key=1886667907-3d9b01248b784f0dad521e451a627376-0-810b24f67775043e86a4337d9660392c"
+      ],
+      "category": "China",
+      "languages": []
+    },
+    {
+      "id": "ZhejiangMinshengLeisure.cn",
+      "name": "Zhejiang Minsheng Leisure",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cn/ZhejiangMinshengLeisure.cn.png",
+      "streamUrls": [
+        "rtmp://splay-qukan.cztv.com/live/1792059771757250?auth_key=1886667772-951bbd2034684d73940470ed3eebc32a-0-adc4291abba5c186e3ead67a1683e790"
+      ],
+      "category": "China",
+      "languages": []
     }
   ],
-  "count": 73,
-  "generated_at": "2026-10-31T04:12:53.448973"
+  "count": 78,
+  "generated_at": "2026-10-31T14:18:40.793253"
 }
