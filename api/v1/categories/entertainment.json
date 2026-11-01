@@ -10703,8 +10703,8 @@
       "name": "TV9",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/TV9.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/TV9HD/HLSv3-FTA/TV9HD.m3u8",
-        "https://cdn4.skygo.mn/live/disk1/TV9HD/DASH-FTA/TV9HD.mpd"
+        "https://cdn4.skygo.mn/live/disk1/TV9HD/DASH-FTA/TV9HD.mpd",
+        "https://cdn4.skygo.mn/live/disk1/TV9HD/HLSv3-FTA/TV9HD.m3u8"
       ],
       "country": "MN",
       "category": "Entertainment",
@@ -13826,9 +13826,9 @@
       "name": "El Watania 1",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tn/ElWatania1.tn.png",
       "streamUrls": [
+        "https://sw1.tanitweb.net/TunisiaTV/_definst_/watania2/chunklist.m3u8",
         "https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/chunklist.m3u8",
-        "https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/playlist.m3u8?DVR",
-        "https://sw1.tanitweb.net/TunisiaTV/_definst_/watania2/chunklist.m3u8"
+        "https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/playlist.m3u8?DVR"
       ],
       "country": "TN",
       "category": "Entertainment",
@@ -14301,16 +14301,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/TVPlata.do.png",
       "streamUrls": [
         "https://ss2.tvrdomi.com:1936/tvplata/tvplata/playlist.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
-      "id": "Canal1Nuble.cl",
-      "name": "Canal 1 Nuble",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cl/Canal1Nuble.cl.png",
-      "streamUrls": [
-        "https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -16058,8 +16048,8 @@
       "name": "Pimp My Ride",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-61c1d6e1f5acaf0007f8381d.m3u8",
         "https://jmp2.uk/plu-61c09a3894aa450007814aea.m3u8",
+        "https://jmp2.uk/plu-61c1d6e1f5acaf0007f8381d.m3u8",
         "https://jmp2.uk/plu-61c091343bf4940007803e03.m3u8"
       ],
       "country": "SE",
@@ -16538,16 +16528,6 @@
       "languages": []
     },
     {
-      "id": "AsContenidos.bo",
-      "name": "As Contenidos",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/UNIFE.jpg/330px-UNIFE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "streamUrls": [
-        "https://master.tucableip.com/ascontenido/index.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "RVTVCivic.us",
       "name": "RVTV Civic",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/RVTVCivic.us.png",
@@ -16890,7 +16870,7 @@
     {
       "id": "ONVieGiaiTri.vn",
       "name": "ON Vie Giai Tri",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/ON_Vie_GI%E1%BA%A2ITR%C3%8D.png/330px-ON_Vie_GI%E1%BA%A2ITR%C3%8D.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=vtvcab.vn",
       "streamUrls": [
         "https://tv.vietanhtv.top/vieon/vieon.php?id=vie-giai-tri-hd",
         "https://freem3u.xyz/api/live/play.m3u8?vid=180"
@@ -17236,7 +17216,7 @@
     {
       "id": "RadioRomaniaIasi.ro",
       "name": "Radio Romania Iasi",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/TVR_logo_2022.svg/330px-TVR_logo_2022.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=radioiasi.ro",
       "streamUrls": [
         "https://stream3.srr.ro/live/radio-iasi/chunklist_w1565024915.m3u8"
       ],
@@ -17356,7 +17336,7 @@
     {
       "id": "ONVieDramas.vn",
       "name": "ON Vie Dramas",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/ON_Vie_DRAMAS.png/330px-ON_Vie_DRAMAS.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=vtvcab.vn",
       "streamUrls": [
         "https://freem3u.xyz/api/live/play.m3u8?vid=177"
       ],
@@ -18064,8 +18044,82 @@
       ],
       "category": "Entertainment",
       "languages": []
+    },
+    {
+      "id": "SNT.py",
+      "name": "SNT",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/py/SNT.py.png",
+      "streamUrls": [
+        "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/113.m3u8"
+      ],
+      "country": "PY",
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "WAPATV41.pr",
+      "name": "WAPA-TV 4.1",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pr/WAPATV41.pr.png",
+      "streamUrls": [
+        "https://wapa.hostless.app/WAPA-TV-4-1.m3u8"
+      ],
+      "country": "PR",
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "BTB.pl",
+      "name": "BTB",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/BTB.pl.png",
+      "streamUrls": [
+        "https://emisja.btb.j00r.us/iptv/session/1/live.m3u8",
+        "https://emisja.btb.j00r.us/iptv/session/1/hls.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "BTB2.pl",
+      "name": "BTB 2",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/BTB2.pl.png",
+      "streamUrls": [
+        "https://emisja.btb.j00r.us/iptv/session/2/live.m3u8",
+        "https://emisja.btb.j00r.us/iptv/session/2/hls.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "DiscoveryChannel.uk",
+      "name": "Discovery Channel",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/DiscoveryChannel.uk.png",
+      "streamUrls": [
+        "http://37.49.224.5/stream/11/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "ElTreceInternacionalLatinAmerica.ar",
+      "name": "El Trece Internacional Latin America",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/ElTreceInternacionalLatinAmerica.ar.png",
+      "streamUrls": [
+        "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/23.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "MBCAmerica.us",
+      "name": "MBC America",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/MBCAmerica.us.png",
+      "streamUrls": [
+        "https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
     }
   ],
-  "count": 1753,
-  "generated_at": "2026-10-31T23:05:56.859922"
+  "count": 1758,
+  "generated_at": "2026-11-01T04:33:30.982594"
 }

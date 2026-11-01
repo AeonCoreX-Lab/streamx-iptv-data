@@ -1423,7 +1423,8 @@
       "name": "ETV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/ETV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/ETV/HLSv3-FTA/ETV.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/ETV/HLSv3-FTA/ETV.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/ETV/DASH-FTA/ETV.mpd"
       ],
       "category": "News",
       "languages": []
@@ -4526,16 +4527,6 @@
       "languages": []
     },
     {
-      "id": "BuendiaTV.hn",
-      "name": "Buendia TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/hn/BuendiaTV.hn.png",
-      "streamUrls": [
-        "https://servilive.com:3508/stream/play.m3u8"
-      ],
-      "category": "News",
-      "languages": []
-    },
-    {
       "id": "CNEWSPRIME.fr",
       "name": "CNEWS PRIME",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/fr/CNEWSPRIME.fr.png",
@@ -6773,8 +6764,28 @@
       ],
       "category": "News",
       "languages": []
+    },
+    {
+      "id": "Antena3Suceava.ro",
+      "name": "Antena 3 Suceava",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=antena3suceava.ro",
+      "streamUrls": [
+        "https://livestream.a3sv.ro/master.m3u8"
+      ],
+      "category": "News",
+      "languages": []
+    },
+    {
+      "id": "Sahara24.mr",
+      "name": "Sahara 24",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mr/Sahara24.mr.png",
+      "streamUrls": [
+        "https://live.saharamedias.net:3317/live/shara24live.m3u8"
+      ],
+      "category": "News",
+      "languages": []
     }
   ],
-  "count": 652,
-  "generated_at": "2026-10-31T23:05:56.838826"
+  "count": 653,
+  "generated_at": "2026-11-01T04:33:30.964907"
 }
