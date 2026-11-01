@@ -1091,9 +1091,9 @@
       "name": "Enlace",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cr/Enlace.cr.png",
       "streamUrls": [
-        "http://200.115.120.1:8000/play/ca114/index.m3u8",
         "http://45.5.118.152:8000/play/a026/index.m3u8",
-        "http://181.78.106.127:5000/play/ca042/index.m3u8"
+        "http://181.78.106.127:5000/play/ca042/index.m3u8",
+        "http://200.115.120.1:8000/play/ca114/index.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -3134,8 +3134,8 @@
       "name": "JBN TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/hn/JBNTV.hn.png",
       "streamUrls": [
-        "https://viewhn.com/jbn_live/enlace/playlist.m3u8",
-        "https://tv.webmedialive.com/jbn_live/enlace/playlist.m3u8"
+        "https://tv.webmedialive.com/jbn_live/enlace/playlist.m3u8",
+        "https://viewhn.com/jbn_live/enlace/playlist.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -4329,8 +4329,8 @@
       "name": "4E",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gr/4E.gr.png",
       "streamUrls": [
-        "http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8",
-        "http://eu2.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8"
+        "http://eu2.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8",
+        "http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8"
       ],
       "country": "GR",
       "category": "Religious",
@@ -4918,8 +4918,8 @@
       "name": "Divya Darshan TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/np/DivyaDarshanTV.np.png",
       "streamUrls": [
-        "http://live.divyadarshantv.com/hls/stream.m3u8",
-        "https://live.divyadarshantv.com/hls/0/stream.m3u8"
+        "https://live.divyadarshantv.com/hls/0/stream.m3u8",
+        "http://live.divyadarshantv.com/hls/stream.m3u8"
       ],
       "country": "NP",
       "category": "Religious",
@@ -5446,6 +5446,18 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/eg/CopticTV.eg.png",
       "streamUrls": [
         "https://ctv.icopts.app/CTV/index.fmp4.m3u8"
+      ],
+      "category": "Religious",
+      "languages": []
+    },
+    {
+      "id": "GodStandsKidsClubTV.pk",
+      "name": "God Stands Kids Club TV",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=godstands.tv",
+      "streamUrls": [
+        "https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8",
+        "https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8",
+        "https://online.godstands.tv:5443/WebRTCApp/streams/KidsUrdu.m3u8"
       ],
       "category": "Religious",
       "languages": []
