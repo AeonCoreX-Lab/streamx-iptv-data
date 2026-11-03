@@ -376,9 +376,9 @@
       "name": "El Gourmet",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/ElGourmet.ar.png",
       "streamUrls": [
+        "http://15.204.246.24:8080/ElGourmetHD/index.m3u8",
         "http://190.61.101.11:7050/play/a09s/index.m3u8?hls",
-        "http://138.121.15.230:9002/EL-GOURMET/index.m3u8",
-        "https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8"
+        "http://138.121.15.230:9002/EL-GOURMET/index.m3u8"
       ],
       "category": "Argentina",
       "languages": []
@@ -466,7 +466,7 @@
     {
       "id": "La100.ar",
       "name": "La 100",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/330px-Logo_M6_%282020%2C_fond_clair%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=la100.cienradios.com",
       "streamUrls": [
         "https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8"
       ],
@@ -496,7 +496,7 @@
     {
       "id": "Canal4VillaDolores.ar",
       "name": "Canal 4 Villa Dolores",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Silvia_Santelices.jpg/330px-Silvia_Santelices.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=canal4vd.com.ar",
       "streamUrls": [
         "https://stmvideo3.livecastv.com/canal4vd/canal4vd/playlist.m3u8"
       ],
@@ -684,8 +684,8 @@
       "name": "5tv",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/5tv.ar.png",
       "streamUrls": [
-        "http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8",
-        "https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8"
+        "https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8",
+        "http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8"
       ],
       "country": "AR",
       "category": "Argentina",
@@ -696,8 +696,8 @@
       "name": "Plim Plim",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/PlimPlim.ar.png",
       "streamUrls": [
-        "http://200.115.120.1:8000/play/ca091/index.m3u8",
-        "http://45.70.168.162:1503/play/a02a/index.m3u8"
+        "http://45.70.168.162:1503/play/a02a/index.m3u8",
+        "http://200.115.120.1:8000/play/ca091/index.m3u8"
       ],
       "category": "Argentina",
       "languages": []
@@ -859,8 +859,8 @@
       "name": "NG Federal",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/NGFederal.ar.png",
       "streamUrls": [
-        "http://www.coninfo.net:1935/tvlink/live/playlist.m3u8",
-        "https://617c5175c970b.streamlock.net:4444/tvlink/live/playlist.m3u8"
+        "https://617c5175c970b.streamlock.net:4444/tvlink/live/playlist.m3u8",
+        "http://www.coninfo.net:1935/tvlink/live/playlist.m3u8"
       ],
       "country": "AR",
       "category": "Argentina",
@@ -1009,8 +1009,28 @@
       ],
       "category": "Argentina",
       "languages": []
+    },
+    {
+      "id": "Canal3LasHeras.ar",
+      "name": "Canal 3 Las Heras",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/Canal3LasHeras.ar.png",
+      "streamUrls": [
+        "https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8"
+      ],
+      "category": "Argentina",
+      "languages": []
+    },
+    {
+      "id": "RadioYguazuTV.ar",
+      "name": "Radio Yguazu TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/RadioYguazuTV.ar.png",
+      "streamUrls": [
+        "https://live.enhdtv.com:8081/radioiguazutv/index.m3u8"
+      ],
+      "category": "Argentina",
+      "languages": []
     }
   ],
-  "count": 98,
-  "generated_at": "2026-11-02T17:50:20.664272"
+  "count": 100,
+  "generated_at": "2026-11-03T02:00:37.122364"
 }
