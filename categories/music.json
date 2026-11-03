@@ -554,8 +554,8 @@
       "name": "First Music Channel",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/by/FirstMusicChannel.by.png",
       "streamUrls": [
-        "http://hz1.teleport.cc/HLS/SD.m3u8",
         "http://rtmp.one.by:1300",
+        "http://hz1.teleport.cc/HLS/SD.m3u8",
         "http://hz1.teleport.cc/HLS/HD.m3u8"
       ],
       "category": "Music",
@@ -943,9 +943,9 @@
       "name": "NOW Rock",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/NOWRock.uk.png",
       "streamUrls": [
-        "https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8",
         "https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8",
-        "https://lightning-now90s-rakuten.amagi.tv/playlist.m3u8"
+        "https://lightning-now90s-rakuten.amagi.tv/playlist.m3u8",
+        "https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -966,7 +966,7 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/Now70s.uk.png",
       "streamUrls": [
         "https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8",
-        "https://lightningnow70-samsungau.amagi.tv/playlist.m3u8",
+        "https://amg01076-amg01076c1-samsung-gb-6682.playouts.now.amagi.tv/playlist.m3u8",
         "https://lightning-now70s-rakuten.amagi.tv/playlist.m3u8"
       ],
       "category": "Music",
@@ -977,9 +977,9 @@
       "name": "Now 80s",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/Now80s.uk.png",
       "streamUrls": [
-        "https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8",
         "https://samsunguk-lightning-now80s-samsunguk-n908q.amagi.tv/playlist/samsunguk-lightning-now80s-samsunguk/playlist.m3u8",
-        "https://lightning-now80s-samsungse.amagi.tv/playlist.m3u8"
+        "https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8",
+        "https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -1051,8 +1051,8 @@
       "name": "Ocko",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cz/Ocko.cz.png",
       "streamUrls": [
-        "https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8",
-        "https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8"
+        "https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8",
+        "https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -2716,16 +2716,6 @@
       "genre": "Music"
     },
     {
-      "id": "AndyHaryana.in",
-      "name": "Andy Haryana",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/AndyHaryana.in.png",
-      "streamUrls": [
-        "https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8"
-      ],
-      "category": "Music",
-      "languages": []
-    },
-    {
       "id": "MBCMood.sa",
       "name": "MBC Mood",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/MBC_Group_Logo.svg/330px-MBC_Group_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -2820,7 +2810,7 @@
     {
       "id": "VantageClassic.ee",
       "name": "Vantage Classic",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=vantagetv.ee",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/MTV_Classic_2021.svg/330px-MTV_Classic_2021.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "https://hls.vantagetv.ee/vclassic_stream/index.m3u8"
       ],
@@ -3004,8 +2994,8 @@
       "name": "Retro Music TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cz/RetroMusicTV.cz.png",
       "streamUrls": [
-        "https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8",
-        "https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8"
+        "https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8",
+        "https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8"
       ],
       "country": "CZ",
       "category": "Music",
@@ -3219,16 +3209,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/au/FolkKlubTV.au.png",
       "streamUrls": [
         "http://tv1.intv.mk:1935/live2/folkklub/index.m3u8"
-      ],
-      "category": "Music",
-      "languages": []
-    },
-    {
-      "id": "LittoralFMTV.fr",
-      "name": "Littoral FM TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/fr/LittoralFMTV.fr.png",
-      "streamUrls": [
-        "https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8"
       ],
       "category": "Music",
       "languages": []
@@ -3502,7 +3482,7 @@
     {
       "id": "ImpactTV.ro",
       "name": "Impact TV",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=tvimpact.ro",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/f/fb/Challenge_logo_2016.png/330px-Challenge_logo_2016.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "https://live.tvimpact.ro:8088/hevc/index.m3u8"
       ],
@@ -3766,7 +3746,7 @@
     {
       "id": "SaborTV.cl",
       "name": "Sabor TV",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/RedeTV%21_2019_logo.png/330px-RedeTV%21_2019_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/PlayTV20062020.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "streamUrls": [
         "https://v1.tustreaming.cl/sabortv/index.m3u8"
       ],
@@ -4362,8 +4342,8 @@
       "name": "Solo Bailalo",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cl/SoloBailalo.cl.png",
       "streamUrls": [
-        "https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8",
-        "https://5ff3d9babae13.streamlock.net/8016/8016/playlist.m3u8"
+        "https://5ff3d9babae13.streamlock.net/8016/8016/playlist.m3u8",
+        "https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8"
       ],
       "country": "CL",
       "category": "Music",
@@ -4457,7 +4437,7 @@
     {
       "id": "SmartRadio.ro",
       "name": "Smart Radio",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/LG_smart_TV.jpg/330px-LG_smart_TV.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=smartradio.ro",
       "streamUrls": [
         "https://streamw.m.ro/Regie/radio.stream/chunklist.m3u8"
       ],
@@ -4477,7 +4457,7 @@
     {
       "id": "TequilaMusicTV.ro",
       "name": "Tequila Music TV",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Tila_Tequila_2008.jpg/330px-Tila_Tequila_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=tequilamusic.net",
       "streamUrls": [
         "https://stream.tequilamusic.net/hls/tequila_tv.m3u8"
       ],
@@ -4580,16 +4560,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/hn/LaTop1029.hn.png",
       "streamUrls": [
         "https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8"
-      ],
-      "category": "Music",
-      "languages": []
-    },
-    {
-      "id": "PunjabiBeatsHD.in",
-      "name": "Punjabi Beats HD",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://mumt01.tangotv.in/O5aw8Zn3PUNJABIBEATSHD/index.m3u8"
       ],
       "category": "Music",
       "languages": []
@@ -4876,7 +4846,7 @@
     {
       "id": "RomanticFM.ro",
       "name": "Romantic FM",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=antenaplay.ro",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/View_of_the_MTV_Studios_building_from_Hawley_Crescent_-_geograph.org.uk_-_5425610.jpg/330px-View_of_the_MTV_Studios_building_from_Hawley_Crescent_-_geograph.org.uk_-_5425610.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "https://stream1.antenaplay.ro/zurtv/rfmprem/chunklist.m3u8"
       ],
@@ -4898,6 +4868,7 @@
       "name": "Farra Play",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/py/FarraPlay.py.png",
       "streamUrls": [
+        "http://159.203.148.226/live/farra.m3u8",
         "https://stream.farra.com.py/live/farra_low.m3u8"
       ],
       "country": "PY",
@@ -4950,6 +4921,16 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bg/TVRodina.bg.png",
       "streamUrls": [
         "https://shift03.isp.bg/RodinaTV/index.m3u8"
+      ],
+      "category": "Music",
+      "languages": []
+    },
+    {
+      "id": "RadioRomaniaTarguMures.ro",
+      "name": "Radio Romania Targu Mures",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Sighi%C5%9Foara_178.jpg/330px-Sighi%C5%9Foara_178.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "streamUrls": [
+        "https://stream3.srr.ro/live/radio-muresr/chunklist_w1731505049.m3u8"
       ],
       "category": "Music",
       "languages": []
