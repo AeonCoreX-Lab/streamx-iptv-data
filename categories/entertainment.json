@@ -9725,17 +9725,6 @@
       "languages": []
     },
     {
-      "id": "AE.us",
-      "name": "A&E",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/AE.us.png",
-      "streamUrls": [
-        "http://23.239.31.26:8989/aande/index.m3u8",
-        "https://gpuserver3.tier1streams.com/AE/index.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "GlobalTV.pe",
       "name": "Global TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pe/GlobalTV.pe.png",
@@ -9767,17 +9756,6 @@
         "https://stream2.trivutv.com/memfs/1bc8358a-665e-4bc1-a580-e4fcb54b5103.m3u8"
       ],
       "country": "PE",
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
-      "id": "BBCAmerica.us",
-      "name": "BBC America",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/BBCAmerica.us.png",
-      "streamUrls": [
-        "http://23.239.31.26:8989/bbcamerica/index.m3u8",
-        "https://gpuserver3.tier1streams.com/BBC_AMERICA/index.m3u8"
-      ],
       "category": "Entertainment",
       "languages": []
     },
@@ -12636,16 +12614,6 @@
       "languages": []
     },
     {
-      "id": "UniversTV.es",
-      "name": "Univers TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/UniversTV.es.png",
-      "streamUrls": [
-        "https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "GHTelevision.do",
       "name": "GH Television",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/GHTelevision.do.png",
@@ -13439,8 +13407,8 @@
       "name": "Ulzii TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/UlziiTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/UlziiTV/DASH-FTA/UlziiTV.mpd",
-        "https://cdn4.skygo.mn/live/disk1/UlziiTV/HLSv3-FTA/UlziiTV.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/UlziiTV/HLSv3-FTA/UlziiTV.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/UlziiTV/DASH-FTA/UlziiTV.mpd"
       ],
       "country": "MN",
       "category": "Entertainment",
@@ -14967,7 +14935,7 @@
       "name": "C1",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/C1.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/C1/DASH-FTA/C1.mpd"
+        "https://cdn4.skygo.mn/live/disk1/C1/HLSv3-FTA/C1.m3u8"
       ],
       "country": "MN",
       "category": "Entertainment",
@@ -16507,16 +16475,6 @@
       "languages": []
     },
     {
-      "id": "JonmoBhumiTV.au",
-      "name": "JonmoBhumi TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/au/JonmoBhumiTV.au.png",
-      "streamUrls": [
-        "https://jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/playlist.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "NingTV.la",
       "name": "Ning TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/la/NingTV.la.png",
@@ -17676,6 +17634,7 @@
       "name": "Star TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/StarTV.mn.png",
       "streamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd",
         "https://cdn4.skygo.mn/live/disk1/Star/HLSv3-FTA/Star.m3u8"
       ],
       "country": "MN",
@@ -18086,6 +18045,88 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mk/Kanal8.mk.png",
       "streamUrls": [
         "https://tv.kanal8.mk/live/kanal8.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "Novoetelevidenie.kz",
+      "name": "Novoe televidenie",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/kz/Novoetelevidenie.kz.png",
+      "streamUrls": [
+        "https://live.zhanafm.kz:8181/memfs/fd715789-382f-4ec6-b4ba-d8e2fde59c7b.m3u8"
+      ],
+      "country": "KZ",
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "PrimaTV.ro",
+      "name": "Prima TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ro/PrimaTV.ro.png",
+      "streamUrls": [
+        "http://89.44.231.73:7000/primatv"
+      ],
+      "country": "RO",
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "APTV.gh",
+      "name": "AP TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gh/APTV.gh.png",
+      "streamUrls": [
+        "https://59nyqg8elwap-hls-live.5centscdn.com/APTV/85c20905211659d143febd7c32592ee0.sdp/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "DniproTV.ua",
+      "name": "Dnipro TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/DniproTV.ua.png",
+      "streamUrls": [
+        "http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "HolyQuranRadio.sa",
+      "name": "Holy Quran Radio",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=radioplus.sba.sa",
+      "streamUrls": [
+        "https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "LaNuevaRadioTV977.ec",
+      "name": "La Nueva Radio TV 97.7",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ec/LaNuevaRadioTV977.ec.png",
+      "streamUrls": [
+        "https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "OccidentalTV.py",
+      "name": "Occidental TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/py/OccidentalTV.py.png",
+      "streamUrls": [
+        "https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "SvenskaHollywoodfruar.se",
+      "name": "Svenska Hollywoodfruar",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
+      "streamUrls": [
+        "https://jmp2.uk/plu-61c1921610d254000727eebd.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
