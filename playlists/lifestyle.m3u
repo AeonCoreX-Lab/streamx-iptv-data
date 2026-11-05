@@ -1,8 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/bd.xml" url-tvg="https://iptv-org.github.io/epg/guides/in.xml" url-tvg="https://iptv-org.github.io/epg/guides/us.xml" url-tvg="https://iptv-org.github.io/epg/guides/gb.xml" url-tvg="https://iptv-org.github.io/epg/guides/ae.xml" url-tvg="https://iptv-org.github.io/epg/guides/pk.xml" url-tvg="https://iptv-org.github.io/epg/guides/au.xml" url-tvg="https://iptv-org.github.io/epg/guides/de.xml" url-tvg="https://iptv-org.github.io/epg/guides/fr.xml" url-tvg="https://iptv-org.github.io/epg/guides/it.xml" url-tvg="https://iptv-org.github.io/epg/guides/es.xml" url-tvg="https://iptv-org.github.io/epg/guides/br.xml" url-tvg="https://iptv-org.github.io/epg/guides/tr.xml" url-tvg="https://iptv-org.github.io/epg/guides/sa.xml" refresh="3600"
 #EXTINF:-1 tvg-id="10Bold.au" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/au/10Bold.au.png" group-title="Lifestyle [SD]",10 Bold [SD]
 https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
-#EXTINF:-1 tvg-id="13P.cl" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cl/13P.cl.png" group-title="Lifestyle [FHD]",13P [FHD]
-https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
 #EXTINF:-1 tvg-id="30ALuxeLifeDiscovered.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/30ALuxeLifeDiscovered.us.png" group-title="Lifestyle [HD]",30A Luxe Life Discovered [HD]
 https://30a-tv.com/feeds/vidaa/luxelife.m3u8
 #EXTINF:-1 tvg-id="30ATheBeachShow.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/30ATheBeachShow.us.png" group-title="Lifestyle [HD]",30A The Beach Show [HD]
@@ -375,6 +373,8 @@ http://168.196.127.137:6001/play/a06p/index.m3u8
 https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8
 #EXTINF:-1 tvg-id="Chefiro.ro" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=chefi.ro" group-title="Lifestyle [SD]",Chefi.ro [SD]
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi13/live2_aws4_sdi13.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurbo.us" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/330px-Discovery_Turbo_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail" group-title="Lifestyle [HD]",Discovery Turbo [HD]
+http://41.205.93.154/ESPNNEWS/index.m3u8
 #EXTINF:-1 tvg-id="FoodNetwork.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/FoodNetwork.us.png" group-title="Lifestyle [FHD]",Food Network [FHD]
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="TLCLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/TLCLatinAmerica.us.png" group-title="Lifestyle",TLC Latin America
@@ -461,7 +461,23 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/39.m3u8
 https://a-cdn.klowdtv.com/live2/recipetv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="MasterChefDanmarksstorstemadtalenter.se" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Lifestyle",MasterChef Danmarks storste madtalenter
 https://jmp2.uk/plu-61c19edbf535220007075c4e.m3u8
-#EXTINF:-1 tvg-id="CEACOMTV.bo" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bo/CEACOMTV.bo.png" group-title="Lifestyle [FHD]",CEACOM TV [FHD]
-https://eu1.servers10.com:8081/ceacom/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryTurbo.us" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/330px-Discovery_Turbo_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail" group-title="Lifestyle [HD]",Discovery Turbo [HD]
-http://41.205.93.154/ESPNNEWS/index.m3u8
+#EXTINF:-1 tvg-id="ElMueble.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/ElMueble.es.png" group-title="Lifestyle",El Mueble
+https://jmp2.uk/plu-690dd10a37b131228d76d5b1.m3u8
+#EXTINF:-1 tvg-id="GamberoRossoChannel.it" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/it/GamberoRossoChannel.it.png" group-title="Lifestyle",Gambero Rosso Channel
+https://jmp2.uk/plu-6971fc07c945e6e4e5bc46bf.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCozinha.us" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Legend_station_logo_2023.svg/330px-Legend_station_logo_2023.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail" group-title="Lifestyle",Pluto TV Cozinha
+https://jmp2.uk/plu-5f1ef23020a5ac0007e5e8ea.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCucina.de" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/One_Astor_Plaza_%2855283615616%29.jpg/330px-One_Astor_Plaza_%2855283615616%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail" group-title="Lifestyle",Pluto TV Cucina
+https://jmp2.uk/plu-608aa718a8ec810007d87fee.m3u8
+#EXTINF:-1 tvg-id="PlutoTVDiseno.de" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Lifestyle",Pluto TV Diseno
+https://jmp2.uk/plu-64db2e0835425100080f2f5a.m3u8
+#EXTINF:-1 tvg-id="PlutoTVRealLife.de" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/330px-TBS_2020.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail" group-title="Lifestyle",Pluto TV Real Life
+https://jmp2.uk/plu-60801976f92a750007a0699c.m3u8
+#EXTINF:-1 tvg-id="PlutoTVTurbo.us" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/UNIFE.jpg/330px-UNIFE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail" group-title="Lifestyle",Pluto TV Turbo
+https://jmp2.uk/plu-6014761dfb91870008ea6463.m3u8
+#EXTINF:-1 tvg-id="PlutoTVViagens.us" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=pluto.tv" group-title="Lifestyle",Pluto TV Viagens
+https://jmp2.uk/plu-5f32d432d612e50007e56133.m3u8
+#EXTINF:-1 tvg-id="VoyagesSaveurs.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/VoyagesSaveurs.es.png" group-title="Lifestyle",Voyages & Saveurs
+https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8
+#EXTINF:-1 tvg-id="13P.cl" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cl/13P.cl.png" group-title="Lifestyle [FHD]",13P [FHD]
+https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
