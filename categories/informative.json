@@ -101,9 +101,9 @@
       "name": "BBC Earth",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/BBCEarth.uk.png",
       "streamUrls": [
-        "http://88.212.7.14/live/bbce_hun/index.m3u8",
-        "http://88.212.7.14/live/test_bbc_eartch_hevc/playlist.m3u8",
-        "https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8"
+        "https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8",
+        "https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8",
+        "http://88.212.7.14/live/test_bbc_eartch_hevc/playlist.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -1251,8 +1251,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/Wonder.uk.png",
       "streamUrls": [
         "https://lds-wonder-rakuten.amagi.tv/playlist.m3u8",
-        "https://lds-wonder-samsungau.amagi.tv/playlist.m3u8",
-        "https://wonder-samsung-uk.amagi.tv/playlist.m3u8"
+        "https://lds-wonder-plex.amagi.tv/playlist.m3u8",
+        "https://lds-wonder-samsungau.amagi.tv/playlist.m3u8"
       ],
       "category": "Informative",
       "languages": [],
@@ -1263,9 +1263,9 @@
       "name": "History Hit",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/HistoryHit.uk.png",
       "streamUrls": [
-        "https://timeline-samsung-uk.amagi.tv/playlist.m3u8",
         "https://lds-timeline-rakuten.amagi.tv/playlist.m3u8",
-        "https://lds-timeline-plex.amagi.tv/playlist.m3u8"
+        "https://lds-timeline-plex.amagi.tv/playlist.m3u8",
+        "https://timeline-samsung-uk.amagi.tv/playlist.m3u8"
       ],
       "category": "Informative",
       "languages": [],
@@ -1679,6 +1679,7 @@
       "name": "HTV4",
       "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/TeenNick_logo_2023_%28outline%29.svg/330px-TeenNick_logo_2023_%28outline%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
+        "https://dethich.pw/htv4/index.m3u8",
         "https://freem3u.xyz/api/live/play.m3u8?vid=9"
       ],
       "category": "Informative",
@@ -1962,8 +1963,8 @@
       "name": "Pluto TV Verdenskrigene",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-677d397b60fbeb00084b0bff.m3u8",
-        "https://jmp2.uk/plu-677d3a424bd63600082f7baf.m3u8"
+        "https://jmp2.uk/plu-677d3a424bd63600082f7baf.m3u8",
+        "https://jmp2.uk/plu-677d397b60fbeb00084b0bff.m3u8"
       ],
       "country": "SE",
       "category": "Informative",
@@ -1974,8 +1975,8 @@
       "name": "Pluto TV Dokumentar",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-62b1e2498261390007f25c98.m3u8",
-        "https://jmp2.uk/plu-62b30b0060a9ca0007d628b4.m3u8"
+        "https://jmp2.uk/plu-62b30b0060a9ca0007d628b4.m3u8",
+        "https://jmp2.uk/plu-62b1e2498261390007f25c98.m3u8"
       ],
       "country": "SE",
       "category": "Informative",
@@ -2021,8 +2022,8 @@
       "name": "Unknown Channel",
       "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/330px-Colors_TV_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
-        "https://jmp2.uk/plu-5d4af1803e7983b391d73b13.m3u8",
-        "https://jmp2.uk/plu-5d767b1c126c65d0a307355f.m3u8"
+        "https://jmp2.uk/plu-5d767b1c126c65d0a307355f.m3u8",
+        "https://jmp2.uk/plu-5d4af1803e7983b391d73b13.m3u8"
       ],
       "country": "",
       "category": "Informative",
@@ -2377,6 +2378,16 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bg/ViasatNature.bg.png",
       "streamUrls": [
         "https://shift03.isp.bg/ViasatNature_HD/index.m3u8"
+      ],
+      "category": "Informative",
+      "languages": []
+    },
+    {
+      "id": "NationalGeographic.us",
+      "name": "National Geographic",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/NationalGeographic.us.png",
+      "streamUrls": [
+        "http://212.5.144.156:8080/natgeo/index.m3u8"
       ],
       "category": "Informative",
       "languages": []
