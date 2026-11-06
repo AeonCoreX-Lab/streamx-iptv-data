@@ -450,7 +450,7 @@ http://5.188.159.128:8070/mir_24/index.m3u8
 #EXTINF:-1 tvg-id="MirrorNow.in" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/MirrorNow.in.png" group-title="News [SD]",Mirror Now [SD]
 https://pubads.g.doubleclick.net/ssai/event/DXkHhH2QSnma-HnE3QJqlA/master.m3u8
 #EXTINF:-1 tvg-id="MongolianNewsChannel.mn" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/MongolianNewsChannel.mn.png" group-title="News [SD]",Mongolian News Channel [SD]
-https://cdn4.skygo.mn/live/disk1/MNCTV/HLSv3-FTA/MNCTV.m3u8
+https://cdn4.skygo.mn/live/disk1/MNCTV/DASH-FTA/MNCTV.mpd
 #EXTINF:-1 tvg-id="MoonTV.in" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/MoonTV.in.png" group-title="News [SD]",Moon TV [SD]
 https://cdn-4.pishow.tv/live/1121/master.m3u8
 #EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/NBCNewsNOW.us.png" group-title="News [SD]",NBC News NOW [SD]
@@ -1177,6 +1177,8 @@ https://streaming.onnethn.com/CNN_ESPANOL/playlist.m3u8
 https://media.streambrothers.com:1936/8276/8276/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/CNNBrasil.br.png" group-title="News [FHD]",CNN Brasil [FHD]
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pt/CNNPortugal.pt.png" group-title="News [HD]",CNN Portugal [HD]
+https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8
 #EXTINF:-1 tvg-id="CNNInternational.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/CNNInternational.us.png" group-title="News [FHD]",CNN International [FHD]
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 #EXTINF:-1 tvg-id="TVAFolha.br" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/TVAFolha.br.png" group-title="News [HD]",TV A Folha [HD]
@@ -1251,6 +1253,8 @@ http://stream.mcquack.net/455/index.m3u8
 https://live.sli.ke/live/npnhm84gz9/master.m3u8
 #EXTINF:-1 tvg-id="BTBInfo.pl" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/BTBInfo.pl.png" group-title="News [HD]",BTB Info [HD]
 https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8
+#EXTINF:-1 tvg-id="CatamarcaTV.ar" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/CatamarcaTV.ar.png" group-title="News [HD]",Catamarca TV [HD]
+https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-id="Onda15TV.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/Onda15TV.es.png" group-title="News [HD]",Onda 15 TV [HD]
 https://cloudvideo.servers10.com:8081/8034/index.m3u8
 #EXTINF:-1 tvg-id="LinierosTV.do" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/LinierosTV.do.png" group-title="News",Linieros TV
@@ -1275,6 +1279,8 @@ https://64b16f23efbee.streamlock.net/telegela/telegela/playlist.m3u8
 https://stream.jmtv.com.cn/xwzh/sd/live.m3u8?_upt=341f4b8e1791883036
 #EXTINF:-1 tvg-id="TTVNews.tw" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tw/TTVNews.tw.png" group-title="News",TTV News
 https://live.wcetv.com/hls/master-ttvnews.m3u8
+#EXTINF:-1 tvg-id="TeleCauquenes.cl" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cl/TeleCauquenes.cl.png" group-title="News [HD]",TeleCauquenes [HD]
+https://lbgo.bozztv.com/ssh101/ssh101/telecauquenestv/playlist.m3u8
 #EXTINF:-1 tvg-id="Antena3Suceava.ro" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=antena3suceava.ro" group-title="News [HD]",Antena 3 Suceava [HD]
 https://livestream.a3sv.ro/master.m3u8
 #EXTINF:-1 tvg-id="Sahara24.mr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mr/Sahara24.mr.png" group-title="News",Sahara 24
@@ -1293,19 +1299,9 @@ https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8
 https://flv.intechmedia.net/live/ch112.m3u8
 #EXTINF:-1 tvg-id="PTV.ua" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/PTV.ua.png" group-title="News [SD]",PTV [SD]
 https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8
-#EXTINF:-1 tvg-id="WPLG101.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/WPLG101.us.png" group-title="News [SD]",WPLG 10.1 [SD]
-https://pubads.g.doubleclick.net/ssai/event/tQD6w9OJQVOobcyV3Dammw/master.m3u8
-#EXTINF:-1 tvg-id="PSNCanal452.mx" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/PSNCanal452.mx.png" group-title="News",PSN Canal 45.2
-https://srspsn2.live/live/livestream.m3u8
 #EXTINF:-1 tvg-id="OplotTV.ru" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/OplotTV.ru.png" group-title="News [HD]",Oplot TV [HD]
 http://31.131.139.253:9002/oplot_hd/index.m3u8
-#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pt/CNNPortugal.pt.png" group-title="News [HD]",CNN Portugal [HD]
-https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8
 #EXTINF:-1 tvg-id="TTN24.in" tvg-logo="https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png" group-title="News [HD]",TTN24 [HD]
 https://stream.joytvindia.com/stream/hls/ttn24/index.m3u8
-#EXTINF:-1 tvg-id="CatamarcaTV.ar" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/CatamarcaTV.ar.png" group-title="News [HD]",Catamarca TV [HD]
-https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
-#EXTINF:-1 tvg-id="TeleCauquenes.cl" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cl/TeleCauquenes.cl.png" group-title="News [HD]",TeleCauquenes [HD]
-https://lbgo.bozztv.com/ssh101/ssh101/telecauquenestv/playlist.m3u8
 #EXTINF:-1 tvg-id="CEACOMTV.bo" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bo/CEACOMTV.bo.png" group-title="News [FHD]",CEACOM TV [FHD]
 https://eu1.servers10.com:8081/ceacom/index.m3u8
