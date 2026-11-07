@@ -1092,9 +1092,9 @@
       "name": "Enlace",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cr/Enlace.cr.png",
       "streamUrls": [
+        "http://45.5.118.152:8000/play/a026/index.m3u8",
         "http://200.115.120.1:8000/play/ca114/index.m3u8",
-        "http://181.78.106.127:5000/play/ca042/index.m3u8",
-        "http://45.5.118.152:8000/play/a026/index.m3u8"
+        "http://181.78.106.127:5000/play/ca042/index.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -2468,7 +2468,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gt/RhemaTV.gt.png",
       "streamUrls": [
         "http://45.171.64.30:6060/play/a04k/index.m3u8",
-        "http://190.61.90.17:40000/play/a0iw/index.m3u8",
         "https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8"
       ],
       "category": "Religious",
@@ -4416,16 +4415,6 @@
       "languages": []
     },
     {
-      "id": "ElSembradorNuevaEvangelizacionESNE.us",
-      "name": "El Sembrador Nueva Evangelizacion ESNE",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/ElSembradorNuevaEvangelizacionESNE.us.png",
-      "streamUrls": [
-        "http://190.61.90.17:40000/play/a025/index.m3u8"
-      ],
-      "category": "Religious",
-      "languages": []
-    },
-    {
       "id": "BhagyamTV.in",
       "name": "Bhagyam TV",
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
@@ -4663,8 +4652,8 @@
       "name": "Canal Mas",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uy/CanalMas.uy.png",
       "streamUrls": [
-        "https://canalmasuruguay.com/hls/720p/index.m3u8",
-        "https://canalmasuruguay.com/hls/master-abr.m3u8"
+        "https://canalmasuruguay.com/hls/master-abr.m3u8",
+        "https://canalmasuruguay.com/hls/720p/index.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -5197,16 +5186,6 @@
       "languages": []
     },
     {
-      "id": "YOUNIBMediaTV.ke",
-      "name": "YOUNIB Media TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ke/YOUNIBMediaTV.ke.png",
-      "streamUrls": [
-        "https://goliveafrica.media:9998/live/6257fbe7383d6/index.m3u8"
-      ],
-      "category": "Religious",
-      "languages": []
-    },
-    {
       "id": "GODTVAsia.uk",
       "name": "GOD TV Asia",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/GODTVAsia.uk.png",
@@ -5282,16 +5261,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/AlFadyTV.us.png",
       "streamUrls": [
         "https://5d658d7e9f562.streamlock.net/alfadytv.tv/alfadytv.smil/playlist.m3u8"
-      ],
-      "category": "Religious",
-      "languages": []
-    },
-    {
-      "id": "LaVozdeMaria.do",
-      "name": "La Voz de Maria",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/LaVozdeMaria.do.png",
-      "streamUrls": [
-        "https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -5460,8 +5429,18 @@
       ],
       "category": "Religious",
       "languages": []
+    },
+    {
+      "id": "AasthaInternational.in",
+      "name": "Aastha International",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/AasthaInternational.in.png",
+      "streamUrls": [
+        "https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8"
+      ],
+      "category": "Religious",
+      "languages": []
     }
   ],
-  "count": 536,
-  "generated_at": "2026-11-06T23:57:39.819598"
+  "count": 534,
+  "generated_at": "2026-11-07T05:26:21.422528"
 }
