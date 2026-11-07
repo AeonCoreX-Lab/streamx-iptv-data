@@ -2383,7 +2383,6 @@
       "name": "Mongolian News Channel",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/MongolianNewsChannel.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/MNCTV/DASH-FTA/MNCTV.mpd",
         "https://cdn4.skygo.mn/live/disk1/MNCTV/HLSv3-FTA/MNCTV.m3u8"
       ],
       "category": "News",
@@ -5644,16 +5643,6 @@
       "languages": []
     },
     {
-      "id": "AkhonKolkata.in",
-      "name": "Akhon Kolkata",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Azizul_Hakim_%284%29_%28cropped%29.jpg/330px-Azizul_Hakim_%284%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "streamUrls": [
-        "https://server.playontv.in/ekhonkolkata/ekhonkolkata/index.m3u8"
-      ],
-      "category": "News",
-      "languages": []
-    },
-    {
       "id": "HeadlinesTripura.in",
       "name": "Headlines Tripura",
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
@@ -5689,16 +5678,6 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://legitpro.co.in/nsc9/index.m3u8"
-      ],
-      "category": "News",
-      "languages": []
-    },
-    {
-      "id": "NationNews.in",
-      "name": "Nation News",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/News_nation_logo.jpg/330px-News_nation_logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "streamUrls": [
-        "https://server.playontv.in/nationnews/index.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -6122,6 +6101,7 @@
       "name": "Antena 3 CNN",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ro/Antena3CNN.ro.png",
       "streamUrls": [
+        "https://live77cdn2.antenaplay.ro/live2_aws4_sdi02/live2_aws4_sdi02_5000k.m3u8",
         "https://live3vox.antenaplay.ro/a3free/a3free.m3u8"
       ],
       "category": "News",
@@ -6143,16 +6123,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/CNNenEspanol.us.png",
       "streamUrls": [
         "https://streaming.onnethn.com/CNN_ESPANOL/playlist.m3u8"
-      ],
-      "category": "News",
-      "languages": []
-    },
-    {
-      "id": "DidgahTV.us",
-      "name": "Didgah TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/DidgahTV.us.png",
-      "streamUrls": [
-        "https://media.streambrothers.com:1936/8276/8276/playlist.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -6407,16 +6377,6 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://banglajagotv.livebox.co.in/banglajagohls/24x7.m3u8"
-      ],
-      "category": "News",
-      "languages": []
-    },
-    {
-      "id": "BharatAtoZ.in",
-      "name": "Bharat AtoZ",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://live.ekamraott.com/4tv/bharata2z/index.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -6777,6 +6737,36 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/BNChannel.id.png",
       "streamUrls": [
         "https://flv.intechmedia.net/live/ch112.m3u8"
+      ],
+      "category": "News",
+      "languages": []
+    },
+    {
+      "id": "OnkarNews.in",
+      "name": "Onkar News",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://stream.ottlive.co.in/onkarnews/index.m3u8"
+      ],
+      "category": "News",
+      "languages": []
+    },
+    {
+      "id": "TVBrusque.br",
+      "name": "TV Brusque",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/TVBrusque.br.png",
+      "streamUrls": [
+        "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8"
+      ],
+      "category": "News",
+      "languages": []
+    },
+    {
+      "id": "TV7National.in",
+      "name": "TV7 National",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://stream.ottlive.co.in/tv7national/index.m3u8"
       ],
       "category": "News",
       "languages": []
