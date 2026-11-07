@@ -856,8 +856,8 @@
       "name": "Credo TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ro/CredoTV.ro.png",
       "streamUrls": [
-        "http://cdn.credonet.tv:1935/ctv/livecredo/playlist.m3u8",
-        "https://651c69fa2ff4e.streamlock.net/ctv/_definst_/livecredo/playlist.m3u8"
+        "https://651c69fa2ff4e.streamlock.net/ctv/_definst_/livecredo/playlist.m3u8",
+        "http://cdn.credonet.tv:1935/ctv/livecredo/playlist.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -1091,9 +1091,9 @@
       "name": "Enlace",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cr/Enlace.cr.png",
       "streamUrls": [
-        "http://45.5.118.152:8000/play/a026/index.m3u8",
         "http://200.115.120.1:8000/play/ca114/index.m3u8",
-        "http://181.78.106.127:5000/play/ca042/index.m3u8"
+        "http://45.5.118.152:8000/play/a026/index.m3u8",
+        "http://138.121.15.230:9002/ENLACE/index.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -3535,16 +3535,6 @@
       "languages": []
     },
     {
-      "id": "Televida.do",
-      "name": "Televida",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/Televida.do.png",
-      "streamUrls": [
-        "https://cnn.hostlagarto.com/televida/playlist.m3u8"
-      ],
-      "category": "Religious",
-      "languages": []
-    },
-    {
       "id": "KTV.at",
       "name": "K-TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/at/KTV.at.png",
@@ -4256,8 +4246,8 @@
       "name": "4E",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gr/4E.gr.png",
       "streamUrls": [
-        "http://eu2.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8",
-        "http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8"
+        "http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8",
+        "http://eu2.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8"
       ],
       "country": "GR",
       "category": "Religious",
@@ -4966,7 +4956,7 @@
     {
       "id": "PadharoSA.in",
       "name": "Padharo SA",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Raja_Hasan_1.jpg/330px-Raja_Hasan_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "https://samitaorigin.tangotv.in/PADHAROSA/SAMITAORIGIN/index.m3u8"
       ],
@@ -5006,7 +4996,7 @@
     {
       "id": "SindhTV.in",
       "name": "Sindh TV",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Sindh_tv.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "streamUrls": [
         "https://samitaorigin.tangotv.in/SINDHTV/SAMITAORIGIN/index.m3u8"
       ],
@@ -5150,16 +5140,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/FaithTV.us.png",
       "streamUrls": [
         "https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithTV.smil/playlist.m3u8"
-      ],
-      "category": "Religious",
-      "languages": []
-    },
-    {
-      "id": "HarvestUSA.in",
-      "name": "Harvest USA",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=harvesttv.in",
-      "streamUrls": [
-        "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -5435,6 +5415,16 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/AasthaInternational.in.png",
       "streamUrls": [
         "https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8"
+      ],
+      "category": "Religious",
+      "languages": []
+    },
+    {
+      "id": "SadvidyaTV.in",
+      "name": "Sadvidya TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/SadvidyaTV.in.png",
+      "streamUrls": [
+        "https://server.thelegitpro.in/sadvidya/sadvidya/index.m3u8"
       ],
       "category": "Religious",
       "languages": []
