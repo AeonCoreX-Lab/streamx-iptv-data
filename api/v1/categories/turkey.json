@@ -119,8 +119,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/BloombergHT.tr.png",
       "streamUrls": [
         "https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8",
-        "http://193.123.61.120:3000/kanal/bloomberght",
-        "https://mumbai-edge.smartplaytv.in/BloombergHT/index.m3u8"
+        "https://mumbai-edge.smartplaytv.in/BloombergHT/index.m3u8",
+        "http://193.123.61.120:3000/kanal/bloomberght"
       ],
       "category": "Turkey",
       "languages": []
@@ -280,8 +280,8 @@
       "name": "Haber61 TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/Haber61TV.tr.png",
       "streamUrls": [
-        "https://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8",
-        "https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8"
+        "https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8",
+        "https://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8"
       ],
       "category": "Turkey",
       "languages": []
@@ -675,8 +675,8 @@
       "name": "TGRT Haber",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/TGRTHaber.tr.png",
       "streamUrls": [
-        "https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8",
-        "https://canli.tgrthaber.com/tgrt.m3u8"
+        "https://canli.tgrthaber.com/tgrt.m3u8",
+        "https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8"
       ],
       "category": "Turkey",
       "languages": []
@@ -1066,16 +1066,6 @@
       "languages": []
     },
     {
-      "id": "FinansTurkTV.tr",
-      "name": "Finans Turk TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/FinansTurkTV.tr.png",
-      "streamUrls": [
-        "https://yayin30.haber100.com/live/finansturk/playlist.m3u8"
-      ],
-      "category": "Turkey",
-      "languages": []
-    },
-    {
       "id": "BricveSatrancTV.tr",
       "name": "Bric ve Satranc TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/BricveSatrancTV.tr.png",
@@ -1134,8 +1124,18 @@
       ],
       "category": "Turkey",
       "languages": []
+    },
+    {
+      "id": "CNNTurk.tr",
+      "name": "CNN Turk",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/CNNTurk.tr.png",
+      "streamUrls": [
+        "http://85.117.61.84/cnnturk/index.m3u8"
+      ],
+      "category": "Turkey",
+      "languages": []
     }
   ],
   "count": 112,
-  "generated_at": "2026-11-08T20:12:39.215442"
+  "generated_at": "2026-11-09T04:47:40.436087"
 }

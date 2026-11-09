@@ -127,16 +127,6 @@
       "languages": []
     },
     {
-      "id": "IraqFuture.iq",
-      "name": "Iraq Future",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/iq/IraqFuture.iq.png",
-      "streamUrls": [
-        "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_040/Stream/playlist.m3u8"
-      ],
-      "category": "Iraq",
-      "languages": []
-    },
-    {
       "id": "KurdChannel.iq",
       "name": "Kurd Channel",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/iq/KurdChannel.iq.png",
@@ -161,8 +151,8 @@
       "name": "Kurdsat",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/iq/Kurdsat.iq.png",
       "streamUrls": [
-        "https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8",
-        "http://185.9.2.18/chid_1/index.m3u8"
+        "http://185.9.2.18/chid_1/index.m3u8",
+        "https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8"
       ],
       "category": "Iraq",
       "languages": []
@@ -392,8 +382,19 @@
       ],
       "category": "Iraq",
       "languages": []
+    },
+    {
+      "id": "SamarraTV.iq",
+      "name": "Samarra TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/iq/SamarraTV.iq.png",
+      "streamUrls": [
+        "https://samarra.tv/proxy.php/hls/main3/playlist.m3u8"
+      ],
+      "country": "IQ",
+      "category": "Iraq",
+      "languages": []
     }
   ],
   "count": 38,
-  "generated_at": "2026-11-08T20:12:39.199520"
+  "generated_at": "2026-11-09T04:47:40.318573"
 }

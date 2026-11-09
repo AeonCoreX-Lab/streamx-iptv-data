@@ -87,8 +87,7 @@
       "name": "Madani Channel English",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pk/MadaniChannelEnglish.pk.png",
       "streamUrls": [
-        "https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8",
-        "http://tvsen7.aynascope.net/MadaniTV/index.m3u8"
+        "https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8"
       ],
       "category": "Pakistan",
       "languages": []
@@ -250,16 +249,6 @@
       "languages": []
     },
     {
-      "id": "PKSports.pk",
-      "name": "PK Sports",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8"
-      ],
-      "category": "Pakistan",
-      "languages": []
-    },
-    {
       "id": "FalakTV.pk",
       "name": "Falak TV",
       "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/SazzyFalakin2017.jpg/330px-SazzyFalakin2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -274,9 +263,9 @@
       "name": "M Sports",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=msports.pk",
       "streamUrls": [
+        "https://cdn.rabta.stream/M-Sports/index.m3u8",
         "https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.m3u8",
-        "https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.ts.m3u8",
-        "https://cdn.rabta.stream/M-Sports/index.m3u8"
+        "https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.ts.m3u8"
       ],
       "country": "PK",
       "category": "Pakistan",
@@ -307,27 +296,15 @@
       "name": "God Stands Kids Club TV",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=godstands.tv",
       "streamUrls": [
-        "https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8",
         "https://online.godstands.tv:5443/WebRTCApp/streams/KidsUrdu.m3u8",
-        "https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8"
-      ],
-      "country": "PK",
-      "category": "Pakistan",
-      "languages": []
-    },
-    {
-      "id": "BSFilm.pk",
-      "name": "BS Film",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://live20.bozztv.com/akamaissh101/ssh101/bsfilm/playlist.m3u8",
-        "https://lbgo.bozztv.com/ssh101/ssh101/bsfilm/playlist.m3u8"
+        "https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8",
+        "https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8"
       ],
       "country": "PK",
       "category": "Pakistan",
       "languages": []
     }
   ],
-  "count": 31,
-  "generated_at": "2026-11-08T20:12:39.214970"
+  "count": 29,
+  "generated_at": "2026-11-09T04:47:40.435307"
 }
