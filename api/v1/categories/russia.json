@@ -16,8 +16,8 @@
       "name": "2x2",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/2x2.ru.png",
       "streamUrls": [
-        "http://stream.mcquack.net/187/index.m3u8",
         "http://185.23.80.23:8080/2x2/index.m3u8",
+        "http://stream.mcquack.net/187/index.m3u8",
         "http://176.118.197.101/2x2/index.m3u8"
       ],
       "category": "Russia",
@@ -29,8 +29,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/360.ru.png",
       "streamUrls": [
         "https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8",
-        "https://streaming.thestream.cyou/live/7000.m3u8",
-        "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8"
+        "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8",
+        "https://streaming.thestream.cyou/live/7000.m3u8"
       ],
       "category": "Russia",
       "languages": []
@@ -51,6 +51,7 @@
       "name": "3ABN Russia",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/3ABNRussia.ru.png",
       "streamUrls": [
+        "https://3abn.bozztv.com/3abn2/Rus_live/smil:Rus_live.smil/playlist.m3u8",
         "https://hls.tv.3angels.ru/stream.m3u8"
       ],
       "category": "Russia",
@@ -283,7 +284,7 @@
       "streamUrls": [
         "http://178.217.49.7/1/index.m3u8",
         "http://31.148.5.241/kanal_1/index.m3u8",
-        "https://streaming.thestream.cyou/live/210.m3u8"
+        "https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8"
       ],
       "category": "Russia",
       "languages": []
@@ -339,7 +340,7 @@
       "streamUrls": [
         "http://88.212.15.50/live/test_dom_kino/playlist.m3u8",
         "http://stream.mcquack.net/236/index.m3u8",
-        "https://streaming.thestream.cyou/live/44.m3u8"
+        "https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8"
       ],
       "category": "Russia",
       "languages": []
@@ -583,8 +584,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/KinoTV.ru.png",
       "streamUrls": [
         "http://stream.mcquack.net/221/index.m3u8",
-        "http://176.118.197.101/KinoTvHD/playlist.m3u8",
-        "https://vod.tuva.ru/kinotv/index.m3u8"
+        "http://flussonic.linkintel.ru/kino-tv/index.m3u8",
+        "http://176.118.197.101/KinoTvHD/playlist.m3u8"
       ],
       "category": "Russia",
       "languages": []
@@ -677,8 +678,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Mama.ru.png",
       "streamUrls": [
         "http://stream.mcquack.net/79/index.m3u8",
-        "https://stream8.cinerama.uz/1244/tracks-v1a1/mono.m3u8",
-        "http://flussonic.linkintel.ru/mama/index.m3u8"
+        "http://flussonic.linkintel.ru/mama/index.m3u8",
+        "https://stream8.cinerama.uz/1244/tracks-v1a1/mono.m3u8"
       ],
       "category": "Russia",
       "languages": []
@@ -730,7 +731,7 @@
       "streamUrls": [
         "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8",
         "http://tvcdn01.esilnet.kz/tv/mir/index.m3u8",
-        "https://cdn4.skygo.mn/live/disk1/MIR/HLSv3-FTA/MIR.m3u8"
+        "https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8"
       ],
       "category": "Russia",
       "languages": []
@@ -773,8 +774,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Mult.ru.png",
       "streamUrls": [
         "http://stream.mcquack.net/232/index.m3u8",
-        "http://flussonic.linkintel.ru/Mult/index.m3u8",
-        "https://stream8.cinerama.uz/1246/tracks-v1a1/mono.m3u8"
+        "https://stream8.cinerama.uz/1246/tracks-v1a1/mono.m3u8",
+        "http://flussonic.linkintel.ru/Mult/index.m3u8"
       ],
       "category": "Russia",
       "languages": []
@@ -846,9 +847,9 @@
       "name": "NTV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/NTV.ru.png",
       "streamUrls": [
-        "http://flussonic.linkintel.ru/ntv/index.m3u8",
         "https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?e=2077050299&s=HSWg81JrQ3OqmwuWkEIDAQ&scheme=https",
-        "https://cdn.ntv.ru/ntv7/playlist.m3u8"
+        "http://flussonic.linkintel.ru/ntv/index.m3u8",
+        "https://cdn.ntv.ru/ntv1/playlist.m3u8"
       ],
       "category": "Russia",
       "languages": []
@@ -920,8 +921,8 @@
       "name": "Nano",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Nano.ru.png",
       "streamUrls": [
-        "http://185.23.80.23:8080/NANO_HD/index.m3u8",
         "http://stream.mcquack.net/419/index.m3u8",
+        "http://185.23.80.23:8080/NANO_HD/index.m3u8",
         "http://s1.tv-nano.com/Nano_rec/index.m3u8"
       ],
       "category": "Russia",
@@ -1047,8 +1048,8 @@
       "name": "Prosveshchenie",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Prosveshchenie.ru.png",
       "streamUrls": [
-        "http://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8",
-        "https://cdn-01.bonus-tv.ru/prosveschenie_edge/playlist.m3u8"
+        "https://cdn-01.bonus-tv.ru/prosveschenie_edge/playlist.m3u8",
+        "http://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8"
       ],
       "category": "Russia",
       "languages": []
@@ -1058,7 +1059,6 @@
       "name": "RBK-TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/RBKTV.ru.png",
       "streamUrls": [
-        "http://176.118.197.101/RBK/index.m3u8",
         "https://online-video.rbc.ru/spb/rbctv_spb.m3u8",
         "http://online-video.rbc.ru/online2/rbctv.m3u8"
       ],
@@ -1082,9 +1082,9 @@
       "name": "RT",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/RT.ru.png",
       "streamUrls": [
+        "https://rumble.com/live-hls-dvr/33aw1a/playlist.m3u8",
         "https://wisewatchoott.wiseplayout.com/RT/master.m3u8",
-        "http://212.5.144.156:8080/rt/index.m3u8",
-        "https://rumble.com/live-hls-dvr/33aw1a/playlist.m3u8"
+        "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8"
       ],
       "category": "Russia",
       "languages": []
@@ -1094,8 +1094,8 @@
       "name": "RT Arabic",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/RTArabic.ru.png",
       "streamUrls": [
-        "https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8",
-        "https://rt-arb.rttv.com/live/rtarab/playlist.m3u8"
+        "https://rt-arb.rttv.com/live/rtarab/playlist.m3u8",
+        "https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8"
       ],
       "category": "Russia",
       "languages": []
@@ -1105,9 +1105,9 @@
       "name": "RT Documentary",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/RTDocumentary.ru.png",
       "streamUrls": [
-        "https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8",
-        "https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8",
-        "https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8"
+        "https://streaming.thestream.cyou/live/554.m3u8",
+        "https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8",
+        "https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8"
       ],
       "category": "Russia",
       "languages": []
@@ -1140,9 +1140,9 @@
       "name": "RTR-Planeta",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/RTRPlaneta.ru.png",
       "streamUrls": [
-        "https://stream.smotrim.ru/hls/planeta_rtr_sng/playlist.m3u8?entity=channel&id=512&sign=2abaa592de074d65809a10b6bacc4410",
         "https://stream.smotrim.ru/hls/planeta_rtr_usa/playlist.m3u8?entity=channel&id=513&sign=3ac5d8e2db71ef7fc3d4becbff7512d8",
-        "https://stream.smotrim.ru/hls/planeta_rtr_euro/playlist.m3u8?entity=channel&id=510&sign=5c0ac65d75140fac2fd938d77c92138d"
+        "https://stream.smotrim.ru/hls/planeta_rtr_euro/playlist.m3u8?entity=channel&id=510&sign=5c0ac65d75140fac2fd938d77c92138d",
+        "https://stream.smotrim.ru/hls/planeta_rtr_sng/playlist.m3u8?entity=channel&id=512&sign=2abaa592de074d65809a10b6bacc4410"
       ],
       "category": "Russia",
       "languages": []
@@ -1175,8 +1175,8 @@
       "name": "Red Line",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/RedLine.ru.png",
       "streamUrls": [
-        "http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8",
-        "http://s55766.cdn.ngenix.net/s55766-media-origin/rline_low/index.m3u8"
+        "http://s55766.cdn.ngenix.net/s55766-media-origin/rline_low/index.m3u8",
+        "http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8"
       ],
       "category": "Russia",
       "languages": []
@@ -1222,8 +1222,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/RussiaK.ru.png",
       "streamUrls": [
         "http://stream.mcquack.net/229/index.m3u8",
-        "http://31.148.5.241/kanal_6/index.m3u8",
-        "https://live.smotrim.ru/vgtrk/0/kultura-hd/index.m3u8"
+        "https://live.smotrim.ru/vgtrk/0/kultura-hd/index.m3u8",
+        "https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8"
       ],
       "category": "Russia",
       "languages": []
@@ -1285,8 +1285,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/STS.ru.png",
       "streamUrls": [
         "http://stream.mcquack.net/138/index.m3u8",
-        "http://31.148.5.241/kanal_13/index.m3u8",
-        "http://176.118.197.101/CTC/index.m3u8"
+        "http://flussonic.linkintel.ru/sts/index.m3u8",
+        "http://31.148.5.241/kanal_13/index.m3u8"
       ],
       "category": "Russia",
       "languages": []
@@ -1425,8 +1425,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Spas.ru.png",
       "streamUrls": [
         "http://31.148.5.241/kanal_12/index.m3u8",
-        "https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8",
-        "https://tvspas.mediacdn.ru/cdn/spas/playlist.m3u8"
+        "https://tvspas.mediacdn.ru/cdn/spas/playlist.m3u8",
+        "https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8"
       ],
       "category": "Russia",
       "languages": []
@@ -1489,8 +1489,8 @@
       "name": "TNT",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/TNT.ru.png",
       "streamUrls": [
-        "http://flussonic.linkintel.ru/tnt/index.m3u8",
         "http://stream.mcquack.net/135/index.m3u8",
+        "http://flussonic.linkintel.ru/tnt/index.m3u8",
         "http://31.148.5.241/kanal_19/index.m3u8"
       ],
       "category": "Russia",
@@ -1536,8 +1536,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/TVCentr.ru.png",
       "streamUrls": [
         "http://31.148.5.241/kanal_10/index.m3u8",
-        "http://flussonic.linkintel.ru/tvc/index.m3u8",
-        "https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8"
+        "https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8",
+        "http://flussonic.linkintel.ru/tvc/index.m3u8"
       ],
       "category": "Russia",
       "languages": []
@@ -1547,8 +1547,8 @@
       "name": "TV-3",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/TV3.ru.png",
       "streamUrls": [
-        "http://stream.mcquack.net/136/index.m3u8",
         "http://178.124.179.122:8080/TB-3/index.m3u8",
+        "http://stream.mcquack.net/136/index.m3u8",
         "http://31.148.5.241/kanal_15/index.m3u8"
       ],
       "category": "Russia",
@@ -1655,7 +1655,7 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/U.ru.png",
       "streamUrls": [
         "http://stream.mcquack.net/230/index.m3u8",
-        "http://178.134.1.158:8081/U/index.m3u8",
+        "http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8",
         "https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=2066519758&s=9cPc1rCGu6M932eqrifRhQ&scheme=https"
       ],
       "category": "Russia",
@@ -1697,8 +1697,8 @@
       "name": "Vmeste-RF",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/VmesteRF.ru.png",
       "streamUrls": [
-        "https://streaming.thestream.cyou/live/7006.m3u8",
-        "https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8"
+        "https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8",
+        "https://streaming.thestream.cyou/live/7006.m3u8"
       ],
       "category": "Russia",
       "languages": []
@@ -1761,7 +1761,7 @@
       "streamUrls": [
         "http://31.148.5.241/kanal_17/index.m3u8",
         "http://flussonic.linkintel.ru/zvezda/index.m3u8",
-        "https://stream8.cinerama.uz/1050/tracks-v1a1/mono.m3u8"
+        "https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8"
       ],
       "category": "Russia",
       "languages": []
@@ -1998,8 +1998,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Channel8.ru.png",
       "streamUrls": [
         "http://45.11.139.43:8555/8kanal/index.m3u8",
-        "https://v4.proofix.ru/8tv-russia/index.m3u8",
-        "http://tshift-1.telecoma.tv/8channel/index.m3u8"
+        "http://tshift-1.telecoma.tv/8channel/index.m3u8",
+        "https://v4.proofix.ru/8tv-russia/index.m3u8"
       ],
       "category": "Russia",
       "languages": []
@@ -2112,7 +2112,7 @@
     {
       "id": "Tooku.ru",
       "name": "Tooku",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Pok%C3%A9mon_Horizons_The_Series_Logo.png/330px-Pok%C3%A9mon_Horizons_The_Series_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Toshiyuki_Morikawa_%28cropped%29.jpg/330px-Toshiyuki_Morikawa_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8"
       ],
@@ -2186,8 +2186,8 @@
       "name": "Kinomix",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Kinomix.ru.png",
       "streamUrls": [
-        "http://stream.mcquack.net/133/index.m3u8",
-        "http://93.170.254.17/Kinomiks/index.m3u8"
+        "http://93.170.254.17/Kinomiks/index.m3u8",
+        "http://stream.mcquack.net/133/index.m3u8"
       ],
       "category": "Russia",
       "languages": []
@@ -2265,7 +2265,7 @@
     {
       "id": "UDAR.ru",
       "name": "UDAR",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/330px-REN_TV_logo_2017.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=udar.tv",
       "streamUrls": [
         "http://stream.mcquack.net/279/index.m3u8"
       ],
@@ -2298,7 +2298,6 @@
       "name": "Kongress TV",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=tvcongress.ru",
       "streamUrls": [
-        "https://live-3.otcnet.ru/congresstv/index.m3u8",
         "https://stitch.teletarget.ru/api/v1/hls/504/158/index.m3u8"
       ],
       "category": "Russia",
@@ -2319,8 +2318,8 @@
       "name": "O!",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/O.ru.png",
       "streamUrls": [
-        "http://stream.mcquack.net/60/index.m3u8",
-        "http://88.212.15.50/live/test_telekanal_o/playlist.m3u8"
+        "http://88.212.15.50/live/test_telekanal_o/playlist.m3u8",
+        "http://stream.mcquack.net/60/index.m3u8"
       ],
       "country": "RU",
       "category": "Russia",
@@ -2493,8 +2492,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Dorama.ru.png",
       "streamUrls": [
         "http://stream.mcquack.net/412/index.m3u8",
-        "https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8",
-        "https://fs.uplink.kz/dorama/mono.m3u8?token=onlinetv"
+        "https://fs.uplink.kz/dorama/mono.m3u8?token=onlinetv",
+        "https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8"
       ],
       "category": "Russia",
       "languages": []
@@ -2749,8 +2748,8 @@
       "name": "viju+ Comedy",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/vijuPlusComedy.ru.png",
       "streamUrls": [
-        "http://stream.mcquack.net/201/index.m3u8",
-        "http://46.53.200.153:7777/play/Viju_Comedy_HD/index.m3u8"
+        "http://46.53.200.153:7777/play/Viju_Comedy_HD/index.m3u8",
+        "http://stream.mcquack.net/201/index.m3u8"
       ],
       "category": "Russia",
       "languages": []
@@ -3379,8 +3378,8 @@
       "name": "Muzyka 1",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Muzyka1.ru.png",
       "streamUrls": [
-        "https://kino-1.catcast.tv/content/37742/index.m3u8",
-        "https://kino-1.catcast.tv/content/37745/index.m3u8"
+        "https://kino-1.catcast.tv/content/37745/index.m3u8",
+        "https://kino-1.catcast.tv/content/37742/index.m3u8"
       ],
       "country": "RU",
       "category": "Russia",
@@ -3419,7 +3418,7 @@
     {
       "id": "TheExplorers.ru",
       "name": "The Explorers",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Dora_the_Explorer_logo.svg/330px-Dora_the_Explorer_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=skymediatv.ru",
       "streamUrls": [
         "https://sofast-yupptv.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4804aca3-dd54-43d1-8caa-0b836a76d9e9/manifest.m3u8"
       ],
@@ -3438,5 +3437,5 @@
     }
   ],
   "count": 323,
-  "generated_at": "2026-11-10T12:07:54.390135"
+  "generated_at": "2026-11-10T21:39:25.328832"
 }
