@@ -37,8 +37,8 @@
       "name": "Canal 26",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/Canal26.mx.png",
       "streamUrls": [
-        "https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8",
-        "https://5fe2654d6127d.streamlock.net/telemetrika3/_definst_/videotelemetrika3/playlist.m3u8"
+        "https://5fe2654d6127d.streamlock.net/telemetrika3/_definst_/videotelemetrika3/playlist.m3u8",
+        "https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8"
       ],
       "category": "Mexico",
       "languages": []
@@ -99,8 +99,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/Golden.mx.png",
       "streamUrls": [
         "http://15.204.196.147:22880/RECEPCION-GOLDEN_LAT-FHD/video.m3u8",
-        "http://138.121.15.230:9002/GOLDEN/index.m3u8",
-        "https://rpn.bozztv.com/gusa/gusa-goldentv/index.m3u8"
+        "http://168.196.127.137:6001/play/a06y/index.m3u8",
+        "http://138.121.15.230:9002/GOLDEN/index.m3u8"
       ],
       "category": "Mexico",
       "languages": []
@@ -331,8 +331,8 @@
       "name": "Teleplay Sureste",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/TeleplaySureste.mx.png",
       "streamUrls": [
-        "https://player.tvstream.mx/livestream/teleplay/livesd/playlist.m3u8",
-        "https://player.tvstream.mx/livestream/teleplay/livehd/playlist.m3u8"
+        "https://player.tvstream.mx/livestream/teleplay/livehd/playlist.m3u8",
+        "https://player.tvstream.mx/livestream/teleplay/livesd/playlist.m3u8"
       ],
       "category": "Mexico",
       "languages": []
@@ -435,6 +435,7 @@
       "name": "Univision Latin America",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/UnivisionLatinAmerica.mx.png",
       "streamUrls": [
+        "http://15.204.246.24:8080/UnivisionHD/index.m3u8",
         "http://138.121.15.230:9002/UNIVISION/index.m3u8",
         "http://190.93.224.42/UNIVISION/index.m3u8"
       ],
@@ -456,6 +457,7 @@
       "name": "Las Estrellas Latin America",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/LasEstrellasLatinAmerica.mx.png",
       "streamUrls": [
+        "http://15.204.246.24:8080/LasEstrellasHD/index.m3u8",
         "http://190.93.224.42/CANAL-LAS-ESTRELLAS/index.m3u8",
         "https://streaming.onnethn.com/LAS_ESTRELLAS_HD/playlist.m3u8"
       ],
@@ -478,8 +480,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/DistritoComedia.mx.png",
       "streamUrls": [
         "http://15.204.142.109:22880/TELEVISA-PROVEEDOR-DISTRITO-COMEDIA/index.m3u8",
-        "http://190.61.47.54:8000/play/a028/index.m3u8",
-        "http://138.121.15.230:9002/DISTRITO-COMEDIA/index.m3u8"
+        "http://138.121.15.230:9002/DISTRITO-COMEDIA/index.m3u8",
+        "http://190.61.47.54:8000/play/a028/index.m3u8"
       ],
       "category": "Mexico",
       "languages": []
@@ -593,8 +595,8 @@
       "name": "SICOM Television",
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
-        "https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/playlist.m3u8",
-        "https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8"
+        "https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8",
+        "https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/playlist.m3u8"
       ],
       "country": "MX",
       "category": "Mexico",
@@ -857,8 +859,28 @@
       ],
       "category": "Mexico",
       "languages": []
+    },
+    {
+      "id": "FOXCentral.mx",
+      "name": "FOX Central",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/330px-FOX_wordmark.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "streamUrls": [
+        "http://181.78.106.127:5000/play/a009/index.m3u8"
+      ],
+      "category": "Mexico",
+      "languages": []
+    },
+    {
+      "id": "Panico.mx",
+      "name": "Panico",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/Panico.mx.png",
+      "streamUrls": [
+        "http://181.78.8.199:8000/play/a0bt/index.m3u8"
+      ],
+      "category": "Mexico",
+      "languages": []
     }
   ],
-  "count": 83,
-  "generated_at": "2026-11-11T04:50:15.476197"
+  "count": 85,
+  "generated_at": "2026-11-11T15:52:26.825735"
 }
