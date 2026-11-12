@@ -1422,8 +1422,7 @@
       "name": "ETV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/ETV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/ETV/HLSv3-FTA/ETV.m3u8",
-        "https://cdn4.skygo.mn/live/disk1/ETV/DASH-FTA/ETV.mpd"
+        "https://cdn4.skygo.mn/live/disk1/ETV/HLSv3-FTA/ETV.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -2085,16 +2084,6 @@
       "languages": []
     },
     {
-      "id": "KrikTV.ru",
-      "name": "Krik-TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/KrikTV.ru.png",
-      "streamUrls": [
-        "http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8"
-      ],
-      "category": "News",
-      "languages": []
-    },
-    {
       "id": "KurdsatNews.iq",
       "name": "Kurdsat News",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/iq/KurdsatNews.iq.png",
@@ -2359,8 +2348,8 @@
       "name": "Mongolian News Channel",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/MongolianNewsChannel.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/MNCTV/DASH-FTA/MNCTV.mpd",
-        "https://cdn4.skygo.mn/live/disk1/MNCTV/HLSv3-FTA/MNCTV.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/MNCTV/HLSv3-FTA/MNCTV.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/MNCTV/DASH-FTA/MNCTV.mpd"
       ],
       "category": "News",
       "languages": []
@@ -3880,7 +3869,6 @@
       "name": "UNE TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/hn/UNETV.hn.png",
       "streamUrls": [
-        "http://45.166.93.156:9999/play/a0jo/index.m3u8",
         "https://amixtv.com:8081/unetvhn/tracks-v1a1/mono.m3u8"
       ],
       "category": "News",
@@ -6777,6 +6765,78 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gn/AfrikInfoTV.gn.png",
       "streamUrls": [
         "https://kali.vdopanel.com:3119/hybrid/play.m3u8"
+      ],
+      "category": "News",
+      "languages": []
+    },
+    {
+      "id": "D5ChannelPunjabi.in",
+      "name": "D5 Channel Punjabi",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://d5.tv360.ca:3453/live/cd5live.m3u8",
+        "https://d5channel.akamaized.net/D5Channel/master.m3u8"
+      ],
+      "category": "News",
+      "languages": []
+    },
+    {
+      "id": "GemTV.in",
+      "name": "Gem TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://gemtv.circle7stream.com/gem/fcce47a8559e30755582c396ce7fce9e.sdp/playlist.m3u8"
+      ],
+      "category": "News",
+      "languages": []
+    },
+    {
+      "id": "Media9.in",
+      "name": "Media9",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://media9news.akamaized.net/media9/hls/media9tv.m3u8"
+      ],
+      "category": "News",
+      "languages": []
+    },
+    {
+      "id": "NewsStateMaharashtraGoa.in",
+      "name": "News State Maharashtra Goa",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/NewsStateMaharashtraGoa.in.png",
+      "streamUrls": [
+        "https://prasarbharti-nn.vidgyor.com/nntv/nnbrjh/index.m3u8"
+      ],
+      "category": "News",
+      "languages": []
+    },
+    {
+      "id": "NewsTVIndia.in",
+      "name": "News TV India",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://streamlive.livebox.co.in/NewsTVIndiahls/live.m3u8"
+      ],
+      "category": "News",
+      "languages": []
+    },
+    {
+      "id": "SITI24x7.in",
+      "name": "SITI 24x7",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://www.schannels.in/SITI24X7_1/index.m3u8"
+      ],
+      "category": "News",
+      "languages": []
+    },
+    {
+      "id": "TheUnmute.in",
+      "name": "The Unmute",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://unmute.akamaized.net/unmute/index.m3u8",
+        "https://stream.ottlive.co.in/unmute/index.m3u8"
       ],
       "category": "News",
       "languages": []
