@@ -379,6 +379,7 @@
       "name": "Amigos TV Chiquimula",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gt/AmigosTVChiquimula.gt.png",
       "streamUrls": [
+        "http://45.166.93.156:9999/play/a0j2/index.m3u8",
         "https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8"
       ],
       "category": "Religious",
@@ -1095,8 +1096,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/GODTV.uk.png",
       "streamUrls": [
         "https://d1msejlow1t3l4.cloudfront.net/211125/godtv/chunks.m3u8",
-        "https://fl-dvr.iptvcdn.tv/chid_1/playlist.m3u8",
-        "https://cdn.pishow.tv/ott/live/1391/master.m3u8"
+        "https://cdn.pishow.tv/ott/live/1391/master.m3u8",
+        "https://fl-dvr.iptvcdn.tv/chid_1/playlist.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -1759,9 +1760,8 @@
       "name": "MISA TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ro/MISATV.ro.png",
       "streamUrls": [
-        "https://vidl.youniverse.name:5050/MSTV/hungarian_360p/playlist.m3u8",
         "https://vidh.youniverse.name:5050/MSTV/english/chunklist_w1133422319.m3u8",
-        "https://vidl.youniverse.name:5050/MSTV/czech_360p/playlist.m3u8"
+        "https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -2300,6 +2300,7 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gt/RhemaTV.gt.png",
       "streamUrls": [
         "http://45.171.64.30:6060/play/a04k/index.m3u8",
+        "http://45.166.93.156:9999/play/a0ff/index.m3u8",
         "https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8"
       ],
       "category": "Religious",
@@ -2882,8 +2883,8 @@
       "name": "JBN TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/hn/JBNTV.hn.png",
       "streamUrls": [
-        "https://tv.webmedialive.com/jbn_live/enlace/playlist.m3u8",
-        "https://viewhn.com/jbn_live/enlace/playlist.m3u8"
+        "https://viewhn.com/jbn_live/enlace/playlist.m3u8",
+        "https://tv.webmedialive.com/jbn_live/enlace/playlist.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -4382,8 +4383,8 @@
       "name": "Canal Mas",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uy/CanalMas.uy.png",
       "streamUrls": [
-        "https://canalmasuruguay.com/hls/master-abr.m3u8",
-        "https://canalmasuruguay.com/hls/720p/index.m3u8"
+        "https://canalmasuruguay.com/hls/720p/index.m3u8",
+        "https://canalmasuruguay.com/hls/master-abr.m3u8"
       ],
       "category": "Religious",
       "languages": []
@@ -4516,18 +4517,6 @@
       "streamUrls": [
         "https://edge1-us-miami.picarto.tv/stream/hls/golive%2bXSTUDIOCODE/0_1/index.m3u8"
       ],
-      "category": "Religious",
-      "languages": []
-    },
-    {
-      "id": "DivyaDarshanTV.np",
-      "name": "Divya Darshan TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/np/DivyaDarshanTV.np.png",
-      "streamUrls": [
-        "http://live.divyadarshantv.com/hls/stream.m3u8",
-        "https://live.divyadarshantv.com/hls/0/stream.m3u8"
-      ],
-      "country": "NP",
       "category": "Religious",
       "languages": []
     },
@@ -5200,8 +5189,40 @@
       ],
       "category": "Religious",
       "languages": []
+    },
+    {
+      "id": "FonteTV.br",
+      "name": "Fonte TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/FonteTV.br.png",
+      "streamUrls": [
+        "https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8",
+        "http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8"
+      ],
+      "category": "Religious",
+      "languages": []
+    },
+    {
+      "id": "NamdhariTV.in",
+      "name": "Namdhari TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/NamdhariTV.in.png",
+      "streamUrls": [
+        "https://samitaorigin.tangotv.in/NAMDHARICHANNEL/SAMITAORIGIN/index.m3u8",
+        "https://namdhari.tv/live/sbs1.m3u8"
+      ],
+      "category": "Religious",
+      "languages": []
+    },
+    {
+      "id": "ValamTVDayro.in",
+      "name": "Valam TV Dayro",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://samitaorigin.tangotv.in/VALAMDAIRO/SAMITAORIGIN/index.m3u8"
+      ],
+      "category": "Religious",
+      "languages": []
     }
   ],
-  "count": 510,
-  "generated_at": "2026-11-12T05:52:09.156353"
+  "count": 512,
+  "generated_at": "2026-11-12T16:35:32.976905"
 }
