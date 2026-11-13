@@ -2601,7 +2601,6 @@
       "name": "DreamTV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/DreamTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/Dreambox/DASH-FTA/Dreambox.mpd",
         "https://cdn4.skygo.mn/live/disk1/Dreambox/HLSv3-FTA/Dreambox.m3u8"
       ],
       "category": "Entertainment",
@@ -7296,7 +7295,8 @@
       "name": "TV 25",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/TV25.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/MN25/DASH-FTA/MN25.mpd"
+        "https://cdn4.skygo.mn/live/disk1/MN25/DASH-FTA/MN25.mpd",
+        "https://cdn4.skygo.mn/live/disk1/MN25/HLSv3-FTA/MN25.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -12758,7 +12758,6 @@
       "name": "Ulzii TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/UlziiTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/UlziiTV/DASH-FTA/UlziiTV.mpd",
         "https://cdn4.skygo.mn/live/disk1/UlziiTV/HLSv3-FTA/UlziiTV.m3u8"
       ],
       "country": "MN",
@@ -12995,16 +12994,6 @@
         "https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/playlist.m3u8?DVR"
       ],
       "country": "TN",
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
-      "id": "Jade.hk",
-      "name": "Jade",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/hk/Jade.hk.png",
-      "streamUrls": [
-        "http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8"
-      ],
       "category": "Entertainment",
       "languages": []
     },
@@ -14273,16 +14262,6 @@
       "languages": []
     },
     {
-      "id": "ZonaPlayTV.cl",
-      "name": "Zona Play TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cl/ZonaPlayTV.cl.png",
-      "streamUrls": [
-        "https://tv1.mediacp.eu:3131/live/dilxbgxylive.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "AlpedHuezTV.fr",
       "name": "Alpe d'Huez TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/fr/AlpedHuezTV.fr.png",
@@ -14704,7 +14683,6 @@
       "name": "Televen",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ve/Televen.ve.png",
       "streamUrls": [
-        "http://38.134.250.110:8000/play/a02i/index.m3u8",
         "http://181.78.8.199:8000/play/a09j/index.m3u8"
       ],
       "country": "VE",
@@ -16029,16 +16007,6 @@
       "languages": []
     },
     {
-      "id": "RapidTV.ng",
-      "name": "Rapid TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ng/RapidTV.ng.png",
-      "streamUrls": [
-        "https://stream-hls.castr-cdn.com/6a05a899db0ebd344a759542/live_9655bc604f8211f19e748901a3f596d0/index.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "CT1.cz",
       "name": "CT1",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cz/CT1.cz.png",
@@ -16602,8 +16570,7 @@
       "name": "Star TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/StarTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/Star/HLSv3-FTA/Star.m3u8",
-        "https://cdn4.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd"
+        "https://cdn4.skygo.mn/live/disk1/Star/HLSv3-FTA/Star.m3u8"
       ],
       "country": "MN",
       "category": "Entertainment",
@@ -17629,7 +17596,7 @@
     {
       "id": "TeleRegencyTV.ng",
       "name": "Tele Regency TV",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=teleregency.tv",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/b/bb/Three_NZ_2023.svg/330px-Three_NZ_2023.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "https://streams.playtv.com.ng/Tele-Regency_TRTV/index.m3u8"
       ],
@@ -18203,6 +18170,122 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/TelewizjaRelax.pl.png",
       "streamUrls": [
         "https://srv1.streamingo.pl/memfs/be50f17e-6579-4bdf-86b1-31207aec85b8.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "CanalMultivision.do",
+      "name": "Canal Multivision",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/CanalMultivision.do.png",
+      "streamUrls": [
+        "https://183.giatvcdn.com/ssh101/ssh101/canalmulti24/playlist.m3u8"
+      ],
+      "country": "DO",
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "Telefuturo.do",
+      "name": "Telefuturo",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/Telefuturo.do.png",
+      "streamUrls": [
+        "https://hls.tvabierta.net/hls/023.m3u8"
+      ],
+      "country": "DO",
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "TurismoHD.do",
+      "name": "Turismo HD",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/TurismoHD.do.png",
+      "streamUrls": [
+        "https://183.giatvcdn.com/giatvplayout7/giatv-208343/playlist.m3u8"
+      ],
+      "country": "DO",
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "A7TV.do",
+      "name": "A7 TV",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/KNXV_%282022%29.svg/330px-KNXV_%282022%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "streamUrls": [
+        "https://183.giatvcdn.com/ssh101/ssh101/a7tvjarabacoa/playlist.m3u8"
+      ],
+      "country": "DO",
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "ConstanzaTV.do",
+      "name": "ConstanzaTV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/ConstanzaTV.do.png",
+      "streamUrls": [
+        "https://183.giatvcdn.com/ssh101/ssh101/ctv8hd/playlist.m3u8"
+      ],
+      "country": "DO",
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "TVCotuiCanal31.do",
+      "name": "TV Cotui Canal 31",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/TVCotuiCanal31.do.png",
+      "streamUrls": [
+        "https://183.giatvcdn.com/ssh101/ssh101/tvcotui/playlist.m3u8"
+      ],
+      "country": "DO",
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "CLTV36.ph",
+      "name": "CLTV 36",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ph/CLTV36.ph.png",
+      "streamUrls": [
+        "https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "RadioFantasiaTV.cl",
+      "name": "Radio Fantasia TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://v2.tustreaming.cl/fantasiatv/index.m3u8"
+      ],
+      "category": "Music",
+      "languages": []
+    },
+    {
+      "id": "RadioFrecuenciaUno.cl",
+      "name": "Radio Frecuencia Uno",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://v1.tustreaming.cl/frecuencia1tv/index.m3u8"
+      ],
+      "category": "Music",
+      "languages": []
+    },
+    {
+      "id": "RadioUNIACC.cl",
+      "name": "Radio UNIACC",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://scl.edge.grupoz.cl/uniaccastream/live/playlist.m3u8"
+      ],
+      "category": "Music",
+      "languages": []
+    },
+    {
+      "id": "Telemax.do",
+      "name": "Telemax",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/Telemax.do.png",
+      "streamUrls": [
+        "https://edge.essastream.com/telemax/tracks-v1a1/mono.m3u8"
       ],
       "category": "Entertainment",
       "languages": []

@@ -605,6 +605,8 @@ https://hls-1zdhtxpm-livepush.akamaized.net/live_cdn/nsM12Xw0C1xXdJ/em0Wx71z-ec6
 https://live2.tensila.com/heart-v-1.heartar/hls/live/mystream.m3u8
 #EXTINF:-1 tvg-id="La100.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/330px-Logo_M6_%282020%2C_fond_clair%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail" group-title="Music [SD]",La 100 [SD]
 https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
+#EXTINF:-1 tvg-id="88Stereo.cr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cr/88Stereo.cr.png" group-title="Music [HD]",88 Stereo [HD]
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 tvg-id="AlbKanaleMusicTV.al" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/al/AlbKanaleMusicTV.al.png" group-title="Music [FHD]",AlbKanale Music TV [FHD]
 https://albportal.net/albkanalemusic.m3u8
 #EXTINF:-1 tvg-id="Retroclub.ar" tvg-logo="https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png" group-title="Music [HD]",Retroclub [HD]
@@ -691,8 +693,6 @@ https://jmp2.uk/stvp-IN460001373
 http://54.36.110.140/live3/live3.m3u8
 #EXTINF:-1 tvg-id="StingrayTikTokRadio.ca" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=music.stingray.com" group-title="Music [SD]",Stingray TikTok Radio [SD]
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814594/hls/master.m3u8?ads.xumo_channelId=88814594
-#EXTINF:-1 tvg-id="BuenisimaRadioTV.co" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/BuenisimaRadioTV.co.png" group-title="Music",Buenisima Radio TV
-https://canal.mediaserver.com.co/live/buenisimatv.m3u8
 #EXTINF:-1 tvg-id="DiscoPoloMusic.pl" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/DiscoPoloMusic.pl.png" group-title="Music [SD]",Disco Polo Music [SD]
 http://185.227.34.179:8080/disco-polo-music/index.m3u8
 #EXTINF:-1 tvg-id="INTVAustralia.au" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/au/INTVAustralia.au.png" group-title="Music [HD]",INTV Australia [HD]
@@ -903,11 +903,21 @@ http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_021/Stream/playlist.m3u8
 #EXTINF:-1 tvg-id="XPTV1.es" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/XPTV1.es.png" group-title="Music [SD]",XPTV1 [SD]
 https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
-#EXTINF:-1 tvg-id="88Stereo.cr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cr/88Stereo.cr.png" group-title="Music [HD]",88 Stereo [HD]
-http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1 tvg-id="MontonesTV.do" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=montonestv.com" group-title="Music [HD]",Montones TV [HD]
+https://183.giatvcdn.com/ssh101/ssh101/montonestv1/playlist.m3u8
+#EXTINF:-1 tvg-id="CEACOMTV.bo" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bo/CEACOMTV.bo.png" group-title="Music [FHD]",CEACOM TV [FHD]
+https://eu1.servers10.com:8081/ceacom/index.m3u8
+#EXTINF:-1 tvg-id="LaClave.cl" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/NPY_Logo2023.png/330px-NPY_Logo2023.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail" group-title="Music [FHD]",La Clave [FHD]
+https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioOndaDigital.pe" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pe/RadioOndaDigital.pe.png" group-title="Music [FHD]",Radio Onda Digital [FHD]
+https://live.ondadigitaltv.com/RADIOODTV/index.m3u8
+#EXTINF:-1 tvg-id="SiembraTV.do" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/SiembraTV.do.png" group-title="Music",Siembra TV
+https://streamunoapp.com:3809/live/siembratvlive.m3u8
 #EXTINF:-1 tvg-id="4FunTV.pl" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/4FunTV.pl.png" group-title="Music [SD]",4 Fun TV [SD]
 https://stream.4fun.tv:8888/hls/4f.m3u8
 #EXTINF:-1 tvg-id="FONMusic.ru" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/FON_MUSIC_Logo_2026.webp/330px-FON_MUSIC_Logo_2026.webp?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail" group-title="Music [SD]",FON Music [SD]
 https://stream8.cinerama.uz/1272/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BuenisimaRadioTV.co" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/BuenisimaRadioTV.co.png" group-title="Music",Buenisima Radio TV
+https://canal.mediaserver.com.co/live/buenisimatv.m3u8
 #EXTINF:-1 tvg-id="FarraPlay.py" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/py/FarraPlay.py.png" group-title="Music",Farra Play
 http://159.203.148.226/live/farra.m3u8

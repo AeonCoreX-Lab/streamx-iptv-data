@@ -349,7 +349,6 @@
       "name": "4 Fun TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/4FunTV.pl.png",
       "streamUrls": [
-        "https://stream.4fun.tv:8888/sd/4fun_sd_high.m3u8",
         "https://stream.4fun.tv:8888/hls/4f.m3u8"
       ],
       "country": "PL",
@@ -802,6 +801,17 @@
       "streamUrls": [
         "https://srv1.streamingo.pl/memfs/be50f17e-6579-4bdf-86b1-31207aec85b8.m3u8"
       ],
+      "category": "Poland",
+      "languages": []
+    },
+    {
+      "id": "TVPSport.pl",
+      "name": "TVP Sport",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/TVPSport.pl.png",
+      "streamUrls": [
+        "rtsp://213.189.46.75/wmt-14963-1.sdp"
+      ],
+      "country": "PL",
       "category": "Poland",
       "languages": []
     }
