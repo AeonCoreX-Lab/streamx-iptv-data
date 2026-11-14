@@ -2341,6 +2341,7 @@
       "name": "Mongolian News Channel",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/MongolianNewsChannel.mn.png",
       "streamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/MNCTV/DASH-FTA/MNCTV.mpd",
         "https://cdn4.skygo.mn/live/disk1/MNCTV/HLSv3-FTA/MNCTV.m3u8"
       ],
       "category": "News",
@@ -3396,16 +3397,6 @@
       "languages": []
     },
     {
-      "id": "SamayKolkata.in",
-      "name": "Samay Kolkata",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/SamayKolkata.in.png",
-      "streamUrls": [
-        "https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8"
-      ],
-      "category": "News",
-      "languages": []
-    },
-    {
       "id": "ScrippsNews.us",
       "name": "Scripps News",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/ScrippsNews.us.png",
@@ -3861,8 +3852,8 @@
       "name": "UNE TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/hn/UNETV.hn.png",
       "streamUrls": [
-        "https://amixtv.com:8081/unetvhn/tracks-v1a1/mono.m3u8",
-        "http://45.166.93.156:9999/play/a0jo/index.m3u8"
+        "http://45.166.93.156:9999/play/a0jo/index.m3u8",
+        "https://amixtv.com:8081/unetvhn/tracks-v1a1/mono.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -6551,16 +6542,6 @@
       "languages": []
     },
     {
-      "id": "BNChannel.id",
-      "name": "BN Channel",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/BNChannel.id.png",
-      "streamUrls": [
-        "https://flv.intechmedia.net/live/ch112.m3u8"
-      ],
-      "category": "News",
-      "languages": []
-    },
-    {
       "id": "OnkarNews.in",
       "name": "Onkar News",
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
@@ -6866,6 +6847,6 @@
       "languages": []
     }
   ],
-  "count": 661,
-  "generated_at": "2026-11-14T17:41:11.637893"
+  "count": 659,
+  "generated_at": "2026-11-14T23:38:39.740432"
 }
