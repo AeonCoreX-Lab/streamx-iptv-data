@@ -234,8 +234,8 @@
       "name": "Waar TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/iq/WaarTV.iq.png",
       "streamUrls": [
-        "https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8",
-        "https://hlspackager.akamaized.net/live/DB/WAAR_HD/HLS/WAAR_HD.m3u8"
+        "https://hlspackager.akamaized.net/live/DB/WAAR_HD/HLS/WAAR_HD.m3u8",
+        "https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8"
       ],
       "category": "Iraq",
       "languages": []
@@ -338,7 +338,6 @@
       "name": "AVA Media",
       "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/AVAMedialogo.jpg/330px-AVAMedialogo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
-        "http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV-avc1_2500000=10002,mp4a_128000=20000.m3u8",
         "https://ava002.xyz/upload/images/1080.m3u8"
       ],
       "category": "Iraq",
@@ -373,8 +372,28 @@
       ],
       "category": "Iraq",
       "languages": []
+    },
+    {
+      "id": "Alquran.iq",
+      "name": "Alquran",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/iq/Alquran.iq.png",
+      "streamUrls": [
+        "https://ktvlive.online/stream/hls/ch1.m3u8"
+      ],
+      "category": "Iraq",
+      "languages": []
+    },
+    {
+      "id": "KarbalaDocumentary.iq",
+      "name": "Karbala Documentary",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/iq/KarbalaDocumentary.iq.png",
+      "streamUrls": [
+        "https://ktvlive.online/stream/hls/ch3.m3u8"
+      ],
+      "category": "Iraq",
+      "languages": []
     }
   ],
-  "count": 36,
-  "generated_at": "2026-11-14T11:13:33.319422"
+  "count": 38,
+  "generated_at": "2026-11-14T17:41:11.617578"
 }
