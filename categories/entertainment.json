@@ -6397,16 +6397,6 @@
       "languages": []
     },
     {
-      "id": "RTVRijnmondExtra.nl",
-      "name": "RTV Rijnmond Extra",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/nl/RTVRijnmondExtra.nl.png",
-      "streamUrls": [
-        "http://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv-extra/index.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "RTVZulthe.nl",
       "name": "RTV Zulthe",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/nl/RTVZulthe.nl.png",
@@ -7234,7 +7224,8 @@
       "name": "TV 25",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/TV25.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/MN25/DASH-FTA/MN25.mpd"
+        "https://cdn4.skygo.mn/live/disk1/MN25/DASH-FTA/MN25.mpd",
+        "https://cdn4.skygo.mn/live/disk1/MN25/HLSv3-FTA/MN25.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -13044,8 +13035,8 @@
       "name": "Teleunion",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/Teleunion.do.png",
       "streamUrls": [
-        "http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8",
-        "http://server2grupocam.com:1945/teleunion/TU/playlist.m3u8"
+        "http://server2grupocam.com:1945/teleunion/TU/playlist.m3u8",
+        "http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8"
       ],
       "country": "DO",
       "category": "Entertainment",
@@ -13100,16 +13091,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ro/AcasaGold.ro.png",
       "streamUrls": [
         "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-progold/live_fullhd?offsetSeconds=0"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
-      "id": "BalikpapanTV.id",
-      "name": "Balikpapan TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/BalikpapanTV.id.png",
-      "streamUrls": [
-        "http://122.248.43.242:1935/BALIKPAPANTV/_definst_/myStream/playlist.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -13981,7 +13962,6 @@
       "name": "C1",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/C1.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/C1/HLSv3-FTA/C1.m3u8",
         "https://cdn4.skygo.mn/live/disk1/C1/DASH-FTA/C1.mpd"
       ],
       "country": "MN",
@@ -14452,7 +14432,6 @@
       "name": "Televen",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ve/Televen.ve.png",
       "streamUrls": [
-        "http://38.134.250.110:8000/play/a02i/index.m3u8",
         "http://181.78.8.199:8000/play/a09j/index.m3u8"
       ],
       "country": "VE",
@@ -15359,16 +15338,6 @@
       "streamUrls": [
         "https://tv.vietanhtv.top/vieon/vieon.php?id=vie-giai-tri-hd",
         "https://freem3u.xyz/api/live/play.m3u8?vid=180"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
-      "id": "XHFGLTDT.mx",
-      "name": "XHFGL-TDT",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/XHFGLTDT.mx.png",
-      "streamUrls": [
-        "https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/playlist.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -16455,6 +16424,7 @@
       "name": "ONTV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/ONTV.mn.png",
       "streamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/ONTV/HLSv3-FTA/ONTV.m3u8",
         "https://cdn4.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd"
       ],
       "country": "MN",
@@ -18359,6 +18329,198 @@
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=radiooltenia.ro",
       "streamUrls": [
         "https://stream3.srr.ro/live/Radio-Oltenia/chunklist_w1200239883.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "BebetoTV.do",
+      "name": "Bebeto TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://cloud5.livescast.com:19360/bebetotv/bebetotv.m3u8"
+      ],
+      "country": "DO",
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "AntennaSicilia.it",
+      "name": "Antenna Sicilia",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/it/AntennaSicilia.it.png",
+      "streamUrls": [
+        "https://antennasicilialive.cdn.netrw.it/antennasicilialive/hls/ccr/antennasicilia/master.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "CNCBugavision.co",
+      "name": "CNC Bugavision",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/CNCBugavision.co.png",
+      "streamUrls": [
+        "https://movil.ejeserver.com/live/cncbuga.m3u8",
+        "https://video.ejeserver.com/live/cncbuga.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "CaliTV.co",
+      "name": "CaliTV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/CaliTV.co.png",
+      "streamUrls": [
+        "https://tdcdigital-streams.github.io/iptv/CaliTV.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "Canal10.sv",
+      "name": "Canal 10",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/sv/Canal10.sv.png",
+      "streamUrls": [
+        "https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "CanalTRV.sv",
+      "name": "Canal TRV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/sv/CanalTRV.sv.png",
+      "streamUrls": [
+        "https://stream.ontvmx.com/ontv/CNMLXR0Z6FPtGdjcI4/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "DTV.pe",
+      "name": "DTV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pe/DTV.pe.png",
+      "streamUrls": [
+        "https://live-evg7.tv360.bitel.com.pe/bitel/sabormixtvSRT/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "EspoirTV.cd",
+      "name": "Espoir TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cd/EspoirTV.cd.png",
+      "streamUrls": [
+        "https://stream.berosat.live/hls/espoir-tv-stream/espoir-tv-stream.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "GeniosTV.pe",
+      "name": "Genios TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pe/GeniosTV.pe.png",
+      "streamUrls": [
+        "https://sc3.wasidata.com/Genios2_1902/video.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "MTV.jp",
+      "name": "MTV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/jp/MTV.jp.png",
+      "streamUrls": [
+        "http://103.255.250.188:5002/cs18.m3u8?token=guoziyun&gid=cs18&channel=zhongying"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "NovosadskaTV.rs",
+      "name": "Novosadska TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/rs/NovosadskaTV.rs.png",
+      "streamUrls": [
+        "https://live.novosadska.tv/hls/mystream.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "ParisPremiere.fr",
+      "name": "Paris Premiere",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/fr/ParisPremiere.fr.png",
+      "streamUrls": [
+        "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/paris_premiere/live.livx/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "Rivne1.ua",
+      "name": "Rivne 1",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/Rivne1.ua.png",
+      "streamUrls": [
+        "https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "SakuranboTV.jp",
+      "name": "Sakuranbo TV",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=sakuranbo.co.jp",
+      "streamUrls": [
+        "https://tv-stream-test.daydreamer-json.cc/stream/bd2dd29080c36c9b01338d329156febe/master.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "SiembraTV.ve",
+      "name": "Siembra TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ve/SiembraTV.ve.png",
+      "streamUrls": [
+        "https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "SmashRadioTT.tt",
+      "name": "Smash Radio TT",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=smashradiott.com",
+      "streamUrls": [
+        "https://nginx.smashradiott.com/hls/program/master.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "TelePoderTV.do",
+      "name": "Tele Poder TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/TelePoderTV.do.png",
+      "streamUrls": [
+        "https://cdn.telepoder.online:3229/dash/stream.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "VTVCanal32.do",
+      "name": "VTV Canal 32",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/VTVCanal32.do.png",
+      "streamUrls": [
+        "https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "YTSYamagataTV.jp",
+      "name": "YTS Yamagata TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://tv-stream-test.daydreamer-json.cc/stream/407fd00ebd2a059c9cd1ea3fa7156097/master.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
