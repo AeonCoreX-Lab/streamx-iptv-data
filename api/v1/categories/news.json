@@ -2331,8 +2331,7 @@
       "name": "Mongolian News Channel",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/MongolianNewsChannel.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/MNCTV/DASH-FTA/MNCTV.mpd",
-        "https://cdn4.skygo.mn/live/disk1/MNCTV/HLSv3-FTA/MNCTV.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/MNCTV/DASH-FTA/MNCTV.mpd"
       ],
       "category": "News",
       "languages": []
@@ -3832,8 +3831,8 @@
       "name": "UNE TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/hn/UNETV.hn.png",
       "streamUrls": [
-        "http://45.166.93.156:9999/play/a0jo/index.m3u8",
-        "https://amixtv.com:8081/unetvhn/tracks-v1a1/mono.m3u8"
+        "https://amixtv.com:8081/unetvhn/tracks-v1a1/mono.m3u8",
+        "http://45.166.93.156:9999/play/a0jo/index.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -5204,16 +5203,6 @@
       "streamUrls": [
         "https://mumt01.tangotv.in/O5aw8Zn3LIVETIMES/index.m3u8",
         "https://stream.ottlive.co.in/livetimetv/index.m3u8"
-      ],
-      "category": "News",
-      "languages": []
-    },
-    {
-      "id": "HNN24x7.in",
-      "name": "HNN 24x7",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/HNN24x7.in.png",
-      "streamUrls": [
-        "https://ott.livelegitpro.in:9899/hnnnews/hnnnews/index.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -6733,8 +6722,38 @@
       ],
       "category": "News",
       "languages": []
+    },
+    {
+      "id": "247CanaldeNoticias.ar",
+      "name": "24/7 Canal de Noticias",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/247CanaldeNoticias.ar.png",
+      "streamUrls": [
+        "https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8"
+      ],
+      "category": "News",
+      "languages": []
+    },
+    {
+      "id": "MarkizaTNLive.sk",
+      "name": "Markiza TN Live",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-adhoc12/live_fullhd?offsetSeconds=0"
+      ],
+      "category": "News",
+      "languages": []
+    },
+    {
+      "id": "NewsCentral.ng",
+      "name": "News Central",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ng/NewsCentral.ng.png",
+      "streamUrls": [
+        "https://wf.newscentral.ng:8443/hls/stream.m3u8"
+      ],
+      "category": "News",
+      "languages": []
     }
   ],
-  "count": 648,
-  "generated_at": "2026-11-16T17:57:56.081042"
+  "count": 650,
+  "generated_at": "2026-11-17T02:47:01.186603"
 }

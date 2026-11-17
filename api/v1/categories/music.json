@@ -4622,16 +4622,6 @@
       "languages": []
     },
     {
-      "id": "PlayTV.cm",
-      "name": "Play TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cm/PlayTV.cm.png",
-      "streamUrls": [
-        "http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8"
-      ],
-      "category": "Music",
-      "languages": []
-    },
-    {
       "id": "AMusicChannel.ng",
       "name": "AMusic Channel",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ng/AMusicChannel.ng.png",
@@ -4772,8 +4762,18 @@
       ],
       "category": "Music",
       "languages": []
+    },
+    {
+      "id": "SmashRadioTT.tt",
+      "name": "Smash Radio TT",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/330px-Nickelodeon_2023_logo_%28outline%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "streamUrls": [
+        "https://nginx.smashradiott.com/hls/program/master.m3u8"
+      ],
+      "category": "Music",
+      "languages": []
     }
   ],
   "count": 462,
-  "generated_at": "2026-11-16T17:57:56.193428"
+  "generated_at": "2026-11-17T02:47:01.201068"
 }
