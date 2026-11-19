@@ -1431,7 +1431,8 @@
       "name": "Eagle News",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/EagleNews.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/Eagle/HLSv3-FTA/Eagle.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/Eagle/HLSv3-FTA/Eagle.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/Eagle/DASH-FTA/Eagle.mpd"
       ],
       "category": "News",
       "languages": []
@@ -2329,7 +2330,7 @@
       "name": "Mongolian News Channel",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/MongolianNewsChannel.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/MNCTV/DASH-FTA/MNCTV.mpd"
+        "https://cdn4.skygo.mn/live/disk1/MNCTV/HLSv3-FTA/MNCTV.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -5386,16 +5387,6 @@
       "languages": []
     },
     {
-      "id": "VRLive.in",
-      "name": "VR Live",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://channel.vrlivegujarat.com/hls/vrchannel.m3u8"
-      ],
-      "category": "News",
-      "languages": []
-    },
-    {
       "id": "FlashHaberTV.tr",
       "name": "Flash Haber TV",
       "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/WCPO_9_%282020%2C_with_2021_ABC_logo%29.svg/330px-WCPO_9_%282020%2C_with_2021_ABC_logo%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -6138,7 +6129,7 @@
     {
       "id": "ElyssaTV.tn",
       "name": "Elyssa TV",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=elyssatv.com",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/The_Pitt_Max_series_logo.svg/330px-The_Pitt_Max_series_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "https://tv.elyssatv.com/live/master.m3u8"
       ],
@@ -6431,16 +6422,6 @@
       "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/330px-BBC_News_2022_%28Alt%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "https://newsonly.kableone.com/newsonly/master.m3u8"
-      ],
-      "category": "News",
-      "languages": []
-    },
-    {
-      "id": "FoxNewsInternational.us",
-      "name": "Fox News International",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/330px-Fox_News_Channel_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "streamUrls": [
-        "http://103.253.74.210:7070/stream/124/index.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -6780,8 +6761,18 @@
       ],
       "category": "News",
       "languages": []
+    },
+    {
+      "id": "KBPTimes.in",
+      "name": "KBP Times",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://kbpnews.cloud/Kbptimes/Kbptimeslive/video.m3u8"
+      ],
+      "category": "News",
+      "languages": []
     }
   ],
-  "count": 653,
-  "generated_at": "2026-11-18T16:57:21.907041"
+  "count": 652,
+  "generated_at": "2026-11-19T01:43:41.882091"
 }
