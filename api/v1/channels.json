@@ -7360,6 +7360,17 @@
       "_category": "lifestyle"
     },
     {
+      "id": "CEACOMTV.bo",
+      "name": "CEACOM TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bo/CEACOMTV.bo.png",
+      "streamUrls": [
+        "https://eu1.servers10.com:8081/ceacom/index.m3u8"
+      ],
+      "category": "Lifestyle",
+      "languages": [],
+      "_category": "lifestyle"
+    },
+    {
       "id": "13Kids.cl",
       "name": "13 Kids",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cl/13Kids.cl.png",
@@ -21009,19 +21020,6 @@
       "_category": "india"
     },
     {
-      "id": "OliTV.in",
-      "name": "Oli TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/OliTV.in.png",
-      "streamUrls": [
-        "https://live.olidigital.in/olitv/olitv/index.m3u8",
-        "https://hlslive.olidigital.in/olitv/olitv/index.m3u8"
-      ],
-      "country": "IN",
-      "category": "India",
-      "languages": [],
-      "_category": "india"
-    },
-    {
       "id": "UTVPalakkad.in",
       "name": "UTV Palakkad",
       "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Kerala_School_Kalolsavam_2026_day_5_Mohanlal_%28277%29_%28cropped%29.jpg/330px-Kerala_School_Kalolsavam_2026_day_5_Mohanlal_%28277%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -26081,7 +26079,8 @@
       "name": "JOB TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ro/JOBTV.ro.png",
       "streamUrls": [
-        "https://jobtvserver.eu/hls/stream.m3u8"
+        "https://jobtvserver.eu/hls/stream.m3u8",
+        "https://jobtvserver.eu/hls/stream_src/index.m3u8"
       ],
       "country": "RO",
       "category": "Business",
@@ -30594,6 +30593,18 @@
       "_category": "argentina"
     },
     {
+      "id": "TelefeSalta.ar",
+      "name": "Telefe Salta",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/TelefeSalta.ar.png",
+      "streamUrls": [
+        "https://canal11saltatv.unpocodeawita.workers.dev/"
+      ],
+      "country": "AR",
+      "category": "Argentina",
+      "languages": [],
+      "_category": "argentina"
+    },
+    {
       "id": "Firstlight.nz",
       "name": "Firstlight",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/nz/Firstlight.nz.png",
@@ -32215,6 +32226,7 @@
       "name": "ETV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/ETV.mn.png",
       "streamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/ETV/HLSv3-FTA/ETV.m3u8",
         "https://cdn4.skygo.mn/live/disk1/ETV/DASH-FTA/ETV.mpd"
       ],
       "category": "News",
@@ -32237,7 +32249,6 @@
       "name": "Eagle News",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/EagleNews.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/Eagle/HLSv3-FTA/Eagle.m3u8",
         "https://cdn4.skygo.mn/live/disk1/Eagle/DASH-FTA/Eagle.mpd"
       ],
       "category": "News",
@@ -38860,8 +38871,8 @@
       "name": "MasMusica FM",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/MasMusicaFM.co.png",
       "streamUrls": [
-        "https://video.ejeserver.com/live/masmusica.m3u8",
-        "https://movil.ejeserver.com/live/masmusica.m3u8"
+        "https://movil.ejeserver.com/live/masmusica.m3u8",
+        "https://video.ejeserver.com/live/masmusica.m3u8"
       ],
       "country": "CO",
       "category": "Colombia",
@@ -38925,6 +38936,18 @@
       "streamUrls": [
         "https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC022/022/playlist.m3u8"
       ],
+      "category": "Colombia",
+      "languages": [],
+      "_category": "colombia"
+    },
+    {
+      "id": "SalsaGordaTelevision.co",
+      "name": "Salsa Gorda Television",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/SalsaGordaTelevision.co.png",
+      "streamUrls": [
+        "https://stmv1.voxtvhd.com.br/salsagorda/salsagorda/playlist.m3u8"
+      ],
+      "country": "CO",
       "category": "Colombia",
       "languages": [],
       "_category": "colombia"
@@ -39928,17 +39951,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ir/Palestinetv.ir.png",
       "streamUrls": [
         "https://ncdn.telewebion.ir/palestine/live/playlist.m3u8"
-      ],
-      "category": "Iran",
-      "languages": [],
-      "_category": "iran"
-    },
-    {
-      "id": "RasoulallahTv.ir",
-      "name": "RasoulallahTv",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ir/RasoulallahTv.ir.png",
-      "streamUrls": [
-        "https://avr.host247.net/live/rasoulallahtv/playlist.m3u8"
       ],
       "category": "Iran",
       "languages": [],
@@ -44321,8 +44333,8 @@
       "name": "Jeremiah TV",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=jeremiahtelevision.com",
       "streamUrls": [
-        "https://x.streamablecloud.com/stream/hls/jeremiahtv/index.m3u8",
-        "https://x.streamablecloud.com/stream/hls/jeremiahtv/1_2/index.m3u8"
+        "https://x.streamablecloud.com/stream/hls/jeremiahtv/1_2/index.m3u8",
+        "https://x.streamablecloud.com/stream/hls/jeremiahtv/index.m3u8"
       ],
       "category": "Pakistan",
       "languages": [],
@@ -50966,6 +50978,39 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bo/TvCarigso.bo.png",
       "streamUrls": [
         "https://183.giatvcdn.com/ssh101/ssh101/carigsotv2026/playlist.m3u8"
+      ],
+      "category": "Music",
+      "languages": [],
+      "_category": "music"
+    },
+    {
+      "id": "CEACOMTV.bo",
+      "name": "CEACOM TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bo/CEACOMTV.bo.png",
+      "streamUrls": [
+        "https://eu1.servers10.com:8081/ceacom/index.m3u8"
+      ],
+      "category": "Music",
+      "languages": [],
+      "_category": "music"
+    },
+    {
+      "id": "IDJTV.rs",
+      "name": "IDJTV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/rs/IDJTV.rs.png",
+      "streamUrls": [
+        "https://best-str.umn.cdn.united.cloud/stream?channel=idjhd&p=In$trum300na765ta&player=m3u8&sp=idjtv&stream=hp1400&u=idjtv"
+      ],
+      "category": "Music",
+      "languages": [],
+      "_category": "music"
+    },
+    {
+      "id": "SalsaGordaTelevision.co",
+      "name": "Salsa Gorda Television",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/SalsaGordaTelevision.co.png",
+      "streamUrls": [
+        "https://stmv1.voxtvhd.com.br/salsagorda/salsagorda/playlist.m3u8"
       ],
       "category": "Music",
       "languages": [],
@@ -59833,8 +59878,8 @@
       "name": "TV8",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/TV8.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/TV8HD/HLSv3-FTA/TV8HD.m3u8",
-        "https://cdn4.skygo.mn/live/disk1/TV8HD/DASH-FTA/TV8HD.mpd"
+        "https://cdn4.skygo.mn/live/disk1/TV8HD/DASH-FTA/TV8HD.mpd",
+        "https://cdn4.skygo.mn/live/disk1/TV8HD/HLSv3-FTA/TV8HD.m3u8"
       ],
       "category": "News",
       "languages": [],
@@ -62571,7 +62616,8 @@
       "name": "Cadena A",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bo/CadenaA.bo.png",
       "streamUrls": [
-        "https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8"
+        "https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8",
+        "http://190.181.61.93:8000/play/a00k/index.m3u8"
       ],
       "category": "News",
       "languages": [],
@@ -62616,7 +62662,7 @@
       "name": "TV9",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/TV9.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/TV9HD/HLSv3-FTA/TV9HD.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/TV9HD/DASH-FTA/TV9HD.mpd"
       ],
       "country": "MN",
       "category": "Entertainment",
@@ -64836,7 +64882,7 @@
       "name": "TenGer TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/TenGerTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/VTV/HLSv3-FTA/VTV.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/VTV/DASH-FTA/VTV.mpd"
       ],
       "country": "MN",
       "category": "Entertainment",
@@ -66750,7 +66796,8 @@
       "name": "C1",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/C1.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/C1/DASH-FTA/C1.mpd"
+        "https://cdn4.skygo.mn/live/disk1/C1/DASH-FTA/C1.mpd",
+        "https://cdn4.skygo.mn/live/disk1/C1/HLSv3-FTA/C1.m3u8"
       ],
       "country": "MN",
       "category": "Entertainment",
@@ -68086,7 +68133,8 @@
       "name": "AsianBox",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/AsianBox.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/AsianBOX/DASH-FTA/AsianBOX.mpd"
+        "https://cdn4.skygo.mn/live/disk1/AsianBOX/DASH-FTA/AsianBOX.mpd",
+        "https://cdn4.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX.m3u8"
       ],
       "country": "MN",
       "category": "Entertainment",
@@ -70822,18 +70870,6 @@
       "_category": "entertainment"
     },
     {
-      "id": "OliTV.in",
-      "name": "Oli TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/OliTV.in.png",
-      "streamUrls": [
-        "https://live.olidigital.in/olitv/olitv/index.m3u8",
-        "https://hlslive.olidigital.in/olitv/olitv/index.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": [],
-      "_category": "entertainment"
-    },
-    {
       "id": "UTVPalakkad.in",
       "name": "UTV Palakkad",
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
@@ -72045,6 +72081,105 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://r.il.cdn-redge.media/livehls/oil/freetv/live/viva_plus/live.livx/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": [],
+      "_category": "entertainment"
+    },
+    {
+      "id": "RTS1.rs",
+      "name": "RTS 1",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/rs/RTS1.rs.png",
+      "streamUrls": [
+        "https://webtvstream.bhtelecom.ba/rts1.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": [],
+      "_category": "entertainment"
+    },
+    {
+      "id": "RTV1.rs",
+      "name": "RTV 1",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/rs/RTV1.rs.png",
+      "streamUrls": [
+        "rtsp://212.200.255.151/rtv1"
+      ],
+      "category": "Entertainment",
+      "languages": [],
+      "_category": "entertainment"
+    },
+    {
+      "id": "RTV2.rs",
+      "name": "RTV 2",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/rs/RTV2.rs.png",
+      "streamUrls": [
+        "rtsp://212.200.255.151/rtv2"
+      ],
+      "category": "Entertainment",
+      "languages": [],
+      "_category": "entertainment"
+    },
+    {
+      "id": "RTVNoviPazar.rs",
+      "name": "RTV Novi Pazar",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/rs/RTVNoviPazar.rs.png",
+      "streamUrls": [
+        "https://tv.rtvnp.rs/stream.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": [],
+      "_category": "entertainment"
+    },
+    {
+      "id": "SandzakTV.rs",
+      "name": "Sandzak TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/rs/SandzakTV.rs.png",
+      "streamUrls": [
+        "https://streaming.iptv.nextfiber.rs/nxt004/master.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": [],
+      "_category": "entertainment"
+    },
+    {
+      "id": "Sochi24.ru",
+      "name": "Sochi24",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Sochi24.ru.png",
+      "streamUrls": [
+        "http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": [],
+      "_category": "entertainment"
+    },
+    {
+      "id": "TVKragujevac.rs",
+      "name": "TV Kragujevac",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/rs/TVKragujevac.rs.png",
+      "streamUrls": [
+        "https://edge-rs-03.maksnet.tv/rtvkg/uzivo/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": [],
+      "_category": "entertainment"
+    },
+    {
+      "id": "TVPanon.rs",
+      "name": "TV Panon",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/rs/TVPanon.rs.png",
+      "streamUrls": [
+        "https://stream2.nmih.hu:4102/live.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": [],
+      "_category": "entertainment"
+    },
+    {
+      "id": "TVPiKanal.rs",
+      "name": "TV Pi Kanal",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/rs/TVPiKanal.rs.png",
+      "streamUrls": [
+        "https://stream.pikanal.rs/pikanal/pgm.m3u8"
       ],
       "category": "Entertainment",
       "languages": [],
@@ -76607,17 +76742,6 @@
       "_category": "religious"
     },
     {
-      "id": "RasoulallahTv.ir",
-      "name": "RasoulallahTv",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ir/RasoulallahTv.ir.png",
-      "streamUrls": [
-        "https://avr.host247.net/live/rasoulallahtv/playlist.m3u8"
-      ],
-      "category": "Religious",
-      "languages": [],
-      "_category": "religious"
-    },
-    {
       "id": "4E.gr",
       "name": "4E",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gr/4E.gr.png",
@@ -78197,6 +78321,17 @@
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=sivantv.com",
       "streamUrls": [
         "https://yuppnimresmum.akamaized.net/120723/smil:sivantempletv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
+      ],
+      "category": "Religious",
+      "languages": [],
+      "_category": "religious"
+    },
+    {
+      "id": "TVHram.rs",
+      "name": "TV Hram",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/rs/TVHram.rs.png",
+      "streamUrls": [
+        "https://vod1.laki.eu/live/hram/index.m3u8"
       ],
       "category": "Religious",
       "languages": [],
@@ -88719,7 +88854,7 @@
     {
       "id": "CinemaxClassics.us",
       "name": "Cinemax Classics",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=cinemax.com",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/330px-Cinemax_2016.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "http://23.237.104.106:8080/USA_5STARMAX/index.m3u8"
       ],
@@ -95670,6 +95805,6 @@
       "_category": "sports"
     }
   ],
-  "count": 8439,
-  "generated_at": "2026-11-19T12:30:31.632039"
+  "count": 8451,
+  "generated_at": "2026-11-19T22:54:49.605585"
 }
