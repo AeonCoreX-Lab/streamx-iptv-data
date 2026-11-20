@@ -1430,7 +1430,8 @@
       "name": "Eagle News",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/EagleNews.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/Eagle/DASH-FTA/Eagle.mpd"
+        "https://cdn4.skygo.mn/live/disk1/Eagle/DASH-FTA/Eagle.mpd",
+        "https://cdn4.skygo.mn/live/disk1/Eagle/HLSv3-FTA/Eagle.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -6006,16 +6007,6 @@
       "languages": []
     },
     {
-      "id": "AagaazTimes.in",
-      "name": "Aagaaz Times",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://live1.ottlive.co.in/aagaaztimes/index.m3u8"
-      ],
-      "category": "News",
-      "languages": []
-    },
-    {
       "id": "AshwaveegaNews24x7.in",
       "name": "Ashwaveega News 24x7",
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
@@ -6151,26 +6142,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/lb/ALWifakNewsTV.lb.png",
       "streamUrls": [
         "http://alwifaklive.info:1935/live/myStream/playlist.m3u8"
-      ],
-      "category": "News",
-      "languages": []
-    },
-    {
-      "id": "MyUkrainaTV.ua",
-      "name": "My-Ukraina TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/MyUkrainaTV.ua.png",
-      "streamUrls": [
-        "http://stream.mcquack.net/442/index.m3u8"
-      ],
-      "category": "News",
-      "languages": []
-    },
-    {
-      "id": "OstWest24.de",
-      "name": "Ost West 24",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/TV2_regions.png/330px-TV2_regions.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "streamUrls": [
-        "http://stream.mcquack.net/455/index.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -6788,6 +6759,46 @@
       "streamUrls": [
         "https://livestream.unlimitedcdn.com/sanjhatv/index.m3u8",
         "https://sanjhatv.kableone.com/sanjhatv/master.m3u8"
+      ],
+      "category": "News",
+      "languages": []
+    },
+    {
+      "id": "CNNHeadlines.us",
+      "name": "CNN Headlines",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/CNNHeadlines.us.png",
+      "streamUrls": [
+        "https://amg01918-cnnus-amg01918c1-vizio-us-1813.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnheadlines-vizious/playlist.m3u8"
+      ],
+      "category": "News",
+      "languages": []
+    },
+    {
+      "id": "KurirTV.rs",
+      "name": "Kurir TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/rs/KurirTV.rs.png",
+      "streamUrls": [
+        "https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/720p/720p.m3u8"
+      ],
+      "category": "News",
+      "languages": []
+    },
+    {
+      "id": "LocalNow.us",
+      "name": "Local Now",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=localnow.com",
+      "streamUrls": [
+        "https://localnow-vizio.amagi.tv/playlist.m3u8"
+      ],
+      "category": "News",
+      "languages": []
+    },
+    {
+      "id": "WFTSTV321.us",
+      "name": "WFTS-TV 32.1",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/WFTSTV321.us.png",
+      "streamUrls": [
+        "https://amg01438-amg01438c12-vizio-us-10904.playouts.now.amagi.tv/playlist.m3u8"
       ],
       "category": "News",
       "languages": []
