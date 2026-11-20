@@ -67,8 +67,8 @@
       "name": "Belarus-5",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/by/Belarus5.by.png",
       "streamUrls": [
-        "https://streaming.thestream.cyou/live/7001.m3u8",
         "https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
+        "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8",
         "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8"
       ],
       "category": "Sports",
@@ -324,19 +324,9 @@
       "name": "MNB Sport",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/MNBSport.mn.png",
       "streamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/MNBSport/HLSv3-FTA/MNBSport.m3u8",
         "https://cdn4.skygo.mn/live/disk1/MNBSport/DASH-FTA/MNBSport.mpd",
         "https://live.mnb.mn/hls/mnb_sport.stream.m3u8"
-      ],
-      "category": "Sports",
-      "genre": "Sports"
-    },
-    {
-      "id": "MatchStrana.ru",
-      "name": "Match! Strana",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/MatchStrana.ru.png",
-      "streamUrls": [
-        "http://stream.mcquack.net/143/index.m3u8",
-        "http://ukr.ukrainske.tv/134/keytvainua/video.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -515,9 +505,9 @@
       "name": "Red Bull TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/at/RedBullTV.at.png",
       "streamUrls": [
+        "https://46cfeb23c7f74853bba7a256655a3119.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-582-WORBDACHDEFAST-WHALETVPLUS/582/whaletvplus/hls/master/playlist.m3u8",
         "https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8",
-        "https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8",
-        "https://db34cc6127ac459db55cab5f97cd66b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-680-WORBAUENFAST-WHALETVPLUS/680/whaletvplus/hls/master/playlist.m3u8"
+        "https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -667,8 +657,8 @@
       "name": "Turkmenistan Sport",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tm/TurkmenistanSport.tm.png",
       "streamUrls": [
-        "https://alpha.tv.online.tm/hls/ch004.m3u8",
-        "https://alpha.tv.online.tm/legacyhls/ch004.m3u8"
+        "https://alpha.tv.online.tm/legacyhls/ch004.m3u8",
+        "https://alpha.tv.online.tm/hls/ch004.m3u8"
       ],
       "category": "Sports",
       "genre": "Sports"
@@ -897,17 +887,6 @@
       "genre": "Sports"
     },
     {
-      "id": "BoksTV.ru",
-      "name": "Boks TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/BoksTV.ru.png",
-      "streamUrls": [
-        "http://31.148.48.15/Boks_TV/index.m3u8"
-      ],
-      "category": "Sports",
-      "languages": [],
-      "genre": "Sports"
-    },
-    {
       "id": "KHL.ru",
       "name": "KHL",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/KHL.ru.png",
@@ -924,39 +903,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/KHLPrime.ru.png",
       "streamUrls": [
         "http://stream.mcquack.net/178/index.m3u8"
-      ],
-      "category": "Sports",
-      "languages": [],
-      "genre": "Sports"
-    },
-    {
-      "id": "MatchArena.ru",
-      "name": "Match! Arena",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/MatchArena.ru.png",
-      "streamUrls": [
-        "http://stream.mcquack.net/163/index.m3u8"
-      ],
-      "category": "Sports",
-      "languages": [],
-      "genre": "Sports"
-    },
-    {
-      "id": "MatchBoets.ru",
-      "name": "Match! Boets",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/MatchBoets.ru.png",
-      "streamUrls": [
-        "http://stream.mcquack.net/112/index.m3u8"
-      ],
-      "category": "Sports",
-      "languages": [],
-      "genre": "Sports"
-    },
-    {
-      "id": "MatchIgra.ru",
-      "name": "Match! Igra",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/MatchIgra.ru.png",
-      "streamUrls": [
-        "http://stream.mcquack.net/188/index.m3u8"
       ],
       "category": "Sports",
       "languages": [],
@@ -1126,9 +1072,9 @@
       "name": "Strongman Champions League",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/StrongmanChampionsLeague.uk.png",
       "streamUrls": [
-        "https://rightsboosterltd-scl-1-be.samsung.wurl.tv/playlist.m3u8",
-        "https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8",
-        "https://rightsboosterltd-scl-1-no.samsung.wurl.tv/playlist.m3u8"
+        "https://cb4748b76e2c4b11bb5790666256964b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_StrongmanChampionsLeague/playlist.m3u8",
+        "https://rightsboosterltd-scl-1-no.samsung.wurl.tv/playlist.m3u8",
+        "https://rightsboosterltd-scl-1-us.xumo.wurl.tv/playlist.m3u8"
       ],
       "category": "Sports",
       "languages": []
@@ -1253,7 +1199,7 @@
     {
       "id": "SportTV.by",
       "name": "Sport TV",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=beltelecom.by",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/View_of_the_MTV_Studios_building_from_Hawley_Crescent_-_geograph.org.uk_-_5425610.jpg/330px-View_of_the_MTV_Studios_building_from_Hawley_Crescent_-_geograph.org.uk_-_5425610.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "http://media1.skifnet.by/sporttv/index.m3u8"
       ],
@@ -1286,16 +1232,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/br/ESPN4.br.png",
       "streamUrls": [
         "http://181.78.197.59:8000/play/a07n/index.m3u8"
-      ],
-      "category": "Sports",
-      "languages": []
-    },
-    {
-      "id": "UDAR.ru",
-      "name": "UDAR",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/330px-REN_TV_logo_2017.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "streamUrls": [
-        "http://5.188.159.128:8070/udar/index.m3u8"
       ],
       "category": "Sports",
       "languages": []
@@ -1337,76 +1273,6 @@
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=matchtv.ru",
       "streamUrls": [
         "http://stream.mcquack.net/169/index.m3u8"
-      ],
-      "category": "Sports",
-      "languages": []
-    },
-    {
-      "id": "SetantaSports1Eurasia.ie",
-      "name": "Setanta Sports 1 Eurasia",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ie/SetantaSports1Eurasia.ie.png",
-      "streamUrls": [
-        "http://stream.mcquack.net/234/index.m3u8"
-      ],
-      "category": "Sports",
-      "languages": []
-    },
-    {
-      "id": "SetantaSports2Eurasia.ie",
-      "name": "Setanta Sports 2 Eurasia",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ie/SetantaSports2Eurasia.ie.png",
-      "streamUrls": [
-        "http://stream.mcquack.net/235/index.m3u8"
-      ],
-      "category": "Sports",
-      "languages": []
-    },
-    {
-      "id": "Sport1Baltic.ua",
-      "name": "Sport 1 Baltic",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/Sport1Baltic.ua.png",
-      "streamUrls": [
-        "http://stream.mcquack.net/461/index.m3u8"
-      ],
-      "category": "Sports",
-      "languages": []
-    },
-    {
-      "id": "DynamoKyivTV.ua",
-      "name": "Dynamo Kyiv TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/DynamoKyivTV.ua.png",
-      "streamUrls": [
-        "http://stream.mcquack.net/396/index.m3u8"
-      ],
-      "category": "Sports",
-      "languages": []
-    },
-    {
-      "id": "Go3Sport1.ee",
-      "name": "Go3 Sport 1",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ee/Go3Sport1.ee.png",
-      "streamUrls": [
-        "http://stream.mcquack.net/416/index.m3u8"
-      ],
-      "category": "Sports",
-      "languages": []
-    },
-    {
-      "id": "Sport4.ua",
-      "name": "Sport 4",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/Sport4.ua.png",
-      "streamUrls": [
-        "http://stream.mcquack.net/394/index.m3u8"
-      ],
-      "category": "Sports",
-      "languages": []
-    },
-    {
-      "id": "Sport5.ua",
-      "name": "Sport 5",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/View_of_the_MTV_Studios_building_from_Hawley_Crescent_-_geograph.org.uk_-_5425610.jpg/330px-View_of_the_MTV_Studios_building_from_Hawley_Crescent_-_geograph.org.uk_-_5425610.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "streamUrls": [
-        "http://stream.mcquack.net/212/index.m3u8"
       ],
       "category": "Sports",
       "languages": []
@@ -1704,9 +1570,9 @@
       "name": "FIFA+",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/FIFAPlus.uk.png",
       "streamUrls": [
+        "https://jmp2.uk/plu-660c29b5aec9680008f5b4a4.m3u8",
         "https://jmp2.uk/plu-660bfc7b2433010008def3e3.m3u8",
-        "https://jmp2.uk/plu-66997e8d3a4ad20008e50be9.m3u8",
-        "https://jmp2.uk/plu-660c29b5aec9680008f5b4a4.m3u8"
+        "https://jmp2.uk/plu-660c2a2d2433010008df7e92.m3u8"
       ],
       "country": "UK",
       "category": "Sports",
@@ -1990,76 +1856,6 @@
       "languages": []
     },
     {
-      "id": "DiviSport.ua",
-      "name": "DiviSport",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/7/76/UTV_logo_ITV.svg/330px-UTV_logo_ITV.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "streamUrls": [
-        "http://stream.mcquack.net/457/index.m3u8"
-      ],
-      "category": "Sports",
-      "languages": []
-    },
-    {
-      "id": "Equalympic.ua",
-      "name": "Equalympic",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/Equalympic.ua.png",
-      "streamUrls": [
-        "http://stream.mcquack.net/485/index.m3u8"
-      ],
-      "category": "Sports",
-      "languages": []
-    },
-    {
-      "id": "MaincastCybersport.ua",
-      "name": "Maincast Cybersport",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "http://stream.mcquack.net/487/index.m3u8"
-      ],
-      "category": "Sports",
-      "languages": []
-    },
-    {
-      "id": "MaincastSport.ua",
-      "name": "Maincast Sport",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "http://stream.mcquack.net/490/index.m3u8"
-      ],
-      "category": "Sports",
-      "languages": []
-    },
-    {
-      "id": "Sport1.ua",
-      "name": "Sport 1",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/Sport1.ua.png",
-      "streamUrls": [
-        "http://stream.mcquack.net/391/index.m3u8"
-      ],
-      "category": "Sports",
-      "languages": []
-    },
-    {
-      "id": "Sport2.ua",
-      "name": "Sport 2",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/Sport2.ua.png",
-      "streamUrls": [
-        "http://stream.mcquack.net/392/index.m3u8"
-      ],
-      "category": "Sports",
-      "languages": []
-    },
-    {
-      "id": "Sport3.ua",
-      "name": "Sport 3",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/Sport3.ua.png",
-      "streamUrls": [
-        "http://stream.mcquack.net/393/index.m3u8"
-      ],
-      "category": "Sports",
-      "languages": []
-    },
-    {
       "id": "DAZN3.uk",
       "name": "DAZN 3",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/DAZN3.uk.png",
@@ -2127,7 +1923,8 @@
       "name": "TNT Sports",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cl/TNTSports.cl.png",
       "streamUrls": [
-        "http://205.235.6.29:8000/play/a0xa/index.m3u8"
+        "http://205.235.6.29:8000/play/a0xa/index.m3u8",
+        "http://209.45.101.130:8040/play/a03s/index.m3u8"
       ],
       "category": "Sports",
       "languages": []
@@ -2279,7 +2076,7 @@
       "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/330px-Nickelodeon_2023_logo_%28outline%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "https://live77cdn2.antenaplay.ro/live2_sport07/live2_sport07_3500k.m3u8",
-        "https://live77cdn2.antenaplay.ro/live2_sdi09/live2_sdi09_2600k.m3u8",
+        "https://live77cdn2.antenaplay.ro/live2_srt9/live2_srt9_3000k.m3u8",
         "https://live77cdn2.antenaplay.ro/live2_sdi03/live2_sdi03_3000k.m3u8"
       ],
       "country": "RO",
@@ -2547,8 +2344,28 @@
       ],
       "category": "Sports",
       "languages": []
+    },
+    {
+      "id": "PickleballTV.us",
+      "name": "Pickleball TV",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pickleballtv.com",
+      "streamUrls": [
+        "https://amg27547-amg27547c1-amgplt0022.playout.now3.amagi.tv/playlist.m3u8"
+      ],
+      "category": "Sports",
+      "languages": []
+    },
+    {
+      "id": "Eurosport.in",
+      "name": "Eurosport",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/Eurosport.in.png",
+      "streamUrls": [
+        "http://116.90.120.149:8000/play/a118/index.m3u8"
+      ],
+      "category": "Sports",
+      "languages": []
     }
   ],
-  "count": 240,
-  "generated_at": "2026-11-20T05:49:54.938563"
+  "count": 222,
+  "generated_at": "2026-11-20T16:43:16.362111"
 }
