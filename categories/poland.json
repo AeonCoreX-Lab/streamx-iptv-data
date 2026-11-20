@@ -302,8 +302,8 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "http://92.114.85.87:8018/play/a009/index.m3u8",
-        "https://nosignal1.antenaplay.ro/hls/fb-festival-hd/index.m3u8",
-        "https://dash3.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8"
+        "https://dash3.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8",
+        "https://nosignal1.antenaplay.ro/hls/fb-festival-hd/index.m3u8"
       ],
       "category": "Poland",
       "languages": []
@@ -731,8 +731,8 @@
       "name": "BTB Info",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/BTBInfo.pl.png",
       "streamUrls": [
-        "https://panel.btb.j00r.us/memfs/928cfb64-fed7-4c27-9937-f5ad72d9d73c.m3u8",
         "https://emisja2.btb.j00r.us/iptv/session/4/live.m3u8",
+        "https://panel.btb.j00r.us/memfs/928cfb64-fed7-4c27-9937-f5ad72d9d73c.m3u8",
         "https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8"
       ],
       "country": "PL",
@@ -851,9 +851,19 @@
     {
       "id": "RADIOCLUBDJTV.pl",
       "name": "RADIO CLUB DJ TV",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/DJ_Marwan_Bliss.png/330px-DJ_Marwan_Bliss.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "https://radioclubdj.pro/stream/tv.m3u8"
+      ],
+      "category": "Poland",
+      "languages": []
+    },
+    {
+      "id": "BialogardzkaTelewizjaKablowa.pl",
+      "name": "Bialogardzka Telewizja Kablowa",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/BialogardzkaTelewizjaKablowa.pl.png",
+      "streamUrls": [
+        "https://bsmbialogard.pl/live/index.m3u8"
       ],
       "category": "Poland",
       "languages": []
