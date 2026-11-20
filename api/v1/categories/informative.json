@@ -102,9 +102,9 @@
       "name": "BBC Earth",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/BBCEarth.uk.png",
       "streamUrls": [
-        "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8",
         "https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8",
-        "https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8"
+        "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8",
+        "http://88.212.7.14/live/test_bbc_eartch_hevc/playlist.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -1017,8 +1017,8 @@
       "name": "Yaslyk",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tm/Yaslyk.tm.png",
       "streamUrls": [
-        "https://alpha.tv.online.tm/legacyhls/ch002.m3u8",
-        "https://alpha.tv.online.tm/hls/ch002.m3u8"
+        "https://alpha.tv.online.tm/hls/ch002.m3u8",
+        "https://alpha.tv.online.tm/legacyhls/ch002.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -1051,8 +1051,8 @@
       "name": "CNA Originals",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/sg/CNAOriginals.sg.png",
       "streamUrls": [
-        "https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8",
-        "https://amg01082-cna-amg01082c1-vidaa-gb-7580.playouts.now.amagi.tv/playlist.m3u8"
+        "https://amg01082-cna-amg01082c1-vidaa-gb-7580.playouts.now.amagi.tv/playlist.m3u8",
+        "https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -1250,8 +1250,8 @@
       "name": "Wonder",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/Wonder.uk.png",
       "streamUrls": [
-        "https://lds-wonder-rakuten.amagi.tv/playlist.m3u8",
         "https://lds-wonder-plex.amagi.tv/playlist.m3u8",
+        "https://lds-wonder-rakuten.amagi.tv/playlist.m3u8",
         "https://wonder-samsung-uk.amagi.tv/playlist.m3u8"
       ],
       "category": "Informative",
@@ -1745,7 +1745,7 @@
     {
       "id": "RChannel.th",
       "name": "R Channel",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/2024_Disney_Channel_text_logo.svg/330px-2024_Disney_Channel_text_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=r-channel.net",
       "streamUrls": [
         "http://180.180.243.239/streams/3/hls"
       ],
@@ -1919,8 +1919,8 @@
       "name": "Pluto TV Verdenskrigene",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-677d397b60fbeb00084b0bff.m3u8",
-        "https://jmp2.uk/plu-677d3a424bd63600082f7baf.m3u8"
+        "https://jmp2.uk/plu-677d3a424bd63600082f7baf.m3u8",
+        "https://jmp2.uk/plu-677d397b60fbeb00084b0bff.m3u8"
       ],
       "country": "SE",
       "category": "Informative",
@@ -2555,8 +2555,18 @@
       ],
       "category": "Informative",
       "languages": []
+    },
+    {
+      "id": "EBCGeneralEducation.kh",
+      "name": "EBC General Education",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/kh/EBCGeneralEducation.kh.png",
+      "streamUrls": [
+        "https://iptv.ebc.edu.kh/iptv/channel/1.m3u8"
+      ],
+      "category": "Informative",
+      "languages": []
     }
   ],
-  "count": 243,
-  "generated_at": "2026-11-19T22:54:49.896034"
+  "count": 244,
+  "generated_at": "2026-11-20T05:49:54.898647"
 }
