@@ -7521,8 +7521,8 @@
       "name": "TV8",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/TV8.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/TV8HD/DASH-FTA/TV8HD.mpd",
-        "https://cdn4.skygo.mn/live/disk1/TV8HD/HLSv3-FTA/TV8HD.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/TV8HD/HLSv3-FTA/TV8HD.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/TV8HD/DASH-FTA/TV8HD.mpd"
       ],
       "category": "News",
       "languages": []
@@ -12583,7 +12583,7 @@
       "name": "Edutainment TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/EdutainmentTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/Education/DASH-FTA/Education.mpd"
+        "https://cdn4.skygo.mn/live/disk1/Education/HLSv3-FTA/Education.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -13562,6 +13562,7 @@
       "name": "C1",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/C1.mn.png",
       "streamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/C1/DASH-FTA/C1.mpd",
         "https://cdn4.skygo.mn/live/disk1/C1/HLSv3-FTA/C1.m3u8"
       ],
       "country": "MN",
@@ -17606,7 +17607,7 @@
     {
       "id": "ONVFamily.vn",
       "name": "ON V Family",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=vtvcab.vn",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/f/fb/Challenge_logo_2016.png/330px-Challenge_logo_2016.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "https://vmttv.dpdns.org/tv360?id=187"
       ],
@@ -18494,8 +18495,58 @@
       ],
       "category": "Entertainment",
       "languages": []
+    },
+    {
+      "id": "BBSTV.ug",
+      "name": "BBS TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ug/BBSTV.ug.png",
+      "streamUrls": [
+        "https://bbstv.ug/hls/ch01/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "CanalCHD.co",
+      "name": "Canal CHD",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/CanalCHD.co.png",
+      "streamUrls": [
+        "https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "DRTVInternational.cg",
+      "name": "DRTV International",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cg/DRTVInternational.cg.png",
+      "streamUrls": [
+        "https://vps122407.serveur-vps.net/hls/drtv.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "DurangaldekoTelebista.es",
+      "name": "Durangaldeko Telebista",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/DurangaldekoTelebista.es.png",
+      "streamUrls": [
+        "https://nlb2-live.emitstream.com/hls/5f9asjsehd7gmyxsdpzu/master.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "OliTV.cl",
+      "name": "Oli TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cl/OliTV.cl.png",
+      "streamUrls": [
+        "https://v4.tustreaming.cl/retroplaytv/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
     }
   ],
-  "count": 1797,
-  "generated_at": "2026-11-20T16:43:16.549514"
+  "count": 1802,
+  "generated_at": "2026-11-21T01:05:45.461415"
 }
