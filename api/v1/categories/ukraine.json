@@ -57,8 +57,8 @@
       "name": "Espreso TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/EspresoTV.ua.png",
       "streamUrls": [
-        "https://dash4.antik.sk/live/test_espresso/playlist.m3u8",
         "https://dash2.antik.sk/live/test_espresso/playlist.m3u8",
+        "https://dash4.antik.sk/live/test_espresso/playlist.m3u8",
         "https://api-tv.ipnet.ua/api/v1/manifest/2118742594.m3u8"
       ],
       "category": "Ukraine",
@@ -69,8 +69,8 @@
       "name": "FREEDOM",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/FREEDOM.ua.png",
       "streamUrls": [
-        "https://dash4.antik.sk/live/test_uatv/playlist.m3u8",
-        "https://dash2.antik.sk/live/test_uatv/playlist.m3u8"
+        "https://dash2.antik.sk/live/test_uatv/playlist.m3u8",
+        "https://dash4.antik.sk/live/test_uatv/playlist.m3u8"
       ],
       "category": "Ukraine",
       "languages": []
@@ -160,8 +160,8 @@
       "name": "SK 1",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/SK1.ua.png",
       "streamUrls": [
-        "http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8",
-        "http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8"
+        "http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8",
+        "http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8"
       ],
       "category": "Ukraine",
       "languages": []
@@ -286,9 +286,9 @@
       "name": "TVA",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/TVA.ua.png",
       "streamUrls": [
-        "http://rtsp.cdn.ua/tva.ua_live/livestream/playlist.m3u8",
         "http://hls.cdn.ua/tva.ua_live/livestream/chunklist_w396178779.m3u8",
-        "http://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8"
+        "http://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8",
+        "http://rtsp.cdn.ua/tva.ua_live/livestream/playlist.m3u8"
       ],
       "country": "UA",
       "category": "Ukraine",
@@ -375,16 +375,6 @@
       "languages": []
     },
     {
-      "id": "Reporter.ua",
-      "name": "Reporter",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/Reporter.ua.png",
-      "streamUrls": [
-        "http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8"
-      ],
-      "category": "Ukraine",
-      "languages": []
-    },
-    {
       "id": "NovynyLive.ua",
       "name": "Novyny.Live",
       "logoUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/1/16/%D0%92%D1%83%D0%BB%D0%B8%D1%86%D1%8F_%D0%9C%D0%B5%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0_42_%D0%9A%D0%B8%D1%97%D0%B2_2017_01.jpg/330px-%D0%92%D1%83%D0%BB%D0%B8%D1%86%D1%8F_%D0%9C%D0%B5%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0_42_%D0%9A%D0%B8%D1%97%D0%B2_2017_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -432,8 +422,8 @@
       "name": "Pervyy gorodskoy. Odessa",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/PervyygorodskoyOdessa.ua.png",
       "streamUrls": [
-        "http://91.194.79.46:8081/stream1/channel1/playlist.m3u8",
-        "http://91.194.79.46:8081/stream2/channel2/playlist.m3u8"
+        "http://91.194.79.46:8081/stream2/channel2/playlist.m3u8",
+        "http://91.194.79.46:8081/stream1/channel1/playlist.m3u8"
       ],
       "country": "UA",
       "category": "Ukraine",
@@ -632,6 +622,6 @@
       "languages": []
     }
   ],
-  "count": 61,
-  "generated_at": "2026-11-21T21:27:35.716502"
+  "count": 60,
+  "generated_at": "2026-11-22T05:14:55.906391"
 }
