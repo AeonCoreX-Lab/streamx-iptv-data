@@ -2329,8 +2329,7 @@
       "name": "Mongolian News Channel",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/MongolianNewsChannel.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/MNCTV/DASH-FTA/MNCTV.mpd",
-        "https://cdn4.skygo.mn/live/disk1/MNCTV/HLSv3-FTA/MNCTV.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/MNCTV/DASH-FTA/MNCTV.mpd"
       ],
       "category": "News",
       "languages": []
@@ -6386,26 +6385,6 @@
       "languages": []
     },
     {
-      "id": "100NEWS.ua",
-      "name": "100% NEWS",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/100NEWS.ua.png",
-      "streamUrls": [
-        "http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8"
-      ],
-      "category": "News",
-      "languages": []
-    },
-    {
-      "id": "ObshchestvennoeNezavisimoeTelevidenie.ua",
-      "name": "Obshchestvennoe Nezavisimoe Televidenie",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ua/ObshchestvennoeNezavisimoeTelevidenie.ua.png",
-      "streamUrls": [
-        "http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8"
-      ],
-      "category": "News",
-      "languages": []
-    },
-    {
       "id": "MNews.pk",
       "name": "M News",
       "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/BNC_logo_2021.png/330px-BNC_logo_2021.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -6790,8 +6769,18 @@
       ],
       "category": "News",
       "languages": []
+    },
+    {
+      "id": "ElNuevoDiarioTV.do",
+      "name": "El Nuevo Diario TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/ElNuevoDiarioTV.do.png",
+      "streamUrls": [
+        "https://nuevodiario01.streamprolive.com/hls/live.m3u8"
+      ],
+      "category": "News",
+      "languages": []
     }
   ],
-  "count": 654,
-  "generated_at": "2026-11-22T21:35:12.543754"
+  "count": 653,
+  "generated_at": "2026-11-23T05:53:59.430722"
 }
