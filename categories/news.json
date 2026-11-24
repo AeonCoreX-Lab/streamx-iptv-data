@@ -1389,6 +1389,7 @@
       "name": "ETV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/ETV.mn.png",
       "streamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/ETV/HLSv3-FTA/ETV.m3u8",
         "https://cdn4.skygo.mn/live/disk1/ETV/DASH-FTA/ETV.mpd"
       ],
       "category": "News",
@@ -2307,7 +2308,8 @@
       "name": "Mongolian News Channel",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/MongolianNewsChannel.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/MNCTV/DASH-FTA/MNCTV.mpd"
+        "https://cdn4.skygo.mn/live/disk1/MNCTV/DASH-FTA/MNCTV.mpd",
+        "https://cdn4.skygo.mn/live/disk1/MNCTV/HLSv3-FTA/MNCTV.m3u8"
       ],
       "category": "News",
       "languages": []
@@ -6013,16 +6015,6 @@
       "languages": []
     },
     {
-      "id": "ElyssaTV.tn",
-      "name": "Elyssa TV",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/The_Pitt_Max_series_logo.svg/330px-The_Pitt_Max_series_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "streamUrls": [
-        "https://tv.elyssatv.com/live/master.m3u8"
-      ],
-      "category": "News",
-      "languages": []
-    },
-    {
       "id": "EkamraBharatOdia.in",
       "name": "Ekamra Bharat Odia",
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
@@ -6726,6 +6718,26 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/ElNuevoDiarioTV.do.png",
       "streamUrls": [
         "https://nuevodiario01.streamprolive.com/hls/live.m3u8"
+      ],
+      "category": "News",
+      "languages": []
+    },
+    {
+      "id": "AJNetNews.in",
+      "name": "AJ Net News",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/AJNetNews.in.png",
+      "streamUrls": [
+        "http://stream.logichost.in:1935/AJNET/live/chunklist_w1891201465.m3u8"
+      ],
+      "category": "News",
+      "languages": []
+    },
+    {
+      "id": "TVCAJUIWEB.br",
+      "name": "TV CAJUI WEB",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=instagram.com",
+      "streamUrls": [
+        "https://cdn.live.br1.jmvstream.com/webtv/tvcajui/playlist/playlist.m3u8"
       ],
       "category": "News",
       "languages": []
