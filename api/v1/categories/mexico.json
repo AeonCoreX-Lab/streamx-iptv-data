@@ -26,8 +26,8 @@
       "name": "Azteca Internacional",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/AztecaInternacional.mx.png",
       "streamUrls": [
-        "http://167.249.23.102:8000/play/a0a3/index.m3u8",
-        "https://azt-mun.otteravision.com/azt/mun/mun.m3u8"
+        "https://azt-mun.otteravision.com/azt/mun/mun.m3u8",
+        "http://167.249.23.102:8000/play/a0a3/index.m3u8"
       ],
       "category": "Mexico",
       "languages": []
@@ -37,8 +37,8 @@
       "name": "Canal 26",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/Canal26.mx.png",
       "streamUrls": [
-        "https://5fe2654d6127d.streamlock.net/telemetrika3/_definst_/videotelemetrika3/playlist.m3u8",
-        "https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8"
+        "https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8",
+        "https://5fe2654d6127d.streamlock.net/telemetrika3/_definst_/videotelemetrika3/playlist.m3u8"
       ],
       "category": "Mexico",
       "languages": []
@@ -100,7 +100,7 @@
       "streamUrls": [
         "http://15.204.196.147:22880/RECEPCION-GOLDEN_LAT-FHD/video.m3u8",
         "http://168.196.127.137:6001/play/a06y/index.m3u8",
-        "https://rpn.bozztv.com/gusa/gusa-goldentv/index.m3u8"
+        "http://138.121.15.230:9002/GOLDEN/index.m3u8"
       ],
       "category": "Mexico",
       "languages": []
@@ -370,7 +370,7 @@
     {
       "id": "ZAZ.mx",
       "name": "ZAZ",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=zaztv.com",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Logotipo-jpg-1-.jpg/330px-Logotipo-jpg-1-.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8"
       ],
@@ -415,6 +415,7 @@
       "name": "Univision Latin America",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/UnivisionLatinAmerica.mx.png",
       "streamUrls": [
+        "http://15.204.246.24:8080/UnivisionHD/index.m3u8",
         "http://138.121.15.230:9002/UNIVISION/index.m3u8",
         "http://190.93.224.42/UNIVISION/index.m3u8"
       ],
@@ -436,8 +437,9 @@
       "name": "Las Estrellas Latin America",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/LasEstrellasLatinAmerica.mx.png",
       "streamUrls": [
-        "https://streaming.onnethn.com/LAS_ESTRELLAS_HD/playlist.m3u8",
-        "http://190.93.224.42/CANAL-LAS-ESTRELLAS/index.m3u8"
+        "http://15.204.246.24:8080/LasEstrellasHD/index.m3u8",
+        "http://190.93.224.42/CANAL-LAS-ESTRELLAS/index.m3u8",
+        "https://streaming.onnethn.com/LAS_ESTRELLAS_HD/playlist.m3u8"
       ],
       "category": "Mexico",
       "languages": []
@@ -458,8 +460,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/DistritoComedia.mx.png",
       "streamUrls": [
         "http://15.204.142.109:22880/TELEVISA-PROVEEDOR-DISTRITO-COMEDIA/index.m3u8",
-        "http://190.61.47.54:8000/play/a028/index.m3u8",
-        "http://138.121.15.230:9002/DISTRITO-COMEDIA/index.m3u8"
+        "http://138.121.15.230:9002/DISTRITO-COMEDIA/index.m3u8",
+        "http://190.61.47.54:8000/play/a028/index.m3u8"
       ],
       "category": "Mexico",
       "languages": []
@@ -562,7 +564,7 @@
       "streamUrls": [
         "http://15.204.196.147:22880/RECEPCION-GOLDEN_EDGE-LATAM-FHD/video.m3u8",
         "http://168.196.127.137:6001/play/a09p/index.m3u8",
-        "http://181.78.12.119:16123/play/ch47/index.m3u8"
+        "http://138.121.15.230:9002/GOLDEN-EDGE/index.m3u8"
       ],
       "country": "MX",
       "category": "Mexico",
@@ -688,8 +690,7 @@
       "name": "Claro Cinema",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/ClaroCinema.mx.png",
       "streamUrls": [
-        "http://45.171.64.30:6060/play/a039/index.m3u8",
-        "http://158.172.217.18:8000/play/a00d/index.m3u8"
+        "http://45.171.64.30:6060/play/a039/index.m3u8"
       ],
       "category": "Mexico",
       "languages": []
@@ -858,8 +859,18 @@
       ],
       "category": "Mexico",
       "languages": []
+    },
+    {
+      "id": "TVMarPuertoVallarta.mx",
+      "name": "TV Mar Puerto Vallarta",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mx/TVMarPuertoVallarta.mx.png",
+      "streamUrls": [
+        "https://5ca9af4645e15.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8"
+      ],
+      "category": "Mexico",
+      "languages": []
     }
   ],
-  "count": 83,
-  "generated_at": "2026-11-24T04:37:39.843371"
+  "count": 84,
+  "generated_at": "2026-11-24T19:20:43.179531"
 }
