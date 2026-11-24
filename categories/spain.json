@@ -98,8 +98,8 @@
       "name": "Bon Dia TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/BonDiaTV.es.png",
       "streamUrls": [
-        "https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8",
-        "https://directes-tv-int.3catdirectes.cat/live-origin/bondia-hls/master.m3u8"
+        "https://directes-tv-int.3catdirectes.cat/live-origin/bondia-hls/master.m3u8",
+        "https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8"
       ],
       "category": "Spain",
       "languages": []
@@ -444,8 +444,8 @@
       "name": "Historia",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/Historia.es.png",
       "streamUrls": [
-        "https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8",
-        "https://d1k3vzh2ivy22k.cloudfront.net/Historia1080.m3u8"
+        "https://d1k3vzh2ivy22k.cloudfront.net/Historia1080.m3u8",
+        "https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8"
       ],
       "category": "Spain",
       "languages": []
@@ -455,8 +455,8 @@
       "name": "La 1",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/La1.es.png",
       "streamUrls": [
-        "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8",
         "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8",
+        "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8",
         "https://ztnr.rtve.es/ztnr/1688877.m3u8"
       ],
       "category": "Spain",
@@ -467,8 +467,9 @@
       "name": "La 1 Canarias",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/La1Canarias.es.png",
       "streamUrls": [
+        "https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main_dvr.m3u8",
         "https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main.m3u8",
-        "https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main_dvr.m3u8"
+        "https://ztnr.rtve.es/ztnr/5190066.m3u8"
       ],
       "category": "Spain",
       "languages": []
@@ -479,7 +480,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/La1Catalunya.es.png",
       "streamUrls": [
         "https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main_dvr.m3u8",
-        "https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main.m3u8"
+        "https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main.m3u8",
+        "https://ztnr.rtve.es/ztnr/3293681.m3u8"
       ],
       "category": "Spain",
       "languages": []
@@ -509,8 +511,8 @@
       "name": "Love The Planet",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/LoveThePlanet.es.png",
       "streamUrls": [
-        "https://amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk-apopw.amagi.tv/playlist/amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk/playlist.m3u8",
-        "https://amg01821-lovetv-amg01821c8-xumo-us-3443.playouts.now.amagi.tv/playlist.m3u8"
+        "https://amg01821-lovetv-amg01821c8-xumo-us-3443.playouts.now.amagi.tv/playlist.m3u8",
+        "https://amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk-apopw.amagi.tv/playlist/amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk/playlist.m3u8"
       ],
       "category": "Spain",
       "languages": []
@@ -616,23 +618,10 @@
       "languages": []
     },
     {
-      "id": "RakutenTVFamilyMovies.es",
-      "name": "Rakuten TV Family Movies",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/RakutenTVFamilyMovies.es.png",
-      "streamUrls": [
-        "https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8",
-        "https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8",
-        "https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8"
-      ],
-      "category": "Spain",
-      "languages": []
-    },
-    {
       "id": "RealMadridTV.es",
       "name": "Real Madrid TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/RealMadridTV.es.png",
       "streamUrls": [
-        "http://90.163.85.113:8093/stream/26/index.m3u8",
         "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8"
       ],
       "category": "Spain",
@@ -705,8 +694,8 @@
       "name": "TVE Internacional Asia-Oceania",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/TVEInternacionalAsiaOceania.es.png",
       "streamUrls": [
-        "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_1080.m3u8",
-        "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_576.m3u8"
+        "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_576.m3u8",
+        "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_1080.m3u8"
       ],
       "category": "Spain",
       "languages": []
@@ -716,8 +705,8 @@
       "name": "TVE Internacional Europe",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/TVEInternacionalEurope.es.png",
       "streamUrls": [
-        "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_576.m3u8",
         "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8",
+        "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_576.m3u8",
         "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tve/live.livx/playlist.m3u8"
       ],
       "category": "Spain",
@@ -728,9 +717,9 @@
       "name": "TVE Star",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/TVEStar.es.png",
       "streamUrls": [
+        "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8",
         "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8",
-        "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8",
-        "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8"
+        "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8"
       ],
       "category": "Spain",
       "languages": []
@@ -903,8 +892,8 @@
       "name": "AXN CEE",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/AXNCEE.es.png",
       "streamUrls": [
-        "http://88.212.15.50/live/axn_hun/index.m3u8",
         "http://88.212.15.50/live/test_axn/playlist.m3u8",
+        "http://88.212.15.50/live/axn_hun/index.m3u8",
         "https://cronos.mangora1.cfd/axy/usergend3h5jkc9rnd.m3u8"
       ],
       "category": "Spain",
@@ -915,7 +904,6 @@
       "name": "24 Horas Catalunya",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/24HorasCatalunya.es.png",
       "streamUrls": [
-        "https://rtvelivestream.rtve.es/rtvesec/cat/24h_cat_main_dvr.m3u8",
         "https://ztnr.rtve.es/ztnr/4952053.m3u8"
       ],
       "category": "Spain",
@@ -949,6 +937,7 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/24Horas.es.png",
       "streamUrls": [
         "https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/24h/live.livx/playlist.m3u8",
+        "https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8",
         "https://ztnr.rtve.es/ztnr/1694255.m3u8"
       ],
       "category": "Spain",
@@ -980,16 +969,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/XPTV2.es.png",
       "streamUrls": [
         "https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8"
-      ],
-      "category": "Spain",
-      "languages": []
-    },
-    {
-      "id": "EsteponaTelevision.es",
-      "name": "Estepona Television",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/EsteponaTelevision.es.png",
-      "streamUrls": [
-        "https://cloudvideo.servers10.com:8081/8022/index.m3u8"
       ],
       "category": "Spain",
       "languages": []
@@ -1140,7 +1119,7 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/7TV.es.png",
       "streamUrls": [
         "https://streaming004.gestec-video.com/hls/7TVMALAGA.m3u8",
-        "https://streaming004.gestec-video.com/hls/7TVJAEN.m3u8",
+        "https://streaming004.gestec-video.com/hls/7TVJEREZ.m3u8",
         "https://streaming004.gestec-video.com/hls/7TVCORDOBA.m3u8"
       ],
       "category": "Spain",
@@ -1373,6 +1352,36 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/TVGPequerrechos.es.png",
       "streamUrls": [
         "https://crtvg-xabarinr1-schlive.flumotion.cloud/crtvglive/smil:channel6PRG.smil/playlist.m3u8"
+      ],
+      "category": "Spain",
+      "languages": []
+    },
+    {
+      "id": "CanalTerrassa.es",
+      "name": "Canal Terrassa",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/CanalTerrassa.es.png",
+      "streamUrls": [
+        "https://ingest2-video.streaming-pro.com/canalterrassa/stream/playlist.m3u8"
+      ],
+      "category": "Spain",
+      "languages": []
+    },
+    {
+      "id": "Tele7.es",
+      "name": "Tele 7",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/Tele7.es.png",
+      "streamUrls": [
+        "https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8"
+      ],
+      "category": "Spain",
+      "languages": []
+    },
+    {
+      "id": "VOTV.es",
+      "name": "VOTV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/VOTV.es.png",
+      "streamUrls": [
+        "https://ingest2-video.streaming-pro.com/votv/streaming_web/playlist.m3u8"
       ],
       "category": "Spain",
       "languages": []
