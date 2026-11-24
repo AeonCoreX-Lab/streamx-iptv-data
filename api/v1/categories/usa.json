@@ -3633,15 +3633,6 @@
       "category": "USA"
     },
     {
-      "id": "TalkinLiveClassicsTV.us",
-      "name": "Talkin Live Classics TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/TalkinLiveClassicsTV.us.png",
-      "streamUrls": [
-        "https://2-fss-1.streamhoster.com/pl_122/206338-3120682-1/playlist.m3u8"
-      ],
-      "category": "USA"
-    },
-    {
       "id": "Tastemade.us",
       "name": "Tastemade",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/Tastemade.us.png",
@@ -9899,6 +9890,7 @@
       "name": "Boomerang",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/Boomerang.us.png",
       "streamUrls": [
+        "http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8",
         "http://212.5.144.156:8080/boomerang/index.m3u8"
       ],
       "country": "US",
@@ -9910,6 +9902,7 @@
       "name": "Food Network",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/FoodNetwork.us.png",
       "streamUrls": [
+        "http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8",
         "http://212.5.144.156:8080/foodnetwork/index.m3u8"
       ],
       "country": "US",
@@ -9925,8 +9918,28 @@
       ],
       "category": "USA",
       "languages": []
+    },
+    {
+      "id": "AmericaTeVe.us",
+      "name": "America TeVe",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/330px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "streamUrls": [
+        "https://live.gideo.video/americateve2/master.m3u8"
+      ],
+      "category": "USA",
+      "languages": []
+    },
+    {
+      "id": "Freeform.us",
+      "name": "Freeform",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/Freeform.us.png",
+      "streamUrls": [
+        "https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzMDEiLCJjaGFpbiI6InIyIiwidHMiOjE3OTUzODk4NjYzODB9"
+      ],
+      "category": "USA",
+      "languages": []
     }
   ],
-  "count": 979,
-  "generated_at": "2026-11-23T19:51:50.638058"
+  "count": 980,
+  "generated_at": "2026-11-24T04:37:39.844727"
 }

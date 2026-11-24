@@ -318,6 +318,7 @@
       "name": "AVA Media",
       "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/AVAMedialogo.jpg/330px-AVAMedialogo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
+        "http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV-avc1_2500000=10002,mp4a_128000=20000.m3u8",
         "https://ava002.xyz/upload/images/1080.m3u8"
       ],
       "category": "Iraq",
@@ -382,8 +383,18 @@
       ],
       "category": "Iraq",
       "languages": []
+    },
+    {
+      "id": "NRTSport.iq",
+      "name": "NRT Sport",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://andam.uk/ytlive/nrtsport/index.m3u8"
+      ],
+      "category": "Iraq",
+      "languages": []
     }
   ],
-  "count": 37,
-  "generated_at": "2026-11-23T19:51:50.457651"
+  "count": 38,
+  "generated_at": "2026-11-24T04:37:39.811770"
 }
