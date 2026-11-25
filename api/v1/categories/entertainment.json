@@ -2777,16 +2777,6 @@
       "languages": []
     },
     {
-      "id": "EmpordaTV.es",
-      "name": "Emporda TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/EmpordaTV.es.png",
-      "streamUrls": [
-        "https://video3.lhdserver.es/empordatv2/live.m3u8"
-      ],
-      "category": "Lifestyle",
-      "languages": []
-    },
-    {
       "id": "EnergiaTV.bq",
       "name": "Energia TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bq/EnergiaTV.bq.png",
@@ -10585,16 +10575,6 @@
       "languages": []
     },
     {
-      "id": "KayTV.tr",
-      "name": "Kay TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/tr/KayTV.tr.png",
-      "streamUrls": [
-        "https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/playlist.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "TeleBoston.us",
       "name": "Tele Boston",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/TeleBoston.us.png",
@@ -13354,8 +13334,7 @@
       "name": "C1",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/C1.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/C1/DASH-FTA/C1.mpd",
-        "https://cdn4.skygo.mn/live/disk1/C1/HLSv3-FTA/C1.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/C1/DASH-FTA/C1.mpd"
       ],
       "country": "MN",
       "category": "Entertainment",
@@ -15427,7 +15406,8 @@
       "name": "Star TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/StarTV.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/Star/HLSv3-FTA/Star.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/Star/HLSv3-FTA/Star.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd"
       ],
       "country": "MN",
       "category": "Entertainment",
@@ -18619,8 +18599,219 @@
       ],
       "category": "Entertainment",
       "languages": []
+    },
+    {
+      "id": "XezerTV.az",
+      "name": "Xezer TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://xezer.tvstream.az/hls/stream/index.m3u8"
+      ],
+      "country": "AZ",
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "316Channel.sa",
+      "name": "3.16 Channel",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://316hls.wns.live/hls/stream.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "BiKanal.tr",
+      "name": "Bi Kanal",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=bikanal.com",
+      "streamUrls": [
+        "https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "CCTVKunnamkulam.in",
+      "name": "CCTV Kunnamkulam",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://96vd9q4kyxq7-hls-live.5centscdn.com/livestream/f25aeb3e9210967d546a077de6e105e4.sdp/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "CharapaTV.pe",
+      "name": "Charapa TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pe/CharapaTV.pe.png",
+      "streamUrls": [
+        "https://live-evg10.tv360.bitel.com.pe/bitel/charapatvSRT/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "CityChannelHD.in",
+      "name": "City Channel HD",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://live.skystream.in/live/citytv2924/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "CityVisionKannur.in",
+      "name": "City Vision Kannur",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://live.skystream.in/live/citykannurcity/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "DrishyaTV.in",
+      "name": "Drishya TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://live.skystream.in/live/drishya5060/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "DrisyaTV.in",
+      "name": "Drisya TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://live.skystream.in/live/drishyakarunagapally/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "KCNKasargod.in",
+      "name": "KCN Kasargod",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://live.skystream.in/live/kcnksrgod/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "KasargodVision.in",
+      "name": "Kasargod Vision",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://live.skystream.in/live/kasaragodvsn/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "KeralaTodayTV.in",
+      "name": "Kerala Today TV",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://live.skystream.in/live/krlatoday/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "NMMediaChannelHD.in",
+      "name": "NM Media Channel HD",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://live.skystream.in/live/newmedia2924/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "NTVUAEHD.ae",
+      "name": "NTV UAE HD",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=ntvuae.tv",
+      "streamUrls": [
+        "https://stream.logichost.in/NTV/live/chunklist_w833817414.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "NewVisionHD.in",
+      "name": "New Vision HD",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://live.skystream.in/live/newvision2924/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "PatiTV.tr",
+      "name": "Pati TV",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=patitv.com.tr",
+      "streamUrls": [
+        "https://patitv.radyotelekomtv.com:3958/live/patitvlive.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "PeriyarVision.in",
+      "name": "Periyar Vision",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://stream.onecloudlive.in/periyarvision/periyarvision/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "SouthVision.in",
+      "name": "South Vision",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://live.skystream.in/live/southvsnklm/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "UTVHD24x7.in",
+      "name": "UTV HD 24x7",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://em4qj6nedyvg-hls-live.wmncdn.net/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "WayanadVisionMovies.in",
+      "name": "Wayanad Vision Movies",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://online.wayanadvision.in/hls/wvmovies.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "WayanadVisionPlus.in",
+      "name": "Wayanad Vision Plus",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://online.wayanadvision.in/hls/streaming1.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
     }
   ],
-  "count": 1810,
-  "generated_at": "2026-11-24T19:20:43.419240"
+  "count": 1829,
+  "generated_at": "2026-11-25T03:22:33.017813"
 }
