@@ -262,7 +262,7 @@ https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ERTNews.gr" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gr/ERTNews.gr.png" group-title="News [SD]",ERT News [SD]
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8
 #EXTINF:-1 tvg-id="ETV.mn" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/ETV.mn.png" group-title="News [SD]",ETV [SD]
-https://cdn4.skygo.mn/live/disk1/ETV/DASH-FTA/ETV.mpd
+https://cdn4.skygo.mn/live/disk1/ETV/HLSv3-FTA/ETV.m3u8
 #EXTINF:-1 tvg-id="ETVNews.in" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/ETVNews.in.png" group-title="News [FHD]",ETV News [FHD]
 https://cc-3448kp65yhc5w.akamaized.net/WWBI/Amagi/ETV_News_IN/playlist.m3u8
 #EXTINF:-1 tvg-id="EagleNews.mn" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/EagleNews.mn.png" group-title="News [SD]",Eagle News [SD]
@@ -1293,5 +1293,21 @@ http://stream.logichost.in:1935/AJNET/live/chunklist_w1891201465.m3u8
 https://cdn.live.br1.jmvstream.com/webtv/tvcajui/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="UNUTV.md" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/TVR_1_Logo_2022.svg/330px-TVR_1_Logo_2022.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail" group-title="News [FHD]",UNU TV [FHD]
 https://live.unutv.md/hls/unutv/index.m3u8
+#EXTINF:-1 tvg-id="ABCNews.in" tvg-logo="https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png" group-title="News [HD]",ABC News [HD]
+https://stream.ottlive.co.in/abcnews/index.m3u8
+#EXTINF:-1 tvg-id="IN24News.in" tvg-logo="https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png" group-title="News [HD]",IN 24 News [HD]
+https://stream.ottlive.co.in/in24news/index.m3u8
+#EXTINF:-1 tvg-id="LokmatBharat.in" tvg-logo="https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png" group-title="News [FHD]",Lokmat Bharat [FHD]
+https://stream.ottlive.co.in/lokmatbharat/index.m3u8
+#EXTINF:-1 tvg-id="NEBharat24.in" tvg-logo="https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png" group-title="News [FHD]",NE Bharat24 [FHD]
+https://stream.ottlive.co.in/nebharat24/index.m3u8
+#EXTINF:-1 tvg-id="News21.in" tvg-logo="https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png" group-title="News [FHD]",News 21 [FHD]
+https://stream.ottlive.co.in/news21/index.m3u8
+#EXTINF:-1 tvg-id="Pulse24.in" tvg-logo="https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png" group-title="News [FHD]",Pulse 24 [FHD]
+https://stream.ottlive.co.in/pulse24news/index.m3u8
+#EXTINF:-1 tvg-id="TaraTV.in" tvg-logo="https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png" group-title="News [HD]",Tara TV [HD]
+https://stream.ottlive.co.in/taratv/index.m3u8
+#EXTINF:-1 tvg-id="VandeBharatNews.in" tvg-logo="https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png" group-title="News [FHD]",Vande Bharat News [FHD]
+https://stream.ottlive.co.in/vandebharatnews/index.m3u8
 #EXTINF:-1 tvg-id="TVPunjab.ca" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ca/TVPunjab.ca.png" group-title="News [HD]",TV Punjab [HD]
 https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8
