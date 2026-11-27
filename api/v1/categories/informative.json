@@ -103,8 +103,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/BBCEarth.uk.png",
       "streamUrls": [
         "https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8",
-        "https://amg00793-amg00793c6-vizio-us-2670.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearthaall-vizious/playlist.m3u8",
-        "https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8"
+        "https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8",
+        "https://pb-zjy36qhp8e8cz.akamaized.net/BBC_Earth_US.m3u8"
       ],
       "category": "Informative",
       "genre": "Informative"
@@ -1240,8 +1240,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/Wonder.uk.png",
       "streamUrls": [
         "https://lds-wonder-rakuten.amagi.tv/playlist.m3u8",
-        "https://lds-wonder-samsungau.amagi.tv/playlist.m3u8",
-        "https://lds-wonder-plex.amagi.tv/playlist.m3u8"
+        "https://lds-wonder-plex.amagi.tv/playlist.m3u8",
+        "https://lds-wonder-samsungau.amagi.tv/playlist.m3u8"
       ],
       "category": "Informative",
       "languages": [],
@@ -1612,7 +1612,8 @@
       "name": "National Geographic Wild",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ro/NationalGeographicWild.ro.png",
       "streamUrls": [
-        "https://flash1.bogulus1.cfd/wild/usergenr9qsi5gt.m3u8"
+        "https://flash1.bogulus1.cfd/wild/usergenr9qsi5gt.m3u8",
+        "https://rundle.tv/proxy5.php?src=https://flash1.bogulus1.cfd/wild/usergenr9qsi5gt.m3u8"
       ],
       "country": "RO",
       "category": "Informative",
@@ -1805,8 +1806,8 @@
       "name": "Pluto TV Dokumentar",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=pluto.tv",
       "streamUrls": [
-        "https://jmp2.uk/plu-62b1e2498261390007f25c98.m3u8",
-        "https://jmp2.uk/plu-62b30b0060a9ca0007d628b4.m3u8"
+        "https://jmp2.uk/plu-62b30b0060a9ca0007d628b4.m3u8",
+        "https://jmp2.uk/plu-62b1e2498261390007f25c98.m3u8"
       ],
       "country": "SE",
       "category": "Informative",
@@ -2457,8 +2458,18 @@
       ],
       "category": "Informative",
       "languages": []
+    },
+    {
+      "id": "M3UWorld4K.bd",
+      "name": "M3U World 4K",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://m3uworld4k.paid4k.workers.dev/index.m3u8"
+      ],
+      "category": "Informative",
+      "languages": []
     }
   ],
-  "count": 234,
-  "generated_at": "2026-11-27T13:30:05.548225"
+  "count": 235,
+  "generated_at": "2026-11-27T23:54:47.767799"
 }

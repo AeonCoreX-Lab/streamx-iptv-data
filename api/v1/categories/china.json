@@ -68,7 +68,8 @@
       "name": "CCTV-10",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cn/CCTV10.cn.png",
       "streamUrls": [
-        "http://74.91.26.218:82/live/cctv10hd.m3u8"
+        "http://74.91.26.218:82/live/cctv10hd.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8"
       ],
       "category": "China",
       "languages": []
@@ -98,8 +99,7 @@
       "name": "CCTV-13",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cn/CCTV13.cn.png",
       "streamUrls": [
-        "http://74.91.26.218:82/live/cctv13hd.m3u8",
-        "http://go.bkpcp.top/mg/cctv13"
+        "http://74.91.26.218:82/live/cctv13hd.m3u8"
       ],
       "category": "China",
       "languages": []
@@ -322,8 +322,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cn/CGTN.cn.png",
       "streamUrls": [
         "https://0472.org/hls/cgtn.m3u8",
-        "https://hlspackager.akamaized.net/live/DB/CGTN_ENGLISH/HLS/CGTN_ENGLISH.m3u8",
-        "https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8"
+        "https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8",
+        "https://hlspackager.akamaized.net/live/DB/CGTN_ENGLISH/HLS/CGTN_ENGLISH.m3u8"
       ],
       "category": "China",
       "languages": []
@@ -334,8 +334,8 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cn/CGTNArabic.cn.png",
       "streamUrls": [
         "https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8",
-        "https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8",
-        "https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8"
+        "https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8",
+        "https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8"
       ],
       "category": "China",
       "languages": []
@@ -347,7 +347,7 @@
       "streamUrls": [
         "https://h5cul1yar48um3t.wcetv.com/hls/cgtnd.m3u8",
         "https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8",
-        "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8"
+        "https://hlspackager.akamaized.net/live/DB/CGTN_DOCUMENTARY/HLS/CGTN_DOCUMENTARY.m3u8"
       ],
       "category": "China",
       "languages": []
@@ -357,9 +357,9 @@
       "name": "CGTN French",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cn/CGTNFrench.cn.png",
       "streamUrls": [
-        "https://news.cgtn.com/resource/live/french/cgtn-f.m3u8",
         "https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-rakuten/playlist.m3u8",
-        "https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8"
+        "https://news.cgtn.com/resource/live/french/cgtn-f.m3u8",
+        "https://francais-liveali.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8"
       ],
       "category": "China",
       "languages": []
@@ -379,8 +379,8 @@
       "name": "CGTN Russian",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cn/CGTNRussian.cn.png",
       "streamUrls": [
-        "https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8",
         "https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8",
+        "https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8",
         "https://dash3.antik.sk/live/test_cgtn_rus_tizen/playlist.m3u8"
       ],
       "category": "China",
@@ -391,9 +391,9 @@
       "name": "CGTN Spanish",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cn/CGTNSpanish.cn.png",
       "streamUrls": [
+        "https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8",
         "http://45.186.106.147:8880/play/a06f/index.m3u8",
-        "https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8",
-        "https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8"
+        "https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8"
       ],
       "category": "China",
       "languages": []
@@ -463,8 +463,8 @@
       "name": "Hebei TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cn/HebeiTV.cn.png",
       "streamUrls": [
-        "https://restream.pdtvhd.com/memfs/1db8c005-9365-4b32-94a4-3736987b5646.m3u8",
-        "https://event.pull.hebtv.com/live/live101.m3u8"
+        "https://event.pull.hebtv.com/live/live101.m3u8",
+        "https://restream.pdtvhd.com/memfs/1db8c005-9365-4b32-94a4-3736987b5646.m3u8"
       ],
       "category": "China",
       "languages": []
@@ -607,8 +607,8 @@
       "name": "Nei Monggol TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cn/NeiMonggolTV.cn.png",
       "streamUrls": [
-        "http://play1-qk.nmtv.cn/live/1769652018126032.m3u8",
-        "https://cdn4.skygo.mn/live/disk1/NeigMGL/HLSv3-FTA/NeigMGL.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/NeigMGL/HLSv3-FTA/NeigMGL.m3u8",
+        "http://play1-qk.nmtv.cn/live/1769652018126032.m3u8"
       ],
       "category": "China",
       "languages": []
@@ -799,5 +799,5 @@
     }
   ],
   "count": 77,
-  "generated_at": "2026-11-27T13:30:05.766868"
+  "generated_at": "2026-11-27T23:54:48.061791"
 }
