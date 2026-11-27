@@ -8240,7 +8240,8 @@
       "name": "UBS",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/UBS.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/UBSHD/DASH-FTA/UBSHD.mpd"
+        "https://cdn4.skygo.mn/live/disk1/UBSHD/DASH-FTA/UBSHD.mpd",
+        "https://cdn4.skygo.mn/live/disk1/UBSHD/HLSv3-FTA/UBSHD.m3u8"
       ],
       "category": "Other",
       "languages": []
@@ -13029,16 +13030,6 @@
       "languages": []
     },
     {
-      "id": "FalakTV.pk",
-      "name": "Falak TV",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/SazzyFalakin2017.jpg/330px-SazzyFalakin2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "streamUrls": [
-        "https://falak.rst.ae/index.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "VePlus.ve",
       "name": "Ve Plus",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ve/VePlus.ve.png",
@@ -15042,16 +15033,6 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cl/OdiseaTV.cl.png",
       "streamUrls": [
         "https://v2.tustreaming.cl/odiseatv/index.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
-      "id": "Poehali.ru",
-      "name": "Poehali!",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/Poehali.ru.png",
-      "streamUrls": [
-        "http://88.212.15.50/live/test_poehali/playlist.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -17322,16 +17303,6 @@
       "languages": []
     },
     {
-      "id": "SmashRadioTT.tt",
-      "name": "Smash Radio TT",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=smashradiott.com",
-      "streamUrls": [
-        "https://nginx.smashradiott.com/hls/program/master.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "TelePoderTV.do",
       "name": "Tele Poder TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/TelePoderTV.do.png",
@@ -18260,16 +18231,6 @@
       "languages": []
     },
     {
-      "id": "BoishakhiTV.bd",
-      "name": "Boishakhi TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/bd/BoishakhiTV.bd.png",
-      "streamUrls": [
-        "https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "HLCGDTV.kr",
       "name": "HLCG-DTV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/kr/HLCGDTV.kr.png",
@@ -18355,16 +18316,6 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://m3uworld4k.paid4k.workers.dev/index.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
-      "id": "NVision.in",
-      "name": "N Vision",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/GNN_Channel_Pakistan_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "streamUrls": [
-        "https://ipcloud.live/nvision/nvisionhd/index.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -18587,16 +18538,6 @@
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
       "streamUrls": [
         "https://live.skystream.in/live/kcnksrgod/index.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
-      "id": "KasargodVision.in",
-      "name": "Kasargod Vision",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://live.skystream.in/live/kasaragodvsn/index.m3u8"
       ],
       "category": "Entertainment",
       "languages": []
@@ -18881,8 +18822,149 @@
       ],
       "category": "Entertainment",
       "languages": []
+    },
+    {
+      "id": "DiscoveryChannel.ro",
+      "name": "Discovery Channel",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ro/DiscoveryChannel.ro.png",
+      "streamUrls": [
+        "https://rundle.tv/proxy5.php?src=https://saruman1.tharen001.cfd/disco/usergenrxljmx9su.m3u8"
+      ],
+      "country": "RO",
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "Canal2NexTVRafaela.ar",
+      "name": "Canal 2 NexTV Rafaela",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/Canal2NexTVRafaela.ar.png",
+      "streamUrls": [
+        "https://edge.enhdtv.com/nexthd/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "DiscoveryChannelSoutheastAsia.sg",
+      "name": "Discovery Channel Southeast Asia",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/sg/DiscoveryChannelSoutheastAsia.sg.png",
+      "streamUrls": [
+        "http://antm.dynu.net:14285/rtp/232.84.1.47:8262"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "EcoTV.mz",
+      "name": "EcoTV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mz/EcoTV.mz.png",
+      "streamUrls": [
+        "https://streaming.ecotv.co.mz/hls/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "ImagenUniversalTV.do",
+      "name": "Imagen Universal TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/ImagenUniversalTV.do.png",
+      "streamUrls": [
+        "https://imagenuniversaltv.net:3771/live/iutvlive.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "KTOKUDA.ru",
+      "name": "KTOKUDA",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/KTOKUDA.ru.png",
+      "streamUrls": [
+        "http://s7.merlive.am/ktokuda/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "KlukvaTV.ru",
+      "name": "Klukva TV",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=klukva.tv",
+      "streamUrls": [
+        "https://klukva.mediacdn.ru/cdn/klukva/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "MediaTodayNewsHD.in",
+      "name": "Media Today News HD",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://live.skystream.in/live/mediatday/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "NetworkPayyanur.in",
+      "name": "Network Payyanur",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://live.skystream.in/live/networkpayyanur/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "NewStar.in",
+      "name": "NewStar",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://live.skystream.in/live/newsstar2924/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "ONSportsPlus.vn",
+      "name": "ON Sports+",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=vtvcab.vn",
+      "streamUrls": [
+        "http://antm.dynu.net:14285/rtp/232.84.1.220:9294"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "PowranMedia.in",
+      "name": "Powran Media",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://stream.onecloudlive.in/powranmedia/livestream/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "SomosTV.ve",
+      "name": "Somos TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ve/SomosTV.ve.png",
+      "streamUrls": [
+        "https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "VisionLatinaNetwork.us",
+      "name": "Vision Latina Network",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=visionlatina.com",
+      "streamUrls": [
+        "https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/c1804a4c-ccbf-46e5-87c3-0f8d4a94d9e3/master.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
     }
   ],
-  "count": 1837,
-  "generated_at": "2026-11-26T18:20:19.508459"
+  "count": 1845,
+  "generated_at": "2026-11-27T02:39:53.321062"
 }
