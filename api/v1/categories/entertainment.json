@@ -6509,16 +6509,6 @@
       "languages": []
     },
     {
-      "id": "RemontyTV.pl",
-      "name": "Remonty TV",
-      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/pl/RemontyTV.pl.png",
-      "streamUrls": [
-        "https://prx-y5cf8.4vod.tv/playout/repl-abr67/index.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "RenessansTV.uz",
       "name": "Renessans TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uz/RenessansTV.uz.png",
@@ -12084,6 +12074,7 @@
       "name": "Ulzii TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/UlziiTV.mn.png",
       "streamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/UlziiTV/DASH-FTA/UlziiTV.mpd",
         "https://cdn4.skygo.mn/live/disk1/UlziiTV/HLSv3-FTA/UlziiTV.m3u8"
       ],
       "country": "MN",
@@ -13711,6 +13702,7 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ve/Televen.ve.png",
       "streamUrls": [
         "http://38.134.250.110:8000/play/a02i/index.m3u8",
+        "http://200.59.191.177:8000/play/a00k/index.m3u8",
         "http://181.78.8.199:8000/play/a09j/index.m3u8"
       ],
       "country": "VE",
@@ -16046,7 +16038,8 @@
       "name": "SBN",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/mn/SBN.mn.png",
       "streamUrls": [
-        "https://cdn4.skygo.mn/live/disk1/SBN/HLSv3-FTA/SBN.m3u8"
+        "https://cdn4.skygo.mn/live/disk1/SBN/HLSv3-FTA/SBN.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/SBN/DASH-FTA/SBN.mpd"
       ],
       "country": "MN",
       "category": "Entertainment",
@@ -18510,16 +18503,6 @@
       "languages": []
     },
     {
-      "id": "KeralaTodayTV.in",
-      "name": "Kerala Today TV",
-      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
-      "streamUrls": [
-        "https://live.skystream.in/live/krlatoday/index.m3u8"
-      ],
-      "category": "Entertainment",
-      "languages": []
-    },
-    {
       "id": "NMMediaChannelHD.in",
       "name": "NM Media Channel HD",
       "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
@@ -18960,8 +18943,109 @@
       ],
       "category": "Music",
       "languages": []
+    },
+    {
+      "id": "Canal13Chiquimula.gt",
+      "name": "Canal 13 Chiquimula",
+      "logoUrl": "https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",
+      "streamUrls": [
+        "https://vs20.live.opencaster.com/canal13tlcom_bef56183/index.m3u8"
+      ],
+      "country": "GT",
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "AFTV.us",
+      "name": "AFTV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/AFTV.us.png",
+      "streamUrls": [
+        "https://livestream.telvue.com/accframingham1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "ClaroVisionTV.do",
+      "name": "Claro Vision TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/ClaroVisionTV.do.png",
+      "streamUrls": [
+        "https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "DutaTV.id",
+      "name": "Duta TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/id/DutaTV.id.png",
+      "streamUrls": [
+        "https://dutatv.siar.us/dutatv/live/playlist.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "GaliciaTVAmerica.es",
+      "name": "Galicia TV America",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/GaliciaTVAmerica.es.png",
+      "streamUrls": [
+        "http://200.59.191.177:8000/play/a0p7/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "L1TV.nl",
+      "name": "L1 TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/nl/L1TV.nl.png",
+      "streamUrls": [
+        "https://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "MASTV.gt",
+      "name": "MAS TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/gt/MASTV.gt.png",
+      "streamUrls": [
+        "https://cdn.streamhispanatv.net:3011/live/mastvgtlive.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "SparkTV.ug",
+      "name": "Spark TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ug/SparkTV.ug.png",
+      "streamUrls": [
+        "https://ams-2629.antmedia.cloud/LiveApp/streams/spark2026_adaptive.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "TenerifePlusTV.es",
+      "name": "Tenerife Plus TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/TenerifePlusTV.es.png",
+      "streamUrls": [
+        "https://k20.usastreams.com:8081/tenerifeplus/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
+    },
+    {
+      "id": "VenezolanadeTelevision.ve",
+      "name": "Venezolana de Television",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ve/VenezolanadeTelevision.ve.png",
+      "streamUrls": [
+        "http://200.59.191.177:8000/play/a0l5/index.m3u8"
+      ],
+      "category": "Entertainment",
+      "languages": []
     }
   ],
-  "count": 1844,
-  "generated_at": "2026-11-27T23:54:47.997703"
+  "count": 1852,
+  "generated_at": "2026-11-28T06:25:39.764032"
 }
