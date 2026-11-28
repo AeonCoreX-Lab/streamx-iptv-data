@@ -486,7 +486,7 @@
       "streamUrls": [
         "http://hz1.teleport.cc/HLS/SD.m3u8",
         "http://hz1.teleport.cc/HLS/HD.m3u8",
-        "http://rtmp.one.by:1200"
+        "http://rtmp.one.by:1300"
       ],
       "category": "Music",
       "genre": "Music"
@@ -496,8 +496,8 @@
       "name": "First Music Channel Russia",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/by/FirstMusicChannelRussia.by.png",
       "streamUrls": [
-        "http://rtmp.one.by:2200",
-        "http://rtmp.one.by:2300"
+        "http://rtmp.one.by:2300",
+        "http://rtmp.one.by:2200"
       ],
       "category": "Music",
       "genre": "Music"
@@ -873,9 +873,9 @@
       "name": "NOW Rock",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/NOWRock.uk.png",
       "streamUrls": [
-        "https://lightning-now90s-samsungse.amagi.tv/playlist.m3u8",
         "https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8",
-        "https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8"
+        "https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8",
+        "https://lightning-now90s-rakuten.amagi.tv/playlist.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -895,9 +895,9 @@
       "name": "Now 70s",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/Now70s.uk.png",
       "streamUrls": [
-        "https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8",
+        "https://lightningnow70-samsungau.amagi.tv/playlist.m3u8",
         "https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8",
-        "https://lightningnow70-samsungau.amagi.tv/playlist.m3u8"
+        "https://lightning-now70s-rakuten.amagi.tv/playlist.m3u8"
       ],
       "category": "Music",
       "genre": "Music"
@@ -2403,7 +2403,8 @@
       "name": "Trace UK",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/uk/TraceUK.uk.png",
       "streamUrls": [
-        "https://d2l4tng0wskzvn.cloudfront.net/Trace_GB.m3u8"
+        "https://d2l4tng0wskzvn.cloudfront.net/Trace_GB.m3u8",
+        "https://channels.trace.plus/Traceprod/UK_FAST_hd/index.m3u8"
       ],
       "category": "Music",
       "languages": [],
@@ -2532,8 +2533,8 @@
       "name": "Ritoque TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cl/RitoqueTV.cl.png",
       "streamUrls": [
-        "https://streaming.purum.cl/ritoquetv/index.m3u8",
-        "https://v2.tustreaming.cl/unetev/index.m3u8"
+        "https://v2.tustreaming.cl/unetev/index.m3u8",
+        "https://streaming.purum.cl/ritoquetv/index.m3u8"
       ],
       "category": "Music",
       "languages": []
@@ -2551,7 +2552,7 @@
     {
       "id": "VantageClassic.ee",
       "name": "Vantage Classic",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/MTV_Classic_2021.svg/330px-MTV_Classic_2021.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/330px-Nickelodeon_2023_logo_%28outline%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "https://hls.vantagetv.ee/vclassic_stream/index.m3u8"
       ],
@@ -2563,8 +2564,8 @@
       "name": "Makao TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/do/MakaoTV.do.png",
       "streamUrls": [
-        "https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8",
-        "https://live.obslivestream.com/makaomux/index.m3u8"
+        "https://live.obslivestream.com/makaomux/index.m3u8",
+        "https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8"
       ],
       "country": "DO",
       "category": "Music",
@@ -2615,8 +2616,8 @@
       "name": "Retro Music TV",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cz/RetroMusicTV.cz.png",
       "streamUrls": [
-        "https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8",
-        "https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8"
+        "https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8",
+        "https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8"
       ],
       "country": "CZ",
       "category": "Music",
@@ -3185,7 +3186,7 @@
     {
       "id": "SaborTV.cl",
       "name": "Sabor TV",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/PlayTV20062020.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/RedeTV%21_2019_logo.png/330px-RedeTV%21_2019_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "https://v1.tustreaming.cl/sabortv/index.m3u8"
       ],
@@ -3690,8 +3691,8 @@
       "name": "Solo Bailalo",
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/cl/SoloBailalo.cl.png",
       "streamUrls": [
-        "https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8",
-        "https://5ff3d9babae13.streamlock.net/8016/8016/playlist.m3u8"
+        "https://5ff3d9babae13.streamlock.net/8016/8016/playlist.m3u8",
+        "https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8"
       ],
       "country": "CL",
       "category": "Music",
@@ -3765,7 +3766,7 @@
     {
       "id": "SmartRadio.ro",
       "name": "Smart Radio",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/LG_smart_TV.jpg/330px-LG_smart_TV.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=smartradio.ro",
       "streamUrls": [
         "https://streamw.m.ro/Regie/radio.stream/chunklist.m3u8"
       ],
@@ -3785,7 +3786,7 @@
     {
       "id": "TequilaMusicTV.ro",
       "name": "Tequila Music TV",
-      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Tila_Tequila_2008.jpg/330px-Tila_Tequila_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=tequilamusic.net",
       "streamUrls": [
         "https://stream.tequilamusic.net/hls/tequila_tv.m3u8"
       ],
@@ -4071,16 +4072,6 @@
       "languages": []
     },
     {
-      "id": "RadioZU.ro",
-      "name": "Radio ZU",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=radiozu.ro",
-      "streamUrls": [
-        "https://stream1.antenaplay.ro/zurtv/zurtv/chunklist.m3u8"
-      ],
-      "category": "Music",
-      "languages": []
-    },
-    {
       "id": "RomanticFM.ro",
       "name": "Romantic FM",
       "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=antenaplay.ro",
@@ -4133,7 +4124,7 @@
     {
       "id": "BoomTV.ro",
       "name": "Boom TV",
-      "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=radioboom.ro",
+      "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/BoomThailand2025.png/330px-BoomThailand2025.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "streamUrls": [
         "https://tvboom.ro/live-tv/live.m3u8"
       ],
@@ -4683,6 +4674,16 @@
       "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ru/MuzykaKino.ru.png",
       "streamUrls": [
         "https://kino-1.catcast.tv/content/37739/index.m3u8"
+      ],
+      "category": "Music",
+      "languages": []
+    },
+    {
+      "id": "FiestaTV.co",
+      "name": "Fiesta TV",
+      "logoUrl": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/co/FiestaTV.co.png",
+      "streamUrls": [
+        "https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8"
       ],
       "category": "Music",
       "languages": []
